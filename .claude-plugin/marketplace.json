@@ -1,0 +1,20 @@
+{
+  "name": "ulpi-marketplace",
+  "version": "1.0.0",
+  "description": "Claude Code Plugin Marketplace — first-party plugins by Ulpi",
+  "owner": {
+    "name": "Ulpi",
+    "email": "hello@ulpi.io"
+  },
+  "plugins": [
+    {
+      "name": "hello-world",
+      "source": "./plugins/hello-world",
+      "description": "Example plugin demonstrating marketplace patterns — includes a skill",
+      "version": "1.0.0",
+      "author": { "name": "Ulpi" },
+      "category": "productivity",
+      "keywords": ["example", "reference"]
+    }
+  ]
+}

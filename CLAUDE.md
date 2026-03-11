@@ -1,4 +1,4 @@
-# Ulpi Plugin Marketplace
+# Plugin Marketplace
 
 Central catalog for Claude Code plugins by Ulpi.
 

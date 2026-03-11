@@ -1,7 +1,7 @@
 {
   "name": "ulpi-marketplace",
-  "version": "1.0.0",
-  "description": "Claude Code Plugin Marketplace \u2014 first-party plugins by Ulpi",
+  "version": "1.0.1",
+  "description": "Claude Code Plugin Marketplace collected  by Ulpi",
   "owner": {
     "name": "Ulpi",
     "email": "hello@ulpi.io"

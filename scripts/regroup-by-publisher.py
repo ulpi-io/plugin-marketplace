@@ -215,15 +215,11 @@ def create_publisher_plugin(plugin_name, repos, skill_names):
 
     # Create plugin.json
     skills_list = ", ".join(skill_names)
-    repos_str = ", ".join(repos)
-    description = f"{len(skill_names)} skills from {repos_str}: {skills_list}"
+    description = f"{len(skill_names)} skills from {plugin_name}: {skills_list}"
     plugin_json = {
         "name": plugin_name,
         "version": "1.0.0",
         "description": description,
-        "author": {"name": plugin_name},
-        "repositories": [f"https://github.com/{r}" for r in repos],
-        "skills": skill_names,
     }
     with open(claude_dir / "plugin.json", "w") as f:
         json.dump(plugin_json, f, indent=2)
@@ -415,15 +411,11 @@ def main():
             claude_dir = plugin_dir / ".claude-plugin"
             claude_dir.mkdir(parents=True, exist_ok=True)
             skills_list = ", ".join(skill_names_ok)
-            repos_str = ", ".join(repos_used)
-            description = f"{len(skill_names_ok)} skills from {repos_str}: {skills_list}"
+            description = f"{len(skill_names_ok)} skills from {publisher}: {skills_list}"
             plugin_json = {
                 "name": publisher,
                 "version": "1.0.0",
                 "description": description,
-                "author": {"name": publisher},
-                "repositories": [f"https://github.com/{r}" for r in repos_used],
-                "skills": skill_names_ok,
             }
             with open(claude_dir / "plugin.json", "w") as f:
                 json.dump(plugin_json, f, indent=2)

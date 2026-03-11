@@ -169,6 +169,13 @@ def main():
             copied_publishers.append(pub)
         copied += 1
 
+    # Ensure hello-world always exists
+    if not args.dry_run:
+        hw_src = BACKUP_DIR / "hello-world"
+        hw_dst = PLUGINS_DIR / "hello-world"
+        if hw_src.exists() and not hw_dst.exists():
+            shutil.copytree(hw_src, hw_dst, ignore_dangling_symlinks=True)
+
     if args.dry_run:
         print(f"\nWould copy {copied} publishers ({len(skipped)} not in plugins_bk/)")
     else:

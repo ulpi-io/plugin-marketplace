@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Example Ulpi marketplace plugin with a simple greeting skill",
+  "author": {
+    "name": "Ulpi",
+    "email": "hello@ulpi.io"
+  },
+  "homepage": "https://ulpi.io",
+  "license": "Apache-2.0",
+  "keywords": ["example", "greeting", "hello-world"]
+}

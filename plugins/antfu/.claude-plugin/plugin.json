@@ -1,0 +1,32 @@
+{
+  "name": "antfu",
+  "version": "1.0.0",
+  "description": "19 skills from antfu/skills: vite, vitest, vue, vue-best-practices, vueuse-functions, pnpm, pinia, nuxt, web-design-guidelines, antfu, antfu, unocss, vitepress, vue-router-best-practices, tsdown, slidev, turborepo, turborepo, vue-testing-best-practices",
+  "author": {
+    "name": "antfu"
+  },
+  "repositories": [
+    "https://github.com/antfu/skills"
+  ],
+  "skills": [
+    "vite",
+    "vitest",
+    "vue",
+    "vue-best-practices",
+    "vueuse-functions",
+    "pnpm",
+    "pinia",
+    "nuxt",
+    "web-design-guidelines",
+    "antfu",
+    "antfu",
+    "unocss",
+    "vitepress",
+    "vue-router-best-practices",
+    "tsdown",
+    "slidev",
+    "turborepo",
+    "turborepo",
+    "vue-testing-best-practices"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "supabase",
+  "version": "1.0.0",
+  "description": "6 skills from supabase/agent-skills, supabase/supabase: supabase-postgres-best-practices, skill-creator, skill-creator, vitest, e2e-studio-tests, vercel-composition-patterns"
+}

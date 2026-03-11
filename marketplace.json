@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "ulpi-marketplace",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Claude Code Plugin Marketplace collected  by Ulpi",
   "owner": {
     "name": "Ulpi",
@@ -19,9 +19,159 @@
       "category": "productivity"
     },
     {
+      "name": "404kidwiz",
+      "description": "129 skills from 404kidwiz/claude-supercode-skills: frontend-ui-ux-engineer, frontend-ui-ux-engineer, project-manager, project-manager, quant-analyst, quant-analyst, machine-learning-engineer, machine-learning-engineer, codebase-exploration, codebase-exploration, dotnet-framework-4.8-expert, dotnet-framework-4.8-expert, electron-pro, wordpress-master, wordpress-master, solution-architect, solution-architect, elixir-expert, kafka-engineer, kafka-engineer, strategic-planning, strategic-planning, frontend-developer-skill, threejs-pro, canvas-design, powershell-7-expert, csv-data-wrangler, fullstack-developer, market-researcher, competitive-analyst, network-engineer, macos-developer, data-researcher, documentation-engineer, flutter-expert, game-developer, data-scientist, penetration-tester, multimodal-analysis, blockchain-developer, iot-engineer, qa-expert, event-driven-architect, product-manager, context-manager, accessibility-tester, ml-engineer, ux-researcher, java-architect, data-analyst, embedded-systems, business-analyst, fintech-engineer, swift-expert, performance-engineer, risk-manager, security-auditor, nlp-engineer, refactoring-specialist, devops-engineer, legal-advisor, git-workflow-manager, multi-agent-coordinator, backend-developer, agent-organizer, react-specialist, workflow-orchestrator, websocket-engineer, seo-specialist, rust-engineer, m365-admin, technical-advisory, pptx-skill, performance-testing, mobile-app-developer, windows-app-developer, api-designer, compliance-auditor, video-engineer, cpp-pro, llm-architect, knowledge-synthesizer, trend-analyst, ui-designer, windows-infra-admin, react-native-specialist, slack-expert, laravel-specialist, tooling-engineer, bmad-bmm-analyst, mcp-developer, python-pro, xlsx, ai-engineer, kubernetes-specialist, javascript-pro, devops-incident-responder, azure-infra-engineer, nextjs-developer, error-detector, pdf-skill, build-engineer, content-marketer, sales-engineer, architect-reviewer, mlops-engineer, performance-monitor, payment-integration, typescript-pro, research-analyst, terraform-engineer, code-reviewer, database-administrator, kotlin-specialist, golang-pro, platform-engineer, debugger, security-engineer, angular-architect, postgres-pro, algorithmic-art, sre-engineer, microservices-architect, technical-writer, spring-boot-engineer, error-detective, external-reference-research, api-documenter, powershell-module-architect",
+      "source": "./plugins/404kidwiz",
+      "category": "skills"
+    },
+    {
+      "name": "aaron-he-zhu",
+      "description": "26 skills from aaron-he-zhu/seo-geo-claude-skills: backlink-analyzer, keyword-research, seo-content-writer, competitor-analysis, content-gap-analysis, technical-seo-checker, content-gap-analysis, technical-seo-checker, on-page-seo-auditor, on-page-seo-auditor, serp-analysis, internal-linking-optimizer, content-quality-auditor, content-quality-auditor, content-refresher, content-refresher, alert-manager, performance-reporter, schema-markup-generator, geo-content-optimizer, meta-tags-optimizer, rank-tracker, memory-management, domain-authority-auditor, domain-authority-auditor, entity-optimizer",
+      "source": "./plugins/aaron-he-zhu",
+      "category": "skills"
+    },
+    {
+      "name": "addyosmani",
+      "description": "9 skills from addyosmani/web-quality-skills: performance, seo, accessibility, core-web-vitals, core-web-vitals, best-practices, best-practices, web-quality-audit, web-quality-audit",
+      "source": "./plugins/addyosmani",
+      "category": "skills"
+    },
+    {
+      "name": "affaan-m",
+      "description": "84 skills from affaan-m/everything-claude-code: coding-standards, coding-standards, backend-patterns, security-review, golang-patterns, frontend-patterns, golang-testing, golang-testing, postgres-patterns, tdd-workflow, continuous-learning-v2, springboot-patterns, springboot-patterns, python-testing, continuous-learning, springboot-security, python-patterns, python-patterns, strategic-compact, springboot-tdd, clickhouse-io, api-design, api-design, django-security, django-security, docker-patterns, iterative-retrieval, django-patterns, eval-harness, jpa-patterns, jpa-patterns, django-tdd, security-scan, deployment-patterns, java-coding-standards, database-migrations, e2e-testing, e2e-testing, configure-ecc, configure-ecc, nutrient-document-processing, nutrient-document-processing, verification-loop, cpp-testing, verification-loop, cpp-testing, springboot-verification, project-guidelines-example, project-guidelines-example, cpp-coding-standards, django-verification, cost-aware-llm-pipeline, content-hash-cache-pattern, content-hash-cache-pattern, regex-vs-llm-structured-text, swift-actor-persistence, search-first, swift-protocol-di-testing, liquid-glass-design, article-writing, swiftui-patterns, frontend-slides, frontend-slides, market-research, market-research, swift-concurrency-6-2, foundation-models-on-device, visa-doc-translate, content-engine, investor-materials, investor-outreach, investor-outreach, autonomous-loops, autonomous-loops, plankton-code-quality, agentic-engineering, agent-harness-construction, ai-first-engineering, continuous-agent-loop, enterprise-agent-ops, enterprise-agent-ops, ralphinho-rfc-pipeline, nanoclaw-repl, nanoclaw-repl",
+      "source": "./plugins/affaan-m",
+      "category": "skills"
+    },
+    {
+      "name": "aj-geddes",
+      "description": "272 skills from aj-geddes/useful-ai-prompts, aj-geddes/claude-code-bmad-skills: code-review-analysis, business-analyst, business-analyst, ios-swift-development, nodejs-express-server, markdown-documentation, product-manager, rest-api-design, rest-api-design, android-kotlin-development, architecture-diagrams, css-architecture, ansible-automation, css-architecture, ansible-automation, wireframe-prototyping, wireframe-prototyping, responsive-web-design, responsive-web-design, user-story-writing, nginx-configuration, api-security-hardening, api-security-hardening, mobile-app-testing, system-architect, ux-designer, flutter-development, flutter-development, aws-lambda-functions, api-contract-testing, api-contract-testing, flask-api-development, technical-specification, technical-specification, jenkins-pipeline, jenkins-pipeline, mobile-first-design, mobile-first-design, fastapi-development, fastapi-development, ruby-rails-application, docker-containerization, creative-intelligence, security-compliance-audit, security-compliance-audit, competitor-analysis, business-case-development, access-control-rbac, push-notification-setup, security-testing, security-testing, e2e-testing-automation, e2e-testing-automation, color-accessibility, gitlab-cicd-pipeline, gitlab-cicd-pipeline, image-optimization, react-component-architecture, react-component-architecture, websocket-implementation, websocket-implementation, design-patterns-implementation, aws-s3-management, api-rate-limiting, kubernetes-deployment, agile-sprint-planning, mobile-app-debugging, mobile-app-debugging, app-store-deployment, static-code-analysis, backup-disaster-recovery, bundle-size-optimization, technical-debt-assessment, technical-roadmap-planning, bmad-orchestrator, bmad-orchestrator, terraform-infrastructure, terraform-infrastructure, internationalization-i18n, requirements-gathering, root-cause-analysis, oauth-implementation, github-actions-workflow, github-actions-workflow, mobile-offline-support, project-estimation, database-migration-management, information-architecture, information-architecture, database-schema-design, database-schema-design, visual-regression-testing, semantic-versioning, web-performance-audit, database-query-optimization, database-query-optimization, memory-optimization, memory-optimization, api-authentication, api-authentication, gcp-cloud-run, user-guide-creation, performance-testing, database-backup-restore, caching-strategy, design-system-creation, browser-debugging, browser-debugging, api-gateway-configuration, api-gateway-configuration, security-audit-logging, security-audit-logging, accessibility-testing, user-persona-creation, database-schema-documentation, payment-gateway-integration, user-research-analysis, penetration-testing, application-logging, application-logging, cicd-pipeline-setup, log-analysis, data-encryption, data-encryption, real-time-features, background-job-processing, api-error-handling, incident-response-plan, microservices-architecture, incident-response-plan, grpc-service-development, grafana-dashboard, sql-query-optimization, grpc-service-development, grafana-dashboard, sql-query-optimization, angular-module-design, vulnerability-scanning, react-native-app, webhook-development, batch-processing-jobs, reactive-programming, spring-boot-application, integration-testing, memory-leak-detection, developer-onboarding, database-monitoring, file-upload-handling, security-headers-configuration, container-debugging, test-automation-framework, api-response-optimization, database-performance-debugging, frontend-accessibility, code-generation-template, rate-limiting-implementation, refactor-legacy-code, gcp-cloud-functions, aws-ec2-setup, frontend-state-management, process-mapping, form-validation, infrastructure-monitoring, test-data-generation, changelog-maintenance, api-reference-documentation, deployment-automation, frontend-testing, prometheus-monitoring, query-caching-strategies, aws-cloudfront-cdn, code-documentation, logging-best-practices, sql-injection-prevention, network-debugging, web-performance-optimization, nosql-database-design, circuit-breaker-pattern, dependency-management, git-workflow-strategy, accessibility-compliance, progressive-web-app, ssl-certificate-management, api-pagination, event-sourcing, concurrency-patterns, error-tracking, uptime-monitoring, session-management, cloud-cost-management, serverless-architecture, health-check-endpoints, code-metrics-analysis, django-application, database-indexing-strategy, git-hooks-setup, deployment-documentation, email-service-integration, security-documentation, stress-testing, pull-request-automation, api-versioning-strategy, profiling-optimization, infrastructure-cost-optimization, cloud-security-configuration, mutation-testing, aws-rds-database, csrf-protection, design-handoff, interaction-design, stakeholder-communication, cross-platform-compatibility, vue-application-structure, kpi-dashboard-design, webhook-integration, gap-analysis, risk-assessment, dns-management, cloud-migration-planning, retrospective-facilitation, zero-trust-architecture, configuration-management, api-changelog-versioning, frontend-routing, api-filtering-sorting, runbook-creation, alert-management, transaction-management, correlation-tracing, troubleshooting-guide, documentation-site-setup, developer, autoscaling-configuration, dependency-tracking, continuous-testing, cpu-profiling, load-balancer-setup, data-migration-scripts, idempotency-handling, secrets-management, monorepo-management, feature-flag-system, intermittent-issue-debugging, blue-green-deployment, artifact-management, capacity-planning, mocking-stubbing, xss-prevention, log-aggregation, stored-procedures, release-planning, server-side-rendering, performance-regression-debugging, database-sharding, polyglot-integration, graceful-shutdown, container-registry-management, secrets-rotation, disaster-recovery-testing, data-replication-setup, graphql-implementation, third-party-integration, service-mesh-implementation, network-security-groups, cloud-storage-optimization, canary-deployment, synthetic-monitoring, property-based-testing, multi-cloud-strategy, builder, azure-functions, distributed-tracing",
+      "source": "./plugins/aj-geddes",
+      "category": "skills"
+    },
+    {
+      "name": "alirezarezvani",
+      "description": "85 skills from alirezarezvani/claude-skills: aws-solution-architect, aws-solution-architect, social-media-analyzer, senior-frontend, senior-backend, senior-backend, senior-architect, senior-architect, senior-qa, senior-prompt-engineer, agile-product-owner, senior-data-engineer, ui-design-system, senior-computer-vision, product-manager-toolkit, product-manager-toolkit, senior-fullstack, tech-stack-evaluator, code-reviewer, code-reviewer, ux-researcher-designer, ux-researcher-designer, senior-security, tdd-guide, tdd-guide, senior-secops, senior-secops, senior-devops, senior-devops, senior-data-scientist, senior-data-scientist, content-creator, ceo-advisor, marketing-strategy-pmm, marketing-strategy-pmm, senior-ml-engineer, product-strategist, product-strategist, cto-advisor, cto-advisor, information-security-manager-iso27001, risk-management-specialist, quality-documentation-manager, app-store-optimization, regulatory-affairs-head, quality-manager-qms-iso13485, marketing-demand-acquisition, marketing-demand-acquisition, capa-officer, ms365-tenant-manager, gdpr-dsgvo-expert, gdpr-dsgvo-expert, isms-audit-expert, fda-consultant-specialist, mdr-745-specialist, mdr-745-specialist, quality-manager-qmr, qms-audit-expert, qms-audit-expert, financial-analyst, marketing-skills, sales-engineer, customer-success-manager, campaign-analytics, confluence-expert, revenue-operations, jira-expert, scrum-master, senior-pm, review, atlassian-templates, c-level-advisor, atlassian-admin, generate, fix, init, testrail, coverage, remember, report, browserstack, extract, status, promote, migrate",
+      "source": "./plugins/alirezarezvani",
+      "category": "skills"
+    },
+    {
+      "name": "am-will",
+      "description": "6 skills from am-will/codex-skills, am-will/swarms: context7, frontend-design, planner, tdd-test-writer, parallel-task, swarm-planner",
+      "source": "./plugins/am-will",
+      "category": "skills"
+    },
+    {
+      "name": "analogjs",
+      "description": "12 skills from analogjs/angular-skills: angular-component, angular-signals, angular-forms, angular-routing, angular-http, angular-di, angular-directives, angular-testing, angular-testing, angular-tooling, angular-tooling, angular-ssr",
+      "source": "./plugins/analogjs",
+      "category": "skills"
+    },
+    {
+      "name": "antfu",
+      "description": "19 skills from antfu/skills: vite, vitest, vue, vue-best-practices, vueuse-functions, pnpm, pinia, nuxt, web-design-guidelines, antfu, antfu, unocss, vitepress, vue-router-best-practices, tsdown, slidev, turborepo, turborepo, vue-testing-best-practices",
+      "source": "./plugins/antfu",
+      "category": "skills"
+    },
+    {
       "name": "anthropics",
       "description": "169 skills from anthropics/skills, anthropics/claude-code, anthropics/claude-plugins-official, anthropics/knowledge-work-plugins, anthropics/financial-services-plugins, anthropics/claude-cookbooks, anthropics/healthcare: frontend-design, skill-creator, pdf, pptx, docx, xlsx, webapp-testing, mcp-builder, canvas-design, doc-coauthoring, brand-guidelines, internal-comms, template-skill, slack-gif-creator, frontend-design, frontend-design, data-visualization, claude-api, claude-md-improver, claude-opus-4-5-migration, playground, stripe-best-practices, claude-automation-recommender, claude-automation-recommender, task-management, task-management, interactive-dashboard-builder, content-creation, content-creation, feature-spec, feature-spec, agent-development, agent-development, memory-management, skill-development, user-research-synthesis, competitive-analysis, mcp-integration, mcp-integration, command-development, statistical-analysis, hook-development, writing-hookify-rules, roadmap-management, plugin-settings, plugin-structure, plugin-structure, contract-review, contract-review, legal-risk-assessment, legal-risk-assessment, brand-voice, brand-voice, sql-queries, sql-queries, financial-statements, knowledge-management, knowledge-management, metrics-tracking, metrics-tracking, draft-outreach, data-validation, performance-analytics, stakeholder-comms, daily-briefing, skill-creator, skill-creator, knowledge-synthesis, competitive-intelligence, competitive-intelligence, data-exploration, data-exploration, campaign-planning, campaign-planning, compliance, earnings-analysis, earnings-analysis, account-research, account-research, response-drafting, response-drafting, search-strategy, customer-research, cookbook-audit, cookbook-audit, data-context-extractor, data-context-extractor, meeting-briefing, meeting-briefing, reconciliation, reconciliation, variance-analysis, variance-analysis, journal-entry-prep, ticket-triage, ticket-triage, call-prep, example-skill, example-skill, create-an-asset, scientific-problem-selection, audit-support, audit-support, scientific-problem-selection, source-management, nda-triage, nda-triage, equity-research, equity-research, escalation, escalation, canned-responses, cowork-plugin-customizer, cowork-plugin-customizer, single-cell-rna-qc, single-cell-rna-qc, close-management, nextflow-development, nextflow-development, scvi-tools, instrument-data-to-allotrope, create-cowork-plugin, ppt-template-creator, code-review, design-critique, system-design, documentation, user-research, ux-writing, dcf-model, fhir-developer-skill, tech-debt, macro-rates-monitor, testing-strategy, process-optimization, accessibility-review, design-system-management, change-management, design-handoff, risk-assessment, option-vol-analysis, brand-voice-enforcement, slack-messaging, org-planning, incident-response, recruiting-pipeline, enrich-lead, compliance-tracking, guideline-generation, compose-outreach, interview-prep, people-analytics, weekly-prep-brief, competitive-analysis, discover-brand, contact-research, compensation-benchmarking, resource-planning, prospect, employee-handbook, vendor-management, sequence-load, slack-search, fixed-income-portfolio, initiating-coverage, bond-futures-basis, lbo-model, pitch-deck, bond-relative-value",
       "source": "./plugins/anthropics",
+      "category": "skills"
+    },
+    {
+      "name": "apify",
+      "description": "13 skills from apify/agent-skills: apify-ultimate-scraper, apify-market-research, apify-ecommerce, apify-lead-generation, apify-trend-analysis, apify-actor-development, apify-actor-development, apify-competitor-intelligence, apify-content-analytics, apify-brand-reputation-monitoring, apify-influencer-discovery, apify-audience-analysis, apify-actorization",
+      "source": "./plugins/apify",
+      "category": "skills"
+    },
+    {
+      "name": "apollographql",
+      "description": "19 skills from apollographql/skills: rust-best-practices, apollo-client, apollo-client, graphql-schema, graphql-schema, graphql-operations, graphql-operations, apollo-mcp-server, apollo-server, apollo-connectors, apollo-connectors, rover, skill-creator, skill-creator, apollo-federation, apollo-kotlin, apollo-router, apollo-router, apollo-router-plugin-creator",
+      "source": "./plugins/apollographql",
+      "category": "skills"
+    },
+    {
+      "name": "astronomer",
+      "description": "35 skills from astronomer/agents: airflow, airflow, analyzing-data, authoring-dags, debugging-dags, testing-dags, testing-dags, tracing-upstream-lineage, tracing-upstream-lineage, migrating-airflow-2-to-3, migrating-airflow-2-to-3, tracing-downstream-lineage, tracing-downstream-lineage, profiling-tables, profiling-tables, checking-freshness, managing-astro-local-env, checking-freshness, managing-astro-local-env, setting-up-astro-project, setting-up-astro-project, annotating-task-lineage, annotating-task-lineage, creating-openlineage-extractors, cosmos-dbt-core, airflow-hitl, airflow-hitl, cosmos-dbt-fusion, cosmos-dbt-fusion, warehouse-init, warehouse-init, init, deploying-airflow, managing-astro-deployments, troubleshooting-astro-deployments",
+      "source": "./plugins/astronomer",
+      "category": "skills"
+    },
+    {
+      "name": "avdlee",
+      "description": "6 skills from avdlee/swiftui-agent-skill, avdlee/swift-concurrency-agent-skill, avdlee/swift-testing-agent-skill, avdlee/core-data-agent-skill: swiftui-expert-skill, swift-concurrency, swift-testing-expert, core-data-expert, core-data-expert, update-swiftui-apis",
+      "source": "./plugins/avdlee",
+      "category": "skills"
+    },
+    {
+      "name": "better-auth",
+      "description": "9 skills from better-auth/skills, better-auth/better-icons: better-auth-best-practices, create-auth-skill, email-and-password-best-practices, organization-best-practices, two-factor-authentication-best-practices, two-factor-authentication-best-practices, better-auth-security-best-practices, better-auth-security-best-practices, better-icons",
+      "source": "./plugins/better-auth",
+      "category": "skills"
+    },
+    {
+      "name": "bobmatnyc",
+      "description": "137 skills from bobmatnyc/claude-mpm-skills: pydantic, drizzle-orm, playwright-e2e-testing, tailwind-css, tailwind-css, trpc-type-safety, trpc-type-safety, zod, pytest, pytest, drizzle-migrations, sqlalchemy-orm, sqlalchemy-orm, daisyui, docker, docker, nodejs-backend-typescript, nodejs-backend-typescript, biome, biome, vitest, fastify, fastify, jest-typescript, shadcn-ui, shadcn-ui, cypress, cypress, opentelemetry, github-actions, github-actions, supabase-backend-platform, session-compression, api-design-patterns, xlsx, golang-grpc, golang-grpc, prisma-orm, prisma-orm, golang-testing-strategies, golang-testing-strategies, git-workflow, anthropic-sdk, anthropic-sdk, hono-core, hono-core, express-production, asyncio, sveltekit, mypy, golang-concurrency-patterns, hono-rpc, api-security-review, axum, tanstack-query, golang-cli-cobra-viper, rust-desktop-applications, wordpress-security-validation, golang-database-patterns, typescript-core, tauri-event-system, vue, dependency-audit, skill-creator, bug-fix, golang-observability-opentelemetry, zustand, web-performance-optimization, flask, hono-testing, kysely, openrouter, vercel-deployments-builds, kubernetes, phoenix-liveview, celery, test-driven-development, json-data-handling, screenshot, reporting-pipelines, nextjs-v16, software-patterns, local-llm-ops, langgraph, digitalocean-management, langchain-framework, wordpress-testing-qa, svelte5-runes-static, vercel-observability, api-documentation, threat-modeling, mcp, nextjs-core, react-state-machines, test-quality-inspector, phoenix-api-channels, database-migration, neon-serverless-postgres, digitalocean-compute, homebrew-formula-maintenance, git-worktrees, fastapi-local-dev, headlessui, django-framework, digitalocean-containers-images, digitalocean-overview, nextjs-env-variables, stacked-prs, sec-edgar-pipeline, vercel-functions-runtime, phoenix-ops, dspy-framework, netlify-deployment-platform, svelte, vercel-security-access, flexlayout-react, pyright-type-checker, vercel-overview, espocrm-development, digitalocean-storage, vercel-networking-domains, pre-merge, testing anti-patterns, webapp-testing-patterns, digitalocean-networking, pr-quality-checklist, ecto-patterns, terraform, better-auth-core, media-transcoding, bad-example-skill, systematic-debugging, security-scanning, env-manager, graphql, clap, digitalocean-managed-databases",
+      "source": "./plugins/bobmatnyc",
+      "category": "skills"
+    },
+    {
+      "name": "boshu2",
+      "description": "68 skills from boshu2/agentops: council, swarm, research, bug-hunt, pre-mortem, pre-mortem, plan, crank, crank, codex-team, codex-team, post-mortem, post-mortem, retro, doc, vibe, evolve, complexity, complexity, handoff, handoff, implement, quickstart, quickstart, rpi, rpi, trace, status, status, release, flywheel, product, product, using-agentops, beads, inject, provenance, provenance, shared, shared, ratchet, forge, standards, recover, recover, update, readme, readme, reverse-engineer-rpi, reverse-engineer-rpi, brainstorm, heal-skill, converter, converter, goals, goals, extract, security, openai-docs, openai-docs, pr-research, pr-plan, oss-docs, pr-validate, pr-prep, pr-retro, pr-implement, security-suite",
+      "source": "./plugins/boshu2",
+      "category": "skills"
+    },
+    {
+      "name": "browser-use",
+      "description": "2 skills from browser-use/browser-use: browser-use, remote-browser",
+      "source": "./plugins/browser-use",
+      "category": "skills"
+    },
+    {
+      "name": "callstackincubator",
+      "description": "8 skills from callstackincubator/agent-skills, callstackincubator/agent-device: react-native-best-practices, github, agent-device, upgrading-react-native, validate-skills, dogfood, react-native-brownfield-migration, github-actions",
+      "source": "./plugins/callstackincubator",
+      "category": "skills"
+    },
+    {
+      "name": "calm-north",
+      "description": "14 skills from calm-north/seojuice-skills: find-keywords, brief, build-links, optimize-for-ai, audit, rank-local, migrate-site, diagnose-seo, audit-speed, recover-content, beat-competitors, fix-linking, build-clusters, target-serp",
+      "source": "./plugins/calm-north",
+      "category": "skills"
+    },
+    {
+      "name": "cinience",
+      "description": "93 skills from cinience/alicloud-skills: alicloud-ai-image-qwen-image, alicloud-ai-audio-tts-voice-clone, alicloud-observability-sls-log-query, alicloud-ai-audio-tts, alicloud-ai-audio-tts, alicloud-ai-video-wan-video, alicloud-ai-multimodal-qwen-vl, alicloud-ai-multimodal-qwen-vl, alicloud-ai-image-qwen-image-edit, alicloud-ai-image-qwen-image-edit, alicloud-ai-translation-anytrans, alicloud-platform-openapi-product-api-discovery, alicloud-platform-openapi-product-api-discovery, alicloud-compute-ecs, alicloud-ai-search-opensearch, alicloud-data-analytics-dataanalysisgbi, alicloud-data-analytics-dataanalysisgbi, alicloud-ai-audio-tts-voice-design, alicloud-ai-entry-modelstudio, alicloud-ai-audio-asr, alicloud-ai-audio-tts-realtime, alicloud-ai-audio-tts-realtime, alicloud-media-video-translation, alicloud-ai-video-wan-r2v, alicloud-ai-search-milvus, alicloud-security-kms, alicloud-database-rds-supabase, alicloud-ai-audio-asr, alicloud-ai-entry-modelstudio-matrix-test, alicloud-storage-oss-ossutil, alicloud-ai-content-aicontent, alicloud-compute-fc-serverless-devs, alicloud-ai-chatbot, alicloud-database-analyticdb-mysql, alicloud-compute-swas-open, alicloud-platform-docs-api-review, alicloud-backup-hbr, alicloud-ai-audio-tts-voice-clone-test, alicloud-ai-image-zimage-turbo, alicloud-ai-entry-modelstudio-test, alicloud-ai-search-dashvector, alicloud-ai-cloud-call-center, alicloud-data-lake-dlf-next-test, alicloud-data-lake-dlf-next-test, alicloud-storage-oss-ossutil-test, alicloud-network-dns-cli, alicloud-network-dns-cli, alicloud-ai-video-wan-video-test, alicloud-ai-video-wan-video-test, alicloud-security-center-sas-test, alicloud-data-lake-dlf-next, alicloud-data-lake-dlf-next, alicloud-security-cloudfw, alicloud-compute-ecs-test, alicloud-compute-fc-agentrun, alicloud-database-rds-supabase-test, alicloud-security-kms-test, alicloud-ai-misc-crawl-and-skill, alicloud-security-content-moderation-green, alicloud-ai-content-aimiaobi, alicloud-platform-openapi-product-api-discovery-test, alicloud-ai-misc-crawl-and-skill, alicloud-security-content-moderation-green, alicloud-platform-openapi-product-api-discovery-test, alicloud-ai-multimodal-qwen-vl-test, alicloud-security-center-sas, alicloud-backup-bdrc, alicloud-ai-recommend-airec, alicloud-ai-pai-aiworkspace, alicloud-ai-image-qwen-image-edit-test, alicloud-security-cloudfw-test, alicloud-ai-audio-tts-test, alicloud-ai-audio-tts-test, alicloud-observability-sls-log-query-test, alicloud-data-lake-dlf, alicloud-ai-misc-crawl-and-skill-test, alicloud-ai-audio-tts-voice-design-test, alicloud-ai-audio-tts-realtime-test, alicloud-ai-audio-tts-voice-design-test, alicloud-ai-audio-asr-test, alicloud-ai-audio-asr-test, alicloud-platform-aliyun-cli, alicloud-platform-aliyun-cli, alicloud-platform-aliyun-cli-test, alicloud-platform-openclaw-setup, alicloud-platform-openclaw-setup-test, alicloud-network-esa, alicloud-network-esa-test, alicloud-media-vod, alicloud-media-live, alicloud-media-ice, alicloud-network-alb-test, alicloud-network-alb",
+      "source": "./plugins/cinience",
+      "category": "skills"
+    },
+    {
+      "name": "clerk",
+      "description": "10 skills from clerk/skills: clerk-nextjs-patterns, clerk, clerk-setup, clerk-custom-ui, clerk-webhooks, clerk-testing, clerk-orgs, clerk-backend-api, clerk-backend-api, clerk-swift",
+      "source": "./plugins/clerk",
+      "category": "skills"
+    },
+    {
+      "name": "cloudai-x",
+      "description": "12 skills from cloudai-x/threejs-skills, cloudai-x/claude-workflow-v2: threejs-animation, threejs-fundamentals, threejs-shaders, threejs-geometry, threejs-interaction, threejs-materials, threejs-postprocessing, threejs-lighting, threejs-textures, threejs-loaders, analyzing-projects, convex-backend",
+      "source": "./plugins/cloudai-x",
+      "category": "skills"
+    },
+    {
+      "name": "cloudflare",
+      "description": "17 skills from cloudflare/skills, cloudflare/vinext, cloudflare/cloudflare-docs: cloudflare, wrangler, wrangler, durable-objects, web-perf, web-perf, workers-best-practices, migrate-to-vinext, agents-sdk, agents-sdk, building-ai-agent-on-cloudflare, building-mcp-server-on-cloudflare, sandbox-sdk, cloudflare, wrangler, durable-objects, agents-sdk",
+      "source": "./plugins/cloudflare",
+      "category": "skills"
+    },
+    {
+      "name": "coinbase",
+      "description": "12 skills from coinbase/agentic-wallet-skills: trade, x402, x402, pay-for-service, pay-for-service, monetize-service, send-usdc, search-for-service, authenticate-wallet, authenticate-wallet, fund, query-onchain-data",
+      "source": "./plugins/coinbase",
+      "category": "skills"
+    },
+    {
+      "name": "composiohq",
+      "description": "121 skills from composiohq/awesome-claude-skills, composiohq/skills: content-research-writer, changelog-generator, tailored-resume-generator, tailored-resume-generator, file-organizer, youtube-downloader, youtube-downloader, lead-research-assistant, skill-creator, twitter-algorithm-optimizer, twitter-algorithm-optimizer, image-enhancer, competitive-ads-extractor, canvas-design, mcp-builder, invoice-organizer, domain-name-brainstormer, artifacts-builder, meeting-insights-analyzer, webapp-testing, connect-apps, connect-apps, connect, connect, developer-growth-analysis, langsmith-fetch, brand-guidelines, brand-guidelines, theme-factory, skill-share, theme-factory, skill-share, internal-comms, template-skill, template-skill, slack-gif-creator, raffle-winner-picker, composio, skill-creator, skill-creator, gmail-automation, gmail-automation, google-calendar-automation, google-calendar-automation, googlesheets-automation, telegram-automation, google-drive-automation, tiktok-automation, linkedin-automation, instagram-automation, youtube-automation, gitlab-automation, github-automation, mixpanel-automation, stripe-automation, clickup-automation, supabase-automation, outlook-automation, trello-automation, discord-automation, google-analytics-automation, twitter-automation, whatsapp-automation, airtable-automation, jira-automation, notion-automation, slack-automation, reddit-automation, figma-automation, bitbucket-automation, outlook-calendar-automation, confluence-automation, webflow-automation, asana-automation, canva-automation, todoist-automation, monday-automation, hubspot-automation, calendly-automation, linear-automation, vercel-automation, microsoft-teams-automation, activecampaign-automation, make-automation, mailchimp-automation, zoho-crm-automation, posthog-automation, intercom-automation, box-automation, composio, datadog-automation, sendgrid-automation, klaviyo-automation, zoom-automation, docusign-automation, convertkit-automation, miro-automation, zendesk-automation, basecamp-automation, brevo-automation, salesforce-automation, sentry-automation, pipedrive-automation, shopify-automation, bamboohr-automation, dropbox-automation, square-automation, helpdesk-automation, freshdesk-automation, close-automation, cal-com-automation, one-drive-automation, wrike-automation, amplitude-automation, render-automation, segment-automation, freshservice-automation, circleci-automation, pagerduty-automation, coda-automation, postmark-automation",
+      "source": "./plugins/composiohq",
       "category": "skills"
     },
     {
@@ -31,9 +181,87 @@
       "category": "skills"
     },
     {
+      "name": "currents-dev",
+      "description": "2 skills from currents-dev/playwright-best-practices-skill: playwright-best-practices, playwright-best-practices",
+      "source": "./plugins/currents-dev",
+      "category": "skills"
+    },
+    {
+      "name": "czlonkowski",
+      "description": "10 skills from czlonkowski/n8n-skills: n8n-workflow-patterns, n8n-mcp-tools-expert, n8n-node-configuration, n8n-node-configuration, n8n-code-javascript, n8n-validation-expert, n8n-expression-syntax, n8n-expression-syntax, n8n-code-python, n8n-code-python",
+      "source": "./plugins/czlonkowski",
+      "category": "skills"
+    },
+    {
+      "name": "davila7",
+      "description": "448 skills from davila7/claude-code-templates: senior-data-scientist, senior-backend, senior-backend, senior-frontend, ui-ux-pro-max, ui-design-system, ui-design-system, mobile-design, mobile-design, senior-data-engineer, senior-data-engineer, senior-devops, senior-devops, remotion, ux-researcher-designer, senior-architect, senior-architect, senior-qa, senior-qa, senior-fullstack, literature-review, senior-security, senior-prompt-engineer, senior-computer-vision, clean-code, clean-code, frontend-design, marketing-strategy-pmm, video-downloader, prompt-engineer, prompt-engineer, code-reviewer, code-reviewer, docker-expert, draw-io, draw-io, context7-auto-research, quality-documentation-manager, senior-ml-engineer, pdf, pdf, ceo-advisor, ceo-advisor, marketing-ideas, marketing-ideas, copywriting, copywriting, ai-agents-architect, nextjs-best-practices, xlsx, web-design-guidelines, web-design-guidelines, agile-product-owner, agile-product-owner, mui, mui, excalidraw, nestjs-expert, agent-memory-systems, agent-memory-systems, frontend-patterns, frontend-patterns, prompt-engineering, agent-manager-skill, frontend-dev-guidelines, 3d-web-experience, agent-memory-mcp, agent-memory-mcp, product-strategist, product-manager-toolkit, product-strategist, product-manager-toolkit, notion-knowledge-capture, notion-knowledge-capture, agent-evaluation, agent-evaluation, seo-fundamentals, brainstorming, brainstorming, seo-audit, tailwind-patterns, pptx, agent-tool-builder, content-creator, architecture, mermaid-diagrams, conversation-memory, cto-advisor, cto-advisor, skill-creator, skill-creator, content-research-writer, marketing-demand-acquisition, marketing-demand-acquisition, perplexity-search, perplexity-search, obsidian-markdown, obsidian-markdown, react-dev, senior-secops, software-architecture, docx, coding-standards, coding-standards, react-patterns, react-patterns, i18n-localization, supabase-postgres-best-practices, game-development, game-development, supabase-postgres-best-practices, api-patterns, database-design, database-schema-designer, database-schema-designer, humanizer, planning-with-files, nodejs-best-practices, nodejs-best-practices, context-window-management, backend-patterns, commit, marketing-psychology, marketing-psychology, security-review, security-review, react-best-practices, autonomous-agent-patterns, typescript-expert, typescript-expert, autonomous-agent-patterns, backend-dev-guidelines, agent-md-refactor, code-review, code-review, statistical-analysis, statistical-analysis, find-bugs, find-bugs, autonomous-agents, prompt-library, browser-automation, jira, canvas-design, canvas-design, jira, notion-research-documentation, obsidian-bases, obsidian-bases, langgraph, langgraph, app-builder, app-builder, skill-installer, skill-installer, computer-use-agents, computer-use-agents, code-review-checklist, subagent-driven-development, telegram-bot-builder, writing-plans, writing-skills, api-security-best-practices, gemini, rag-engineer, web-performance-optimization, web-performance-optimization, postgres-schema-design, postgres-schema-design, research-engineer, research-engineer, prompt-caching, prompt-caching, pricing-strategy, pricing-strategy, theme-factory, theme-factory, linear, linear, design-system-starter, design-system-starter, vercel-react-best-practices, vercel-react-best-practices, dispatching-parallel-agents, qa-test-planner, gdpr-dsgvo-expert, d3-viz, using-superpowers, json-canvas, d3-viz, ai-product, using-superpowers, ai-product, frontend-to-backend-requirements, frontend-to-backend-requirements, micro-saas-launcher, micro-saas-launcher, mcp-builder, mcp-builder, notebooklm, bash-linux, bash-linux, chroma, chroma, nextjs-supabase-auth, lead-research-assistant, lead-research-assistant, rag-implementation, rag-implementation, behavioral-modes, backend-to-frontend-handoff-docs, backend-to-frontend-handoff-docs, requirements-clarity, file-organizer, file-organizer, social-content, test-driven-development, parallel-agents, bun-development, seo, shopify-development, copy-editing, notion-spec-to-implementation, competitive-ads-extractor, programmatic-seo, firebase, prisma-expert, information-security-manager-iso27001, webapp-testing, webapp-testing, documentation-templates, documentation-templates, c4-architecture, best-practices, c4-architecture, best-practices, app-store-optimization, github-workflow-automation, scroll-experience, scroll-experience, systematic-debugging, evaluating-code-models, evaluating-code-models, analytics-tracking, analytics-tracking, codex, ai-wrapper-product, ai-wrapper-product, vercel-deployment, perplexity, codex-review, codex-review, changelog-generator, changelog-generator, launch-strategy, launch-strategy, notion-meeting-intelligence, telegram-mini-app, executing-plans, playwright-skill, artifacts-builder, playwright-skill, server-management, server-management, brand-guidelines, git-pushing, git-pushing, voice-ai-development, voice-ai-development, vulnerability-scanner, javascript-mastery, vulnerability-scanner, javascript-mastery, stripe-integration, receiving-code-review, receiving-code-review, python-patterns, algorithmic-art, paid-ads, paid-ads, crewai, crewai, performance-profiling, ab-test-setup, ab-test-setup, performance-profiling, developer-growth-analysis, developer-growth-analysis, web-artifacts-builder, llm-app-patterns, llm-app-patterns, web-to-markdown, workflow-automation, web-to-markdown, workflow-automation, datadog-cli, page-cro, move-code-quality, move-code-quality, datadog-cli, page-cro, gh-fix-ci, gh-fix-ci, powershell-windows, claude-opus-4-5-migration, requesting-code-review, plan-writing, image-enhancer, aws-serverless, production-code-audit, skill-developer, skill-developer, risk-management-specialist, risk-management-specialist, gh-address-comments, email-sequence, voice-agents, voice-agents, skill-judge, skill-judge, browser-extension-builder, browser-extension-builder, create-pr, create-pr, schema-markup, environment-setup-guide, email-systems, verification-before-completion, verification-before-completion, competitor-alternatives, interactive-portfolio, deslop, using-git-worktrees, viral-generator-builder, skill-share, skill-share, viral-generator-builder, railway-docs, railway-docs, loki-mode, tdd-workflow, writing-clearly-and-concisely, onboarding-cro, signup-flow-cro, paywall-upgrade-cro, modal, langfuse, invoice-organizer, invoice-organizer, testing-patterns, testing-patterns, isms-audit-expert, isms-audit-expert, bullmq-specialist, finishing-a-development-branch, finishing-a-development-branch, quality-manager-qmr, quality-manager-qmr, domain-name-brainstormer, commit-work, free-tool-strategy, commit-work, free-tool-strategy, red-team-tactics, red-team-tactics, iterate-pr, figma-implement-design, slack-gif-creator, cc-skill-continuous-learning, crafting-effective-readmes, template-skill, mdr-745-specialist, remotion-best-practices, test-fixing, quality-manager-qms-iso13485, scvi-tools, discord-bot-architect, lint-and-validate, shopify-apps, regulatory-affairs-head, geo-fundamentals, core-components, ml-paper-writing, file-uploads, fda-consultant-specialist, gcp-cloud-run, deployment-procedures, doc-coauthoring, personal-tool-builder, gepetto, concise-planning, nosql-expert, graphql, qms-audit-expert, cc-skill-strategic-compact, internal-comms, referral-program, popup-cro, notion-template-business, cc-skill-project-guidelines-example, naming-analyzer, clerk-auth, capa-officer, firecrawl-scraper, azure-functions, sqlmap database penetration testing, tavily-web, figma, kaizen, openapi-to-typescript, obsidian-clipper-template-creator, raffle-winner-picker, form-cro, hubspot-integration, twilio-communications, slack-bot-builder, address-github-comments, algolia-search, plaid-fintech, exa-search, wordpress penetration testing, neon-postgres, accessibility, plugin-forge, clickhouse-io, salesforce-development, avalonia-zafiro-development, performance, inngest, avalonia-layout-zafiro, difficult-workplace-conversations, trigger-dev, spreadsheet, avalonia-viewmodels-zafiro, zapier-make-patterns, moodle-external-api-development, segment-cdp, blockrun, upstash-qstash, busybox-on-windows, web-quality-audit, security-best-practices, playwright, using-neon, core-web-vitals, openai-docs, design-to-code, doc",
+      "source": "./plugins/davila7",
+      "category": "skills"
+    },
+    {
+      "name": "deanpeters",
+      "description": "67 skills from deanpeters/product-manager-skills: prd-development, prd-development, roadmap-planning, roadmap-planning, user-story, user-story, company-research, product-strategy-session, discovery-process, discovery-process, customer-journey-map, customer-journey-map, discovery-interview-prep, discovery-interview-prep, jobs-to-be-done, jobs-to-be-done, user-story-mapping, storyboard, user-story-splitting, prioritization-advisor, prioritization-advisor, opportunity-solution-tree, opportunity-solution-tree, problem-statement, problem-statement, saas-revenue-growth-metrics, problem-framing-canvas, epic-breakdown-advisor, context-engineering-advisor, context-engineering-advisor, customer-journey-mapping-workshop, customer-journey-mapping-workshop, proto-persona, proto-persona, epic-hypothesis, positioning-statement, positioning-statement, press-release, workshop-facilitation, tam-sam-som-calculator, feature-investment-advisor, positioning-workshop, user-story-mapping-workshop, lean-ux-canvas, saas-economics-efficiency-metrics, business-health-diagnostic, finance-based-pricing-advisor, finance-based-pricing-advisor, business-health-diagnostic, ai-shaped-readiness-advisor, pestel-analysis, recommendation-canvas, recommendation-canvas, finance-metrics-quickref, acquisition-channel-advisor, finance-metrics-quickref, acquisition-channel-advisor, skill-authoring-workflow, pol-probe-advisor, eol-message, eol-message, pol-probe, pol-probe, executive-onboarding-playbook, altitude-horizon-framework, director-readiness-advisor, vp-cpo-readiness-advisor",
+      "source": "./plugins/deanpeters",
+      "category": "skills"
+    },
+    {
+      "name": "dimillian",
+      "description": "14 skills from dimillian/skills: swiftui-performance-audit, swiftui-liquid-glass, swiftui-ui-patterns, swiftui-ui-patterns, swiftui-view-refactor, ios-debugger-agent, ios-debugger-agent, swift-concurrency-expert, macos-spm-app-packaging, macos-spm-app-packaging, app-store-changelog, app-store-changelog, react-component-performance, github",
+      "source": "./plugins/dimillian",
+      "category": "skills"
+    },
+    {
+      "name": "expo",
+      "description": "12 skills from expo/skills: building-native-ui, native-data-fetching, upgrading-expo, expo-dev-client, expo-deployment, expo-dev-client, expo-deployment, expo-tailwind-setup, expo-tailwind-setup, expo-api-routes, expo-cicd-workflows, use-dom",
+      "source": "./plugins/expo",
+      "category": "skills"
+    },
+    {
+      "name": "firebase",
+      "description": "18 skills from firebase/agent-skills, firebase/skills: firebase-firestore-basics, firebase-basics, firebase-auth-basics, firebase-auth-basics, firebase-ai-logic, firebase-hosting-basics, firebase-app-hosting-basics, firebase-app-hosting-basics, firebase-data-connect, firebase-firestore-basics, firebase-firestore-basics, firebase-auth-basics, firebase-basics, firebase-ai-logic, firebase-app-hosting-basics, firebase-app-hosting-basics, firebase-hosting-basics, firebase-data-connect",
+      "source": "./plugins/firebase",
+      "category": "skills"
+    },
+    {
+      "name": "firecrawl",
+      "description": "13 skills from firecrawl/cli: firecrawl, firecrawl-search, firecrawl-search, firecrawl-scrape, firecrawl-browser, firecrawl-crawl, firecrawl-agent, firecrawl-scrape, firecrawl-map, firecrawl-browser, firecrawl-agent, firecrawl-map, firecrawl-download",
+      "source": "./plugins/firecrawl",
+      "category": "skills"
+    },
+    {
+      "name": "flutter",
+      "description": "34 skills from flutter/skills: flutter-layout, flutter-layout, flutter-performance, flutter-theming, flutter-theming, flutter-animation, flutter-animation, flutter-routing-and-navigation, flutter-routing-and-navigation, flutter-state-management, flutter-architecture, flutter-architecture, flutter-caching, flutter-testing, flutter-app-size, flutter-app-size, flutter-localization, flutter-localization, flutter-concurrency, flutter-concurrency, flutter-http-and-json, flutter-accessibility, flutter-accessibility, flutter-http-and-json, flutter-databases, flutter-native-interop, flutter-platform-views, flutter-plugins, flutter-environment-setup-macos, flutter-environment-setup-windows, flutter-environment-setup-windows, flutter-environment-setup-linux, flutter-environment-setup-linux, flutter-home-screen-widget",
+      "source": "./plugins/flutter",
+      "category": "skills"
+    },
+    {
+      "name": "getsentry",
+      "description": "68 skills from getsentry/sentry-agent-skills, getsentry/skills, getsentry/sentry-for-ai: sentry-react-setup, sentry-fix-issues, sentry-fix-issues, security-review, code-simplifier, sentry-setup-ai-monitoring, agents-md, agents-md, find-bugs, find-bugs, skill-scanner, sentry-setup-logging, sentry-setup-logging, sentry-pr-code-review, sentry-pr-code-review, code-review, commit, commit, sentry-setup-tracing, sentry-setup-tracing, sentry-fix-issues, create-pr, create-pr, iterate-pr, iterate-pr, sentry-setup-metrics, claude-settings-audit, sentry-create-alert, doc-coauthoring, doc-coauthoring, skill-creator, skill-creator, brand-guidelines, brand-guidelines, django-perf-review, django-perf-review, sentry-workflow, sentry-react-native-setup, sentry-feature-setup, sentry-nextjs-sdk, sentry-nextjs-sdk, sentry-code-review, sentry-sdk-setup, sentry-react-sdk, sentry-create-alert, sentry-python-setup, sentry-react-sdk, django-access-review, sentry-pr-code-review, sentry-browser-sdk, sentry-sdk-upgrade, sentry-setup-ai-monitoring, sentry-node-sdk, sentry-react-native-sdk, sentry-ruby-setup, sentry-sdk-skill-creator, sentry-ios-swift-setup, sentry-react-native-sdk, sred-work-summary, blog-writing-guide, sentry-python-sdk, gh-review-requests, sred-project-organizer, sentry-otel-exporter-setup, sentry-dotnet-sdk, sentry-cocoa-sdk, sentry-ruby-sdk, sentry-nestjs-sdk",
+      "source": "./plugins/getsentry",
+      "category": "skills"
+    },
+    {
       "name": "github",
       "description": "35 skills from github/awesome-copilot: git-commit, gh-cli, prd, prd, refactor, excalidraw-diagram-generator, documentation-writer, java-springboot, chrome-devtools, github-issues, web-design-reviewer, microsoft-docs, microsoft-docs, playwright-generate-test, dotnet-best-practices, multi-stage-dockerfile, meeting-minutes, postgresql-code-review, snowflake-semanticview, terraform-azurerm-set-diff-analyzer, next-intl-add-language, breakdown-epic-pm, msstore-cli, msstore-cli, datanalysis-credit-risk, import-infrastructure-as-code, mentoring-juniors, noob-mode, winmd-api-search, winui3-migration-guide, web-coder, azure-pricing, copilot-spaces, flowstudio-power-automate-mcp, flowstudio-power-automate-mcp",
       "source": "./plugins/github",
+      "category": "skills"
+    },
+    {
+      "name": "giuseppe-trisciuoglio",
+      "description": "123 skills from giuseppe-trisciuoglio/developer-kit: shadcn-ui, tailwind-css-patterns, unit-test-bean-validation, react-patterns, react-patterns, typescript-docs, typescript-docs, nestjs, spring-boot-test-patterns, spring-boot-rest-api-standards, spring-boot-rest-api-standards, spring-boot-security-jwt, unit-test-boundary-conditions, spring-data-jpa, spring-data-jpa, spring-boot-openapi-documentation, spring-boot-crud-patterns, spring-boot-crud-patterns, prompt-engineering, chunking-strategy, chunking-strategy, unit-test-service-layer, spring-ai-mcp-server-patterns, spring-ai-mcp-server-patterns, spring-boot-dependency-injection, spring-boot-resilience4j, unit-test-wiremock-rest-api, langchain4j-rag-implementation-patterns, spring-boot-event-driven-patterns, spring-data-neo4j, langchain4j-rag-implementation-patterns, spring-boot-event-driven-patterns, spring-data-neo4j, unit-test-controller-layer, unit-test-controller-layer, spring-boot-cache, spring-boot-actuator, spring-boot-actuator, langchain4j-tool-function-calling-patterns, spring-boot-saga-pattern, langchain4j-tool-function-calling-patterns, spring-boot-saga-pattern, unit-test-utility-methods, unit-test-utility-methods, langchain4j-spring-boot-integration, langchain4j-mcp-server-patterns, aws-sdk-java-v2-s3, unit-test-json-serialization, unit-test-security-authorization, unit-test-security-authorization, unit-test-mapper-converter, unit-test-parameterized, unit-test-config-properties, unit-test-mapper-converter, unit-test-config-properties, unit-test-parameterized, unit-test-scheduled-async, unit-test-exception-handler, unit-test-application-events, langchain4j-testing-strategies, langchain4j-vector-stores-configuration, aws-sdk-java-v2-dynamodb, unit-test-caching, aws-sdk-java-v2-core, aws-sdk-java-v2-bedrock, aws-sdk-java-v2-rds, aws-rds-spring-boot-integration, aws-sdk-java-v2-lambda, aws-sdk-java-v2-secrets-manager, aws-sdk-java-v2-kms, aws-sdk-java-v2-messaging, rag, nextjs-performance, nextjs-performance, qdrant, clean-architecture, clean-architecture, claude-md-management, claude-md-management, drawio-logical-diagrams, nextjs-app-router, nextjs-app-router, nx-monorepo, nx-monorepo, turborepo-monorepo, turborepo-monorepo, nextjs-deployment, nextjs-data-fetching, aws-lambda-python-integration, aws-lambda-python-integration, better-auth, better-auth, drizzle-orm-patterns, aws-lambda-typescript-integration, nextjs-authentication, nextjs-authentication, aws-lambda-java-integration, nestjs-drizzle-crud-generator, aws-lambda-php-integration, tailwind-design-system, clean-architecture-php, typescript-security-review, rag-implementation, qdrant-vector-database-integration, aws-cloudformation-security, aws-cloudformation-s3, aws-cloudformation-bedrock, aws-cloudformation-lambda, aws-cloudformation-task-ecs-deploy-gh, react-code-review, aws-cloudformation-cloudfront, aws-cloudformation-cloudwatch, aws-cloudformation-iam, aws-cloudformation-ec2, aws-cloudformation-elasticache, aws-cloudformation-vpc, aws-cloudformation-ecs, aws-cloudformation-auto-scaling, aws-cloudformation-dynamodb, aws-cloudformation-rds, nextjs-code-review, nestjs-code-review, nestjs-best-practices",
+      "source": "./plugins/giuseppe-trisciuoglio",
+      "category": "skills"
+    },
+    {
+      "name": "google-gemini",
+      "description": "13 skills from google-gemini/gemini-skills, google-gemini/gemini-cli: gemini-api-dev, code-reviewer, docs-writer, pr-creator, pr-creator, docs-changelog, docs-changelog, gemini-interactions-api, gemini-interactions-api, gemini-live-api-dev, gemini-live-api-dev, pr-address-comments, vertex-ai-api-dev",
+      "source": "./plugins/google-gemini",
+      "category": "skills"
+    },
+    {
+      "name": "google-labs-code",
+      "description": "6 skills from google-labs-code/stitch-skills: design-md, stitch-loop, enhance-prompt, shadcn-ui, shadcn-ui, remotion",
+      "source": "./plugins/google-labs-code",
       "category": "skills"
     },
     {
@@ -43,9 +271,141 @@
       "category": "skills"
     },
     {
+      "name": "hairyf",
+      "description": "32 skills from hairyf/skills, hairyf/knitwork-x: tailwindcss, tailwindcss, hairy-utils, react-use, next, next, motion, vitest, valtio, hairy-react-lib, valtio-define, overlastic, unjs, unjs, openapi-specification-v3.2, openapi-specification-v2, openapi-specification-v2, undocs, undocs, hairy, tsdown, knitwork-x, arch-tsdown-monorepo, create-skill-from-repo, create-skill-from-repo, create-skill, pnpm, tauri, writing-humanizer-zh, arch-tsdown-cli, vite, github-workflow",
+      "source": "./plugins/hairyf",
+      "category": "skills"
+    },
+    {
+      "name": "hashicorp",
+      "description": "22 skills from hashicorp/agent-skills: terraform-style-guide, terraform-test, terraform-test, refactor-module, refactor-module, terraform-stacks, terraform-stacks, provider-resources, new-terraform-provider, new-terraform-provider, provider-actions, provider-actions, run-acceptance-tests, run-acceptance-tests, azure-verified-modules, aws-ami-builder, push-to-registry, push-to-registry, azure-image-builder, azure-image-builder, windows-builder, terraform-search-import",
+      "source": "./plugins/hashicorp",
+      "category": "skills"
+    },
+    {
+      "name": "hyf0",
+      "description": "15 skills from hyf0/vue-skills: vue-best-practices, vue-debug-guides, vue-pinia-best-practices, vue-router-best-practices, create-adaptable-composable, vue-options-api-best-practices, vue-testing-best-practices, vue-testing-best-practices, vue-jsx-best-practices, vue-jsx-best-practices, vue-development-guides, vue-development-guides, pinia-best-practices, vueuse-best-practices, vueuse-best-practices",
+      "source": "./plugins/hyf0",
+      "category": "skills"
+    },
+    {
+      "name": "ibelick",
+      "description": "5 skills from ibelick/ui-skills: baseline-ui, fixing-motion-performance, fixing-accessibility, fixing-metadata, fixing-metadata",
+      "source": "./plugins/ibelick",
+      "category": "skills"
+    },
+    {
+      "name": "imbue-ai",
+      "description": "1 skills from imbue-ai/vet: vet",
+      "source": "./plugins/imbue-ai",
+      "category": "skills"
+    },
+    {
+      "name": "inference-sh",
+      "description": "88 skills from inference-sh/skills: agent-tools, agent-tools, ai-image-generation, ai-video-generation, ai-video-generation, twitter-automation, twitter-automation, agent-browser, web-search, web-search, agent-ui, agent-ui, python-executor, chat-ui, remotion-render, widgets-ui, tools-ui, tools-ui, python-sdk, python-sdk, javascript-sdk, ai-avatar-video, background-removal, flux-image, flux-image, llm-models, llm-models, speech-to-text, related-skill, related-skill, text-to-speech, text-to-speech, image-upscaling, image-upscaling, google-veo, google-veo, ai-music-generation, ai-social-media-content, ai-social-media-content, video-prompting-guide, prompt-engineering, ai-rag-pipeline, ai-rag-pipeline, ai-automation-workflows, ai-voice-cloning, ai-product-photography, ai-voice-cloning, ai-product-photography, ai-podcast-creation, ai-podcast-creation, ai-marketing-videos, ai-content-pipeline, nano-banana, nano-banana, nano-banana-2, app-store-screenshots, data-visualization, competitor-teardown, case-study-writing, technical-blog-writing, youtube-thumbnail-design, social-media-carousel, landing-page-design, content-repurposing, book-cover-design, press-release-writing, storyboard-creation, logo-design-guide, product-changelog, dialogue-audio, twitter-thread-creation, explainer-video-guide, seo-content-brief, talking-head-production, pitch-deck-visuals, newsletter-curation, email-design, og-image-design, image-to-video, video-ad-specs, product-hunt-launch, linkedin-content, character-design-sheet, product-photography, customer-persona, qwen-image-2, qwen-image-2-pro, inference-sh",
+      "source": "./plugins/inference-sh",
+      "category": "skills"
+    },
+    {
+      "name": "inference-shell",
+      "description": "112 skills from inference-shell/skills: ai-image-generation, qwen-image-2, ai-image-generation, ai-video-generation, qwen-image-2, qwen-image-2-pro, ai-video-generation, qwen-image-2-pro, nano-banana, nano-banana, agent-browser, agent-browser, remotion-render, agent-tools, python-executor, python-executor, web-search, widgets-ui, chat-ui, javascript-sdk, web-search, tools-ui, agent-ui, chat-ui, widgets-ui, javascript-sdk, agent-ui, tools-ui, python-sdk, python-sdk, ai-automation-workflows, press-release-writing, ai-automation-workflows, press-release-writing, case-study-writing, og-image-design, case-study-writing, og-image-design, video-ad-specs, app-store-screenshots, ai-product-photography, technical-blog-writing, ai-social-media-content, book-cover-design, app-store-screenshots, related-skill, customer-persona, product-changelog, youtube-thumbnail-design, storyboard-creation, related-skill, landing-page-design, ai-product-photography, storyboard-creation, youtube-thumbnail-design, landing-page-design, book-cover-design, speech-to-text, ai-content-pipeline, video-prompting-guide, ai-podcast-creation, character-design-sheet, ai-marketing-videos, competitor-teardown, ai-music-generation, google-veo, data-visualization, newsletter-curation, flux-image, flux-image, dialogue-audio, explainer-video-guide, product-photography, ai-podcast-creation, ai-avatar-video, competitor-teardown, pitch-deck-visuals, product-photography, ai-voice-cloning, twitter-thread-creation, prompt-engineering, data-visualization, ai-avatar-video, product-hunt-launch, video-prompting-guide, llm-models, google-veo, llm-models, linkedin-content, explainer-video-guide, prompt-engineering, image-to-video, ai-voice-cloning, content-repurposing, product-hunt-launch, email-design, background-removal, linkedin-content, email-design, content-repurposing, background-removal, seo-content-brief, image-to-video, image-upscaling, logo-design-guide, text-to-speech, ai-rag-pipeline, ai-rag-pipeline, talking-head-production, social-media-carousel, text-to-speech, social-media-carousel",
+      "source": "./plugins/inference-shell",
+      "category": "skills"
+    },
+    {
+      "name": "intellectronica",
+      "description": "28 skills from intellectronica/agent-skills: context7, notion-api, ultrathink, nano-banana-pro, nano-banana-pro, youtube-transcript, youtube-transcript, beautiful-mermaid, beautiful-mermaid, markdown-converter, markdown-converter, todoist-api, todoist-api, promptify, mgrep-code-search, tavily, gpt-image-1-5, gog-cli, anki-connect, anki-connect, copilot-sdk, copilot-sdk, here-be-git, here-be-git, ray-so-code-snippet, lorem-ipsum, raindrop-api, upstash-redis-kv",
+      "source": "./plugins/intellectronica",
+      "category": "skills"
+    },
+    {
+      "name": "jeffallan",
+      "description": "90 skills from jeffallan/claude-skills: golang-pro, flutter-expert, laravel-specialist, kubernetes-specialist, php-pro, sql-pro, wordpress-pro, devops-engineer, java-architect, websocket-engineer, playwright-expert, playwright-expert, fastapi-expert, fastapi-expert, python-pro, architecture-designer, architecture-designer, spring-boot-engineer, spring-boot-engineer, rust-engineer, postgres-pro, api-designer, kotlin-specialist, csharp-developer, csharp-developer, code-reviewer, code-reviewer, typescript-pro, typescript-pro, security-reviewer, nextjs-developer, dotnet-core-expert, code-documenter, database-optimizer, shopify-expert, cpp-pro, shopify-expert, cpp-pro, monitoring-expert, javascript-pro, embedded-systems, angular-architect, pandas-pro, rails-expert, test-master, test-master, terraform-engineer, terraform-engineer, game-developer, game-developer, react-expert, react-expert, microservices-architect, secure-code-guardian, secure-code-guardian, swift-expert, rag-architect, react-native-expert, react-native-expert, nestjs-expert, debugging-wizard, fullstack-guardian, cli-developer, sre-engineer, prompt-engineer, prompt-engineer, cloud-architect, cloud-architect, vue-expert, vue-expert, atlassian-mcp, atlassian-mcp, salesforce-developer, salesforce-developer, mcp-developer, feature-forge, fine-tuning-expert, fine-tuning-expert, graphql-architect, legacy-modernizer, graphql-architect, legacy-modernizer, django-expert, vue-expert-js, spec-miner, chaos-engineer, ml-pipeline, spark-engineer, spark-engineer, the-fool",
+      "source": "./plugins/jeffallan",
+      "category": "skills"
+    },
+    {
+      "name": "jezweb",
+      "description": "142 skills from jezweb/claude-skills: tailwind-v4-shadcn, tanstack-query, fastapi, zustand-state-management, react-hook-form-zod, react-hook-form-zod, tailwind-patterns, nextjs, nextjs, shadcn-ui, shadcn-ui, color-palette, color-palette, motion, tailwind-theme-builder, react-native-expo, favicon-gen, favicon-gen, tanstack-start, drizzle-orm-d1, drizzle-orm-d1, hono-routing, hono-routing, elevenlabs-agents, elevenlabs-agents, project-planning, project-planning, wordpress-plugin-core, seo-meta, tanstack-router, firecrawl-scraper, firecrawl-scraper, ai-sdk-ui, ai-sdk-ui, accessibility, playwright-local, skill-creator, skill-creator, tanstack-table, ai-sdk-core, google-gemini-api, openai-api, openai-api, cloudflare-r2, cloudflare-r2, better-auth, better-auth, google-workspace, icon-design, google-workspace, icon-design, flask, claude-agent-sdk, cloudflare-d1, cloudflare-d1, sub-agent-patterns, sub-agent-patterns, cloudflare-worker-base, project-session-management, project-session-management, project-health, project-health, ux-audit, project-workflow, docs-workflow, openai-agents, responsive-images, agent-development, agent-development, cloudflare-kv, cloudflare-kv, image-gen, cloudflare-turnstile, cloudflare-turnstile, cloudflare-workflows, cloudflare-browser-rendering, cloudflare-queues, cloudflare-workers-ai, google-gemini-embeddings, google-gemini-embeddings, typescript-mcp, typescript-mcp, cloudflare-durable-objects, cloudflare-mcp-server, cloudflare-images, cloudflare-mcp-server, cloudflare-images, google-gemini-file-search, google-gemini-file-search, cloudflare-agents, cloudflare-vectorize, claude-api, cloudflare-hyperdrive, ts-agent-sdk, ts-agent-sdk, cloudflare-python-workers, google-chat-api, google-chat-api, mcp-cli-scripts, clerk-auth, google-apps-script, google-spaces-updates, google-apps-script, google-spaces-updates, d1-drizzle-schema, seo-local-business, django-cloud-sql-postgres, icon-set-generator, icon-set-generator, hono-api-scaffolder, hono-api-scaffolder, cloudflare-worker-builder, google-app-engine, dev-session, dev-session, mcp-builder, github-release, github-release, wordpress-elementor, google-chat-messages, vite-flare-starter, vite-flare-starter, google-chat-messages, aussie-business-english, aussie-business-english, image-processing, gemini-image-gen, responsiveness-check, wordpress-content, wordpress-setup, shopify-products, shopify-products, dependency-audit, testing-patterns, shopify-content, shopify-setup, shopify-setup, skill-development, vitest, smtp2go-api, rocket-net-api, context-manager",
+      "source": "./plugins/jezweb",
+      "category": "skills"
+    },
+    {
+      "name": "jimliu",
+      "description": "24 skills from jimliu/baoyu-skills: baoyu-image-gen, baoyu-post-to-wechat, baoyu-post-to-wechat, baoyu-cover-image, baoyu-xhs-images, baoyu-cover-image, baoyu-article-illustrator, baoyu-xhs-images, baoyu-article-illustrator, baoyu-slide-deck, baoyu-slide-deck, baoyu-post-to-x, release-skills, baoyu-danger-x-to-markdown, baoyu-infographic, baoyu-comic, baoyu-url-to-markdown, baoyu-danger-gemini-web, baoyu-compress-image, baoyu-markdown-to-html, baoyu-markdown-to-html, baoyu-format-markdown, baoyu-translate, baoyu-post-to-weibo",
+      "source": "./plugins/jimliu",
+      "category": "skills"
+    },
+    {
+      "name": "jwynia",
+      "description": "42 skills from jwynia/agent-skills: frontend-design, requirements-analysis, requirements-analysis, presentation-design, presentation-design, web-search, web-search, system-design, system-design, task-decomposition, task-decomposition, typescript-best-practices, typescript-best-practices, code-review, code-review, skill-builder, fact-check, story-analysis, context-retrospective, musical-dna, task-breakdown, naming, voice-analysis, ebook-analysis, research, brainstorming, pwa-development, gentle-teaching, context-network, joke-engineering, mastra-hono, character-naming, scraper-builder, competency-builder, settlement-design, media-adaptation, speech-adaptation, technology-impact, lyric-diagnostic, adaptation-synthesis, dna-extraction, list-builder",
+      "source": "./plugins/jwynia",
+      "category": "skills"
+    },
+    {
+      "name": "kepano",
+      "description": "7 skills from kepano/obsidian-skills: obsidian-bases, obsidian-markdown, obsidian-markdown, json-canvas, obsidian-cli, obsidian-cli, defuddle",
+      "source": "./plugins/kepano",
+      "category": "skills"
+    },
+    {
+      "name": "kostja94",
+      "description": "126 skills from kostja94/marketing-skills: keyword-research, google-search-console, backlink-analysis, seo-strategy, branding, twitter-x-posts, privacy-page-generator, schema-markup, content-strategy, seo-monitoring, terms-page-generator, link-building, tiktok-captions, competitor-research, shipping-page-generator, products-page-generator, ai-traffic-tracking, generative-engine-optimization, programmatic-seo, linkedin-posts, robots-txt, open-graph, content-optimization, localization-strategy, xml-sitemap, title-tag, cta-generator, influencer-marketing, meta-description, community-forum, canonical-tag, brand-visual-generator, blog-page-generator, indexing, twitter-cards, logo-generator, affiliate-marketing, eeat-signals, url-structure, cold-start-strategy, site-crawlability, website-structure, hero-generator, breadcrumb-generator, url-slug-generator, landing-page-generator, about-page-generator, affiliate-page-generator, email-marketing, article-page-generator, traffic-analysis, serp-features, reddit-posts, use-cases-page-generator, page-metadata, directory-submission, testimonials-generator, 404-page-generator, integrated-marketing, legal-page-generator, indexnow, newsletter-signup-generator, careers-page-generator, internal-links, creator-program, navigation-menu-generator, media-kit-page-generator, docs-page-generator, heading-structure, contact-page-generator, pricing-page-generator, services-page-generator, sidebar-generator, trust-badges-generator, contest-page-generator, showcase-page-generator, customer-stories-page-generator, featured-snippet, popup-generator, startups-page-generator, category-page-generator, features-page-generator, pricing-strategy, paid-ads-strategy, alternatives-page-generator, top-banner-generator, social-share-generator, resources-page-generator, glossary-page-generator, toc-generator, solutions-page-generator, download-page-generator, refund-page-generator, disclosure-page-generator, referral-program, status-page-generator, integrations-page-generator, migration-page-generator, meta-ads, changelog-page-generator, copywriting, google-ads, tools-page-generator, conversion-optimization, video-marketing, indie-hacker-strategy, content-marketing, medium-posts, gtm-strategy, tiktok-ads, product-launch, linkedin-ads, image-optimization, app-ads, domain-architecture, rebranding-strategy, pinterest-posts, pr-marketing, display-ads, domain-selection, directory-listing-ads, retention-strategy, youtube-ads, pmf-strategy, template-page-generator, native-ads",
+      "source": "./plugins/kostja94",
+      "category": "skills"
+    },
+    {
+      "name": "langchain-ai",
+      "description": "21 skills from langchain-ai/langchain-skills, langchain-ai/deepagents, langchain-ai/langsmith-skills: langgraph-fundamentals, langgraph-fundamentals, langgraph-persistence, langchain-fundamentals, langchain-rag, langgraph-human-in-the-loop, deep-agents-memory, deep-agents-core, deep-agents-orchestration, langchain-middleware, langchain-dependencies, framework-selection, blog-post, langsmith-trace, langsmith-evaluator, langsmith-dataset, social-media, arxiv-search, skill-creator, schema-exploration, query-writing",
+      "source": "./plugins/langchain-ai",
+      "category": "skills"
+    },
+    {
+      "name": "langgenius",
+      "description": "12 skills from langgenius/dify: component-refactoring, frontend-code-review, frontend-code-review, frontend-testing, skill-creator, orpc-contract-first, orpc-contract-first, web-design-guidelines, web-design-guidelines, vercel-react-best-practices, vercel-react-best-practices, backend-code-review",
+      "source": "./plugins/langgenius",
+      "category": "skills"
+    },
+    {
+      "name": "lobehub",
+      "description": "46 skills from lobehub/lobehub, lobehub/lobe-chat: react, typescript, zustand, zustand, project-overview, i18n, testing, vercel-react-best-practices, vercel-react-best-practices, debug, debug, drizzle, modal, modal, add-provider-doc, add-provider-doc, add-setting-env, add-setting-env, desktop, microcopy, recent-data, linear, hotkey, hotkey, drizzle, typescript, typescript, react, react, zustand, project-overview, i18n, data-fetching, debug, microcopy, desktop, store-data-structures, version-release, add-setting-env, testing, add-provider-doc, recent-data, modal, hotkey, linear, vercel-react-best-practices",
+      "source": "./plugins/lobehub",
+      "category": "skills"
+    },
+    {
+      "name": "madteacher",
+      "description": "13 skills from madteacher/mad-agents-skills: flutter-animations, flutter-adaptive-ui, flutter-architecture, flutter-testing, flutter-testing, flutter-networking, flutter-navigation, flutter-navigation, flutter-internationalization, flutter-drift, dart-drift, agents-md-generator, flutter-duit-bdui",
+      "source": "./plugins/madteacher",
+      "category": "skills"
+    },
+    {
+      "name": "mcp-use",
+      "description": "5 skills from mcp-use/mcp-use, mcp-use/skills: mcp-builder, chatgpt-app-builder, mcp-apps-builder, mcp-builder, mcp-builder",
+      "source": "./plugins/mcp-use",
+      "category": "skills"
+    },
+    {
       "name": "microsoft",
       "description": "29 skills from microsoft/github-copilot-for-azure, microsoft/azure-skills, microsoft/playwright-cli, microsoft/playwright, microsoft/vscode, microsoft/powertoys: azure-ai, azure-hosted-copilot-sdk, azure-compute, azure-cloud-migrate, azure-postgres, microsoft-foundry, playwright-cli, playwright-dev, playwright-cli, playwright-cli, playwright-mcp-dev, playwright-mcp-dev, markdown-token-optimizer, markdown-token-optimizer, skill-authoring, sensei, file-test-bug, accessibility, dev, fix-errors, sessions, agent-sessions-layout, playwright-api, author-contributions, azure-pipelines, release-note-generation, hygiene, tool-rename-deprecation, memory-leak-audit",
       "source": "./plugins/microsoft",
+      "category": "skills"
+    },
+    {
+      "name": "mindrally",
+      "description": "233 skills from mindrally/skills: fastapi-python, accessibility-a11y, nextjs-react-typescript, nextjs-react-typescript, mysql-best-practices, redis-best-practices, redis-best-practices, web-scraping, chrome-extension-development, chrome-extension-development, computer-vision-opencv, puppeteer-automation, puppeteer-automation, odoo-development, odoo-development, scrapy-web-scraping, scrapy-web-scraping, typeorm, typeorm, ci-cd-best-practices, ci-cd-best-practices, scss-best-practices, scss-best-practices, redux-toolkit, expo-react-native-typescript, postgresql-best-practices, deep-learning-pytorch, lottie, prisma, nextjs-typescript-tailwindcss-supabase, nextjs-typescript-tailwindcss-supabase, prisma, jwt-security, alpine-js, alpine-js, react-query, nextauth-authentication, pixi-js, htmx, htmx, optimized-nextjs-typescript, selenium-automation, selenium-automation, shopify-theme-development-guidelines, modern-web-development, framer-motion, vuejs-typescript-best-practices, elasticsearch-best-practices, html, html, quarkus, data-analysis-jupyter, tauri-development, tauri-development, zod-schema-validation, front-end-developer, lua, mongodb-development, express-typescript, gcp-development, sequelize, java-spring-development, drizzle-orm, nuxtjs-vue-typescript, cheerio-parsing, mqtt-development, sass-best-practices, java-quarkus-development, ionic, python-uv, nlp-natural-language-processing, beautifulsoup-parsing, angular, aspnet-core, systemverilog, styled-components-best-practices, scipy-best-practices, fastify-typescript, bootstrap, pandas-best-practices, nestjs-clean-typescript, swr, flask-python, pytorch, python-odoo-cursor-rules, seo-best-practices, trpc, internationalization-i18n, matplotlib-best-practices, php-development, drupal-development, zustand-state-management, bash-scripting, fpga, ux-design, deno-typescript, expo-react-native-javascript-best-practices, analytics-data-analysis, numpy-best-practices, deep-learning-python, rabbitmq-development, webpack-bundler, clean-architecture, astro, general-best-practices, nextjs-react-redux-typescript-cursor-rules, docker, ruby-rails, machine-learning, python-cybersecurity-tool-development, css, auth0-authentication, hono-typescript, bitbucket-workflow, blazor, electron-development, esbuild-bundler, react, kubernetes, kafka-development, laravel-development, go-backend-microservices, flutter, sanity, ui-design, pwa-development, remix, koa-typescript, anime-js, deep-learning, salesforce-dx, nx, security-best-practices, figma-integration, web-development, playwright-cursor-rules, gsap, rspec, websocket-development, rest-api-django, pnpm, transformers-huggingface, technical-writing, playwright, tailwindcss, react-native-cursor-rules, design-systems, turbopack-bundler, typescript, api-development, vite, autogen-development, solidity, storybook, business-central-development, unity, android-development, java, wordpress, performance-optimization, ethereum, vue-typescript, viewcomfy-api-rules, ghost, dotnet, openai-api-development, cloudflare-development, less-best-practices, stripe, git-workflow, sveltekit, monorepo-tamagui, jest, github-workflow, kotlin-development, micronaut, aws-development, firebase-development, angular-development, anthropic-claude-development, ruby, tanstack-query, llamaindex-development, woocommerce, django-python, supabase, blockchain, testing, svelte, gitlab-workflow, rollup-bundler, llm, cypress, devops, scikit-learn-best-practices, solana, kysely, c-sharp, netlify-development, sql-best-practices, motion, grpc-development, postcss-best-practices, microservices, spring-framework, python, langchain-development, graalvm, shopify, data-jupyter-python, data-analyst, django-rest-api-development, convex, apollo-graphql, python-testing, observability-guidelines, responsive-design, spring-boot, fastapi-microservices-serverless, rust, elixir, vercel-development, nodejs-development, graphql, cpp, logging-best-practices, terraform, backend-development, phoenix, monitoring-guidelines, azure, localization-l10n, three-js",
+      "source": "./plugins/mindrally",
+      "category": "skills"
+    },
+    {
+      "name": "napoleond",
+      "description": "4 skills from napoleond/clawdirect, napoleond/instaclaw, napoleond/sensitive-browser: clawdirect, instaclaw, clawdirect-dev, sensitive-browser",
+      "source": "./plugins/napoleond",
+      "category": "skills"
+    },
+    {
+      "name": "nextlevelbuilder",
+      "description": "9 skills from nextlevelbuilder/ui-ux-pro-max-skill: ui-ux-pro-max, ckm:design-system, ckm:ui-styling, ckm:ui-styling, ckm:design, ckm:brand, ckm:brand, ckm:banner-design, ckm:slides",
+      "source": "./plugins/nextlevelbuilder",
       "category": "skills"
     },
     {
@@ -55,9 +415,129 @@
       "category": "skills"
     },
     {
+      "name": "okx",
+      "description": "11 skills from okx/onchainos-skills, okx/agent-skills: okx-dex-market, okx-dex-token, okx-wallet-portfolio, okx-dex-swap, okx-onchain-gateway, okx-cex-trade, okx-cex-trade, okx-cex-market, okx-cex-portfolio, okx-cex-portfolio, okx-cex-bot",
+      "source": "./plugins/okx",
+      "category": "skills"
+    },
+    {
+      "name": "onmax",
+      "description": "25 skills from onmax/nuxt-skills: reka-ui, nuxt, vue, nuxt-ui, vueuse, motion, motion, ts-library, ts-library, document-writer, nuxt-seo, nuxt-seo, nuxt-modules, nuxt-modules, nuxt-content, nuxt-content, nuxt-better-auth, vite, vite, nuxthub, nuxthub, vitest, pnpm, tsdown, tresjs",
+      "source": "./plugins/onmax",
+      "category": "skills"
+    },
+    {
+      "name": "openai",
+      "description": "62 skills from openai/skills, openai/codex, openai/openai-agents-python: linear, screenshot, screenshot, spreadsheet, figma-implement-design, figma, figma, playwright, playwright, security-best-practices, security-best-practices, gh-address-comments, gh-address-comments, gh-fix-ci, gh-fix-ci, jupyter-notebook, jupyter-notebook, develop-web-game, develop-web-game, imagegen, imagegen, openai-docs, pdf, pdf, notion-research-documentation, skill-creator, skill-creator, security-threat-model, security-threat-model, speech, speech, skill-installer, doc, skill-installer, doc, transcribe, netlify-deploy, netlify-deploy, vercel-deploy, vercel-deploy, cloudflare-deploy, sora, sora, notion-spec-to-implementation, notion-spec-to-implementation, sentry, sentry, notion-knowledge-capture, render-deploy, render-deploy, yeet, security-ownership-map, security-ownership-map, yeet, playwright-interactive, notion-meeting-intelligence, notion-meeting-intelligence, babysit-pr, openai-knowledge, test-tui, test-coverage-improver, pr-draft-summary",
+      "source": "./plugins/openai",
+      "category": "skills"
+    },
+    {
+      "name": "parcadei",
+      "description": "150 skills from parcadei/continuous-claude-v3: discovery-interview, github-search, github-search, dead-code, agentic-workflow, agentic-workflow, explore, explore, agent-orchestration, git-commits, git-commits, agent-context-isolation, math-help, math-help, ast-grep-find, ast-grep-find, sub-agents, compound-learnings, hooks, security, recall-reasoning, debug, debug, research-agent, planning-agent, planning-agent, research-agent, create-handoff, create-handoff, debug-hooks, modular-code, skill-upgrader, refactor, repo-research-analyst, skill-development, premortem, premortem, background-agent-pings, skill-development, background-agent-pings, complete-skill, complete-skill, describe-pr, describe-pr, parallel-agents, fix, parallel-agents, fix, review, review, remember, remember, build, help, skill-developer, research, prove, research-external, braintrust-tracing, implement_plan, implement_plan, continuity-ledger, continuity-ledger, agentica-prompts, agentica-prompts, cli-reference, tldr-code, tldr-overview, resume-handoff, math-router, implement_task, commit, morph-apply, firecrawl-scrape, commit, workflow-router, firecrawl-scrape, completion-check, workflow-router, braintrust-analyze, agentica-infrastructure, braintrust-analyze, agentica-infrastructure, perplexity-search, perplexity-search, hook-developer, hook-developer, qlty-check, qlty-check, agentica-claude-proxy, agentica-claude-proxy, tdd-migration-pipeline, explicit-identity, tdd-migration-pipeline, explicit-identity, mcp-chaining, mcp-chaining, shapely-compute, mcp-scripts, opc-architecture, observe-before-editing, no-polling-agents, recall, parallel-agent-contracts, environment-triage, idempotent-redundancy, slash-commands, tldr-stats, onboard, release, mot, tldr-deep, migrate, tldr-router, migrate, no-task-output, no-task-output, tldr-deep, test, async-repl-protocol, graceful-degradation, tdd, llm-tuning-patterns, llm-tuning-patterns, repoprompt, repoprompt, search-hierarchy, implement_plan_micro, implement_plan_micro, agentica-server, agentica-server, router-first-architecture, validate-agent, router-first-architecture, validate-agent, search-hierarchy, qlty-during-development, qlty-during-development, morph-search, index-at-creation, reference-sdk, tdd-migrate, agentica-sdk, system-overview, wiring, wiring, nia-docs, loogle-search, pint-compute, tour",
+      "source": "./plugins/parcadei",
+      "category": "skills"
+    },
+    {
+      "name": "pbakaus",
+      "description": "11 skills from pbakaus/impeccable: frontend-design, polish, critique, audit, critique, adapt, clarify, normalize, normalize, delight, bolder",
+      "source": "./plugins/pbakaus",
+      "category": "skills"
+    },
+    {
+      "name": "pexoai",
+      "description": "7 skills from pexoai/pexo-skills: videoagent-video-studio, videoagent-image-studio, videoagent-audio-studio, pexo-agent, seedance-2.0-prompter, seedance-2.0-prompter, seedance-prompter",
+      "source": "./plugins/pexoai",
+      "category": "skills"
+    },
+    {
+      "name": "pproenca",
+      "description": "60 skills from pproenca/dot-skills: zod, zod, clean-architecture, clean-architecture, typescript, typescript, emilkowal-animations, emilkowal-animations, nuqs, shadcn, shadcn, vitest, vitest, react-hook-form, terminal-ui, framer-motion-best-practices, wxt-browser-extensions, wxt-browser-extensions, expo-react-native-performance, ui-design, ui-design, chrome-extension, chrome-extension, playwright, shell, shell, tailwind, tailwind, expo, framer-motion, chrome-extension-ui, chrome-extension-ui, tanstack-query, react, msw, clean-code, tdd, refactor, feature-spec, rust, debug, nextjs, code-simplifier, feature-arch, humanize, ts-google, mui-base, orval, pulumi, skill-authoring, rust-testing, zustand, python, codemod, uniwind, tailwind-ui-refactor, js-google, vhs, vite, jscodeshift",
+      "source": "./plugins/pproenca",
+      "category": "skills"
+    },
+    {
+      "name": "railwayapp",
+      "description": "17 skills from railwayapp/railway-skills: service, central-station, status, railway-docs, deployment, deployment, deploy, database, projects, environment, environment, metrics, new, domain, domain, use-railway, templates",
+      "source": "./plugins/railwayapp",
+      "category": "skills"
+    },
+    {
+      "name": "refoundai",
+      "description": "102 skills from refoundai/lenny-skills: personal-productivity, writing-prds, competitive-analysis, competitive-analysis, brand-storytelling, ai-product-strategy, ai-product-strategy, giving-presentations, startup-ideation, vibe-coding, systems-thinking, systems-thinking, defining-product-vision, founder-sales, behavioral-product-design, user-onboarding, technical-roadmaps, setting-okrs-goals, setting-okrs-goals, writing-specs-designs, design-systems, content-marketing, problem-definition, positioning-messaging, prioritizing-roadmap, designing-growth-loops, enterprise-sales, sales-qualification, conducting-user-interviews, written-communication, written-communication, building-with-llms, building-with-llms, planning-under-uncertainty, measuring-product-market-fit, analyzing-user-feedback, analyzing-user-feedback, design-engineering, design-engineering, pricing-strategy, product-led-sales, pricing-strategy, product-led-sales, usability-testing, usability-testing, launch-marketing, platform-infrastructure, platform-infrastructure, product-taste-intuition, conducting-interviews, writing-north-star-metrics, retention-engagement, startup-pivoting, designing-surveys, ai-evals, evaluating-trade-offs, platform-strategy, platform-strategy, evaluating-trade-offs, building-sales-team, community-building, shipping-products, career-transitions, running-design-reviews, working-backwards, stakeholder-alignment, writing-job-descriptions, coaching-pms, managing-tech-debt, product-operations, post-mortems-retrospectives, managing-timelines, cross-functional-collaboration, cross-functional-collaboration, running-decision-processes, evaluating-new-technology, having-difficult-conversations, building-a-promotion-case, scoping-cutting, organizational-design, evaluating-candidates, running-effective-meetings, delegating-work, energy-management, energy-management, onboarding-new-hires, finding-mentors-sponsors, engineering-culture, engineering-culture, organizational-transformation, managing-up, running-effective-1-1s, managing-up, running-effective-1-1s, partnership-bd, marketplace-liquidity, team-rituals, media-relations, media-relations, running-offsites, running-offsites, sales-compensation",
+      "source": "./plugins/refoundai",
+      "category": "skills"
+    },
+    {
+      "name": "remotion-dev",
+      "description": "10 skills from remotion-dev/skills, remotion-dev/remotion: remotion-best-practices, web-renderer-test, web-renderer-test, writing-docs, writing-docs, make-pr, video-report, docs-demo, add-expert, add-sfx",
+      "source": "./plugins/remotion-dev",
+      "category": "skills"
+    },
+    {
+      "name": "resciencelab",
+      "description": "14 skills from resciencelab/opc-skills: seo-geo, reddit, nanobanana, logo-creator, twitter, domain-hunter, domain-hunter, banner-creator, banner-creator, producthunt, requesthunt, skill-name, archive, archive",
+      "source": "./plugins/resciencelab",
+      "category": "skills"
+    },
+    {
+      "name": "resend",
+      "description": "8 skills from resend/email-best-practices, resend/resend-skills, resend/react-email, resend/design-skills: email-best-practices, email-best-practices, resend, react-email, send-email, send-email, resend-design-skills, resend-design-skills",
+      "source": "./plugins/resend",
+      "category": "skills"
+    },
+    {
+      "name": "roin-orca",
+      "description": "5 skills from roin-orca/skills: simple, fun-brainstorming, fun-brainstorming, simple-brainstorm, simple-brainstorm",
+      "source": "./plugins/roin-orca",
+      "category": "skills"
+    },
+    {
+      "name": "rudrankriyam",
+      "description": "50 skills from rudrankriyam/app-store-connect-cli-skills, rudrankriyam/asc-skills: asc-cli-usage, asc-xcode-build, asc-release-flow, asc-metadata-sync, asc-metadata-sync, asc-submission-health, asc-testflight-orchestration, asc-submission-health, asc-testflight-orchestration, asc-build-lifecycle, asc-id-resolver, asc-signing-setup, asc-ppp-pricing, asc-notarization, asc-shots-pipeline, asc-subscription-localization, asc-subscription-localization, asc-app-create-ui, asc-localize-metadata, asc-workflow, asc-crash-triage, asc-wall-submit, asc-wall-submit, gpd-build-lifecycle, gpd-cli, gpd-cli-usage, gpd-submission-health, gpd-release-flow, gpd-id-resolver, gpd-metadata-sync, gpd-metadata-sync, gpd-ppp-pricing, gpd-ppp-pricing, asc-cli-usage, asc-submission-health, asc-testflight-orchestration, asc-id-resolver, asc-release-flow, asc-metadata-sync, asc-build-lifecycle, asc-signing-setup, asc-revenuecat-catalog-sync, asc-xcode-build, asc-ppp-pricing, asc-notarization, asc-subscription-localization, asc-localize-metadata, asc-app-create-ui, asc-shots-pipeline, asc-workflow",
+      "source": "./plugins/rudrankriyam",
+      "category": "skills"
+    },
+    {
+      "name": "shubhamsaboo",
+      "description": "24 skills from shubhamsaboo/awesome-llm-apps: fullstack-developer, content-creator, content-creator, academic-researcher, python-expert, code-reviewer, deep-research, data-analyst, project-planner, technical-writer, technical-writer, visualization-expert, visualization-expert, debugger, debugger, strategy-advisor, fact-checker, decision-helper, decision-helper, editor, meeting-notes, sprint-planner, email-drafter, ux-designer",
+      "source": "./plugins/shubhamsaboo",
+      "category": "skills"
+    },
+    {
       "name": "sickn33",
       "description": "735 skills from sickn33/antigravity-awesome-skills: docker-expert, clean-code, nextjs-supabase-auth, nextjs-best-practices, prisma-expert, playwright-skill, playwright-skill, api-security-best-practices, api-security-best-practices, typescript-expert, security-review, browser-automation, ui-ux-pro-max, mobile-design, mobile-design, software-architecture, bun-development, product-manager-toolkit, game-development, web-performance-optimization, telegram-bot-builder, nodejs-best-practices, nestjs-expert, nestjs-expert, senior-architect, api-documentation-generator, shopify-development, shopify-development, i18n-localization, vercel-deployment, firebase, firebase, senior-fullstack, frontend-design, frontend-design, 3d-web-experience, documentation-templates, database-design, powershell-windows, agent-memory-systems, prompt-engineer, prompt-engineer, backend-dev-guidelines, brainstorming, backend-dev-guidelines, app-store-optimization, brainstorming, app-store-optimization, bash-linux, inngest, inngest, github-workflow-automation, github-workflow-automation, frontend-dev-guidelines, frontend-dev-guidelines, react-ui-patterns, workflow-automation, browser-extension-builder, aws-serverless, ai-agents-architect, python-patterns, conversation-memory, conversation-memory, langgraph, scroll-experience, scroll-experience, frontend-patterns, frontend-patterns, tdd-workflow, bullmq-specialist, discord-bot-architect, api-patterns, prompt-engineering, code-review-checklist, code-review-checklist, geo-fundamentals, interactive-portfolio, interactive-portfolio, daily-news-report, tailwind-patterns, tailwind-patterns, seo-fundamentals, telegram-mini-app, telegram-mini-app, content-creator, architecture, micro-saas-launcher, last30days, last30days, systematic-debugging, systematic-debugging, copywriting, multi-agent-brainstorming, testing-patterns, context-window-management, context-window-management, autonomous-agents, autonomous-agents, agent-memory-mcp, gcp-cloud-run, production-code-audit, production-code-audit, gcp-cloud-run, research-engineer, research-engineer, youtube-summarizer, coding-standards, youtube-summarizer, concise-planning, shopify-apps, shopify-apps, app-builder, vulnerability-scanner, vulnerability-scanner, performance-profiling, git-pushing, ai-product, autonomous-agent-patterns, autonomous-agent-patterns, rag-engineer, voice-ai-development, voice-ai-development, clerk-auth, file-organizer, twilio-communications, javascript-mastery, test-driven-development, react-patterns, agent-tool-builder, backend-patterns, computer-use-agents, skill-creator, skill-creator, graphql, web-design-guidelines, web-design-guidelines, ai-wrapper-product, notion-template-business, lint-and-validate, llm-app-patterns, notion-template-business, llm-app-patterns, cc-skill-security-review, seo-audit, stripe-integration, prompt-library, prompt-library, backend-architect, backend-architect, planning-with-files, neon-postgres, agent-manager-skill, agent-manager-skill, ui-ux-designer, server-management, slack-bot-builder, voice-agents, agent-evaluation, paid-ads, notebooklm, paid-ads, azure-functions, notebooklm, azure-functions, parallel-agents, parallel-agents, deployment-procedures, d3-viz, prompt-caching, langfuse, skill-developer, skill-developer, hubspot-integration, hubspot-integration, writing-skills, writing-skills, file-uploads, file-uploads, kaizen, kaizen, canvas-design, viral-generator-builder, plan-writing, pptx, red-team-tactics, marketing-psychology, writing-plans, rag-implementation, rag-implementation, cc-skill-strategic-compact, address-github-comments, cc-skill-strategic-compact, address-github-comments, crewai, crewai, social-content, vercel-react-best-practices, competitor-alternatives, loki-mode, executing-plans, pricing-strategy, test-fixing, email-systems, zapier-make-patterns, algolia-search, analytics-tracking, analytics-tracking, marketing-ideas, marketing-ideas, salesforce-development, salesforce-development, personal-tool-builder, personal-tool-builder, trigger-dev, trigger-dev, remotion-best-practices, remotion-best-practices, behavioral-modes, ab-test-setup, webapp-testing, core-components, subagent-driven-development, environment-setup-guide, environment-setup-guide, onboarding-cro, onboarding-cro, flutter-expert, flutter-expert, using-superpowers, using-git-worktrees, dispatching-parallel-agents, verification-before-completion, code-refactoring-refactor-clean, code-refactoring-refactor-clean, using-git-worktrees, ai-engineer, mcp-builder, pdf, copy-editing, cc-skill-continuous-learning, algorithmic-art, web-artifacts-builder, paywall-upgrade-cro, architect-review, email-sequence, doc-coauthoring, doc-coauthoring, schema-markup, plaid-fintech, plaid-fintech, launch-strategy, theme-factory, upstash-qstash, cc-skill-project-guidelines-example, programmatic-seo, requesting-code-review, requesting-code-review, moodle-external-api-development, moodle-external-api-development, codebase-cleanup-refactor-clean, receiving-code-review, receiving-code-review, content-marketer, signup-flow-cro, blockrun, blockrun, finishing-a-development-branch, finishing-a-development-branch, free-tool-strategy, code-documentation-code-explain, referral-program, popup-cro, popup-cro, radix-ui-design-system, page-cro, segment-cdp, kubernetes-architect, kubernetes-architect, security-auditor, security-auditor, segment-cdp, docx, docx, slack-gif-creator, form-cro, business-analyst, avalonia-layout-zafiro, context7-auto-research, context7-auto-research, supabase-postgres-best-practices, supabase-postgres-best-practices, tailwind-design-system, api-design-principles, audio-transcriber, clickhouse-io, xlsx, avalonia-zafiro-development, agent-orchestration-multi-agent-optimize, avalonia-viewmodels-zafiro, code-reviewer, codex-review, codex-review, firecrawl-scraper, blockchain-developer, code-refactoring-tech-debt, code-refactoring-tech-debt, typescript-advanced-types, typescript-advanced-types, architecture-patterns, architecture-patterns, wordpress penetration testing, startup-analyst, startup-analyst, context-compression, backend-security-coder, sqlmap database penetration testing, frontend-developer, nanobanana-ppt-skills, startup-business-analyst-market-opportunity, startup-business-analyst-market-opportunity, design-orchestration, design-orchestration, nosql-expert, tavily-web, tavily-web, bash-pro, internal-comms, security-audit, backend-development-feature-development, security-scanning-security-hardening, python-pro, database-architect, architecture-decision-records, observability-engineer, performance-engineer, obsidian-clipper-template-creator, obsidian-clipper-template-creator, performance-engineer, claude-scientific-skills, unreal-engine-cpp-pro, unreal-engine-cpp-pro, fastapi-pro, fastapi-pro, startup-business-analyst-business-case, agent-orchestration-improve-agent, startup-business-analyst-business-case, ui-skills, ui-skills, agent-orchestration-improve-agent, aws-skills, aws-skills, data-scientist, data-scientist, exa-search, frontend-security-coder, data-engineering-data-pipeline, data-engineering-data-pipeline, frontend-security-coder, codebase-cleanup-tech-debt, busybox-on-windows, golang-pro, threejs-skills, api-testing-observability-api-mock, api-testing-observability-api-mock, cloud-architect, postgresql, cloud-architect, postgresql, skill-seekers, skill-seekers, code-review-excellence, quant-analyst, unit-testing-test-generate, unit-testing-test-generate, ui-visual-validator, data-engineer, mobile-developer, mobile-developer, code-review-ai-ai-review, frontend-slides, frontend-slides, frontend-mobile-security-xss-scan, api-documenter, frontend-mobile-security-xss-scan, api-documenter, documentation-generation-doc-generate, documentation-generation-doc-generate, prompt-engineering-patterns, application-performance-performance-optimization, application-performance-performance-optimization, frontend-ui-dark-ts, startup-business-analyst-financial-projections, nextjs-app-router-patterns, database-migration, github-actions-templates, machine-learning-ops-ml-pipeline, machine-learning-ops-ml-pipeline, monorepo-architect, voice-ai-engine-development, tiktok-automation, full-stack-orchestration-full-stack-feature, code-documentation-doc-generate, accessibility-compliance-accessibility-audit, frontend-mobile-development-component-scaffold, seo-keyword-strategist, customer-support, rust-pro, ios-developer, devops-troubleshooter, async-python-patterns, deep-research, auth-implementation-patterns, memory-systems, python-development-python-scaffold, c-pro, react-state-management, react-native-architecture, arm-cortex-expert, nodejs-backend-patterns, mobile-security-coder, typescript-pro, codebase-cleanup-deps-audit, reverse-engineer, angular-best-practices, backtesting-frameworks, vector-database-engineer, comprehensive-review-full-review, python-performance-optimization, git-advanced-workflows, angular-ui-patterns, uv-package-manager, seo-content-writer, cicd-automation-workflow-automate, debugging-strategies, terraform-specialist, error-handling-patterns, context-manager, kpi-dashboard-design, database-optimizer, python-testing-patterns, database-admin, php-pro, multi-agent-patterns, code-refactoring-context-restore, react-best-practices, error-diagnostics-smart-debug, systems-programming-rust-project, llm-application-dev-prompt-optimize, llm-application-dev-langchain-agent, bash-defensive-patterns, docs-architect, legal-advisor, seo-meta-optimizer, context-management-context-restore, e2e-testing-patterns, react-modernization, debugger, python-packaging, cc-skill-frontend-patterns, error-debugging-multi-agent-review, unity-developer, temporal-python-pro, langchain-architecture, threat-modeling-expert, django-pro, error-debugging-error-analysis, fastapi-templates, data-engineering-data-driven-feature, java-pro, network-engineer, data-storytelling, context-optimization, database-migrations-sql-migrations, context-management-context-save, sql-optimization-patterns, tdd-orchestrator, swiftui-expert-skill, telegram-automation, commit, readme, javascript-typescript-typescript-scaffold, find-bugs, outlook-automation, database-cloud-optimization-cost-optimize, cpp-pro, seo-content-planner, c4-architecture-c4-architecture, tdd-workflows-tdd-cycle, instagram-automation, mlops-engineer, search-specialist, git-pr-workflows-git-workflow, microservices-patterns, observability-monitoring-monitor-setup, seo-structure-architect, xlsx-official, security-scanning-security-dependencies, event-sourcing-architect, seo-content-auditor, error-diagnostics-error-trace, tdd-workflows-tdd-refactor, debugging-toolkit-smart-debug, database-migrations-migration-observability, tutorial-engineer, workflow-orchestration-patterns, javascript-testing-patterns, godot-gdscript-patterns, billing-automation, gitlab-ci-patterns, tdd-workflows-tdd-green, grafana-dashboards, dependency-management-deps-audit, go-concurrency-patterns, conductor-new-track, error-diagnostics-error-analysis, error-debugging-error-trace, git-pr-workflows-onboard, dotnet-architect, posix-shell-pro, dotnet-backend-patterns, csharp-pro, conductor-manage, malware-analyst, sql-pro, antigravity-workflows, security-scanning-security-sast, deployment-engineer, test-automator, security-scanning-security-sast, angular-state-management, javascript-pro, conductor-implement, ruby-pro, dependency-upgrade, youtube-automation, security-compliance-compliance-check, laravel-security-audit, llm-application-dev-ai-assistant, monorepo-management, performance-testing-review-multi-agent-review, pentest-checklist, error-detective, seo-authority-builder, observability-monitoring-slo-implement, startup-financial-modeling, deployment-pipeline-design, startup-metrics-framework, screenshots, conductor-status, changelog-automation, git-pr-workflows-pr-enhance, performance-testing-review-ai-review, tdd-workflows-tdd-red, secrets-management, binary-analysis-patterns, design-md, anti-reversing-techniques, context-degradation, web3-testing, rust-async-patterns, gitops-workflow, multi-platform-apps-multi-platform, llm-evaluation, angular-migration, k8s-manifest-generator, ml-engineer, seo-cannibalization-detector, conductor-setup, unity-ecs-patterns, wcag-audit-patterns, seo-content-refresher, computer-vision-expert, risk-manager, deployment-validation-config-validate, superpowers-lab, conductor-revert, context-fundamentals, claude-speed-reader, angular, n8n-node-configuration, risk-metrics-calculation, beautiful-prose, framework-migration-code-migrate, helm-chart-scaffolding, solidity-security, firmware-analyst, claude-ally-health, seo-snippet-hunter, openapi-spec-generation, attack-tree-construction, security-requirement-extraction, gdpr-data-handling, mermaid-expert, team-collaboration-standup-notes, sales-automator, n8n-mcp-tools-expert, cost-optimization, incident-response-incident-response, c4-context, comprehensive-review-pr-enhance, elixir-pro, protocol-reverse-engineering, memory-safety-patterns, scala-pro, airflow-dag-patterns, k8s-security-policies, minecraft-bukkit-pro, event-store-design, terraform-skill, payment-integration, embedding-strategies, pptx-official, office-productivity, framework-migration-legacy-modernize, team-collaboration-issue, modern-javascript-patterns, laravel-expert, cqrs-implementation, terraform-module-library, haskell-pro, python-fastapi-development, skill-rails-upgrade, vercel-deploy-claimable, multi-cloud-architecture, temporal-python-testing, incident-response-smart-fix, prometheus-configuration, docx-official, memory-forensics, framework-migration-deps-upgrade, postmortem-writing, hr-pro, data-quality-frameworks, hybrid-search-implementation, c4-component, incident-runbook-templates, c4-code, vector-index-tuning, github-automation, bats-testing-patterns, threat-mitigation-mapping, distributed-debugging-debug-trace, context-driven-development, ml-pipeline-workflow, conductor-validator, create-pr, tool-design, googlesheets-automation, workflow-patterns, distributed-tracing, paypal-integration, defi-protocol-templates, shellcheck-configuration, employment-contract-templates, competitive-landscape, bazel-build-optimization, service-mesh-expert, similarity-search-patterns, spark-optimization, shopify-automation, automate-whatsapp, pci-compliance, linkerd-patterns, turborepo-caching, dbt-transformation-patterns, on-call-handoff-patterns, slo-implementation, saga-orchestration, cc-skill-backend-patterns, stride-analysis-patterns, istio-traffic-management, market-sizing-analysis, cc-skill-coding-standards, c4-container, pentest-commands, screen-reader-testing, graphql-architect, fix-review, ethical-hacking-methodology, airtable-automation, nx-workspace-patterns, gmail-automation, pypict-skill, linear-claude-skill, figma-automation, sast-configuration, mtls-configuration, fal-generate, hybrid-cloud-networking, evaluation, aws-penetration-testing, x-article-publisher-skill, n8n-code-python, julia-pro, zustand-store-ts, service-mesh-observability, stripe-automation, fal-image-edit, pdf-official, incident-responder, legacy-modernizer, projection-patterns, nft-standards, claude-win11-speckit-update-skill, google-drive-automation, sql-injection-testing, security-bluebook-builder, supabase-automation, linkedin-automation, whatsapp-automation, google-calendar-automation, reference-builder, ai-agent-development, dotnet-backend, dx-optimizer, scanning-tools, vercel-automation, fp-ts-pragmatic, hybrid-cloud-architect, canva-automation, claude-d3js-skill, web-security-testing, fp-ts-react, using-neon, gitlab-automation, ssh-penetration-testing, asana-automation, hugging-face-cli, fal-upscale, clarity-gate, varlock-claude-skill, notion-automation, fal-workflow, observe-whatsapp, hugging-face-jobs",
       "source": "./plugins/sickn33",
+      "category": "skills"
+    },
+    {
+      "name": "sleekdotdesign",
+      "description": "1 skills from sleekdotdesign/agent-skills: sleek-design-mobile-apps",
+      "source": "./plugins/sleekdotdesign",
+      "category": "skills"
+    },
+    {
+      "name": "softaworks",
+      "description": "38 skills from softaworks/agent-toolkit: mermaid-diagrams, writing-clearly-and-concisely, agent-md-refactor, agent-md-refactor, crafting-effective-readmes, qa-test-planner, qa-test-planner, commit-work, commit-work, skill-judge, gemini, domain-name-brainstormer, plugin-forge, difficult-workplace-conversations, c4-architecture, database-schema-designer, react-dev, naming-analyzer, lesson-learned, gepetto, jira, jira, requirements-clarity, backend-to-frontend-handoff-docs, backend-to-frontend-handoff-docs, draw-io, draw-io, excalidraw, frontend-to-backend-requirements, design-system-starter, perplexity, perplexity, web-to-markdown, web-to-markdown, mui, mui, datadog-cli, datadog-cli",
+      "source": "./plugins/softaworks",
+      "category": "skills"
+    },
+    {
+      "name": "squirrelscan",
+      "description": "1 skills from squirrelscan/skills: audit-website",
+      "source": "./plugins/squirrelscan",
+      "category": "skills"
+    },
+    {
+      "name": "steipete",
+      "description": "78 skills from steipete/clawdis, steipete/agent-scripts: summarize, weather, weather, gog, gog, peekaboo, peekaboo, brave-search, mcporter, mcporter, openai-whisper, clawhub, clawhub, nano-pdf, coding-agent, coding-agent, apple-reminders, apple-reminders, apple-notes, session-logs, tmux, healthcheck, github, github, obsidian, video-frames, video-frames, 1password, trello, himalaya, model-usage, himalaya, model-usage, sonoscli, sonoscli, blogwatcher, video-transcript-downloader, spotify-player, spotify-player, notion, wacli, nano-banana-pro, openai-whisper-api, openai-whisper-api, openai-image-gen, voice-call, openai-image-gen, voice-call, sherpa-onnx-tts, sherpa-onnx-tts, sag, oracle, oracle, things-mac, things-mac, gifgrep, gifgrep, discord, goplaces, imsg, slack, bluebubbles, camsnap, bear-notes, 1password, xurl, openhue, blucli, eightctl, gemini, skill-creator, ordercli, songsee, gh-issues, nano-banana-pro, create-cli, swiftui-liquid-glass, markdown-converter",
+      "source": "./plugins/steipete",
+      "category": "skills"
+    },
+    {
+      "name": "supabase",
+      "description": "6 skills from supabase/agent-skills, supabase/supabase: supabase-postgres-best-practices, skill-creator, skill-creator, vitest, e2e-studio-tests, vercel-composition-patterns",
+      "source": "./plugins/supabase",
       "category": "skills"
     },
     {
@@ -67,15 +547,63 @@
       "category": "skills"
     },
     {
+      "name": "tavily-ai",
+      "description": "7 skills from tavily-ai/skills, tavily-ai/tavily-plugins: search, research, extract, crawl, crawl, tavily-best-practices, research",
+      "source": "./plugins/tavily-ai",
+      "category": "skills"
+    },
+    {
+      "name": "tencentcloudbase",
+      "description": "35 skills from tencentcloudbase/skills, tencentcloudbase/cloudbase-mcp: miniprogram-development, auth-wechat-miniprogram, web-development, ui-design, ui-design, cloudbase-document-database-in-wechat-miniprogram, cloudbase-document-database-in-wechat-miniprogram, spec-workflow, ai-model-wechat, cloudbase-guidelines, cloud-functions, cloudbase-platform, ai-model-nodejs, http-api-cloudbase, cloud-storage-web, data-model-creation, data-model-creation, cloudrun-development, cloudrun-development, auth-web-cloudbase, auth-web-cloudbase, relational-database-mcp-cloudbase, auth-nodejs-cloudbase, relational-database-mcp-cloudbase, auth-tool-cloudbase, auth-tool-cloudbase, cloudbase-document-database-web-sdk, ai-model-web, relational-database-web-cloudbase, relational-database-web-cloudbase, cloudbase-agent-ts, cloudbase-agent-ts, setup-cloudbase-openclaw, setup-cloudbase-openclaw, miniprogram-development",
+      "source": "./plugins/tencentcloudbase",
+      "category": "skills"
+    },
+    {
+      "name": "trailofbits",
+      "description": "98 skills from trailofbits/skills: ask-questions-if-underspecified, ask-questions-if-underspecified, semgrep, semgrep, differential-review, differential-review, sharp-edges, codeql, codeql, property-based-testing, property-based-testing, secure-workflow-guide, variant-analysis, audit-context-building, solana-vulnerability-scanner, token-integration-analyzer, token-integration-analyzer, guidelines-advisor, guidelines-advisor, modern-python, modern-python, sarif-parsing, sarif-parsing, spec-to-code-compliance, spec-to-code-compliance, fuzzing-obstacles, audit-prep-assistant, coverage-analysis, coverage-analysis, code-maturity-assessor, entry-point-analyzer, entry-point-analyzer, semgrep-rule-creator, semgrep-rule-creator, cargo-fuzz, cargo-fuzz, firebase-apk-scanner, harness-writing, constant-time-analysis, address-sanitizer, cosmos-vulnerability-scanner, fuzzing-dictionary, testing-handbook-generator, algorand-vulnerability-scanner, libfuzzer, substrate-vulnerability-scanner, substrate-vulnerability-scanner, atheris, libfuzzer, interpreting-culture-index, atheris, constant-time-testing, interpreting-culture-index, ossfuzz, wycheproof, constant-time-testing, ossfuzz, ton-vulnerability-scanner, wycheproof, cairo-vulnerability-scanner, ton-vulnerability-scanner, cairo-vulnerability-scanner, libafl, aflpp, dwarf-expert, libafl, aflpp, dwarf-expert, ruzzy, semgrep-rule-variant-creator, ruzzy, semgrep-rule-variant-creator, insecure-defaults, insecure-defaults, yara-rule-authoring, claude-in-chrome-troubleshooting, fix-review, claude-in-chrome-troubleshooting, fix-review, burpsuite-project-parser, burpsuite-project-parser, second-opinion, second-opinion, devcontainer-setup, git-cleanup, debug-buttercup, debug-buttercup, designing-workflow-skills, designing-workflow-skills, supply-chain-risk-auditor, supply-chain-risk-auditor, skill-improver, agentic-actions-auditor, let-fate-decide, agentic-actions-auditor, seatbelt-sandboxer, zeroize-audit, fp-check",
+      "source": "./plugins/trailofbits",
+      "category": "skills"
+    },
+    {
+      "name": "vercel",
+      "description": "28 skills from vercel/ai, vercel/turborepo, vercel/ai-elements, vercel/components.build, vercel/next.js, vercel/vercel, vercel/workflow, vercel/streamdown, vercel/chat, vercel/nextjs-skills, vercel/examples, vercel/flags: ai-sdk, turborepo, ai-elements, building-components, update-docs, vercel-cli, workflow, workflow, streamdown, streamdown, chat-sdk, develop-ai-functions-example, capture-api-response-test-fixture, list-npm-package-content, next-best-practices, next-best-practices, authoring-skills, runtime-debug, react-vendoring, flags, flags, dce-edge, pr-status-triage, workflow-init, add-provider-package, next-cache-components, web-design-guidelines, flags-sdk",
+      "source": "./plugins/vercel",
+      "category": "skills"
+    },
+    {
       "name": "vercel-labs",
       "description": "50 skills from vercel-labs/skills, vercel-labs/agent-skills, vercel-labs/agent-browser, vercel-labs/next-skills, vercel-labs/json-render, vercel-labs/before-and-after, vercel-labs/ai, vercel-labs/portless, vercel-labs/skill-remotion-geist, vercel-labs/agent-eval, vercel-labs/agentic-commerce-skills, vercel-labs/migration-skills, vercel-labs/slack-agent-skill, vercel-labs/claude-skills, vercel-labs/autoship, vercel-labs/dev3000, vercel-labs/vercel-skills: find-skills, vercel-react-best-practices, web-design-guidelines, agent-browser, vercel-composition-patterns, vercel-react-native-skills, next-best-practices, next-cache-components, dogfood, skill-creator, next-upgrade, next-upgrade, electron, deploy-to-vercel, slack, vercel-sandbox, vercel-deploy, vercel-sandbox, json-render-react, before-and-after, json-render-core, json-render-core, ai-sdk, ai-sdk, portless, create-remotion-geist, create-remotion-geist, frontend-design, remotion-best-practices, json-render-remotion, json-render-remotion, json-render-shadcn, json-render-react-native, json-render-react-native, ucp, skill-creator, cra-to-next-migration, core, slack-agent, react, vercel-composition-patterns, mcp, autoship, d3k, vercel-react-best-practices, next-best-practices, shadcn, web-design-guidelines, web-design-guidelines, vercel-react-best-practices",
       "source": "./plugins/vercel-labs",
       "category": "skills"
     },
     {
+      "name": "vuejs-ai",
+      "description": "11 skills from vuejs-ai/skills: vue-best-practices, vue-debug-guides, vue-debug-guides, vue-pinia-best-practices, vue-pinia-best-practices, vue-router-best-practices, create-adaptable-composable, vue-testing-best-practices, vue-options-api-best-practices, vue-jsx-best-practices, vue-development-guides",
+      "source": "./plugins/vuejs-ai",
+      "category": "skills"
+    },
+    {
+      "name": "waynesutton",
+      "description": "31 skills from waynesutton/convexskills: convex, convex-best-practices, convex-functions, convex-schema-validator, convex-realtime, convex-http-actions, convex-cron-jobs, convex-http-actions, convex-cron-jobs, convex-security-check, convex-security-check, convex-file-storage, convex-migrations, convex-migrations, convex-security-audit, avoid-feature-creep, convex-agents, convex-component-authoring, convex best practices, convex realtime, convex schema validator, convex http actions, convex functions, convex security check, convex security audit, convex file storage, convex cron jobs, convex migrations, convex agents, convex component authoring, convex-eslint",
+      "source": "./plugins/waynesutton",
+      "category": "skills"
+    },
+    {
       "name": "wshobson",
       "description": "121 skills from wshobson/agents: tailwind-design-system, typescript-advanced-types, api-design-principles, api-design-principles, nodejs-backend-patterns, python-performance-optimization, architecture-patterns, nextjs-app-router-patterns, code-review-excellence, prompt-engineering-patterns, python-testing-patterns, postgresql-table-design, fastapi-templates, responsive-design, e2e-testing-patterns, error-handling-patterns, mobile-ios-design, async-python-patterns, sql-optimization-patterns, github-actions-templates, mobile-android-design, security-requirement-extraction, javascript-testing-patterns, stripe-integration, design-system-patterns, react-native-architecture, accessibility-compliance, monorepo-management, git-advanced-workflows, dotnet-backend-patterns, database-migration, debugging-strategies, microservices-patterns, uv-package-manager, changelog-automation, deployment-pipeline-design, deployment-pipeline-design, data-storytelling, godot-gdscript-patterns, openapi-spec-generation, openapi-spec-generation, python-packaging, python-packaging, workflow-orchestration-patterns, gitlab-ci-patterns, terraform-module-library, grafana-dashboards, solidity-security, backtesting-frameworks, secrets-management, react-modernization, llm-evaluation, embedding-strategies, cost-optimization, python-code-style, k8s-security-policies, startup-financial-modeling, memory-safety-patterns, wcag-audit-patterns, bash-defensive-patterns, gdpr-data-handling, go-concurrency-patterns, temporal-python-testing, python-project-structure, market-sizing-analysis, helm-chart-scaffolding, data-quality-frameworks, dependency-upgrade, competitive-landscape, prometheus-configuration, protocol-reverse-engineering, k8s-manifest-generator, startup-metrics-framework, projection-patterns, vector-index-tuning, web3-testing, dbt-transformation-patterns, dbt-transformation-patterns, memory-forensics, screen-reader-testing, billing-automation, angular-migration, paypal-integration, hybrid-cloud-networking, paypal-integration, spark-optimization, hybrid-cloud-networking, spark-optimization, threat-mitigation-mapping, threat-mitigation-mapping, sast-configuration, attack-tree-construction, track-management, binary-analysis-patterns, service-mesh-observability, employment-contract-templates, pci-compliance, bats-testing-patterns, mtls-configuration, istio-traffic-management, nft-standards, bazel-build-optimization, linkerd-patterns, python-type-safety, python-observability, python-configuration, python-resilience, python-resilience, python-background-jobs, python-background-jobs, python-resource-management, python-resource-management, task-coordination-strategies, task-coordination-strategies, parallel-debugging, parallel-debugging, parallel-feature-development, parallel-feature-development, multi-reviewer-patterns, team-composition-patterns, team-communication-protocols",
       "source": "./plugins/wshobson",
+      "category": "skills"
+    },
+    {
+      "name": "zaddy6",
+      "description": "1 skills from zaddy6/agent-email-skill: agent-email-cli",
+      "source": "./plugins/zaddy6",
+      "category": "skills"
+    },
+    {
+      "name": "zhanghandong",
+      "description": "43 skills from zhanghandong/rust-skills: m15-anti-pattern, coding-guidelines, m10-performance, m10-performance, m07-concurrency, m06-error-handling, m01-ownership, m05-type-driven, m04-zero-cost, m02-resource, m02-resource, m03-mutability, m12-lifecycle, m09-domain, m11-ecosystem, m14-mental-model, rust-router, rust-router, m13-domain-error, rust-refactor-helper, rust-refactor-helper, unsafe-checker, unsafe-checker, rust-trait-explorer, rust-code-navigator, rust-learner, domain-cli, rust-symbol-analyzer, rust-call-graph, rust-call-graph, rust-deps-visualizer, domain-web, rust-skill-creator, meta-cognition-parallel, meta-cognition-parallel, rust-daily, rust-daily, domain-cloud-native, domain-embedded, domain-ml, domain-ml, domain-fintech, domain-iot",
+      "source": "./plugins/zhanghandong",
       "category": "skills"
     }
   ]

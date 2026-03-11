@@ -1,0 +1,447 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - heading "Ulpi Plugin Marketplace" [level=1] [ref=e4]
+      - paragraph [ref=e5]: A curated collection of agent skills for Claude Desktop, sourced from the open skills ecosystem.
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e8]: 11,214
+          - generic [ref=e9]: Skills
+        - generic [ref=e10]:
+          - generic [ref=e11]: 1,432
+          - generic [ref=e12]: Publishers
+        - generic [ref=e13]:
+          - generic [ref=e14]: 8.7M
+          - generic [ref=e15]: Total Installs
+    - generic [ref=e16]:
+      - heading "Get Started" [level=2] [ref=e17]
+      - generic [ref=e18]:
+        - button "Claude Desktop" [ref=e19] [cursor=pointer]
+        - button "CLI" [ref=e20] [cursor=pointer]
+      - list [ref=e22]:
+        - listitem [ref=e23]:
+          - text: Open
+          - strong [ref=e24]: Claude Desktop
+        - listitem [ref=e25]:
+          - text: Go to
+          - strong [ref=e26]: Cowork
+          - text: →
+          - strong [ref=e27]: Customize
+          - text: →
+          - strong [ref=e28]: Skills
+        - listitem [ref=e29]:
+          - text: Above "Personal plugins", click the
+          - strong [ref=e30]: +
+          - text: button
+        - listitem [ref=e31]:
+          - text: Select
+          - strong [ref=e32]: Browse
+          - text: →
+          - strong [ref=e33]: Personal
+        - listitem [ref=e34]:
+          - text: Click
+          - strong [ref=e35]: +
+          - text: again
+        - listitem [ref=e36]:
+          - text: Choose
+          - strong [ref=e37]: Add marketplace from GitHub
+        - listitem [ref=e38]:
+          - text: "Enter:"
+          - generic [ref=e39] [cursor=pointer]: ulpi-io/plugin-marketplace
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - img [ref=e43]
+          - textbox "Search skills..." [ref=e46]
+        - button "Top installs" [ref=e47] [cursor=pointer]
+        - button "A-Z" [ref=e48] [cursor=pointer]
+      - generic [ref=e49]:
+        - button "All" [ref=e50] [cursor=pointer]
+        - button "davila7 (820)" [ref=e51] [cursor=pointer]
+        - button "sickn33 (776)" [ref=e52] [cursor=pointer]
+        - button "aj-geddes (309)" [ref=e53] [cursor=pointer]
+        - button "mindrally (233)" [ref=e54] [cursor=pointer]
+        - button "jezweb (197)" [ref=e55] [cursor=pointer]
+        - button "anthropics (190)" [ref=e56] [cursor=pointer]
+        - button "bobmatnyc (152)" [ref=e57] [cursor=pointer]
+        - button "parcadei (151)" [ref=e58] [cursor=pointer]
+        - button "charleswiltgen (146)" [ref=e59] [cursor=pointer]
+        - button "kostja94 (134)" [ref=e60] [cursor=pointer]
+        - button "404kidwiz (129)" [ref=e61] [cursor=pointer]
+        - button "giuseppe-trisciuoglio (123)" [ref=e62] [cursor=pointer]
+      - generic [ref=e63]: 11,214 skills
+      - generic [ref=e64]:
+        - link "find-skills vercel-labs/skills find-skills 496.7K" [ref=e65] [cursor=pointer]:
+          - /url: https://github.com/vercel-labs/skills
+          - generic [ref=e66]:
+            - generic [ref=e67]: find-skills
+            - generic [ref=e68]: vercel-labs/skills
+            - generic [ref=e69]: find-skills
+          - generic [ref=e70]: 496.7K
+        - link "vercel-react-best-practices vercel-labs/agent-skills vercel-react-best-practices 195.9K" [ref=e71] [cursor=pointer]:
+          - /url: https://github.com/vercel-labs/agent-skills
+          - generic [ref=e72]:
+            - generic [ref=e73]: vercel-react-best-practices
+            - generic [ref=e74]: vercel-labs/agent-skills
+            - generic [ref=e75]: vercel-react-best-practices
+          - generic [ref=e76]: 195.9K
+        - link "web-design-guidelines vercel-labs/agent-skills web-design-guidelines 153.6K" [ref=e77] [cursor=pointer]:
+          - /url: https://github.com/vercel-labs/agent-skills
+          - generic [ref=e78]:
+            - generic [ref=e79]: web-design-guidelines
+            - generic [ref=e80]: vercel-labs/agent-skills
+            - generic [ref=e81]: web-design-guidelines
+          - generic [ref=e82]: 153.6K
+        - link "frontend-design anthropics/skills frontend-design 142.1K" [ref=e83] [cursor=pointer]:
+          - /url: https://github.com/anthropics/skills
+          - generic [ref=e84]:
+            - generic [ref=e85]: frontend-design
+            - generic [ref=e86]: anthropics/skills
+            - generic [ref=e87]: frontend-design
+          - generic [ref=e88]: 142.1K
+        - link "remotion-best-practices remotion-dev/skills remotion-best-practices 136.9K" [ref=e89] [cursor=pointer]:
+          - /url: https://github.com/remotion-dev/skills
+          - generic [ref=e90]:
+            - generic [ref=e91]: remotion-best-practices
+            - generic [ref=e92]: remotion-dev/skills
+            - generic [ref=e93]: remotion-best-practices
+          - generic [ref=e94]: 136.9K
+        - link "azure-ai microsoft/github-copilot-for-azure azure-ai 129.2K" [ref=e95] [cursor=pointer]:
+          - /url: https://github.com/microsoft/github-copilot-for-azure
+          - generic [ref=e96]:
+            - generic [ref=e97]: azure-ai
+            - generic [ref=e98]: microsoft/github-copilot-for-azure
+            - generic [ref=e99]: azure-ai
+          - generic [ref=e100]: 129.2K
+        - link "sleek-design-mobile-apps sleekdotdesign/agent-skills sleek-design-mobile-apps 113.5K" [ref=e101] [cursor=pointer]:
+          - /url: https://github.com/sleekdotdesign/agent-skills
+          - generic [ref=e102]:
+            - generic [ref=e103]: sleek-design-mobile-apps
+            - generic [ref=e104]: sleekdotdesign/agent-skills
+            - generic [ref=e105]: sleek-design-mobile-apps
+          - generic [ref=e106]: 113.5K
+        - link "azure-hosted-copilot-sdk microsoft/github-copilot-for-azure azure-hosted-copilot-sdk 98.3K" [ref=e107] [cursor=pointer]:
+          - /url: https://github.com/microsoft/github-copilot-for-azure
+          - generic [ref=e108]:
+            - generic [ref=e109]: azure-hosted-copilot-sdk
+            - generic [ref=e110]: microsoft/github-copilot-for-azure
+            - generic [ref=e111]: azure-hosted-copilot-sdk
+          - generic [ref=e112]: 98.3K
+        - link "agent-browser vercel-labs/agent-browser agent-browser 88.1K" [ref=e113] [cursor=pointer]:
+          - /url: https://github.com/vercel-labs/agent-browser
+          - generic [ref=e114]:
+            - generic [ref=e115]: agent-browser
+            - generic [ref=e116]: vercel-labs/agent-browser
+            - generic [ref=e117]: agent-browser
+          - generic [ref=e118]: 88.1K
+        - link "vercel-composition-patterns vercel-labs/agent-skills vercel-composition-patterns 78.6K" [ref=e119] [cursor=pointer]:
+          - /url: https://github.com/vercel-labs/agent-skills
+          - generic [ref=e120]:
+            - generic [ref=e121]: vercel-composition-patterns
+            - generic [ref=e122]: vercel-labs/agent-skills
+            - generic [ref=e123]: vercel-composition-patterns
+          - generic [ref=e124]: 78.6K
+        - link "skill-creator anthropics/skills skill-creator 73.8K" [ref=e125] [cursor=pointer]:
+          - /url: https://github.com/anthropics/skills
+          - generic [ref=e126]:
+            - generic [ref=e127]: skill-creator
+            - generic [ref=e128]: anthropics/skills
+            - generic [ref=e129]: skill-creator
+          - generic [ref=e130]: 73.8K
+        - link "azure-compute microsoft/github-copilot-for-azure azure-compute 65.3K" [ref=e131] [cursor=pointer]:
+          - /url: https://github.com/microsoft/github-copilot-for-azure
+          - generic [ref=e132]:
+            - generic [ref=e133]: azure-compute
+            - generic [ref=e134]: microsoft/github-copilot-for-azure
+            - generic [ref=e135]: azure-compute
+          - generic [ref=e136]: 65.3K
+        - link "simple roin-orca/skills simple 55.5K" [ref=e137] [cursor=pointer]:
+          - /url: https://github.com/roin-orca/skills
+          - generic [ref=e138]:
+            - generic [ref=e139]: simple
+            - generic [ref=e140]: roin-orca/skills
+            - generic [ref=e141]: simple
+          - generic [ref=e142]: 55.5K
+        - link "ui-ux-pro-max nextlevelbuilder/ui-ux-pro-max-skill ui-ux-pro-max 55.4K" [ref=e143] [cursor=pointer]:
+          - /url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+          - generic [ref=e144]:
+            - generic [ref=e145]: ui-ux-pro-max
+            - generic [ref=e146]: nextlevelbuilder/ui-ux-pro-max-skill
+            - generic [ref=e147]: ui-ux-pro-max
+          - generic [ref=e148]: 55.4K
+        - link "vercel-react-native-skills vercel-labs/agent-skills vercel-react-native-skills 54.9K" [ref=e149] [cursor=pointer]:
+          - /url: https://github.com/vercel-labs/agent-skills
+          - generic [ref=e150]:
+            - generic [ref=e151]: vercel-react-native-skills
+            - generic [ref=e152]: vercel-labs/agent-skills
+            - generic [ref=e153]: vercel-react-native-skills
+          - generic [ref=e154]: 54.9K
+        - link "azure-cloud-migrate microsoft/github-copilot-for-azure azure-cloud-migrate 54.4K" [ref=e155] [cursor=pointer]:
+          - /url: https://github.com/microsoft/github-copilot-for-azure
+          - generic [ref=e156]:
+            - generic [ref=e157]: azure-cloud-migrate
+            - generic [ref=e158]: microsoft/github-copilot-for-azure
+            - generic [ref=e159]: azure-cloud-migrate
+          - generic [ref=e160]: 54.4K
+        - link "brainstorming obra/superpowers brainstorming 49.2K" [ref=e161] [cursor=pointer]:
+          - /url: https://github.com/obra/superpowers
+          - generic [ref=e162]:
+            - generic [ref=e163]: brainstorming
+            - generic [ref=e164]: obra/superpowers
+            - generic [ref=e165]: brainstorming
+          - generic [ref=e166]: 49.2K
+        - link "browser-use browser-use/browser-use browser-use 47.7K" [ref=e167] [cursor=pointer]:
+          - /url: https://github.com/browser-use/browser-use
+          - generic [ref=e168]:
+            - generic [ref=e169]: browser-use
+            - generic [ref=e170]: browser-use/browser-use
+            - generic [ref=e171]: browser-use
+          - generic [ref=e172]: 47.7K
+        - link "seo-audit coreyhaines31/marketingskills seo-audit 38.9K" [ref=e173] [cursor=pointer]:
+          - /url: https://github.com/coreyhaines31/marketingskills
+          - generic [ref=e174]:
+            - generic [ref=e175]: seo-audit
+            - generic [ref=e176]: coreyhaines31/marketingskills
+            - generic [ref=e177]: seo-audit
+          - generic [ref=e178]: 38.9K
+        - link "azure-postgres microsoft/github-copilot-for-azure azure-postgres 34.8K" [ref=e179] [cursor=pointer]:
+          - /url: https://github.com/microsoft/github-copilot-for-azure
+          - generic [ref=e180]:
+            - generic [ref=e181]: azure-postgres
+            - generic [ref=e182]: microsoft/github-copilot-for-azure
+            - generic [ref=e183]: azure-postgres
+          - generic [ref=e184]: 34.8K
+        - link "pdf anthropics/skills pdf 33.9K" [ref=e185] [cursor=pointer]:
+          - /url: https://github.com/anthropics/skills
+          - generic [ref=e186]:
+            - generic [ref=e187]: pdf
+            - generic [ref=e188]: anthropics/skills
+            - generic [ref=e189]: pdf
+          - generic [ref=e190]: 33.9K
+        - link "audit-website squirrelscan/skills audit-website 33.6K" [ref=e191] [cursor=pointer]:
+          - /url: https://github.com/squirrelscan/skills
+          - generic [ref=e192]:
+            - generic [ref=e193]: audit-website
+            - generic [ref=e194]: squirrelscan/skills
+            - generic [ref=e195]: audit-website
+          - generic [ref=e196]: 33.6K
+        - link "copywriting coreyhaines31/marketingskills copywriting 32.1K" [ref=e197] [cursor=pointer]:
+          - /url: https://github.com/coreyhaines31/marketingskills
+          - generic [ref=e198]:
+            - generic [ref=e199]: copywriting
+            - generic [ref=e200]: coreyhaines31/marketingskills
+            - generic [ref=e201]: copywriting
+          - generic [ref=e202]: 32.1K
+        - link "supabase-postgres-best-practices supabase/agent-skills supabase-postgres-best-practices 31.7K" [ref=e203] [cursor=pointer]:
+          - /url: https://github.com/supabase/agent-skills
+          - generic [ref=e204]:
+            - generic [ref=e205]: supabase-postgres-best-practices
+            - generic [ref=e206]: supabase/agent-skills
+            - generic [ref=e207]: supabase-postgres-best-practices
+          - generic [ref=e208]: 31.7K
+        - link "next-best-practices vercel-labs/next-skills next-best-practices 30.9K" [ref=e209] [cursor=pointer]:
+          - /url: https://github.com/vercel-labs/next-skills
+          - generic [ref=e210]:
+            - generic [ref=e211]: next-best-practices
+            - generic [ref=e212]: vercel-labs/next-skills
+            - generic [ref=e213]: next-best-practices
+          - generic [ref=e214]: 30.9K
+        - link "pptx anthropics/skills pptx 29.7K" [ref=e215] [cursor=pointer]:
+          - /url: https://github.com/anthropics/skills
+          - generic [ref=e216]:
+            - generic [ref=e217]: pptx
+            - generic [ref=e218]: anthropics/skills
+            - generic [ref=e219]: pptx
+          - generic [ref=e220]: 29.7K
+        - link "systematic-debugging obra/superpowers systematic-debugging 27.4K" [ref=e221] [cursor=pointer]:
+          - /url: https://github.com/obra/superpowers
+          - generic [ref=e222]:
+            - generic [ref=e223]: systematic-debugging
+            - generic [ref=e224]: obra/superpowers
+            - generic [ref=e225]: systematic-debugging
+          - generic [ref=e226]: 27.4K
+        - link "docx anthropics/skills docx 26.7K" [ref=e227] [cursor=pointer]:
+          - /url: https://github.com/anthropics/skills
+          - generic [ref=e228]:
+            - generic [ref=e229]: docx
+            - generic [ref=e230]: anthropics/skills
+            - generic [ref=e231]: docx
+          - generic [ref=e232]: 26.7K
+        - link "writing-plans obra/superpowers writing-plans 25.4K" [ref=e233] [cursor=pointer]:
+          - /url: https://github.com/obra/superpowers
+          - generic [ref=e234]:
+            - generic [ref=e235]: writing-plans
+            - generic [ref=e236]: obra/superpowers
+            - generic [ref=e237]: writing-plans
+          - generic [ref=e238]: 25.4K
+        - link "xlsx anthropics/skills xlsx 24.9K" [ref=e239] [cursor=pointer]:
+          - /url: https://github.com/anthropics/skills
+          - generic [ref=e240]:
+            - generic [ref=e241]: xlsx
+            - generic [ref=e242]: anthropics/skills
+            - generic [ref=e243]: xlsx
+          - generic [ref=e244]: 24.9K
+        - link "microsoft-foundry microsoft/azure-skills microsoft-foundry 23.4K" [ref=e245] [cursor=pointer]:
+          - /url: https://github.com/microsoft/azure-skills
+          - generic [ref=e246]:
+            - generic [ref=e247]: microsoft-foundry
+            - generic [ref=e248]: microsoft/azure-skills
+            - generic [ref=e249]: microsoft-foundry
+          - generic [ref=e250]: 23.4K
+        - link "marketing-psychology coreyhaines31/marketingskills marketing-psychology 23.2K" [ref=e251] [cursor=pointer]:
+          - /url: https://github.com/coreyhaines31/marketingskills
+          - generic [ref=e252]:
+            - generic [ref=e253]: marketing-psychology
+            - generic [ref=e254]: coreyhaines31/marketingskills
+            - generic [ref=e255]: marketing-psychology
+          - generic [ref=e256]: 23.2K
+        - link "test-driven-development obra/superpowers test-driven-development 22.6K" [ref=e257] [cursor=pointer]:
+          - /url: https://github.com/obra/superpowers
+          - generic [ref=e258]:
+            - generic [ref=e259]: test-driven-development
+            - generic [ref=e260]: obra/superpowers
+            - generic [ref=e261]: test-driven-development
+          - generic [ref=e262]: 22.6K
+        - link "webapp-testing anthropics/skills webapp-testing 21.5K" [ref=e263] [cursor=pointer]:
+          - /url: https://github.com/anthropics/skills
+          - generic [ref=e264]:
+            - generic [ref=e265]: webapp-testing
+            - generic [ref=e266]: anthropics/skills
+            - generic [ref=e267]: webapp-testing
+          - generic [ref=e268]: 21.5K
+        - link "executing-plans obra/superpowers executing-plans 21.4K" [ref=e269] [cursor=pointer]:
+          - /url: https://github.com/obra/superpowers
+          - generic [ref=e270]:
+            - generic [ref=e271]: executing-plans
+            - generic [ref=e272]: obra/superpowers
+            - generic [ref=e273]: executing-plans
+          - generic [ref=e274]: 21.4K
+        - link "programmatic-seo coreyhaines31/marketingskills programmatic-seo 21.0K" [ref=e275] [cursor=pointer]:
+          - /url: https://github.com/coreyhaines31/marketingskills
+          - generic [ref=e276]:
+            - generic [ref=e277]: programmatic-seo
+            - generic [ref=e278]: coreyhaines31/marketingskills
+            - generic [ref=e279]: programmatic-seo
+          - generic [ref=e280]: 21.0K
+        - link "content-strategy coreyhaines31/marketingskills content-strategy 20.9K" [ref=e281] [cursor=pointer]:
+          - /url: https://github.com/coreyhaines31/marketingskills
+          - generic [ref=e282]:
+            - generic [ref=e283]: content-strategy
+            - generic [ref=e284]: coreyhaines31/marketingskills
+            - generic [ref=e285]: content-strategy
+          - generic [ref=e286]: 20.9K
+        - link "better-auth-best-practices better-auth/skills better-auth-best-practices 20.9K" [ref=e287] [cursor=pointer]:
+          - /url: https://github.com/better-auth/skills
+          - generic [ref=e288]:
+            - generic [ref=e289]: better-auth-best-practices
+            - generic [ref=e290]: better-auth/skills
+            - generic [ref=e291]: better-auth-best-practices
+          - generic [ref=e292]: 20.9K
+        - link "requesting-code-review obra/superpowers requesting-code-review 20.6K" [ref=e293] [cursor=pointer]:
+          - /url: https://github.com/obra/superpowers
+          - generic [ref=e294]:
+            - generic [ref=e295]: requesting-code-review
+            - generic [ref=e296]: obra/superpowers
+            - generic [ref=e297]: requesting-code-review
+          - generic [ref=e298]: 20.6K
+        - link "agent-email-cli zaddy6/agent-email-skill agent-email-cli 20.6K" [ref=e299] [cursor=pointer]:
+          - /url: https://github.com/zaddy6/agent-email-skill
+          - generic [ref=e300]:
+            - generic [ref=e301]: agent-email-cli
+            - generic [ref=e302]: zaddy6/agent-email-skill
+            - generic [ref=e303]: agent-email-cli
+          - generic [ref=e304]: 20.6K
+        - link "using-superpowers obra/superpowers using-superpowers 19.3K" [ref=e305] [cursor=pointer]:
+          - /url: https://github.com/obra/superpowers
+          - generic [ref=e306]:
+            - generic [ref=e307]: using-superpowers
+            - generic [ref=e308]: obra/superpowers
+            - generic [ref=e309]: using-superpowers
+          - generic [ref=e310]: 19.3K
+        - link "product-marketing-context coreyhaines31/marketingskills product-marketing-context 19.3K" [ref=e311] [cursor=pointer]:
+          - /url: https://github.com/coreyhaines31/marketingskills
+          - generic [ref=e312]:
+            - generic [ref=e313]: product-marketing-context
+            - generic [ref=e314]: coreyhaines31/marketingskills
+            - generic [ref=e315]: product-marketing-context
+          - generic [ref=e316]: 19.3K
+        - link "mcp-builder anthropics/skills mcp-builder 19.2K" [ref=e317] [cursor=pointer]:
+          - /url: https://github.com/anthropics/skills
+          - generic [ref=e318]:
+            - generic [ref=e319]: mcp-builder
+            - generic [ref=e320]: anthropics/skills
+            - generic [ref=e321]: mcp-builder
+          - generic [ref=e322]: 19.2K
+        - link "social-content coreyhaines31/marketingskills social-content 18.7K" [ref=e323] [cursor=pointer]:
+          - /url: https://github.com/coreyhaines31/marketingskills
+          - generic [ref=e324]:
+            - generic [ref=e325]: social-content
+            - generic [ref=e326]: coreyhaines31/marketingskills
+            - generic [ref=e327]: social-content
+          - generic [ref=e328]: 18.7K
+        - link "marketing-ideas coreyhaines31/marketingskills marketing-ideas 18.7K" [ref=e329] [cursor=pointer]:
+          - /url: https://github.com/coreyhaines31/marketingskills
+          - generic [ref=e330]:
+            - generic [ref=e331]: marketing-ideas
+            - generic [ref=e332]: coreyhaines31/marketingskills
+            - generic [ref=e333]: marketing-ideas
+          - generic [ref=e334]: 18.7K
+        - link "subagent-driven-development obra/superpowers subagent-driven-development 17.2K" [ref=e335] [cursor=pointer]:
+          - /url: https://github.com/obra/superpowers
+          - generic [ref=e336]:
+            - generic [ref=e337]: subagent-driven-development
+            - generic [ref=e338]: obra/superpowers
+            - generic [ref=e339]: subagent-driven-development
+          - generic [ref=e340]: 17.2K
+        - link "canvas-design anthropics/skills canvas-design 16.9K" [ref=e341] [cursor=pointer]:
+          - /url: https://github.com/anthropics/skills
+          - generic [ref=e342]:
+            - generic [ref=e343]: canvas-design
+            - generic [ref=e344]: anthropics/skills
+            - generic [ref=e345]: canvas-design
+          - generic [ref=e346]: 16.9K
+        - link "page-cro coreyhaines31/marketingskills page-cro 16.8K" [ref=e347] [cursor=pointer]:
+          - /url: https://github.com/coreyhaines31/marketingskills
+          - generic [ref=e348]:
+            - generic [ref=e349]: page-cro
+            - generic [ref=e350]: coreyhaines31/marketingskills
+            - generic [ref=e351]: page-cro
+          - generic [ref=e352]: 16.8K
+        - link "tailwind-design-system wshobson/agents tailwind-design-system 16.8K" [ref=e353] [cursor=pointer]:
+          - /url: https://github.com/wshobson/agents
+          - generic [ref=e354]:
+            - generic [ref=e355]: tailwind-design-system
+            - generic [ref=e356]: wshobson/agents
+            - generic [ref=e357]: tailwind-design-system
+          - generic [ref=e358]: 16.8K
+        - link "building-native-ui expo/skills building-native-ui 16.6K" [ref=e359] [cursor=pointer]:
+          - /url: https://github.com/expo/skills
+          - generic [ref=e360]:
+            - generic [ref=e361]: building-native-ui
+            - generic [ref=e362]: expo/skills
+            - generic [ref=e363]: building-native-ui
+          - generic [ref=e364]: 16.6K
+      - button "Show more (11,164 remaining)" [ref=e365] [cursor=pointer]
+    - generic [ref=e366]:
+      - heading "Credits" [level=2] [ref=e367]
+      - paragraph [ref=e368]:
+        - text: All skills sourced from
+        - link "skills.sh" [ref=e369] [cursor=pointer]:
+          - /url: https://skills.sh
+        - text: — the open agent skills directory.
+      - paragraph [ref=e370]: Each skill was created by its original author. We re-package them for easy installation in Claude Desktop.
+      - paragraph [ref=e371]:
+        - text: Curated by
+        - link "Ulpi" [ref=e372] [cursor=pointer]:
+          - /url: https://ulpi.io
+        - text: .
+  - contentinfo [ref=e373]:
+    - generic [ref=e374]:
+      - link "GitHub" [ref=e375] [cursor=pointer]:
+        - /url: https://github.com/ulpi-io/plugin-marketplace
+      - text: ·
+      - link "skills.sh" [ref=e376] [cursor=pointer]:
+        - /url: https://skills.sh
+      - text: ·
+      - link "Ulpi" [ref=e377] [cursor=pointer]:
+        - /url: https://ulpi.io

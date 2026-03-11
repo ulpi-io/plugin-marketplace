@@ -100,9 +100,17 @@ def main():
     skills = enrich_with_descriptions(skills)
     stats = build_stats(skills)
 
+    # Build plugin lookup: publisher -> True if plugin dir exists
+    available_plugins = set()
+    if PLUGINS_DIR.exists():
+        for d in PLUGINS_DIR.iterdir():
+            if d.is_dir() and (d / ".claude-plugin" / "plugin.json").exists():
+                available_plugins.add(d.name)
+
     # Remove installs_num from output (only used for sorting)
     output_skills = []
     for s in skills:
+        publisher = s["repo"].split("/")[0]
         output_skills.append({
             "rank": s["rank"],
             "name": s["name"],
@@ -110,6 +118,7 @@ def main():
             "installs": s["installs"],
             "description": s["description"],
             "synced": s["synced"],
+            "plugin": publisher if publisher in available_plugins else None,
         })
 
     data = {

@@ -280,6 +280,18 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.skill-plugin {
+  font-size: 0.75rem;
+  margin-top: 6px;
+  color: var(--text-muted);
+}
+.skill-plugin span {
+  font-family: 'JetBrains Mono', monospace;
+  color: var(--green);
+  cursor: pointer;
+}
+.skill-plugin span:hover { text-decoration: underline; }
+.skill-plugin.unavailable { color: var(--text-muted); font-style: italic; }
 .skill-installs {
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.85rem;
@@ -423,6 +435,11 @@ footer a:hover { color: var(--accent); }
     </div>
   </section>
 
+  <section class="install-section" style="margin-bottom: 32px; padding: 20px 32px;">
+    <h2 style="font-size: 1rem;">How plugins work</h2>
+    <p style="color: var(--text-dim); font-size: 0.9rem; margin-top: 8px;">Skills are grouped by publisher into a single plugin. When you install a plugin, you get all of that publisher's skills at once. Search for any skill below to find which plugin to install.</p>
+  </section>
+
   <section>
     <div class="controls">
       <div class="search-box">
@@ -527,8 +544,11 @@ function render() {
   }
   grid.innerHTML = visible.map(s => {
     const desc = s.description ? `<div class="skill-desc">${esc(s.description)}</div>` : '';
+    const plugin = s.plugin
+      ? `<div class="skill-plugin" onclick="event.preventDefault();copyText('${esc(s.plugin)}@ulpi-marketplace')">Install: <span>${esc(s.plugin)}</span></div>`
+      : '<div class="skill-plugin unavailable">Not yet available</div>';
     return `<a class="skill-card" href="https://github.com/${esc(s.repo)}" target="_blank" rel="noopener">
-      <div class="skill-info"><div class="skill-name">${esc(s.name)}</div><div class="skill-repo">${esc(s.repo)}</div>${desc}</div>
+      <div class="skill-info"><div class="skill-name">${esc(s.name)}</div><div class="skill-repo">${esc(s.repo)}</div>${desc}${plugin}</div>
       <div class="skill-installs">${esc(s.installs)}</div></a>`;
   }).join('');
   const btn = document.getElementById('load-more');

@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-evomap_node.json
-lafeitu_config/
-.env

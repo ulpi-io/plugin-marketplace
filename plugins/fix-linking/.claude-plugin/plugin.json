@@ -1,0 +1,9 @@
+{
+  "name": "fix-linking",
+  "version": "1.0.0",
+  "description": "fix-linking skill from calm-north/seojuice-skills",
+  "author": {
+    "name": "calm-north"
+  },
+  "repository": "https://github.com/calm-north/seojuice-skills"
+}

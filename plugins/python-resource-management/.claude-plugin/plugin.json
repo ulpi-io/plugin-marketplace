@@ -1,0 +1,9 @@
+{
+  "name": "python-resource-management",
+  "version": "1.0.0",
+  "description": "python-resource-management skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

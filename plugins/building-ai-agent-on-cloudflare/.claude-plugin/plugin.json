@@ -1,0 +1,9 @@
+{
+  "name": "building-ai-agent-on-cloudflare",
+  "version": "1.0.0",
+  "description": "building-ai-agent-on-cloudflare skill from cloudflare/skills",
+  "author": {
+    "name": "cloudflare"
+  },
+  "repository": "https://github.com/cloudflare/skills"
+}

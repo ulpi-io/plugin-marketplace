@@ -1,0 +1,9 @@
+{
+  "name": "backtesting-frameworks",
+  "version": "1.0.0",
+  "description": "backtesting-frameworks skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

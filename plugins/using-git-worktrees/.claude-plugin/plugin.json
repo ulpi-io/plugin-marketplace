@@ -1,0 +1,9 @@
+{
+  "name": "using-git-worktrees",
+  "version": "1.0.0",
+  "description": "using-git-worktrees skill from obra/superpowers",
+  "author": {
+    "name": "obra"
+  },
+  "repository": "https://github.com/obra/superpowers"
+}

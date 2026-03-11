@@ -1,10 +1,9 @@
 {
   "name": "vercel-react-best-practices",
   "version": "1.0.0",
-  "description": "React best practices for Vercel projects",
+  "description": "vercel-react-best-practices skill from vercel-labs/agent-skills",
   "author": {
     "name": "vercel-labs"
   },
-  "repository": "https://github.com/vercel-labs/agent-skills",
-  "license": "MIT"
+  "repository": "https://github.com/vercel-labs/agent-skills"
 }

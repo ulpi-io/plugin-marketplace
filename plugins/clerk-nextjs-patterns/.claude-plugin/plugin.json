@@ -1,0 +1,9 @@
+{
+  "name": "clerk-nextjs-patterns",
+  "version": "1.0.0",
+  "description": "clerk-nextjs-patterns skill from clerk/skills",
+  "author": {
+    "name": "clerk"
+  },
+  "repository": "https://github.com/clerk/skills"
+}

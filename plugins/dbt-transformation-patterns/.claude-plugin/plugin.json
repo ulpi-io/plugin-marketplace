@@ -1,0 +1,9 @@
+{
+  "name": "dbt-transformation-patterns",
+  "version": "1.0.0",
+  "description": "dbt-transformation-patterns skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

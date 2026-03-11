@@ -1,0 +1,9 @@
+{
+  "name": "baoyu-article-illustrator",
+  "version": "1.0.0",
+  "description": "baoyu-article-illustrator skill from jimliu/baoyu-skills",
+  "author": {
+    "name": "jimliu"
+  },
+  "repository": "https://github.com/jimliu/baoyu-skills"
+}

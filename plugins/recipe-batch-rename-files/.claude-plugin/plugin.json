@@ -1,0 +1,9 @@
+{
+  "name": "recipe-batch-rename-files",
+  "version": "1.0.0",
+  "description": "recipe-batch-rename-files skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

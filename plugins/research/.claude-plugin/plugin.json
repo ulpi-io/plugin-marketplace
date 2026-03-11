@@ -1,0 +1,9 @@
+{
+  "name": "research",
+  "version": "1.0.0",
+  "description": "research skill from tavily-ai/skills",
+  "author": {
+    "name": "tavily-ai"
+  },
+  "repository": "https://github.com/tavily-ai/skills"
+}

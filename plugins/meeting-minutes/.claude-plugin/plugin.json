@@ -1,0 +1,9 @@
+{
+  "name": "meeting-minutes",
+  "version": "1.0.0",
+  "description": "meeting-minutes skill from github/awesome-copilot",
+  "author": {
+    "name": "github"
+  },
+  "repository": "https://github.com/github/awesome-copilot"
+}

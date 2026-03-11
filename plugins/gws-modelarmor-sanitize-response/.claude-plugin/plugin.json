@@ -1,0 +1,9 @@
+{
+  "name": "gws-modelarmor-sanitize-response",
+  "version": "1.0.0",
+  "description": "gws-modelarmor-sanitize-response skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

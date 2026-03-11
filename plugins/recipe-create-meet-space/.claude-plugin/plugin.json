@@ -1,0 +1,9 @@
+{
+  "name": "recipe-create-meet-space",
+  "version": "1.0.0",
+  "description": "recipe-create-meet-space skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "python-testing-patterns",
+  "version": "1.0.0",
+  "description": "python-testing-patterns skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "test-driven-development skill from obra/superpowers",
+  "author": {
+    "name": "obra"
+  },
+  "repository": "https://github.com/obra/superpowers"
+}

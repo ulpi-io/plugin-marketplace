@@ -1,0 +1,9 @@
+{
+  "name": "recipe-create-classroom-course",
+  "version": "1.0.0",
+  "description": "recipe-create-classroom-course skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

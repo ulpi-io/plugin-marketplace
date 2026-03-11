@@ -1,0 +1,9 @@
+{
+  "name": "frontend-code-review",
+  "version": "1.0.0",
+  "description": "frontend-code-review skill from langgenius/dify",
+  "author": {
+    "name": "langgenius"
+  },
+  "repository": "https://github.com/langgenius/dify"
+}

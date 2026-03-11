@@ -1,0 +1,9 @@
+{
+  "name": "multi-reviewer-patterns",
+  "version": "1.0.0",
+  "description": "multi-reviewer-patterns skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

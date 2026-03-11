@@ -1,0 +1,9 @@
+{
+  "name": "import-infrastructure-as-code",
+  "version": "1.0.0",
+  "description": "import-infrastructure-as-code skill from github/awesome-copilot",
+  "author": {
+    "name": "github"
+  },
+  "repository": "https://github.com/github/awesome-copilot"
+}

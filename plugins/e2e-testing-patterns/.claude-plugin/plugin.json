@@ -1,0 +1,9 @@
+{
+  "name": "e2e-testing-patterns",
+  "version": "1.0.0",
+  "description": "e2e-testing-patterns skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

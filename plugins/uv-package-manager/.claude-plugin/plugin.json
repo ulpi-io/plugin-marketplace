@@ -1,0 +1,9 @@
+{
+  "name": "uv-package-manager",
+  "version": "1.0.0",
+  "description": "uv-package-manager skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "image-to-video",
+  "version": "1.0.0",
+  "description": "image-to-video skill from inference-shell/skills",
+  "author": {
+    "name": "inference-shell"
+  },
+  "repository": "https://github.com/inference-shell/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "product-hunt-launch",
+  "version": "1.0.0",
+  "description": "product-hunt-launch skill from inference-shell/skills",
+  "author": {
+    "name": "inference-shell"
+  },
+  "repository": "https://github.com/inference-shell/skills"
+}

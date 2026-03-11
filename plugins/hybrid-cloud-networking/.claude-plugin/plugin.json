@@ -1,0 +1,9 @@
+{
+  "name": "hybrid-cloud-networking",
+  "version": "1.0.0",
+  "description": "hybrid-cloud-networking skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

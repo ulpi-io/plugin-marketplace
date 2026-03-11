@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-query-best-practices",
+  "version": "1.0.0",
+  "description": "tanstack-query-best-practices skill from deckardger/tanstack-agent-skills",
+  "author": {
+    "name": "deckardger"
+  },
+  "repository": "https://github.com/deckardger/tanstack-agent-skills"
+}

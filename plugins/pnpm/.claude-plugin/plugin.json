@@ -1,0 +1,9 @@
+{
+  "name": "pnpm",
+  "version": "1.0.0",
+  "description": "pnpm skill from antfu/skills",
+  "author": {
+    "name": "antfu"
+  },
+  "repository": "https://github.com/antfu/skills"
+}

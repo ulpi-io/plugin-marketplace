@@ -1,0 +1,9 @@
+{
+  "name": "convex-security-audit",
+  "version": "1.0.0",
+  "description": "convex-security-audit skill from waynesutton/convexskills",
+  "author": {
+    "name": "waynesutton"
+  },
+  "repository": "https://github.com/waynesutton/convexskills"
+}

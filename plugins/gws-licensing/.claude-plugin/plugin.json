@@ -1,0 +1,9 @@
+{
+  "name": "gws-licensing",
+  "version": "1.0.0",
+  "description": "gws-licensing skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

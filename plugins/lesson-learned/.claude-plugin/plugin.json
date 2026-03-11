@@ -1,0 +1,9 @@
+{
+  "name": "lesson-learned",
+  "version": "1.0.0",
+  "description": "lesson-learned skill from softaworks/agent-toolkit",
+  "author": {
+    "name": "softaworks"
+  },
+  "repository": "https://github.com/softaworks/agent-toolkit"
+}

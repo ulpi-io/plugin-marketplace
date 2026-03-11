@@ -1,0 +1,9 @@
+{
+  "name": "explainer-video-guide",
+  "version": "1.0.0",
+  "description": "explainer-video-guide skill from inference-shell/skills",
+  "author": {
+    "name": "inference-shell"
+  },
+  "repository": "https://github.com/inference-shell/skills"
+}

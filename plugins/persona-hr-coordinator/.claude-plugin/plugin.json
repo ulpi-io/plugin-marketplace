@@ -1,0 +1,9 @@
+{
+  "name": "persona-hr-coordinator",
+  "version": "1.0.0",
+  "description": "persona-hr-coordinator skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

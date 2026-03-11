@@ -1,0 +1,9 @@
+{
+  "name": "apify-brand-reputation-monitoring",
+  "version": "1.0.0",
+  "description": "apify-brand-reputation-monitoring skill from apify/agent-skills",
+  "author": {
+    "name": "apify"
+  },
+  "repository": "https://github.com/apify/agent-skills"
+}

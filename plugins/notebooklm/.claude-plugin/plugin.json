@@ -1,0 +1,9 @@
+{
+  "name": "notebooklm",
+  "version": "1.0.0",
+  "description": "notebooklm skill from pleaseprompto/notebooklm-skill",
+  "author": {
+    "name": "pleaseprompto"
+  },
+  "repository": "https://github.com/pleaseprompto/notebooklm-skill"
+}

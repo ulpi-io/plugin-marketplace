@@ -1,0 +1,9 @@
+{
+  "name": "ai-elements",
+  "version": "1.0.0",
+  "description": "ai-elements skill from vercel/ai-elements",
+  "author": {
+    "name": "vercel"
+  },
+  "repository": "https://github.com/vercel/ai-elements"
+}

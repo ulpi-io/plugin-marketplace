@@ -1,0 +1,9 @@
+{
+  "name": "humanizer",
+  "version": "1.0.0",
+  "description": "humanizer skill from blader/humanizer",
+  "author": {
+    "name": "blader"
+  },
+  "repository": "https://github.com/blader/humanizer"
+}

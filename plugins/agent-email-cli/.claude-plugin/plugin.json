@@ -1,0 +1,9 @@
+{
+  "name": "agent-email-cli",
+  "version": "1.0.0",
+  "description": "agent-email-cli skill from zaddy6/agent-email-skill",
+  "author": {
+    "name": "zaddy6"
+  },
+  "repository": "https://github.com/zaddy6/agent-email-skill"
+}

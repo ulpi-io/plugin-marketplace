@@ -1,0 +1,9 @@
+{
+  "name": "nblm",
+  "version": "1.0.0",
+  "description": "nblm skill from magicseek/nblm",
+  "author": {
+    "name": "magicseek"
+  },
+  "repository": "https://github.com/magicseek/nblm"
+}

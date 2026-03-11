@@ -1,0 +1,9 @@
+{
+  "name": "expo-cicd-workflows",
+  "version": "1.0.0",
+  "description": "expo-cicd-workflows skill from expo/skills",
+  "author": {
+    "name": "expo"
+  },
+  "repository": "https://github.com/expo/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "recipe-create-gmail-filter",
+  "version": "1.0.0",
+  "description": "recipe-create-gmail-filter skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "build-links",
+  "version": "1.0.0",
+  "description": "build-links skill from calm-north/seojuice-skills",
+  "author": {
+    "name": "calm-north"
+  },
+  "repository": "https://github.com/calm-north/seojuice-skills"
+}

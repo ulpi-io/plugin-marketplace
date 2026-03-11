@@ -1,0 +1,9 @@
+{
+  "name": "paypal-integration",
+  "version": "1.0.0",
+  "description": "paypal-integration skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "angular-http",
+  "version": "1.0.0",
+  "description": "angular-http skill from analogjs/angular-skills",
+  "author": {
+    "name": "analogjs"
+  },
+  "repository": "https://github.com/analogjs/angular-skills"
+}

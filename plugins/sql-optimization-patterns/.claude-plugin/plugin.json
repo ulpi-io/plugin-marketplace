@@ -1,0 +1,9 @@
+{
+  "name": "sql-optimization-patterns",
+  "version": "1.0.0",
+  "description": "sql-optimization-patterns skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

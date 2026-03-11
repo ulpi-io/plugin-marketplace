@@ -1,0 +1,9 @@
+{
+  "name": "expo-tailwind-setup",
+  "version": "1.0.0",
+  "description": "expo-tailwind-setup skill from expo/skills",
+  "author": {
+    "name": "expo"
+  },
+  "repository": "https://github.com/expo/skills"
+}

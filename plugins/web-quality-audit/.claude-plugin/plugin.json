@@ -1,0 +1,9 @@
+{
+  "name": "web-quality-audit",
+  "version": "1.0.0",
+  "description": "web-quality-audit skill from addyosmani/web-quality-skills",
+  "author": {
+    "name": "addyosmani"
+  },
+  "repository": "https://github.com/addyosmani/web-quality-skills"
+}

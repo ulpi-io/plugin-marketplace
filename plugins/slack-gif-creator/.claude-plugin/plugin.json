@@ -1,0 +1,9 @@
+{
+  "name": "slack-gif-creator",
+  "version": "1.0.0",
+  "description": "slack-gif-creator skill from anthropics/skills",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "canvas-design",
+  "version": "1.0.0",
+  "description": "canvas-design skill from anthropics/skills",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "fixing-metadata",
+  "version": "1.0.0",
+  "description": "fixing-metadata skill from ibelick/ui-skills",
+  "author": {
+    "name": "ibelick"
+  },
+  "repository": "https://github.com/ibelick/ui-skills"
+}

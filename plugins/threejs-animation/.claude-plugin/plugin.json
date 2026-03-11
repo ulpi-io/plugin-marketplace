@@ -1,0 +1,9 @@
+{
+  "name": "threejs-animation",
+  "version": "1.0.0",
+  "description": "threejs-animation skill from cloudai-x/threejs-skills",
+  "author": {
+    "name": "cloudai-x"
+  },
+  "repository": "https://github.com/cloudai-x/threejs-skills"
+}

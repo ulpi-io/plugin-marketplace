@@ -1,0 +1,9 @@
+{
+  "name": "resend",
+  "version": "1.0.0",
+  "description": "resend skill from resend/resend-skills",
+  "author": {
+    "name": "resend"
+  },
+  "repository": "https://github.com/resend/resend-skills"
+}

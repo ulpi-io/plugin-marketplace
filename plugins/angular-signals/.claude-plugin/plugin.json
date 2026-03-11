@@ -1,0 +1,9 @@
+{
+  "name": "angular-signals",
+  "version": "1.0.0",
+  "description": "angular-signals skill from analogjs/angular-skills",
+  "author": {
+    "name": "analogjs"
+  },
+  "repository": "https://github.com/analogjs/angular-skills"
+}

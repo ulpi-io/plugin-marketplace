@@ -1,0 +1,9 @@
+{
+  "name": "recipe-watch-drive-changes",
+  "version": "1.0.0",
+  "description": "recipe-watch-drive-changes skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

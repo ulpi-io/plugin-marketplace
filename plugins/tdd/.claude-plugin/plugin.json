@@ -1,0 +1,9 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "tdd skill from mattpocock/skills",
+  "author": {
+    "name": "mattpocock"
+  },
+  "repository": "https://github.com/mattpocock/skills"
+}

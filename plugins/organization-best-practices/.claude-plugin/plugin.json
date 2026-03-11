@@ -1,0 +1,9 @@
+{
+  "name": "organization-best-practices",
+  "version": "1.0.0",
+  "description": "organization-best-practices skill from better-auth/skills",
+  "author": {
+    "name": "better-auth"
+  },
+  "repository": "https://github.com/better-auth/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "terraform-azurerm-set-diff-analyzer",
+  "version": "1.0.0",
+  "description": "terraform-azurerm-set-diff-analyzer skill from github/awesome-copilot",
+  "author": {
+    "name": "github"
+  },
+  "repository": "https://github.com/github/awesome-copilot"
+}

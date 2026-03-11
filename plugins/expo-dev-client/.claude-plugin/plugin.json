@@ -1,0 +1,9 @@
+{
+  "name": "expo-dev-client",
+  "version": "1.0.0",
+  "description": "expo-dev-client skill from expo/skills",
+  "author": {
+    "name": "expo"
+  },
+  "repository": "https://github.com/expo/skills"
+}

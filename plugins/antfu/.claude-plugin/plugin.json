@@ -1,0 +1,9 @@
+{
+  "name": "antfu",
+  "version": "1.0.0",
+  "description": "antfu skill from antfu/skills",
+  "author": {
+    "name": "antfu"
+  },
+  "repository": "https://github.com/antfu/skills"
+}

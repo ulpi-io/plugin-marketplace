@@ -1,0 +1,9 @@
+{
+  "name": "spring-boot-engineer",
+  "version": "1.0.0",
+  "description": "spring-boot-engineer skill from jeffallan/claude-skills",
+  "author": {
+    "name": "jeffallan"
+  },
+  "repository": "https://github.com/jeffallan/claude-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "humanizer-zh",
+  "version": "1.0.0",
+  "description": "humanizer-zh skill from op7418/humanizer-zh",
+  "author": {
+    "name": "op7418"
+  },
+  "repository": "https://github.com/op7418/humanizer-zh"
+}

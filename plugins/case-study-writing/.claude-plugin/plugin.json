@@ -1,0 +1,9 @@
+{
+  "name": "case-study-writing",
+  "version": "1.0.0",
+  "description": "case-study-writing skill from inference-shell/skills",
+  "author": {
+    "name": "inference-shell"
+  },
+  "repository": "https://github.com/inference-shell/skills"
+}

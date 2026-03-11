@@ -1,0 +1,9 @@
+{
+  "name": "vercel-react-native-skills",
+  "version": "1.0.0",
+  "description": "vercel-react-native-skills skill from vercel-labs/agent-skills",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/agent-skills"
+}

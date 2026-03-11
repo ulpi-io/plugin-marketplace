@@ -1,0 +1,9 @@
+{
+  "name": "python-observability",
+  "version": "1.0.0",
+  "description": "python-observability skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

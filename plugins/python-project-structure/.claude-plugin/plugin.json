@@ -1,0 +1,9 @@
+{
+  "name": "python-project-structure",
+  "version": "1.0.0",
+  "description": "python-project-structure skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

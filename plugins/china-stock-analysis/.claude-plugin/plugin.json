@@ -1,0 +1,9 @@
+{
+  "name": "china-stock-analysis",
+  "version": "1.0.0",
+  "description": "china-stock-analysis skill from sugarforever/01coder-agent-skills",
+  "author": {
+    "name": "sugarforever"
+  },
+  "repository": "https://github.com/sugarforever/01coder-agent-skills"
+}

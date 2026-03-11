@@ -1,0 +1,9 @@
+{
+  "name": "internal-comms",
+  "version": "1.0.0",
+  "description": "internal-comms skill from anthropics/skills",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/skills"
+}

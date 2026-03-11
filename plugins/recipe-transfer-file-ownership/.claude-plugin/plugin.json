@@ -1,0 +1,9 @@
+{
+  "name": "recipe-transfer-file-ownership",
+  "version": "1.0.0",
+  "description": "recipe-transfer-file-ownership skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

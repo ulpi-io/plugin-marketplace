@@ -1,0 +1,9 @@
+{
+  "name": "cold-email",
+  "version": "1.0.0",
+  "description": "cold-email skill from coreyhaines31/marketingskills",
+  "author": {
+    "name": "coreyhaines31"
+  },
+  "repository": "https://github.com/coreyhaines31/marketingskills"
+}

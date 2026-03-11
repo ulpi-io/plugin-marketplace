@@ -1,0 +1,9 @@
+{
+  "name": "domain-name-brainstormer",
+  "version": "1.0.0",
+  "description": "domain-name-brainstormer skill from softaworks/agent-toolkit",
+  "author": {
+    "name": "softaworks"
+  },
+  "repository": "https://github.com/softaworks/agent-toolkit"
+}

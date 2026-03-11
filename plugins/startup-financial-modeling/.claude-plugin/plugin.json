@@ -1,0 +1,9 @@
+{
+  "name": "startup-financial-modeling",
+  "version": "1.0.0",
+  "description": "startup-financial-modeling skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "simple skill from roin-orca/skills",
+  "author": {
+    "name": "roin-orca"
+  },
+  "repository": "https://github.com/roin-orca/skills"
+}

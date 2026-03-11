@@ -1,0 +1,9 @@
+{
+  "name": "remembering-conversations",
+  "version": "1.0.0",
+  "description": "remembering-conversations skill from obra/episodic-memory",
+  "author": {
+    "name": "obra"
+  },
+  "repository": "https://github.com/obra/episodic-memory"
+}

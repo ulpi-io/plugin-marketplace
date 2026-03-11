@@ -1,0 +1,9 @@
+{
+  "name": "ai-image-generation",
+  "version": "1.0.0",
+  "description": "ai-image-generation skill from inference-shell/skills",
+  "author": {
+    "name": "inference-shell"
+  },
+  "repository": "https://github.com/inference-shell/skills"
+}

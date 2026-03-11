@@ -1,0 +1,9 @@
+{
+  "name": "recipe-review-overdue-tasks",
+  "version": "1.0.0",
+  "description": "recipe-review-overdue-tasks skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

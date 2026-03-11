@@ -1,0 +1,9 @@
+{
+  "name": "skill-judge",
+  "version": "1.0.0",
+  "description": "skill-judge skill from softaworks/agent-toolkit",
+  "author": {
+    "name": "softaworks"
+  },
+  "repository": "https://github.com/softaworks/agent-toolkit"
+}

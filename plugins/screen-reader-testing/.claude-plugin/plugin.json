@@ -1,0 +1,9 @@
+{
+  "name": "screen-reader-testing",
+  "version": "1.0.0",
+  "description": "screen-reader-testing skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

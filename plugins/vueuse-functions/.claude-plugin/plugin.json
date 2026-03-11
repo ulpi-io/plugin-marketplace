@@ -1,0 +1,9 @@
+{
+  "name": "vueuse-functions",
+  "version": "1.0.0",
+  "description": "vueuse-functions skill from antfu/skills",
+  "author": {
+    "name": "antfu"
+  },
+  "repository": "https://github.com/antfu/skills"
+}

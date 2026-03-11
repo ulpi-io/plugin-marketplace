@@ -1,0 +1,9 @@
+{
+  "name": "receiving-code-review",
+  "version": "1.0.0",
+  "description": "receiving-code-review skill from obra/superpowers",
+  "author": {
+    "name": "obra"
+  },
+  "repository": "https://github.com/obra/superpowers"
+}

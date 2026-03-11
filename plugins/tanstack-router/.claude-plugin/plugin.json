@@ -1,0 +1,9 @@
+{
+  "name": "tanstack-router",
+  "version": "1.0.0",
+  "description": "tanstack-router skill from jezweb/claude-skills",
+  "author": {
+    "name": "jezweb"
+  },
+  "repository": "https://github.com/jezweb/claude-skills"
+}

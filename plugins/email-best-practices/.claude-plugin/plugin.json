@@ -1,0 +1,9 @@
+{
+  "name": "email-best-practices",
+  "version": "1.0.0",
+  "description": "email-best-practices skill from resend/email-best-practices",
+  "author": {
+    "name": "resend"
+  },
+  "repository": "https://github.com/resend/email-best-practices"
+}

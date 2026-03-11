@@ -1,0 +1,9 @@
+{
+  "name": "clerk-orgs",
+  "version": "1.0.0",
+  "description": "clerk-orgs skill from clerk/skills",
+  "author": {
+    "name": "clerk"
+  },
+  "repository": "https://github.com/clerk/skills"
+}

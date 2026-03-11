@@ -1,0 +1,9 @@
+{
+  "name": "unocss",
+  "version": "1.0.0",
+  "description": "unocss skill from antfu/skills",
+  "author": {
+    "name": "antfu"
+  },
+  "repository": "https://github.com/antfu/skills"
+}

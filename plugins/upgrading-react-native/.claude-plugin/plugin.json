@@ -1,0 +1,9 @@
+{
+  "name": "upgrading-react-native",
+  "version": "1.0.0",
+  "description": "upgrading-react-native skill from callstackincubator/agent-skills",
+  "author": {
+    "name": "callstackincubator"
+  },
+  "repository": "https://github.com/callstackincubator/agent-skills"
+}

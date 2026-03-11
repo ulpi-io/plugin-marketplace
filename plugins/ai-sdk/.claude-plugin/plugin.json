@@ -1,0 +1,9 @@
+{
+  "name": "ai-sdk",
+  "version": "1.0.0",
+  "description": "ai-sdk skill from vercel/ai",
+  "author": {
+    "name": "vercel"
+  },
+  "repository": "https://github.com/vercel/ai"
+}

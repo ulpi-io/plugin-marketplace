@@ -1,0 +1,9 @@
+{
+  "name": "vue-jsx-best-practices",
+  "version": "1.0.0",
+  "description": "vue-jsx-best-practices skill from vuejs-ai/skills",
+  "author": {
+    "name": "vuejs-ai"
+  },
+  "repository": "https://github.com/vuejs-ai/skills"
+}

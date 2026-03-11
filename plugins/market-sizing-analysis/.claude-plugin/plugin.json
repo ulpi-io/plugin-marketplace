@@ -1,0 +1,9 @@
+{
+  "name": "market-sizing-analysis",
+  "version": "1.0.0",
+  "description": "market-sizing-analysis skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

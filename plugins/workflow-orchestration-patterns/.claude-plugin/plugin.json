@@ -1,0 +1,9 @@
+{
+  "name": "workflow-orchestration-patterns",
+  "version": "1.0.0",
+  "description": "workflow-orchestration-patterns skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "gepetto",
+  "version": "1.0.0",
+  "description": "gepetto skill from softaworks/agent-toolkit",
+  "author": {
+    "name": "softaworks"
+  },
+  "repository": "https://github.com/softaworks/agent-toolkit"
+}

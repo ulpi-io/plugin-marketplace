@@ -1,0 +1,9 @@
+{
+  "name": "video-production",
+  "version": "1.0.0",
+  "description": "video-production skill from supercent-io/skills-template",
+  "author": {
+    "name": "supercent-io"
+  },
+  "repository": "https://github.com/supercent-io/skills-template"
+}

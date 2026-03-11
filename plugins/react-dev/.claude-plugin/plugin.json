@@ -1,0 +1,9 @@
+{
+  "name": "react-dev",
+  "version": "1.0.0",
+  "description": "react-dev skill from softaworks/agent-toolkit",
+  "author": {
+    "name": "softaworks"
+  },
+  "repository": "https://github.com/softaworks/agent-toolkit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "writing-clearly-and-concisely",
+  "version": "1.0.0",
+  "description": "writing-clearly-and-concisely skill from softaworks/agent-toolkit",
+  "author": {
+    "name": "softaworks"
+  },
+  "repository": "https://github.com/softaworks/agent-toolkit"
+}

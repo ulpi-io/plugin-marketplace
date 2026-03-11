@@ -1,0 +1,9 @@
+{
+  "name": "llm-models",
+  "version": "1.0.0",
+  "description": "llm-models skill from inference-shell/skills",
+  "author": {
+    "name": "inference-shell"
+  },
+  "repository": "https://github.com/inference-shell/skills"
+}

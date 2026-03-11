@@ -1,0 +1,9 @@
+{
+  "name": "content-creator",
+  "version": "1.0.0",
+  "description": "content-creator skill from shubhamsaboo/awesome-llm-apps",
+  "author": {
+    "name": "shubhamsaboo"
+  },
+  "repository": "https://github.com/shubhamsaboo/awesome-llm-apps"
+}

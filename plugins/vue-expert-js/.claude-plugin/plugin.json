@@ -1,0 +1,9 @@
+{
+  "name": "vue-expert-js",
+  "version": "1.0.0",
+  "description": "vue-expert-js skill from jeffallan/claude-skills",
+  "author": {
+    "name": "jeffallan"
+  },
+  "repository": "https://github.com/jeffallan/claude-skills"
+}

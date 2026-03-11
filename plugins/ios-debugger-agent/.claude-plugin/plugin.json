@@ -1,0 +1,9 @@
+{
+  "name": "ios-debugger-agent",
+  "version": "1.0.0",
+  "description": "ios-debugger-agent skill from dimillian/skills",
+  "author": {
+    "name": "dimillian"
+  },
+  "repository": "https://github.com/dimillian/skills"
+}

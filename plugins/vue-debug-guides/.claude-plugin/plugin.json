@@ -1,0 +1,9 @@
+{
+  "name": "vue-debug-guides",
+  "version": "1.0.0",
+  "description": "vue-debug-guides skill from vuejs-ai/skills",
+  "author": {
+    "name": "vuejs-ai"
+  },
+  "repository": "https://github.com/vuejs-ai/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "orpc-contract-first",
+  "version": "1.0.0",
+  "description": "orpc-contract-first skill from langgenius/dify",
+  "author": {
+    "name": "langgenius"
+  },
+  "repository": "https://github.com/langgenius/dify"
+}

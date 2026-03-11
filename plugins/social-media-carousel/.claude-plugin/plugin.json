@@ -1,0 +1,9 @@
+{
+  "name": "social-media-carousel",
+  "version": "1.0.0",
+  "description": "social-media-carousel skill from inference-shell/skills",
+  "author": {
+    "name": "inference-shell"
+  },
+  "repository": "https://github.com/inference-shell/skills"
+}

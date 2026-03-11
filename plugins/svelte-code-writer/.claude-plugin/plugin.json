@@ -1,0 +1,9 @@
+{
+  "name": "svelte-code-writer",
+  "version": "1.0.0",
+  "description": "svelte-code-writer skill from sveltejs/mcp",
+  "author": {
+    "name": "sveltejs"
+  },
+  "repository": "https://github.com/sveltejs/mcp"
+}

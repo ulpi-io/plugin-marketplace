@@ -1,0 +1,9 @@
+{
+  "name": "temporal-python-testing",
+  "version": "1.0.0",
+  "description": "temporal-python-testing skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

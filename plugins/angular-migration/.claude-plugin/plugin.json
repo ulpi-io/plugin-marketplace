@@ -1,0 +1,9 @@
+{
+  "name": "angular-migration",
+  "version": "1.0.0",
+  "description": "angular-migration skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

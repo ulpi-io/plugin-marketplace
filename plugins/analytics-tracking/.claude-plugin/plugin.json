@@ -1,0 +1,9 @@
+{
+  "name": "analytics-tracking",
+  "version": "1.0.0",
+  "description": "analytics-tracking skill from coreyhaines31/marketingskills",
+  "author": {
+    "name": "coreyhaines31"
+  },
+  "repository": "https://github.com/coreyhaines31/marketingskills"
+}

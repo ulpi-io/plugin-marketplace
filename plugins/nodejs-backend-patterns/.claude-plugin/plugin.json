@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-backend-patterns",
+  "version": "1.0.0",
+  "description": "nodejs-backend-patterns skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "better-auth-security-best-practices",
+  "version": "1.0.0",
+  "description": "better-auth-security-best-practices skill from better-auth/skills",
+  "author": {
+    "name": "better-auth"
+  },
+  "repository": "https://github.com/better-auth/skills"
+}

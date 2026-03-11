@@ -1,0 +1,9 @@
+{
+  "name": "openapi-spec-generation",
+  "version": "1.0.0",
+  "description": "openapi-spec-generation skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

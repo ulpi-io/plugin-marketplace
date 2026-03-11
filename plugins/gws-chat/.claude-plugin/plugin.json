@@ -1,0 +1,9 @@
+{
+  "name": "gws-chat",
+  "version": "1.0.0",
+  "description": "gws-chat skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

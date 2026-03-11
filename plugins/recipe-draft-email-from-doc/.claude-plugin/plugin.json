@@ -1,0 +1,9 @@
+{
+  "name": "recipe-draft-email-from-doc",
+  "version": "1.0.0",
+  "description": "recipe-draft-email-from-doc skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

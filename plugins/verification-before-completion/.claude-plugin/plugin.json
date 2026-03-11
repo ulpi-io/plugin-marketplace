@@ -1,0 +1,9 @@
+{
+  "name": "verification-before-completion",
+  "version": "1.0.0",
+  "description": "verification-before-completion skill from obra/superpowers",
+  "author": {
+    "name": "obra"
+  },
+  "repository": "https://github.com/obra/superpowers"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "recipe-search-and-export-emails",
+  "version": "1.0.0",
+  "description": "recipe-search-and-export-emails skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

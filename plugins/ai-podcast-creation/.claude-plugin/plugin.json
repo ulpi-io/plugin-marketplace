@@ -1,0 +1,9 @@
+{
+  "name": "ai-podcast-creation",
+  "version": "1.0.0",
+  "description": "ai-podcast-creation skill from inference-shell/skills",
+  "author": {
+    "name": "inference-shell"
+  },
+  "repository": "https://github.com/inference-shell/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "deploy-to-vercel",
+  "version": "1.0.0",
+  "description": "deploy-to-vercel skill from vercel-labs/agent-skills",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "recipe-label-and-archive-emails",
+  "version": "1.0.0",
+  "description": "recipe-label-and-archive-emails skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

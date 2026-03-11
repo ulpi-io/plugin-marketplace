@@ -1,0 +1,9 @@
+{
+  "name": "react-native-best-practices",
+  "version": "1.0.0",
+  "description": "react-native-best-practices skill from callstackincubator/agent-skills",
+  "author": {
+    "name": "callstackincubator"
+  },
+  "repository": "https://github.com/callstackincubator/agent-skills"
+}

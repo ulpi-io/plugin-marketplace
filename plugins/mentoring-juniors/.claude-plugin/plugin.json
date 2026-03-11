@@ -1,0 +1,9 @@
+{
+  "name": "mentoring-juniors",
+  "version": "1.0.0",
+  "description": "mentoring-juniors skill from github/awesome-copilot",
+  "author": {
+    "name": "github"
+  },
+  "repository": "https://github.com/github/awesome-copilot"
+}

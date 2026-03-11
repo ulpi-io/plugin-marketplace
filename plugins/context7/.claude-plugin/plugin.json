@@ -1,0 +1,9 @@
+{
+  "name": "context7",
+  "version": "1.0.0",
+  "description": "context7 skill from intellectronica/agent-skills",
+  "author": {
+    "name": "intellectronica"
+  },
+  "repository": "https://github.com/intellectronica/agent-skills"
+}

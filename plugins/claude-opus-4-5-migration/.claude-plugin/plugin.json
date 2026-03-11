@@ -1,0 +1,9 @@
+{
+  "name": "claude-opus-4-5-migration",
+  "version": "1.0.0",
+  "description": "claude-opus-4-5-migration skill from anthropics/claude-code",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/claude-code"
+}

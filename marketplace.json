@@ -20,63 +20,123 @@
     },
     {
       "name": "find-skills",
-      "description": "Helps discover and install agent skills",
+      "description": "find-skills skill from vercel-labs/skills",
       "source": "./plugins/find-skills",
       "category": "skills"
     },
     {
       "name": "vercel-react-best-practices",
-      "description": "React best practices for Vercel projects",
+      "description": "vercel-react-best-practices skill from vercel-labs/agent-skills",
       "source": "./plugins/vercel-react-best-practices",
-      "category": "development"
+      "category": "skills"
     },
     {
       "name": "web-design-guidelines",
-      "description": "Web design guidelines and principles",
+      "description": "web-design-guidelines skill from vercel-labs/agent-skills",
       "source": "./plugins/web-design-guidelines",
-      "category": "development"
+      "category": "skills"
     },
     {
       "name": "frontend-design",
-      "description": "Create distinctive, production-grade frontend interfaces",
+      "description": "frontend-design skill from anthropics/skills",
       "source": "./plugins/frontend-design",
-      "category": "development"
+      "category": "skills"
     },
     {
       "name": "remotion-best-practices",
-      "description": "Best practices for Remotion video framework",
+      "description": "remotion-best-practices skill from remotion-dev/skills",
       "source": "./plugins/remotion-best-practices",
-      "category": "development"
+      "category": "skills"
     },
     {
       "name": "azure-ai",
-      "description": "Azure AI services integration",
+      "description": "azure-ai skill from microsoft/github-copilot-for-azure",
       "source": "./plugins/azure-ai",
-      "category": "development"
+      "category": "skills"
     },
     {
       "name": "sleek-design-mobile-apps",
-      "description": "Sleek mobile app design guidelines",
+      "description": "sleek-design-mobile-apps skill from sleekdotdesign/agent-skills",
       "source": "./plugins/sleek-design-mobile-apps",
-      "category": "development"
+      "category": "skills"
     },
     {
       "name": "azure-hosted-copilot-sdk",
-      "description": "Azure hosted Copilot SDK integration",
+      "description": "azure-hosted-copilot-sdk skill from microsoft/github-copilot-for-azure",
       "source": "./plugins/azure-hosted-copilot-sdk",
-      "category": "development"
+      "category": "skills"
     },
     {
       "name": "agent-browser",
-      "description": "Browser automation for AI agents",
+      "description": "agent-browser skill from vercel-labs/agent-browser",
       "source": "./plugins/agent-browser",
-      "category": "productivity"
+      "category": "skills"
     },
     {
       "name": "vercel-composition-patterns",
-      "description": "React composition patterns for Vercel",
+      "description": "vercel-composition-patterns skill from vercel-labs/agent-skills",
       "source": "./plugins/vercel-composition-patterns",
-      "category": "development"
+      "category": "skills"
+    },
+    {
+      "name": "skill-creator",
+      "description": "skill-creator skill from anthropics/skills",
+      "source": "./plugins/skill-creator",
+      "category": "skills"
+    },
+    {
+      "name": "azure-compute",
+      "description": "azure-compute skill from microsoft/github-copilot-for-azure",
+      "source": "./plugins/azure-compute",
+      "category": "skills"
+    },
+    {
+      "name": "simple",
+      "description": "simple skill from roin-orca/skills",
+      "source": "./plugins/simple",
+      "category": "skills"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "description": "ui-ux-pro-max skill from nextlevelbuilder/ui-ux-pro-max-skill",
+      "source": "./plugins/ui-ux-pro-max",
+      "category": "skills"
+    },
+    {
+      "name": "vercel-react-native-skills",
+      "description": "vercel-react-native-skills skill from vercel-labs/agent-skills",
+      "source": "./plugins/vercel-react-native-skills",
+      "category": "skills"
+    },
+    {
+      "name": "azure-cloud-migrate",
+      "description": "azure-cloud-migrate skill from microsoft/github-copilot-for-azure",
+      "source": "./plugins/azure-cloud-migrate",
+      "category": "skills"
+    },
+    {
+      "name": "brainstorming",
+      "description": "brainstorming skill from obra/superpowers",
+      "source": "./plugins/brainstorming",
+      "category": "skills"
+    },
+    {
+      "name": "browser-use",
+      "description": "browser-use skill from browser-use/browser-use",
+      "source": "./plugins/browser-use",
+      "category": "skills"
+    },
+    {
+      "name": "seo-audit",
+      "description": "seo-audit skill from coreyhaines31/marketingskills",
+      "source": "./plugins/seo-audit",
+      "category": "skills"
+    },
+    {
+      "name": "azure-postgres",
+      "description": "azure-postgres skill from microsoft/github-copilot-for-azure",
+      "source": "./plugins/azure-postgres",
+      "category": "skills"
     }
   ]
 }

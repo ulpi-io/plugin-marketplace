@@ -1,0 +1,9 @@
+{
+  "name": "skill-creator",
+  "version": "1.0.0",
+  "description": "skill-creator skill from anthropics/skills",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "next-best-practices",
+  "version": "1.0.0",
+  "description": "next-best-practices skill from vercel-labs/next-skills",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/next-skills"
+}

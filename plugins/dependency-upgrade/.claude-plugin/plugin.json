@@ -1,0 +1,9 @@
+{
+  "name": "dependency-upgrade",
+  "version": "1.0.0",
+  "description": "dependency-upgrade skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

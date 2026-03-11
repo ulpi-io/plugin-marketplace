@@ -1,0 +1,9 @@
+{
+  "name": "apify-lead-generation",
+  "version": "1.0.0",
+  "description": "apify-lead-generation skill from apify/agent-skills",
+  "author": {
+    "name": "apify"
+  },
+  "repository": "https://github.com/apify/agent-skills"
+}

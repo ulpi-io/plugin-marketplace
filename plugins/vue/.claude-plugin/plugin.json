@@ -1,0 +1,9 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "vue skill from antfu/skills",
+  "author": {
+    "name": "antfu"
+  },
+  "repository": "https://github.com/antfu/skills"
+}

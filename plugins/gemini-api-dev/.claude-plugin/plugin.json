@@ -1,0 +1,9 @@
+{
+  "name": "gemini-api-dev",
+  "version": "1.0.0",
+  "description": "gemini-api-dev skill from google-gemini/gemini-skills",
+  "author": {
+    "name": "google-gemini"
+  },
+  "repository": "https://github.com/google-gemini/gemini-skills"
+}

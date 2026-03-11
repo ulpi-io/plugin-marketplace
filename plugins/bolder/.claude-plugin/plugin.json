@@ -1,0 +1,9 @@
+{
+  "name": "bolder",
+  "version": "1.0.0",
+  "description": "bolder skill from pbakaus/impeccable",
+  "author": {
+    "name": "pbakaus"
+  },
+  "repository": "https://github.com/pbakaus/impeccable"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "bazel-build-optimization",
+  "version": "1.0.0",
+  "description": "bazel-build-optimization skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "next-cache-components",
+  "version": "1.0.0",
+  "description": "next-cache-components skill from vercel-labs/next-skills",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/next-skills"
+}

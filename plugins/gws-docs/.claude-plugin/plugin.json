@@ -1,0 +1,9 @@
+{
+  "name": "gws-docs",
+  "version": "1.0.0",
+  "description": "gws-docs skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

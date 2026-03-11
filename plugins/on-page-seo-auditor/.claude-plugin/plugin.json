@@ -1,0 +1,9 @@
+{
+  "name": "on-page-seo-auditor",
+  "version": "1.0.0",
+  "description": "on-page-seo-auditor skill from aaron-he-zhu/seo-geo-claude-skills",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "repository": "https://github.com/aaron-he-zhu/seo-geo-claude-skills"
+}

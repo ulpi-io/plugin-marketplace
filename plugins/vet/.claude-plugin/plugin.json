@@ -1,0 +1,9 @@
+{
+  "name": "vet",
+  "version": "1.0.0",
+  "description": "vet skill from imbue-ai/vet",
+  "author": {
+    "name": "imbue-ai"
+  },
+  "repository": "https://github.com/imbue-ai/vet"
+}

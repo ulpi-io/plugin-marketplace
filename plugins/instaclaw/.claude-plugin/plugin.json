@@ -1,0 +1,9 @@
+{
+  "name": "instaclaw",
+  "version": "1.0.0",
+  "description": "instaclaw skill from napoleond/instaclaw",
+  "author": {
+    "name": "napoleond"
+  },
+  "repository": "https://github.com/napoleond/instaclaw"
+}

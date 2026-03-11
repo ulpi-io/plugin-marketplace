@@ -1,0 +1,9 @@
+{
+  "name": "recipe-save-email-attachments",
+  "version": "1.0.0",
+  "description": "recipe-save-email-attachments skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

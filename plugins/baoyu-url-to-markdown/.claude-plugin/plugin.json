@@ -1,0 +1,9 @@
+{
+  "name": "baoyu-url-to-markdown",
+  "version": "1.0.0",
+  "description": "baoyu-url-to-markdown skill from jimliu/baoyu-skills",
+  "author": {
+    "name": "jimliu"
+  },
+  "repository": "https://github.com/jimliu/baoyu-skills"
+}

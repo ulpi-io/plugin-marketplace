@@ -1,0 +1,9 @@
+{
+  "name": "feature-forge",
+  "version": "1.0.0",
+  "description": "feature-forge skill from jeffallan/claude-skills",
+  "author": {
+    "name": "jeffallan"
+  },
+  "repository": "https://github.com/jeffallan/claude-skills"
+}

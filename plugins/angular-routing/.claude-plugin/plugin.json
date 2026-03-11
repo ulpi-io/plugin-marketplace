@@ -1,0 +1,9 @@
+{
+  "name": "angular-routing",
+  "version": "1.0.0",
+  "description": "angular-routing skill from analogjs/angular-skills",
+  "author": {
+    "name": "analogjs"
+  },
+  "repository": "https://github.com/analogjs/angular-skills"
+}

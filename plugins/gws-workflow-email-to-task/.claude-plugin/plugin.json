@@ -1,0 +1,9 @@
+{
+  "name": "gws-workflow-email-to-task",
+  "version": "1.0.0",
+  "description": "gws-workflow-email-to-task skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

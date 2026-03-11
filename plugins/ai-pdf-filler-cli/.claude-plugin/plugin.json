@@ -1,0 +1,9 @@
+{
+  "name": "ai-pdf-filler-cli",
+  "version": "1.0.0",
+  "description": "ai-pdf-filler-cli skill from askyourpdf/ai-pdf-filler",
+  "author": {
+    "name": "askyourpdf"
+  },
+  "repository": "https://github.com/askyourpdf/ai-pdf-filler"
+}

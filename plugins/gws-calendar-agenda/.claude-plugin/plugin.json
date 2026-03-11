@@ -1,0 +1,9 @@
+{
+  "name": "gws-calendar-agenda",
+  "version": "1.0.0",
+  "description": "gws-calendar-agenda skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

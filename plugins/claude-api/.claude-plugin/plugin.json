@@ -1,0 +1,9 @@
+{
+  "name": "claude-api",
+  "version": "1.0.0",
+  "description": "claude-api skill from anthropics/skills",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/skills"
+}

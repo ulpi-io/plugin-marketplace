@@ -1,0 +1,9 @@
+{
+  "name": "swift-expert",
+  "version": "1.0.0",
+  "description": "swift-expert skill from jeffallan/claude-skills",
+  "author": {
+    "name": "jeffallan"
+  },
+  "repository": "https://github.com/jeffallan/claude-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "twitter skill from resciencelab/opc-skills",
+  "author": {
+    "name": "resciencelab"
+  },
+  "repository": "https://github.com/resciencelab/opc-skills"
+}

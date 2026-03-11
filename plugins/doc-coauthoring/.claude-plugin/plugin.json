@@ -1,0 +1,9 @@
+{
+  "name": "doc-coauthoring",
+  "version": "1.0.0",
+  "description": "doc-coauthoring skill from anthropics/skills",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/skills"
+}

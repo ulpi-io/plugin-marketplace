@@ -1,0 +1,9 @@
+{
+  "name": "typescript-advanced-types",
+  "version": "1.0.0",
+  "description": "typescript-advanced-types skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

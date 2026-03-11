@@ -1,0 +1,9 @@
+{
+  "name": "nestjs-best-practices",
+  "version": "1.0.0",
+  "description": "nestjs-best-practices skill from kadajett/agent-nestjs-skills",
+  "author": {
+    "name": "kadajett"
+  },
+  "repository": "https://github.com/kadajett/agent-nestjs-skills"
+}

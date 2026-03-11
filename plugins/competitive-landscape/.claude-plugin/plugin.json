@@ -1,0 +1,9 @@
+{
+  "name": "competitive-landscape",
+  "version": "1.0.0",
+  "description": "competitive-landscape skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

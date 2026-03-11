@@ -1,0 +1,9 @@
+{
+  "name": "critique",
+  "version": "1.0.0",
+  "description": "critique skill from pbakaus/impeccable",
+  "author": {
+    "name": "pbakaus"
+  },
+  "repository": "https://github.com/pbakaus/impeccable"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "binary-analysis-patterns",
+  "version": "1.0.0",
+  "description": "binary-analysis-patterns skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

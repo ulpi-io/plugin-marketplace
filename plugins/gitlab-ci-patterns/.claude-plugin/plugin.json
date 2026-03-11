@@ -1,0 +1,9 @@
+{
+  "name": "gitlab-ci-patterns",
+  "version": "1.0.0",
+  "description": "gitlab-ci-patterns skill from wshobson/agents",
+  "author": {
+    "name": "wshobson"
+  },
+  "repository": "https://github.com/wshobson/agents"
+}

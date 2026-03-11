@@ -1,0 +1,9 @@
+{
+  "name": "ai-rag-pipeline",
+  "version": "1.0.0",
+  "description": "ai-rag-pipeline skill from inference-shell/skills",
+  "author": {
+    "name": "inference-shell"
+  },
+  "repository": "https://github.com/inference-shell/skills"
+}

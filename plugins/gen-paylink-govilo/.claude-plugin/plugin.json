@@ -1,0 +1,9 @@
+{
+  "name": "gen-paylink-govilo",
+  "version": "1.0.0",
+  "description": "gen-paylink-govilo skill from hau823823/gen-paylink-govilo",
+  "author": {
+    "name": "hau823823"
+  },
+  "repository": "https://github.com/hau823823/gen-paylink-govilo"
+}

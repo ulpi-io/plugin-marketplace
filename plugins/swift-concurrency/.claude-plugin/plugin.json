@@ -1,0 +1,9 @@
+{
+  "name": "swift-concurrency",
+  "version": "1.0.0",
+  "description": "swift-concurrency skill from avdlee/swift-concurrency-agent-skill",
+  "author": {
+    "name": "avdlee"
+  },
+  "repository": "https://github.com/avdlee/swift-concurrency-agent-skill"
+}

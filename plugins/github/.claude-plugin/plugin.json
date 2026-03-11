@@ -1,0 +1,9 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "github skill from callstackincubator/agent-skills",
+  "author": {
+    "name": "callstackincubator"
+  },
+  "repository": "https://github.com/callstackincubator/agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "cloud-architect",
+  "version": "1.0.0",
+  "description": "cloud-architect skill from jeffallan/claude-skills",
+  "author": {
+    "name": "jeffallan"
+  },
+  "repository": "https://github.com/jeffallan/claude-skills"
+}

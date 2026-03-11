@@ -1,0 +1,9 @@
+{
+  "name": "commit-work",
+  "version": "1.0.0",
+  "description": "commit-work skill from softaworks/agent-toolkit",
+  "author": {
+    "name": "softaworks"
+  },
+  "repository": "https://github.com/softaworks/agent-toolkit"
+}

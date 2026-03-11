@@ -1,0 +1,9 @@
+{
+  "name": "deslop",
+  "version": "1.0.0",
+  "description": "deslop skill from brianlovin/claude-config",
+  "author": {
+    "name": "brianlovin"
+  },
+  "repository": "https://github.com/brianlovin/claude-config"
+}

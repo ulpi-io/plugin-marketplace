@@ -1,0 +1,9 @@
+{
+  "name": "proactive-agent",
+  "version": "1.0.0",
+  "description": "proactive-agent skill from halthelobster/proactive-agent",
+  "author": {
+    "name": "halthelobster"
+  },
+  "repository": "https://github.com/halthelobster/proactive-agent"
+}

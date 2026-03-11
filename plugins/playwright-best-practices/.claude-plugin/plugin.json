@@ -1,0 +1,9 @@
+{
+  "name": "playwright-best-practices",
+  "version": "1.0.0",
+  "description": "playwright-best-practices skill from currents-dev/playwright-best-practices-skill",
+  "author": {
+    "name": "currents-dev"
+  },
+  "repository": "https://github.com/currents-dev/playwright-best-practices-skill"
+}

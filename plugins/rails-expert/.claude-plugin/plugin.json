@@ -1,0 +1,9 @@
+{
+  "name": "rails-expert",
+  "version": "1.0.0",
+  "description": "rails-expert skill from jeffallan/claude-skills",
+  "author": {
+    "name": "jeffallan"
+  },
+  "repository": "https://github.com/jeffallan/claude-skills"
+}

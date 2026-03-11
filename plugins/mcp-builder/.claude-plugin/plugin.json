@@ -1,0 +1,9 @@
+{
+  "name": "mcp-builder",
+  "version": "1.0.0",
+  "description": "mcp-builder skill from mcp-use/mcp-use",
+  "author": {
+    "name": "mcp-use"
+  },
+  "repository": "https://github.com/mcp-use/mcp-use"
+}

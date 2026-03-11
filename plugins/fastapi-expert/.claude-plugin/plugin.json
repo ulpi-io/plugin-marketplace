@@ -1,0 +1,9 @@
+{
+  "name": "fastapi-expert",
+  "version": "1.0.0",
+  "description": "fastapi-expert skill from jeffallan/claude-skills",
+  "author": {
+    "name": "jeffallan"
+  },
+  "repository": "https://github.com/jeffallan/claude-skills"
+}

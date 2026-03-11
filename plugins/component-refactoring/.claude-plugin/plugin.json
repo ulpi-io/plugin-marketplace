@@ -1,0 +1,9 @@
+{
+  "name": "component-refactoring",
+  "version": "1.0.0",
+  "description": "component-refactoring skill from langgenius/dify",
+  "author": {
+    "name": "langgenius"
+  },
+  "repository": "https://github.com/langgenius/dify"
+}

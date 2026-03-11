@@ -1,10 +1,9 @@
 {
   "name": "agent-browser",
   "version": "1.0.0",
-  "description": "Browser automation for AI agents",
+  "description": "agent-browser skill from vercel-labs/agent-browser",
   "author": {
     "name": "vercel-labs"
   },
-  "repository": "https://github.com/vercel-labs/agent-browser",
-  "license": "MIT"
+  "repository": "https://github.com/vercel-labs/agent-browser"
 }

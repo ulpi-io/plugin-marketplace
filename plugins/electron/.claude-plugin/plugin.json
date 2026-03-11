@@ -1,0 +1,9 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "electron skill from vercel-labs/agent-browser",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/agent-browser"
+}

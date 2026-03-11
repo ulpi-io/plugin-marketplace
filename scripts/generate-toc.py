@@ -107,7 +107,7 @@ def generate_readme(plugins):
     lines.append('  <a href="https://www.thecasualleader.com/"><img src="https://images.squarespace-cdn.com/content/v1/678a556b961d7f407a170440/e9bbb79f-6115-41b5-abac-a4a124d4c071/fulllogo.png?format=1500w" alt="The Casual Leader" height="56"></a>')
     lines.append('</p>')
     lines.append("")
-    lines.append("# Ulpi Plugin Marketplace")
+    lines.append("# Plugin Marketplace")
     lines.append("")
     lines.append(f"A curated collection of {len(plugins)}+ agent skills, packaged as plugins for easy installation in the Claude Desktop app.")
     lines.append("")

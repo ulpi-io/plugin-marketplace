@@ -1,0 +1,9 @@
+{
+  "name": "sentry-setup-ai-monitoring",
+  "version": "1.0.0",
+  "description": "sentry-setup-ai-monitoring skill from getsentry/sentry-for-ai",
+  "author": {
+    "name": "getsentry"
+  },
+  "repository": "https://github.com/getsentry/sentry-for-ai"
+}

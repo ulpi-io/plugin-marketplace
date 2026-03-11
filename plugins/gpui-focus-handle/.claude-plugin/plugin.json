@@ -1,0 +1,9 @@
+{
+  "name": "gpui-focus-handle",
+  "version": "1.0.0",
+  "description": "gpui-focus-handle skill from longbridge/gpui-component",
+  "author": {
+    "name": "longbridge"
+  },
+  "repository": "https://github.com/longbridge/gpui-component"
+}

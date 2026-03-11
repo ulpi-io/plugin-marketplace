@@ -1,0 +1,9 @@
+{
+  "name": "prisma-postgres",
+  "version": "1.0.0",
+  "description": "prisma-postgres skill from prisma/skills",
+  "author": {
+    "name": "prisma"
+  },
+  "repository": "https://github.com/prisma/skills"
+}

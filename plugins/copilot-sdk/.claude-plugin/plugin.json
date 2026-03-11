@@ -1,0 +1,9 @@
+{
+  "name": "copilot-sdk",
+  "version": "1.0.0",
+  "description": "copilot-sdk skill from intellectronica/agent-skills",
+  "author": {
+    "name": "intellectronica"
+  },
+  "repository": "https://github.com/intellectronica/agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "tamagui",
+  "version": "1.0.0",
+  "description": "tamagui skill from tamagui/tamagui",
+  "author": {
+    "name": "tamagui"
+  },
+  "repository": "https://github.com/tamagui/tamagui"
+}

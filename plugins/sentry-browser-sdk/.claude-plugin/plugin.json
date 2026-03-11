@@ -1,0 +1,9 @@
+{
+  "name": "sentry-browser-sdk",
+  "version": "1.0.0",
+  "description": "sentry-browser-sdk skill from getsentry/sentry-for-ai",
+  "author": {
+    "name": "getsentry"
+  },
+  "repository": "https://github.com/getsentry/sentry-for-ai"
+}

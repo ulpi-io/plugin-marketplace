@@ -1,0 +1,9 @@
+{
+  "name": "okx-wallet-portfolio",
+  "version": "1.0.0",
+  "description": "okx-wallet-portfolio skill from okx/onchainos-skills",
+  "author": {
+    "name": "okx"
+  },
+  "repository": "https://github.com/okx/onchainos-skills"
+}

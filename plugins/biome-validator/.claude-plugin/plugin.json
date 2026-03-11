@@ -1,0 +1,9 @@
+{
+  "name": "biome-validator",
+  "version": "1.0.0",
+  "description": "biome-validator skill from gracefullight/stock-checker",
+  "author": {
+    "name": "gracefullight"
+  },
+  "repository": "https://github.com/gracefullight/stock-checker"
+}

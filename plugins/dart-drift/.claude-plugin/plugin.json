@@ -1,0 +1,9 @@
+{
+  "name": "dart-drift",
+  "version": "1.0.0",
+  "description": "dart-drift skill from madteacher/mad-agents-skills",
+  "author": {
+    "name": "madteacher"
+  },
+  "repository": "https://github.com/madteacher/mad-agents-skills"
+}

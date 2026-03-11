@@ -1,0 +1,9 @@
+{
+  "name": "aws-s3-management",
+  "version": "1.0.0",
+  "description": "aws-s3-management skill from aj-geddes/useful-ai-prompts",
+  "author": {
+    "name": "aj-geddes"
+  },
+  "repository": "https://github.com/aj-geddes/useful-ai-prompts"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "implement_plan",
+  "version": "1.0.0",
+  "description": "implement_plan skill from parcadei/continuous-claude-v3",
+  "author": {
+    "name": "parcadei"
+  },
+  "repository": "https://github.com/parcadei/continuous-claude-v3"
+}

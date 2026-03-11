@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-data-analytics-dataanalysisgbi",
+  "version": "1.0.0",
+  "description": "alicloud-data-analytics-dataanalysisgbi skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

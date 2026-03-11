@@ -1,0 +1,9 @@
+{
+  "name": "semgrep",
+  "version": "1.0.0",
+  "description": "semgrep skill from semgrep/skills",
+  "author": {
+    "name": "semgrep"
+  },
+  "repository": "https://github.com/semgrep/skills"
+}

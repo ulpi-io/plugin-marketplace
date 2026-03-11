@@ -1,0 +1,9 @@
+{
+  "name": "social-trend-monitor",
+  "version": "1.0.0",
+  "description": "social-trend-monitor skill from yangliu2060/smith--skills",
+  "author": {
+    "name": "yangliu2060"
+  },
+  "repository": "https://github.com/yangliu2060/smith--skills"
+}

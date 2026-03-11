@@ -1,0 +1,9 @@
+{
+  "name": "budget-analyzer",
+  "version": "1.0.0",
+  "description": "budget-analyzer skill from dkyazzentwatwa/chatgpt-skills",
+  "author": {
+    "name": "dkyazzentwatwa"
+  },
+  "repository": "https://github.com/dkyazzentwatwa/chatgpt-skills"
+}

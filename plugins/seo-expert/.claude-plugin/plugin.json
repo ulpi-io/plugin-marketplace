@@ -1,0 +1,9 @@
+{
+  "name": "seo-expert",
+  "version": "1.0.0",
+  "description": "seo-expert skill from dengineproblem/agents-monorepo",
+  "author": {
+    "name": "dengineproblem"
+  },
+  "repository": "https://github.com/dengineproblem/agents-monorepo"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "kernel-python-sdk",
+  "version": "1.0.0",
+  "description": "kernel-python-sdk skill from kernel/skills",
+  "author": {
+    "name": "kernel"
+  },
+  "repository": "https://github.com/kernel/skills"
+}

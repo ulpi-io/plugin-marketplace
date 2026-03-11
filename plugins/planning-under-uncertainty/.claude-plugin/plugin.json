@@ -1,0 +1,9 @@
+{
+  "name": "planning-under-uncertainty",
+  "version": "1.0.0",
+  "description": "planning-under-uncertainty skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

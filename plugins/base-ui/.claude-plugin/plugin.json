@@ -1,0 +1,9 @@
+{
+  "name": "base-ui",
+  "version": "1.0.0",
+  "description": "base-ui skill from itechmeat/llm-code",
+  "author": {
+    "name": "itechmeat"
+  },
+  "repository": "https://github.com/itechmeat/llm-code"
+}

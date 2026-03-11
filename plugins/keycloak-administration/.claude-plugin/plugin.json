@@ -1,0 +1,9 @@
+{
+  "name": "keycloak-administration",
+  "version": "1.0.0",
+  "description": "keycloak-administration skill from dauquangthanh/hanoi-rainbow",
+  "author": {
+    "name": "dauquangthanh"
+  },
+  "repository": "https://github.com/dauquangthanh/hanoi-rainbow"
+}

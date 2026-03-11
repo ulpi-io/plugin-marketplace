@@ -1,0 +1,9 @@
+{
+  "name": "authoring-dags",
+  "version": "1.0.0",
+  "description": "authoring-dags skill from astronomer/agents",
+  "author": {
+    "name": "astronomer"
+  },
+  "repository": "https://github.com/astronomer/agents"
+}

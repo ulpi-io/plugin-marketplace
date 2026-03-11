@@ -1,0 +1,9 @@
+{
+  "name": "dcf-model",
+  "version": "1.0.0",
+  "description": "dcf-model skill from anthropics/financial-services-plugins",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/financial-services-plugins"
+}

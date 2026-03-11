@@ -1,0 +1,9 @@
+{
+  "name": "mcp-server-skills",
+  "version": "1.0.0",
+  "description": "mcp-server-skills skill from gocallum/nextjs16-agent-skills",
+  "author": {
+    "name": "gocallum"
+  },
+  "repository": "https://github.com/gocallum/nextjs16-agent-skills"
+}

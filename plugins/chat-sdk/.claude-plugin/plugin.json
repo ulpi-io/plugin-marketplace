@@ -1,0 +1,9 @@
+{
+  "name": "chat-sdk",
+  "version": "1.0.0",
+  "description": "chat-sdk skill from vercel/chat",
+  "author": {
+    "name": "vercel"
+  },
+  "repository": "https://github.com/vercel/chat"
+}

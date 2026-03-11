@@ -1,0 +1,9 @@
+{
+  "name": "confluence",
+  "version": "1.0.0",
+  "description": "confluence skill from spillwavesolutions/confluence-skill",
+  "author": {
+    "name": "spillwavesolutions"
+  },
+  "repository": "https://github.com/spillwavesolutions/confluence-skill"
+}

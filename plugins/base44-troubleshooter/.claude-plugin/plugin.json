@@ -1,0 +1,9 @@
+{
+  "name": "base44-troubleshooter",
+  "version": "1.0.0",
+  "description": "base44-troubleshooter skill from base44/skills",
+  "author": {
+    "name": "base44"
+  },
+  "repository": "https://github.com/base44/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "create-docs",
+  "version": "1.0.0",
+  "description": "create-docs skill from nuxt-content/docus",
+  "author": {
+    "name": "nuxt-content"
+  },
+  "repository": "https://github.com/nuxt-content/docus"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "shaping",
+  "version": "1.0.0",
+  "description": "shaping skill from rjs/shaping-skills",
+  "author": {
+    "name": "rjs"
+  },
+  "repository": "https://github.com/rjs/shaping-skills"
+}

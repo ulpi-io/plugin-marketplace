@@ -1,0 +1,9 @@
+{
+  "name": "amazon-working-backwards",
+  "version": "1.0.0",
+  "description": "amazon-working-backwards skill from robdefeo/agent-skills",
+  "author": {
+    "name": "robdefeo"
+  },
+  "repository": "https://github.com/robdefeo/agent-skills"
+}

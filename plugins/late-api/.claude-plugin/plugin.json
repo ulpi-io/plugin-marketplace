@@ -1,0 +1,9 @@
+{
+  "name": "late-api",
+  "version": "1.0.0",
+  "description": "late-api skill from getlate-dev/late-api",
+  "author": {
+    "name": "getlate-dev"
+  },
+  "repository": "https://github.com/getlate-dev/late-api"
+}

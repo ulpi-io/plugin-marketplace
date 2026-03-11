@@ -1,0 +1,9 @@
+{
+  "name": "ln-627-observability-auditor",
+  "version": "1.0.0",
+  "description": "ln-627-observability-auditor skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

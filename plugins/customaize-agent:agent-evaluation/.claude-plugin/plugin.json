@@ -1,0 +1,9 @@
+{
+  "name": "customaize-agent:agent-evaluation",
+  "version": "1.0.0",
+  "description": "customaize-agent:agent-evaluation skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

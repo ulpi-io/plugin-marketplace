@@ -1,0 +1,9 @@
+{
+  "name": "sveltekit-svelte5-tailwind-skill",
+  "version": "1.0.0",
+  "description": "sveltekit-svelte5-tailwind-skill skill from claude-skills/sveltekit-svelte5-tailwind-skill",
+  "author": {
+    "name": "claude-skills"
+  },
+  "repository": "https://github.com/claude-skills/sveltekit-svelte5-tailwind-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "nsfc-justification-writer",
+  "version": "1.0.0",
+  "description": "nsfc-justification-writer skill from huangwb8/chineseresearchlatex",
+  "author": {
+    "name": "huangwb8"
+  },
+  "repository": "https://github.com/huangwb8/chineseresearchlatex"
+}

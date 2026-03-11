@@ -1,0 +1,9 @@
+{
+  "name": "recall",
+  "version": "1.0.0",
+  "description": "recall skill from arjunkmrm/recall",
+  "author": {
+    "name": "arjunkmrm"
+  },
+  "repository": "https://github.com/arjunkmrm/recall"
+}

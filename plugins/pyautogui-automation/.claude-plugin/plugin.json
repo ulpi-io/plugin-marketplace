@@ -1,0 +1,9 @@
+{
+  "name": "pyautogui-automation",
+  "version": "1.0.0",
+  "description": "pyautogui-automation skill from steelan9199/wechat-publisher",
+  "author": {
+    "name": "steelan9199"
+  },
+  "repository": "https://github.com/steelan9199/wechat-publisher"
+}

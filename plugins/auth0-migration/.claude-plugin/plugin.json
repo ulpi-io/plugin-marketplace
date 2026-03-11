@@ -1,0 +1,9 @@
+{
+  "name": "auth0-migration",
+  "version": "1.0.0",
+  "description": "auth0-migration skill from auth0/agent-skills",
+  "author": {
+    "name": "auth0"
+  },
+  "repository": "https://github.com/auth0/agent-skills"
+}

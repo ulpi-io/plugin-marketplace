@@ -1,0 +1,9 @@
+{
+  "name": "fix-issue",
+  "version": "1.0.0",
+  "description": "fix-issue skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

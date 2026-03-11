@@ -1,0 +1,9 @@
+{
+  "name": "ant-design-vue",
+  "version": "1.0.0",
+  "description": "ant-design-vue skill from teachingai/full-stack-skills",
+  "author": {
+    "name": "teachingai"
+  },
+  "repository": "https://github.com/teachingai/full-stack-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "aixyz-on-openclaw",
+  "version": "1.0.0",
+  "description": "aixyz-on-openclaw skill from agentlyhq/aixyz",
+  "author": {
+    "name": "agentlyhq"
+  },
+  "repository": "https://github.com/agentlyhq/aixyz"
+}

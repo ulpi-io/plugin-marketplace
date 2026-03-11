@@ -1,0 +1,9 @@
+{
+  "name": "trading-strategies",
+  "version": "1.0.0",
+  "description": "trading-strategies skill from agentmc15/polymarket-trader",
+  "author": {
+    "name": "agentmc15"
+  },
+  "repository": "https://github.com/agentmc15/polymarket-trader"
+}

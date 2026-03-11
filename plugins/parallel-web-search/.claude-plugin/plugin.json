@@ -1,0 +1,9 @@
+{
+  "name": "parallel-web-search",
+  "version": "1.0.0",
+  "description": "parallel-web-search skill from parallel-web/parallel-agent-skills",
+  "author": {
+    "name": "parallel-web"
+  },
+  "repository": "https://github.com/parallel-web/parallel-agent-skills"
+}

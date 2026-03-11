@@ -1,0 +1,9 @@
+{
+  "name": "intent-plan",
+  "version": "1.0.0",
+  "description": "intent-plan skill from arcblock/idd",
+  "author": {
+    "name": "arcblock"
+  },
+  "repository": "https://github.com/arcblock/idd"
+}

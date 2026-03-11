@@ -1,0 +1,9 @@
+{
+  "name": "x-tweet-fetcher",
+  "version": "1.0.0",
+  "description": "x-tweet-fetcher skill from ythx-101/x-tweet-fetcher",
+  "author": {
+    "name": "ythx-101"
+  },
+  "repository": "https://github.com/ythx-101/x-tweet-fetcher"
+}

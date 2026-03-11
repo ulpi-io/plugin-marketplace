@@ -1,0 +1,9 @@
+{
+  "name": "problem-statement",
+  "version": "1.0.0",
+  "description": "problem-statement skill from deanpeters/product-manager-skills",
+  "author": {
+    "name": "deanpeters"
+  },
+  "repository": "https://github.com/deanpeters/product-manager-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "remotion-ads",
+  "version": "1.0.0",
+  "description": "remotion-ads skill from maartenlouis/remotion-ads",
+  "author": {
+    "name": "maartenlouis"
+  },
+  "repository": "https://github.com/maartenlouis/remotion-ads"
+}

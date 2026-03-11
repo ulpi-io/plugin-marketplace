@@ -1,0 +1,9 @@
+{
+  "name": "humanizer-zh-tw",
+  "version": "1.0.0",
+  "description": "humanizer-zh-tw skill from kevintsai1202/humanizer-zh-tw",
+  "author": {
+    "name": "kevintsai1202"
+  },
+  "repository": "https://github.com/kevintsai1202/humanizer-zh-tw"
+}

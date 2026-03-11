@@ -1,0 +1,9 @@
+{
+  "name": "aspire-service-defaults",
+  "version": "1.0.0",
+  "description": "aspire-service-defaults skill from aaronontheweb/dotnet-skills",
+  "author": {
+    "name": "aaronontheweb"
+  },
+  "repository": "https://github.com/aaronontheweb/dotnet-skills"
+}

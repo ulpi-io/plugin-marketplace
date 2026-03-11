@@ -1,0 +1,9 @@
+{
+  "name": "blucli",
+  "version": "1.0.0",
+  "description": "blucli skill from steipete/clawdis",
+  "author": {
+    "name": "steipete"
+  },
+  "repository": "https://github.com/steipete/clawdis"
+}

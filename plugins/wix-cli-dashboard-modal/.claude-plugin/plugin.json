@@ -1,0 +1,9 @@
+{
+  "name": "wix-cli-dashboard-modal",
+  "version": "1.0.0",
+  "description": "wix-cli-dashboard-modal skill from wix/skills",
+  "author": {
+    "name": "wix"
+  },
+  "repository": "https://github.com/wix/skills"
+}

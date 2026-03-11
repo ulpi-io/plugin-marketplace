@@ -1,0 +1,9 @@
+{
+  "name": "story-consistency-monitor",
+  "version": "1.0.0",
+  "description": "story-consistency-monitor skill from wordflowlab/novel-writer-skills",
+  "author": {
+    "name": "wordflowlab"
+  },
+  "repository": "https://github.com/wordflowlab/novel-writer-skills"
+}

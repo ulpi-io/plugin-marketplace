@@ -1,0 +1,9 @@
+{
+  "name": "senior-prompt-engineer",
+  "version": "1.0.0",
+  "description": "senior-prompt-engineer skill from alirezarezvani/claude-skills",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "repository": "https://github.com/alirezarezvani/claude-skills"
+}

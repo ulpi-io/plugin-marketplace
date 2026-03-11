@@ -1,0 +1,9 @@
+{
+  "name": "skill-sync",
+  "version": "1.0.0",
+  "description": "skill-sync skill from prowler-cloud/prowler",
+  "author": {
+    "name": "prowler-cloud"
+  },
+  "repository": "https://github.com/prowler-cloud/prowler"
+}

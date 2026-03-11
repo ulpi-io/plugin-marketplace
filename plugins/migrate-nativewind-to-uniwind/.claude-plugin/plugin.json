@@ -1,0 +1,9 @@
+{
+  "name": "migrate-nativewind-to-uniwind",
+  "version": "1.0.0",
+  "description": "migrate-nativewind-to-uniwind skill from uni-stack/uniwind",
+  "author": {
+    "name": "uni-stack"
+  },
+  "repository": "https://github.com/uni-stack/uniwind"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "databases",
+  "version": "1.0.0",
+  "description": "databases skill from mrgoonie/claudekit-skills",
+  "author": {
+    "name": "mrgoonie"
+  },
+  "repository": "https://github.com/mrgoonie/claudekit-skills"
+}

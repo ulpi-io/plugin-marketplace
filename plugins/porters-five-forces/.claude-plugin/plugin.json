@@ -1,0 +1,9 @@
+{
+  "name": "porters-five-forces",
+  "version": "1.0.0",
+  "description": "porters-five-forces skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

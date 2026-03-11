@@ -1,0 +1,9 @@
+{
+  "name": "heroui-react",
+  "version": "1.0.0",
+  "description": "heroui-react skill from heroui-inc/heroui",
+  "author": {
+    "name": "heroui-inc"
+  },
+  "repository": "https://github.com/heroui-inc/heroui"
+}

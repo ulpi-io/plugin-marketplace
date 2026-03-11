@@ -1,0 +1,9 @@
+{
+  "name": "xcodebuildmcp",
+  "version": "1.0.0",
+  "description": "xcodebuildmcp skill from cameroncooke/xcodebuildmcp",
+  "author": {
+    "name": "cameroncooke"
+  },
+  "repository": "https://github.com/cameroncooke/xcodebuildmcp"
+}

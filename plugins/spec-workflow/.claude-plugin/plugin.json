@@ -1,0 +1,9 @@
+{
+  "name": "spec-workflow",
+  "version": "1.0.0",
+  "description": "spec-workflow skill from tencentcloudbase/skills",
+  "author": {
+    "name": "tencentcloudbase"
+  },
+  "repository": "https://github.com/tencentcloudbase/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "fastify-best-practices",
+  "version": "1.0.0",
+  "description": "fastify-best-practices skill from mcollina/skills",
+  "author": {
+    "name": "mcollina"
+  },
+  "repository": "https://github.com/mcollina/skills"
+}

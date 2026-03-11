@@ -1,0 +1,9 @@
+{
+  "name": "youtube-watcher",
+  "version": "1.0.0",
+  "description": "youtube-watcher skill from hanzoskill/youtube-watcher",
+  "author": {
+    "name": "hanzoskill"
+  },
+  "repository": "https://github.com/hanzoskill/youtube-watcher"
+}

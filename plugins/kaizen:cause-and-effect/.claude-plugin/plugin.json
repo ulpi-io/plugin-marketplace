@@ -1,0 +1,9 @@
+{
+  "name": "kaizen:cause-and-effect",
+  "version": "1.0.0",
+  "description": "kaizen:cause-and-effect skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

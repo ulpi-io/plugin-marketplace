@@ -1,0 +1,9 @@
+{
+  "name": "git-hooks-setup",
+  "version": "1.0.0",
+  "description": "git-hooks-setup skill from aj-geddes/useful-ai-prompts",
+  "author": {
+    "name": "aj-geddes"
+  },
+  "repository": "https://github.com/aj-geddes/useful-ai-prompts"
+}

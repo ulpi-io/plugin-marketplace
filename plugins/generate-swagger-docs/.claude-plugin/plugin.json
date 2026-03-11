@@ -1,0 +1,9 @@
+{
+  "name": "generate-swagger-docs",
+  "version": "1.0.0",
+  "description": "generate-swagger-docs skill from qodex-ai/ai-agent-skills",
+  "author": {
+    "name": "qodex-ai"
+  },
+  "repository": "https://github.com/qodex-ai/ai-agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "oss-docs",
+  "version": "1.0.0",
+  "description": "oss-docs skill from boshu2/agentops",
+  "author": {
+    "name": "boshu2"
+  },
+  "repository": "https://github.com/boshu2/agentops"
+}

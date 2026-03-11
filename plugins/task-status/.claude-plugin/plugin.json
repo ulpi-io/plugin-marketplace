@@ -1,0 +1,9 @@
+{
+  "name": "task-status",
+  "version": "1.0.0",
+  "description": "task-status skill from aaaaqwq/claude-code-skills",
+  "author": {
+    "name": "aaaaqwq"
+  },
+  "repository": "https://github.com/aaaaqwq/claude-code-skills"
+}

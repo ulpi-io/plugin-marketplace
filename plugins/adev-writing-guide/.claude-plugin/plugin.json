@@ -1,0 +1,9 @@
+{
+  "name": "adev-writing-guide",
+  "version": "1.0.0",
+  "description": "adev-writing-guide skill from angular/angular",
+  "author": {
+    "name": "angular"
+  },
+  "repository": "https://github.com/angular/angular"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "lsp-code-analysis",
+  "version": "1.0.0",
+  "description": "lsp-code-analysis skill from lsp-client/lsp-skill",
+  "author": {
+    "name": "lsp-client"
+  },
+  "repository": "https://github.com/lsp-client/lsp-skill"
+}

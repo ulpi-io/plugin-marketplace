@@ -1,0 +1,9 @@
+{
+  "name": "parallel-agents",
+  "version": "1.0.0",
+  "description": "parallel-agents skill from vudovn/antigravity-kit",
+  "author": {
+    "name": "vudovn"
+  },
+  "repository": "https://github.com/vudovn/antigravity-kit"
+}

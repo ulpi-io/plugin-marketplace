@@ -1,0 +1,9 @@
+{
+  "name": "tech-news-digest",
+  "version": "1.0.0",
+  "description": "tech-news-digest skill from draco-agent/tech-news-digest",
+  "author": {
+    "name": "draco-agent"
+  },
+  "repository": "https://github.com/draco-agent/tech-news-digest"
+}

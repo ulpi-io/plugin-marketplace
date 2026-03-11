@@ -1,0 +1,9 @@
+{
+  "name": "validate-evaluator",
+  "version": "1.0.0",
+  "description": "validate-evaluator skill from hamelsmu/evals-skills",
+  "author": {
+    "name": "hamelsmu"
+  },
+  "repository": "https://github.com/hamelsmu/evals-skills"
+}

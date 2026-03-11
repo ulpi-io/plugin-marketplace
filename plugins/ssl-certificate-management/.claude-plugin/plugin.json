@@ -1,0 +1,9 @@
+{
+  "name": "ssl-certificate-management",
+  "version": "1.0.0",
+  "description": "ssl-certificate-management skill from aj-geddes/useful-ai-prompts",
+  "author": {
+    "name": "aj-geddes"
+  },
+  "repository": "https://github.com/aj-geddes/useful-ai-prompts"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "composio",
+  "version": "1.0.0",
+  "description": "composio skill from composiohq/skills",
+  "author": {
+    "name": "composiohq"
+  },
+  "repository": "https://github.com/composiohq/skills"
+}

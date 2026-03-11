@@ -1,0 +1,9 @@
+{
+  "name": "troubleshooting-astro-deployments",
+  "version": "1.0.0",
+  "description": "troubleshooting-astro-deployments skill from astronomer/agents",
+  "author": {
+    "name": "astronomer"
+  },
+  "repository": "https://github.com/astronomer/agents"
+}

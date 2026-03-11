@@ -1,0 +1,9 @@
+{
+  "name": "fuzzing-dictionary",
+  "version": "1.0.0",
+  "description": "fuzzing-dictionary skill from trailofbits/skills",
+  "author": {
+    "name": "trailofbits"
+  },
+  "repository": "https://github.com/trailofbits/skills"
+}

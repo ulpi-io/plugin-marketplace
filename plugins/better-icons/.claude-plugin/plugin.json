@@ -1,0 +1,9 @@
+{
+  "name": "better-icons",
+  "version": "1.0.0",
+  "description": "better-icons skill from better-auth/better-icons",
+  "author": {
+    "name": "better-auth"
+  },
+  "repository": "https://github.com/better-auth/better-icons"
+}

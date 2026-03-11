@@ -1,0 +1,9 @@
+{
+  "name": "better-auth",
+  "version": "1.0.0",
+  "description": "better-auth skill from giuseppe-trisciuoglio/developer-kit",
+  "author": {
+    "name": "giuseppe-trisciuoglio"
+  },
+  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
+}

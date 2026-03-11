@@ -1,0 +1,9 @@
+{
+  "name": "cargo-lock-manager",
+  "version": "1.0.0",
+  "description": "cargo-lock-manager skill from different-ai/openwork",
+  "author": {
+    "name": "different-ai"
+  },
+  "repository": "https://github.com/different-ai/openwork"
+}

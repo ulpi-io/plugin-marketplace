@@ -1,0 +1,9 @@
+{
+  "name": "ffmpeg-patterns",
+  "version": "1.0.0",
+  "description": "ffmpeg-patterns skill from mindmorass/reflex",
+  "author": {
+    "name": "mindmorass"
+  },
+  "repository": "https://github.com/mindmorass/reflex"
+}

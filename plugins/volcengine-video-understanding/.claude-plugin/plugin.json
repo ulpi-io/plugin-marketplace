@@ -1,0 +1,9 @@
+{
+  "name": "volcengine-video-understanding",
+  "version": "1.0.0",
+  "description": "volcengine-video-understanding skill from freestylefly/canghe-skills",
+  "author": {
+    "name": "freestylefly"
+  },
+  "repository": "https://github.com/freestylefly/canghe-skills"
+}

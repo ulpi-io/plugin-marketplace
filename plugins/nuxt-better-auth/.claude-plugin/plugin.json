@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-better-auth",
+  "version": "1.0.0",
+  "description": "nuxt-better-auth skill from onmax/nuxt-skills",
+  "author": {
+    "name": "onmax"
+  },
+  "repository": "https://github.com/onmax/nuxt-skills"
+}

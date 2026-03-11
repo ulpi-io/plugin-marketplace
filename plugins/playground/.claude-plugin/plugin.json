@@ -1,0 +1,9 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "playground skill from anthropics/claude-plugins-official",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/claude-plugins-official"
+}

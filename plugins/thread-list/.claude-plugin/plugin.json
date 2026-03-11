@@ -1,0 +1,9 @@
+{
+  "name": "thread-list",
+  "version": "1.0.0",
+  "description": "thread-list skill from assistant-ui/skills",
+  "author": {
+    "name": "assistant-ui"
+  },
+  "repository": "https://github.com/assistant-ui/skills"
+}

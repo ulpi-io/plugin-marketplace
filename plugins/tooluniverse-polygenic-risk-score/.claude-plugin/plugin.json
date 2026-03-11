@@ -1,0 +1,9 @@
+{
+  "name": "tooluniverse-polygenic-risk-score",
+  "version": "1.0.0",
+  "description": "tooluniverse-polygenic-risk-score skill from mims-harvard/tooluniverse",
+  "author": {
+    "name": "mims-harvard"
+  },
+  "repository": "https://github.com/mims-harvard/tooluniverse"
+}

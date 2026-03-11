@@ -1,0 +1,9 @@
+{
+  "name": "digitalocean-management",
+  "version": "1.0.0",
+  "description": "digitalocean-management skill from bobmatnyc/claude-mpm-skills",
+  "author": {
+    "name": "bobmatnyc"
+  },
+  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
+}

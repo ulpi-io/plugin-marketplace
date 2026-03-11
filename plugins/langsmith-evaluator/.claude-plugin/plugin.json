@@ -1,0 +1,9 @@
+{
+  "name": "langsmith-evaluator",
+  "version": "1.0.0",
+  "description": "langsmith-evaluator skill from langchain-ai/langsmith-skills",
+  "author": {
+    "name": "langchain-ai"
+  },
+  "repository": "https://github.com/langchain-ai/langsmith-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "work-report",
+  "version": "1.0.0",
+  "description": "work-report skill from ab300819/skills",
+  "author": {
+    "name": "ab300819"
+  },
+  "repository": "https://github.com/ab300819/skills"
+}

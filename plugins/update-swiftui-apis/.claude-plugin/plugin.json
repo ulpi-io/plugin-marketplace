@@ -1,0 +1,9 @@
+{
+  "name": "update-swiftui-apis",
+  "version": "1.0.0",
+  "description": "update-swiftui-apis skill from avdlee/swiftui-agent-skill",
+  "author": {
+    "name": "avdlee"
+  },
+  "repository": "https://github.com/avdlee/swiftui-agent-skill"
+}

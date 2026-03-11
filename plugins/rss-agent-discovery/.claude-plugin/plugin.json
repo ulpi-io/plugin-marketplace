@@ -1,0 +1,9 @@
+{
+  "name": "rss-agent-discovery",
+  "version": "1.0.0",
+  "description": "rss-agent-discovery skill from brooksy4503/rss-agent-discovery",
+  "author": {
+    "name": "brooksy4503"
+  },
+  "repository": "https://github.com/brooksy4503/rss-agent-discovery"
+}

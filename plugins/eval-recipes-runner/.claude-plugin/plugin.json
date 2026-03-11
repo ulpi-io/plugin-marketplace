@@ -1,0 +1,9 @@
+{
+  "name": "eval-recipes-runner",
+  "version": "1.0.0",
+  "description": "eval-recipes-runner skill from rysweet/amplihack",
+  "author": {
+    "name": "rysweet"
+  },
+  "repository": "https://github.com/rysweet/amplihack"
+}

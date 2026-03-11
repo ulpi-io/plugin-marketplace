@@ -1,0 +1,9 @@
+{
+  "name": "presentation-content",
+  "version": "1.0.0",
+  "description": "presentation-content skill from aaronvanston/skills-presentations",
+  "author": {
+    "name": "aaronvanston"
+  },
+  "repository": "https://github.com/aaronvanston/skills-presentations"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "game-design-theory",
+  "version": "1.0.0",
+  "description": "game-design-theory skill from pluginagentmarketplace/custom-plugin-game-developer",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-game-developer"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "base skill from bankrbot/openclaw-skills",
+  "author": {
+    "name": "bankrbot"
+  },
+  "repository": "https://github.com/bankrbot/openclaw-skills"
+}

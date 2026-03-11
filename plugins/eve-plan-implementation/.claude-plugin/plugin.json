@@ -1,0 +1,9 @@
+{
+  "name": "eve-plan-implementation",
+  "version": "1.0.0",
+  "description": "eve-plan-implementation skill from incept5/eve-skillpacks",
+  "author": {
+    "name": "incept5"
+  },
+  "repository": "https://github.com/incept5/eve-skillpacks"
+}

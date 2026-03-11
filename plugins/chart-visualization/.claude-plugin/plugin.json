@@ -1,0 +1,9 @@
+{
+  "name": "chart-visualization",
+  "version": "1.0.0",
+  "description": "chart-visualization skill from bytedance/deer-flow",
+  "author": {
+    "name": "bytedance"
+  },
+  "repository": "https://github.com/bytedance/deer-flow"
+}

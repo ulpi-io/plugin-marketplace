@@ -1,0 +1,9 @@
+{
+  "name": "qiaomu-music-player-spotify",
+  "version": "1.0.0",
+  "description": "qiaomu-music-player-spotify skill from joeseesun/qiaomu-music-player-spotify",
+  "author": {
+    "name": "joeseesun"
+  },
+  "repository": "https://github.com/joeseesun/qiaomu-music-player-spotify"
+}

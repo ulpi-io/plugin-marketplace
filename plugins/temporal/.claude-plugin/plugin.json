@@ -1,0 +1,9 @@
+{
+  "name": "temporal",
+  "version": "1.0.0",
+  "description": "temporal skill from proompteng/lab",
+  "author": {
+    "name": "proompteng"
+  },
+  "repository": "https://github.com/proompteng/lab"
+}

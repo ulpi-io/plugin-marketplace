@@ -1,0 +1,9 @@
+{
+  "name": "wechat-miniprogram-skill",
+  "version": "1.0.0",
+  "description": "wechat-miniprogram-skill skill from gourdbaby/wechat-miniprogram-skill",
+  "author": {
+    "name": "gourdbaby"
+  },
+  "repository": "https://github.com/gourdbaby/wechat-miniprogram-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "event-driven-detector",
+  "version": "1.0.0",
+  "description": "event-driven-detector skill from geeksfino/finskills",
+  "author": {
+    "name": "geeksfino"
+  },
+  "repository": "https://github.com/geeksfino/finskills"
+}

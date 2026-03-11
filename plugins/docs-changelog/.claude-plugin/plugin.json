@@ -1,0 +1,9 @@
+{
+  "name": "docs-changelog",
+  "version": "1.0.0",
+  "description": "docs-changelog skill from google-gemini/gemini-cli",
+  "author": {
+    "name": "google-gemini"
+  },
+  "repository": "https://github.com/google-gemini/gemini-cli"
+}

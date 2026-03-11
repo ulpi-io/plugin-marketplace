@@ -1,0 +1,9 @@
+{
+  "name": "turbopack-bundler",
+  "version": "1.0.0",
+  "description": "turbopack-bundler skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

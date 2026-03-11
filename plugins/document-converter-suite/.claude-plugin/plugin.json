@@ -1,0 +1,9 @@
+{
+  "name": "document-converter-suite",
+  "version": "1.0.0",
+  "description": "document-converter-suite skill from dkyazzentwatwa/chatgpt-skills",
+  "author": {
+    "name": "dkyazzentwatwa"
+  },
+  "repository": "https://github.com/dkyazzentwatwa/chatgpt-skills"
+}

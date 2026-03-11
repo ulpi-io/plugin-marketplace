@@ -1,0 +1,9 @@
+{
+  "name": "convex-quickstart",
+  "version": "1.0.0",
+  "description": "convex-quickstart skill from get-convex/convex-agent-plugins",
+  "author": {
+    "name": "get-convex"
+  },
+  "repository": "https://github.com/get-convex/convex-agent-plugins"
+}

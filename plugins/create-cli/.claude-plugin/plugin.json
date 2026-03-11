@@ -1,0 +1,9 @@
+{
+  "name": "create-cli",
+  "version": "1.0.0",
+  "description": "create-cli skill from steipete/agent-scripts",
+  "author": {
+    "name": "steipete"
+  },
+  "repository": "https://github.com/steipete/agent-scripts"
+}

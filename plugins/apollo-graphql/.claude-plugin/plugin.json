@@ -1,0 +1,9 @@
+{
+  "name": "apollo-graphql",
+  "version": "1.0.0",
+  "description": "apollo-graphql skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

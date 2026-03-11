@@ -1,0 +1,9 @@
+{
+  "name": "uniapp-project",
+  "version": "1.0.0",
+  "description": "uniapp-project skill from teachingai/full-stack-skills",
+  "author": {
+    "name": "teachingai"
+  },
+  "repository": "https://github.com/teachingai/full-stack-skills"
+}

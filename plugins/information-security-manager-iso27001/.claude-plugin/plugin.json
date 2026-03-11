@@ -1,0 +1,9 @@
+{
+  "name": "information-security-manager-iso27001",
+  "version": "1.0.0",
+  "description": "information-security-manager-iso27001 skill from alirezarezvani/claude-skills",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "repository": "https://github.com/alirezarezvani/claude-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "seo-aeo-best-practices",
+  "version": "1.0.0",
+  "description": "seo-aeo-best-practices skill from sanity-io/agent-toolkit",
+  "author": {
+    "name": "sanity-io"
+  },
+  "repository": "https://github.com/sanity-io/agent-toolkit"
+}

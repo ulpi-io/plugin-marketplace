@@ -1,0 +1,9 @@
+{
+  "name": "function-creator",
+  "version": "1.0.0",
+  "description": "function-creator skill from get-convex/convex-agent-plugins",
+  "author": {
+    "name": "get-convex"
+  },
+  "repository": "https://github.com/get-convex/convex-agent-plugins"
+}

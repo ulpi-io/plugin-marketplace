@@ -1,0 +1,9 @@
+{
+  "name": "twitter-reader",
+  "version": "1.0.0",
+  "description": "twitter-reader skill from daymade/claude-code-skills",
+  "author": {
+    "name": "daymade"
+  },
+  "repository": "https://github.com/daymade/claude-code-skills"
+}

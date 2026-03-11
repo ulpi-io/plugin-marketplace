@@ -1,0 +1,9 @@
+{
+  "name": "second-brain",
+  "version": "1.0.0",
+  "description": "second-brain skill from sean-esk/second-brain-gtd",
+  "author": {
+    "name": "sean-esk"
+  },
+  "repository": "https://github.com/sean-esk/second-brain-gtd"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ai-shaped-readiness-advisor",
+  "version": "1.0.0",
+  "description": "ai-shaped-readiness-advisor skill from deanpeters/product-manager-skills",
+  "author": {
+    "name": "deanpeters"
+  },
+  "repository": "https://github.com/deanpeters/product-manager-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "auth0-react-native",
+  "version": "1.0.0",
+  "description": "auth0-react-native skill from auth0/agent-skills",
+  "author": {
+    "name": "auth0"
+  },
+  "repository": "https://github.com/auth0/agent-skills"
+}

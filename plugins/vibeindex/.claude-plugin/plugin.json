@@ -1,0 +1,9 @@
+{
+  "name": "vibeindex",
+  "version": "1.0.0",
+  "description": "vibeindex skill from vibeindex/skills",
+  "author": {
+    "name": "vibeindex"
+  },
+  "repository": "https://github.com/vibeindex/skills"
+}

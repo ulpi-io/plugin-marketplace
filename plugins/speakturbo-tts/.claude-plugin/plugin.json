@@ -1,0 +1,9 @@
+{
+  "name": "speakturbo-tts",
+  "version": "1.0.0",
+  "description": "speakturbo-tts skill from emzod/speak-turbo",
+  "author": {
+    "name": "emzod"
+  },
+  "repository": "https://github.com/emzod/speak-turbo"
+}

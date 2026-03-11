@@ -1,0 +1,9 @@
+{
+  "name": "dockerfile-optimizer",
+  "version": "1.0.0",
+  "description": "dockerfile-optimizer skill from patricio0312rev/skills",
+  "author": {
+    "name": "patricio0312rev"
+  },
+  "repository": "https://github.com/patricio0312rev/skills"
+}

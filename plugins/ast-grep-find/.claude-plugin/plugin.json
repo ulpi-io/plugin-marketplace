@@ -1,0 +1,9 @@
+{
+  "name": "ast-grep-find",
+  "version": "1.0.0",
+  "description": "ast-grep-find skill from parcadei/continuous-claude-v3",
+  "author": {
+    "name": "parcadei"
+  },
+  "repository": "https://github.com/parcadei/continuous-claude-v3"
+}

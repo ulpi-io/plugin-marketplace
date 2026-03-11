@@ -1,0 +1,9 @@
+{
+  "name": "atlassian-templates",
+  "version": "1.0.0",
+  "description": "atlassian-templates skill from alirezarezvani/claude-skills",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "repository": "https://github.com/alirezarezvani/claude-skills"
+}

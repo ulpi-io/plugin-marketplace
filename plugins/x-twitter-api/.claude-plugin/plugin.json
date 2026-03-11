@@ -1,0 +1,9 @@
+{
+  "name": "x-twitter-api",
+  "version": "1.0.0",
+  "description": "x-twitter-api skill from tato418/x-twitter-api",
+  "author": {
+    "name": "tato418"
+  },
+  "repository": "https://github.com/tato418/x-twitter-api"
+}

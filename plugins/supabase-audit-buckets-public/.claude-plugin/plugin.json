@@ -1,0 +1,9 @@
+{
+  "name": "supabase-audit-buckets-public",
+  "version": "1.0.0",
+  "description": "supabase-audit-buckets-public skill from yoanbernabeu/supabase-pentest-skills",
+  "author": {
+    "name": "yoanbernabeu"
+  },
+  "repository": "https://github.com/yoanbernabeu/supabase-pentest-skills"
+}

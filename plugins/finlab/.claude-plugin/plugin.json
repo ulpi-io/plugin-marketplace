@@ -1,0 +1,9 @@
+{
+  "name": "finlab",
+  "version": "1.0.0",
+  "description": "finlab skill from koreal6803/finlab-ai",
+  "author": {
+    "name": "koreal6803"
+  },
+  "repository": "https://github.com/koreal6803/finlab-ai"
+}

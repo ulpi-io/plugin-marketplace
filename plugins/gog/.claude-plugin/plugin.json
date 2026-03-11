@@ -1,0 +1,9 @@
+{
+  "name": "gog",
+  "version": "1.0.0",
+  "description": "gog skill from naoterumaker/openclaw-gog-skills",
+  "author": {
+    "name": "naoterumaker"
+  },
+  "repository": "https://github.com/naoterumaker/openclaw-gog-skills"
+}

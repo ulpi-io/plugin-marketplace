@@ -1,0 +1,9 @@
+{
+  "name": "setup-react-native-storybook",
+  "version": "1.0.0",
+  "description": "setup-react-native-storybook skill from storybookjs/react-native",
+  "author": {
+    "name": "storybookjs"
+  },
+  "repository": "https://github.com/storybookjs/react-native"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "to-spring-or-not-to-spring",
+  "version": "1.0.0",
+  "description": "to-spring-or-not-to-spring skill from raphaelsalaja/userinterface-wiki",
+  "author": {
+    "name": "raphaelsalaja"
+  },
+  "repository": "https://github.com/raphaelsalaja/userinterface-wiki"
+}

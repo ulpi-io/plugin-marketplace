@@ -1,0 +1,9 @@
+{
+  "name": "smart-test",
+  "version": "1.0.0",
+  "description": "smart-test skill from rysweet/amplihack",
+  "author": {
+    "name": "rysweet"
+  },
+  "repository": "https://github.com/rysweet/amplihack"
+}

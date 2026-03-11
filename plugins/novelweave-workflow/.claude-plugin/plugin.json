@@ -1,0 +1,9 @@
+{
+  "name": "novelweave-workflow",
+  "version": "1.0.0",
+  "description": "novelweave-workflow skill from microck/ordinary-claude-skills",
+  "author": {
+    "name": "microck"
+  },
+  "repository": "https://github.com/microck/ordinary-claude-skills"
+}

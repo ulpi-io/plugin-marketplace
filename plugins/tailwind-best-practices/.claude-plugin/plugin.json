@@ -1,0 +1,9 @@
+{
+  "name": "tailwind-best-practices",
+  "version": "1.0.0",
+  "description": "tailwind-best-practices skill from mastra-ai/mastra",
+  "author": {
+    "name": "mastra-ai"
+  },
+  "repository": "https://github.com/mastra-ai/mastra"
+}

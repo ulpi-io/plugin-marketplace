@@ -1,0 +1,9 @@
+{
+  "name": "api-design-patterns",
+  "version": "1.0.0",
+  "description": "api-design-patterns skill from asyrafhussin/agent-skills",
+  "author": {
+    "name": "asyrafhussin"
+  },
+  "repository": "https://github.com/asyrafhussin/agent-skills"
+}

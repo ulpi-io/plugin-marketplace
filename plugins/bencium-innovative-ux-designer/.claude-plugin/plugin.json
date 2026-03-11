@@ -1,0 +1,9 @@
+{
+  "name": "bencium-innovative-ux-designer",
+  "version": "1.0.0",
+  "description": "bencium-innovative-ux-designer skill from bencium/bencium-claude-code-design-skill",
+  "author": {
+    "name": "bencium"
+  },
+  "repository": "https://github.com/bencium/bencium-claude-code-design-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "redis-state-management",
+  "version": "1.0.0",
+  "description": "redis-state-management skill from manutej/luxor-claude-marketplace",
+  "author": {
+    "name": "manutej"
+  },
+  "repository": "https://github.com/manutej/luxor-claude-marketplace"
+}

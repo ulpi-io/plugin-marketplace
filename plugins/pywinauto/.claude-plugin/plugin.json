@@ -1,0 +1,9 @@
+{
+  "name": "pywinauto",
+  "version": "1.0.0",
+  "description": "pywinauto skill from malue-ai/dazee-small",
+  "author": {
+    "name": "malue-ai"
+  },
+  "repository": "https://github.com/malue-ai/dazee-small"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ruff-linting",
+  "version": "1.0.0",
+  "description": "ruff-linting skill from laurigates/claude-plugins",
+  "author": {
+    "name": "laurigates"
+  },
+  "repository": "https://github.com/laurigates/claude-plugins"
+}

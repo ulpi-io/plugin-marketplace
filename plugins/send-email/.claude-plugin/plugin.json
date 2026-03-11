@@ -1,0 +1,9 @@
+{
+  "name": "send-email",
+  "version": "1.0.0",
+  "description": "send-email skill from wangyendt/wayne-skills",
+  "author": {
+    "name": "wangyendt"
+  },
+  "repository": "https://github.com/wangyendt/wayne-skills"
+}

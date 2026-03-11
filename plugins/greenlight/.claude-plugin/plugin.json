@@ -1,0 +1,9 @@
+{
+  "name": "greenlight",
+  "version": "1.0.0",
+  "description": "greenlight skill from revylai/greenlight",
+  "author": {
+    "name": "revylai"
+  },
+  "repository": "https://github.com/revylai/greenlight"
+}

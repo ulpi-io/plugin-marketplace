@@ -1,0 +1,9 @@
+{
+  "name": "memory-optimize",
+  "version": "1.0.0",
+  "description": "memory-optimize skill from kochetkov-ma/claude-brewcode",
+  "author": {
+    "name": "kochetkov-ma"
+  },
+  "repository": "https://github.com/kochetkov-ma/claude-brewcode"
+}

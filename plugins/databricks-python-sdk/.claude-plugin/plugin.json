@@ -1,0 +1,9 @@
+{
+  "name": "databricks-python-sdk",
+  "version": "1.0.0",
+  "description": "databricks-python-sdk skill from databricks-solutions/ai-dev-kit",
+  "author": {
+    "name": "databricks-solutions"
+  },
+  "repository": "https://github.com/databricks-solutions/ai-dev-kit"
+}

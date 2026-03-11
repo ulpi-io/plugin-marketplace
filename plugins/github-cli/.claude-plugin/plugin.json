@@ -1,0 +1,9 @@
+{
+  "name": "github-cli",
+  "version": "1.0.0",
+  "description": "github-cli skill from oldwinter/skills",
+  "author": {
+    "name": "oldwinter"
+  },
+  "repository": "https://github.com/oldwinter/skills"
+}

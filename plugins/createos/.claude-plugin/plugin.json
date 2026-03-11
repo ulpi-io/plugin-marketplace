@@ -1,0 +1,9 @@
+{
+  "name": "createos",
+  "version": "1.0.0",
+  "description": "createos skill from nodeops-app/skills",
+  "author": {
+    "name": "nodeops-app"
+  },
+  "repository": "https://github.com/nodeops-app/skills"
+}

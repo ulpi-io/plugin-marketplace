@@ -1,0 +1,9 @@
+{
+  "name": "listenhub",
+  "version": "1.0.0",
+  "description": "listenhub skill from marswaveai/skills",
+  "author": {
+    "name": "marswaveai"
+  },
+  "repository": "https://github.com/marswaveai/skills"
+}

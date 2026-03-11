@@ -1,0 +1,9 @@
+{
+  "name": "m14-mental-model",
+  "version": "1.0.0",
+  "description": "m14-mental-model skill from zhanghandong/rust-skills",
+  "author": {
+    "name": "zhanghandong"
+  },
+  "repository": "https://github.com/zhanghandong/rust-skills"
+}

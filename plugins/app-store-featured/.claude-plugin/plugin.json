@@ -1,0 +1,9 @@
+{
+  "name": "app-store-featured",
+  "version": "1.0.0",
+  "description": "app-store-featured skill from eronred/aso-skills",
+  "author": {
+    "name": "eronred"
+  },
+  "repository": "https://github.com/eronred/aso-skills"
+}

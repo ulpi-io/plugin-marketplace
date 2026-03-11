@@ -1,0 +1,9 @@
+{
+  "name": "git-worktree",
+  "version": "1.0.0",
+  "description": "git-worktree skill from everyinc/compound-engineering-plugin",
+  "author": {
+    "name": "everyinc"
+  },
+  "repository": "https://github.com/everyinc/compound-engineering-plugin"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-ai-cloud-call-center",
+  "version": "1.0.0",
+  "description": "alicloud-ai-cloud-call-center skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

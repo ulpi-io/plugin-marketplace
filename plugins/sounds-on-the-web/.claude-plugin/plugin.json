@@ -1,0 +1,9 @@
+{
+  "name": "sounds-on-the-web",
+  "version": "1.0.0",
+  "description": "sounds-on-the-web skill from raphaelsalaja/userinterface-wiki",
+  "author": {
+    "name": "raphaelsalaja"
+  },
+  "repository": "https://github.com/raphaelsalaja/userinterface-wiki"
+}

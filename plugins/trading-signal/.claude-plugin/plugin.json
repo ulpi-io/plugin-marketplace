@@ -1,0 +1,9 @@
+{
+  "name": "trading-signal",
+  "version": "1.0.0",
+  "description": "trading-signal skill from binance/binance-skills-hub",
+  "author": {
+    "name": "binance"
+  },
+  "repository": "https://github.com/binance/binance-skills-hub"
+}

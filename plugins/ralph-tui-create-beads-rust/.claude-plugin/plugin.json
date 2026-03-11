@@ -1,0 +1,9 @@
+{
+  "name": "ralph-tui-create-beads-rust",
+  "version": "1.0.0",
+  "description": "ralph-tui-create-beads-rust skill from subsy/ralph-tui",
+  "author": {
+    "name": "subsy"
+  },
+  "repository": "https://github.com/subsy/ralph-tui"
+}

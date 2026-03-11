@@ -1,0 +1,9 @@
+{
+  "name": "medical-imaging-review",
+  "version": "1.0.0",
+  "description": "medical-imaging-review skill from luwill/research-skills",
+  "author": {
+    "name": "luwill"
+  },
+  "repository": "https://github.com/luwill/research-skills"
+}

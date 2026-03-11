@@ -1,0 +1,9 @@
+{
+  "name": "django-rest-framework",
+  "version": "1.0.0",
+  "description": "django-rest-framework skill from thebushidocollective/han",
+  "author": {
+    "name": "thebushidocollective"
+  },
+  "repository": "https://github.com/thebushidocollective/han"
+}

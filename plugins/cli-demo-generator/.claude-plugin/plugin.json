@@ -1,0 +1,9 @@
+{
+  "name": "cli-demo-generator",
+  "version": "1.0.0",
+  "description": "cli-demo-generator skill from daymade/claude-code-skills",
+  "author": {
+    "name": "daymade"
+  },
+  "repository": "https://github.com/daymade/claude-code-skills"
+}

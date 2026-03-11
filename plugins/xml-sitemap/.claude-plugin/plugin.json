@@ -1,0 +1,9 @@
+{
+  "name": "xml-sitemap",
+  "version": "1.0.0",
+  "description": "xml-sitemap skill from kostja94/marketing-skills",
+  "author": {
+    "name": "kostja94"
+  },
+  "repository": "https://github.com/kostja94/marketing-skills"
+}

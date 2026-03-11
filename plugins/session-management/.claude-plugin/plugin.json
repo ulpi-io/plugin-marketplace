@@ -1,0 +1,9 @@
+{
+  "name": "session-management",
+  "version": "1.0.0",
+  "description": "session-management skill from alinaqi/claude-bootstrap",
+  "author": {
+    "name": "alinaqi"
+  },
+  "repository": "https://github.com/alinaqi/claude-bootstrap"
+}

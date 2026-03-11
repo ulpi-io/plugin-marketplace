@@ -1,0 +1,9 @@
+{
+  "name": "review-docs",
+  "version": "1.0.0",
+  "description": "review-docs skill from tldraw/tldraw",
+  "author": {
+    "name": "tldraw"
+  },
+  "repository": "https://github.com/tldraw/tldraw"
+}

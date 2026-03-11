@@ -1,0 +1,9 @@
+{
+  "name": "commodities-quote",
+  "version": "1.0.0",
+  "description": "commodities-quote skill from octagonai/skills",
+  "author": {
+    "name": "octagonai"
+  },
+  "repository": "https://github.com/octagonai/skills"
+}

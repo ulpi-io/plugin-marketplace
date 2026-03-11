@@ -1,0 +1,9 @@
+{
+  "name": "tiktok-app-marketing",
+  "version": "1.0.0",
+  "description": "tiktok-app-marketing skill from upload-post/upload-post-larry-marketing-skill",
+  "author": {
+    "name": "upload-post"
+  },
+  "repository": "https://github.com/upload-post/upload-post-larry-marketing-skill"
+}

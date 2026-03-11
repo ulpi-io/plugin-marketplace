@@ -1,0 +1,9 @@
+{
+  "name": "excel-report-generator",
+  "version": "1.0.0",
+  "description": "excel-report-generator skill from wwwzhouhui/skills_collection",
+  "author": {
+    "name": "wwwzhouhui"
+  },
+  "repository": "https://github.com/wwwzhouhui/skills_collection"
+}

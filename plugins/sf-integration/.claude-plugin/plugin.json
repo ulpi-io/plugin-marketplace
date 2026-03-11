@@ -1,0 +1,9 @@
+{
+  "name": "sf-integration",
+  "version": "1.0.0",
+  "description": "sf-integration skill from jaganpro/sf-skills",
+  "author": {
+    "name": "jaganpro"
+  },
+  "repository": "https://github.com/jaganpro/sf-skills"
+}

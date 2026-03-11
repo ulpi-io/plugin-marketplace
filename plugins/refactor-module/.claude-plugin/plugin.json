@@ -1,0 +1,9 @@
+{
+  "name": "refactor-module",
+  "version": "1.0.0",
+  "description": "refactor-module skill from hashicorp/agent-skills",
+  "author": {
+    "name": "hashicorp"
+  },
+  "repository": "https://github.com/hashicorp/agent-skills"
+}

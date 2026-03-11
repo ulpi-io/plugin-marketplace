@@ -1,0 +1,9 @@
+{
+  "name": "unreal-engine",
+  "version": "1.0.0",
+  "description": "unreal-engine skill from dstn2000/claude-unreal-engine-skill",
+  "author": {
+    "name": "dstn2000"
+  },
+  "repository": "https://github.com/dstn2000/claude-unreal-engine-skill"
+}

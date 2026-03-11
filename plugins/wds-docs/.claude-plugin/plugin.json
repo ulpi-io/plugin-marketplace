@@ -1,0 +1,9 @@
+{
+  "name": "wds-docs",
+  "version": "1.0.0",
+  "description": "wds-docs skill from wix/skills",
+  "author": {
+    "name": "wix"
+  },
+  "repository": "https://github.com/wix/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "figma-design",
+  "version": "1.0.0",
+  "description": "figma-design skill from manutej/luxor-claude-marketplace",
+  "author": {
+    "name": "manutej"
+  },
+  "repository": "https://github.com/manutej/luxor-claude-marketplace"
+}

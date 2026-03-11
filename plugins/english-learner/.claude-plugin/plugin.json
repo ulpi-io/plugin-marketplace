@@ -1,0 +1,9 @@
+{
+  "name": "english-learner",
+  "version": "1.0.0",
+  "description": "english-learner skill from learnwy/skills",
+  "author": {
+    "name": "learnwy"
+  },
+  "repository": "https://github.com/learnwy/skills"
+}

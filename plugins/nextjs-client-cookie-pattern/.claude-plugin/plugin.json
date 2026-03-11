@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-client-cookie-pattern",
+  "version": "1.0.0",
+  "description": "nextjs-client-cookie-pattern skill from wsimmonds/claude-nextjs-skills",
+  "author": {
+    "name": "wsimmonds"
+  },
+  "repository": "https://github.com/wsimmonds/claude-nextjs-skills"
+}

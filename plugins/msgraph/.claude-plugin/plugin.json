@@ -1,0 +1,9 @@
+{
+  "name": "msgraph",
+  "version": "1.0.0",
+  "description": "msgraph skill from merill/msgraph",
+  "author": {
+    "name": "merill"
+  },
+  "repository": "https://github.com/merill/msgraph"
+}

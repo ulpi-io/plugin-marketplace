@@ -1,0 +1,9 @@
+{
+  "name": "sandbox-agent",
+  "version": "1.0.0",
+  "description": "sandbox-agent skill from rivet-dev/skills",
+  "author": {
+    "name": "rivet-dev"
+  },
+  "repository": "https://github.com/rivet-dev/skills"
+}

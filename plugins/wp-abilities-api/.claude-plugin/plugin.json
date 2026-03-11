@@ -1,0 +1,9 @@
+{
+  "name": "wp-abilities-api",
+  "version": "1.0.0",
+  "description": "wp-abilities-api skill from automattic/agent-skills",
+  "author": {
+    "name": "automattic"
+  },
+  "repository": "https://github.com/automattic/agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "tooluniverse-clinical-trial-matching",
+  "version": "1.0.0",
+  "description": "tooluniverse-clinical-trial-matching skill from mims-harvard/tooluniverse",
+  "author": {
+    "name": "mims-harvard"
+  },
+  "repository": "https://github.com/mims-harvard/tooluniverse"
+}

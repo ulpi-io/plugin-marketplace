@@ -1,0 +1,9 @@
+{
+  "name": "create-workflow",
+  "version": "1.0.0",
+  "description": "create-workflow skill from vapiai/skills",
+  "author": {
+    "name": "vapiai"
+  },
+  "repository": "https://github.com/vapiai/skills"
+}

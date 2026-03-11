@@ -1,0 +1,9 @@
+{
+  "name": "app-store-deployment",
+  "version": "1.0.0",
+  "description": "app-store-deployment skill from aj-geddes/useful-ai-prompts",
+  "author": {
+    "name": "aj-geddes"
+  },
+  "repository": "https://github.com/aj-geddes/useful-ai-prompts"
+}

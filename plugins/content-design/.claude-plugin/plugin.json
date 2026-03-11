@@ -1,0 +1,9 @@
+{
+  "name": "content-design",
+  "version": "1.0.0",
+  "description": "content-design skill from n8n-io/n8n",
+  "author": {
+    "name": "n8n-io"
+  },
+  "repository": "https://github.com/n8n-io/n8n"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-post-optimizer",
+  "version": "1.0.0",
+  "description": "linkedin-post-optimizer skill from onewave-ai/claude-skills",
+  "author": {
+    "name": "onewave-ai"
+  },
+  "repository": "https://github.com/onewave-ai/claude-skills"
+}

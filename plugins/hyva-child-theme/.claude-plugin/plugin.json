@@ -1,0 +1,9 @@
+{
+  "name": "hyva-child-theme",
+  "version": "1.0.0",
+  "description": "hyva-child-theme skill from hyva-themes/hyva-ai-tools",
+  "author": {
+    "name": "hyva-themes"
+  },
+  "repository": "https://github.com/hyva-themes/hyva-ai-tools"
+}

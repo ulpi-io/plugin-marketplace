@@ -1,0 +1,9 @@
+{
+  "name": "alphaear-news",
+  "version": "1.0.0",
+  "description": "alphaear-news skill from rkiding/awesome-finance-skills",
+  "author": {
+    "name": "rkiding"
+  },
+  "repository": "https://github.com/rkiding/awesome-finance-skills"
+}

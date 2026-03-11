@@ -1,0 +1,9 @@
+{
+  "name": "qqbot-cron",
+  "version": "1.0.0",
+  "description": "qqbot-cron skill from sliverp/qqbot",
+  "author": {
+    "name": "sliverp"
+  },
+  "repository": "https://github.com/sliverp/qqbot"
+}

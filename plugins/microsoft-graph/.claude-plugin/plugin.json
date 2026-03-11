@@ -1,0 +1,9 @@
+{
+  "name": "microsoft-graph",
+  "version": "1.0.0",
+  "description": "microsoft-graph skill from markpitt/claude-skills",
+  "author": {
+    "name": "markpitt"
+  },
+  "repository": "https://github.com/markpitt/claude-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ln-771-logging-configurator",
+  "version": "1.0.0",
+  "description": "ln-771-logging-configurator skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

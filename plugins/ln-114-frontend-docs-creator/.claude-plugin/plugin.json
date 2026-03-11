@@ -1,0 +1,9 @@
+{
+  "name": "ln-114-frontend-docs-creator",
+  "version": "1.0.0",
+  "description": "ln-114-frontend-docs-creator skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "generate-translations",
+  "version": "1.0.0",
+  "description": "generate-translations skill from payloadcms/payload",
+  "author": {
+    "name": "payloadcms"
+  },
+  "repository": "https://github.com/payloadcms/payload"
+}

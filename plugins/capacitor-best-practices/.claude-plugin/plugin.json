@@ -1,0 +1,9 @@
+{
+  "name": "capacitor-best-practices",
+  "version": "1.0.0",
+  "description": "capacitor-best-practices skill from cap-go/capgo-skills",
+  "author": {
+    "name": "cap-go"
+  },
+  "repository": "https://github.com/cap-go/capgo-skills"
+}

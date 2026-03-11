@@ -1,0 +1,9 @@
+{
+  "name": "animejs",
+  "version": "1.0.0",
+  "description": "animejs skill from bowtiedswan/animejs-skills",
+  "author": {
+    "name": "bowtiedswan"
+  },
+  "repository": "https://github.com/bowtiedswan/animejs-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "designing-surveys",
+  "version": "1.0.0",
+  "description": "designing-surveys skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

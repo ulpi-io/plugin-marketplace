@@ -1,0 +1,9 @@
+{
+  "name": "risk-management-trading",
+  "version": "1.0.0",
+  "description": "risk-management-trading skill from omer-metin/skills-for-antigravity",
+  "author": {
+    "name": "omer-metin"
+  },
+  "repository": "https://github.com/omer-metin/skills-for-antigravity"
+}

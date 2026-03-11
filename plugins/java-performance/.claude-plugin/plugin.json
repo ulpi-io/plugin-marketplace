@@ -1,0 +1,9 @@
+{
+  "name": "java-performance",
+  "version": "1.0.0",
+  "description": "java-performance skill from pluginagentmarketplace/custom-plugin-java",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-java"
+}

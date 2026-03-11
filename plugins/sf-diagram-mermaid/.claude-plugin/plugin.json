@@ -1,0 +1,9 @@
+{
+  "name": "sf-diagram-mermaid",
+  "version": "1.0.0",
+  "description": "sf-diagram-mermaid skill from jaganpro/sf-skills",
+  "author": {
+    "name": "jaganpro"
+  },
+  "repository": "https://github.com/jaganpro/sf-skills"
+}

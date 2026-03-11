@@ -1,0 +1,9 @@
+{
+  "name": "kaizen:root-cause-tracing",
+  "version": "1.0.0",
+  "description": "kaizen:root-cause-tracing skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

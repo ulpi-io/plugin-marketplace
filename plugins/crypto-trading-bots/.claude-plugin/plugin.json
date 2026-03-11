@@ -1,0 +1,9 @@
+{
+  "name": "crypto-trading-bots",
+  "version": "1.0.0",
+  "description": "crypto-trading-bots skill from omer-metin/skills-for-antigravity",
+  "author": {
+    "name": "omer-metin"
+  },
+  "repository": "https://github.com/omer-metin/skills-for-antigravity"
+}

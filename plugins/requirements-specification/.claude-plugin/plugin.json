@@ -1,0 +1,9 @@
+{
+  "name": "requirements-specification",
+  "version": "1.0.0",
+  "description": "requirements-specification skill from pluginagentmarketplace/custom-plugin-product-manager",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-product-manager"
+}

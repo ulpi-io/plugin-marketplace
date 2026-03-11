@@ -1,0 +1,9 @@
+{
+  "name": "gh-pr-review",
+  "version": "1.0.0",
+  "description": "gh-pr-review skill from agynio/gh-pr-review",
+  "author": {
+    "name": "agynio"
+  },
+  "repository": "https://github.com/agynio/gh-pr-review"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "frontend-js-best-practices",
+  "version": "1.0.0",
+  "description": "frontend-js-best-practices skill from sergiodxa/agent-skills",
+  "author": {
+    "name": "sergiodxa"
+  },
+  "repository": "https://github.com/sergiodxa/agent-skills"
+}

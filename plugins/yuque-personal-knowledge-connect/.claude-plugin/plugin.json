@@ -1,0 +1,9 @@
+{
+  "name": "yuque-personal-knowledge-connect",
+  "version": "1.0.0",
+  "description": "yuque-personal-knowledge-connect skill from yuque/yuque-plugin",
+  "author": {
+    "name": "yuque"
+  },
+  "repository": "https://github.com/yuque/yuque-plugin"
+}

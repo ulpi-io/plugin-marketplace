@@ -1,0 +1,9 @@
+{
+  "name": "ln-751-command-templates",
+  "version": "1.0.0",
+  "description": "ln-751-command-templates skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

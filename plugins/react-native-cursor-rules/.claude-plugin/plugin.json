@@ -1,0 +1,9 @@
+{
+  "name": "react-native-cursor-rules",
+  "version": "1.0.0",
+  "description": "react-native-cursor-rules skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

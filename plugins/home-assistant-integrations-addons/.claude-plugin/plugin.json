@@ -1,0 +1,9 @@
+{
+  "name": "home-assistant-integrations-addons",
+  "version": "1.0.0",
+  "description": "home-assistant-integrations-addons skill from bradsjm/hassio-addons",
+  "author": {
+    "name": "bradsjm"
+  },
+  "repository": "https://github.com/bradsjm/hassio-addons"
+}

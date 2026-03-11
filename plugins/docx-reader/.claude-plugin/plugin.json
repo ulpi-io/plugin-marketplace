@@ -1,0 +1,9 @@
+{
+  "name": "docx-reader",
+  "version": "1.0.0",
+  "description": "docx-reader skill from childbamboo/claude-code-marketplace-sample",
+  "author": {
+    "name": "childbamboo"
+  },
+  "repository": "https://github.com/childbamboo/claude-code-marketplace-sample"
+}

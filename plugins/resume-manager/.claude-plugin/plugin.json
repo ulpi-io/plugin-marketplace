@@ -1,0 +1,9 @@
+{
+  "name": "resume-manager",
+  "version": "1.0.0",
+  "description": "resume-manager skill from ailabs-393/ai-labs-claude-skills",
+  "author": {
+    "name": "ailabs-393"
+  },
+  "repository": "https://github.com/ailabs-393/ai-labs-claude-skills"
+}

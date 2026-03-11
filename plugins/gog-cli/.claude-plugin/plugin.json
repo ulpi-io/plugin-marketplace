@@ -1,0 +1,9 @@
+{
+  "name": "gog-cli",
+  "version": "1.0.0",
+  "description": "gog-cli skill from intellectronica/agent-skills",
+  "author": {
+    "name": "intellectronica"
+  },
+  "repository": "https://github.com/intellectronica/agent-skills"
+}

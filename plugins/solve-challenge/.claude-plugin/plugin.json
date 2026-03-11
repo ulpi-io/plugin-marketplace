@@ -1,0 +1,9 @@
+{
+  "name": "solve-challenge",
+  "version": "1.0.0",
+  "description": "solve-challenge skill from ljagiello/ctf-skills",
+  "author": {
+    "name": "ljagiello"
+  },
+  "repository": "https://github.com/ljagiello/ctf-skills"
+}

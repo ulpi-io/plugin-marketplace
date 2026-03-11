@@ -1,0 +1,9 @@
+{
+  "name": "compliance",
+  "version": "1.0.0",
+  "description": "compliance skill from anthropics/knowledge-work-plugins",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/knowledge-work-plugins"
+}

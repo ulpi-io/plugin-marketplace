@@ -1,0 +1,9 @@
+{
+  "name": "optimise-seo",
+  "version": "1.0.0",
+  "description": "optimise-seo skill from mblode/agent-skills",
+  "author": {
+    "name": "mblode"
+  },
+  "repository": "https://github.com/mblode/agent-skills"
+}

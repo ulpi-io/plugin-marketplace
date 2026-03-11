@@ -1,0 +1,9 @@
+{
+  "name": "ios-device-screenshot",
+  "version": "1.0.0",
+  "description": "ios-device-screenshot skill from 0xbigboss/claude-code",
+  "author": {
+    "name": "0xbigboss"
+  },
+  "repository": "https://github.com/0xbigboss/claude-code"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "swarm-planner",
+  "version": "1.0.0",
+  "description": "swarm-planner skill from am-will/swarms",
+  "author": {
+    "name": "am-will"
+  },
+  "repository": "https://github.com/am-will/swarms"
+}

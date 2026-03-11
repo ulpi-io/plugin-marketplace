@@ -1,0 +1,9 @@
+{
+  "name": "memory-hygiene",
+  "version": "1.0.0",
+  "description": "memory-hygiene skill from aaaaqwq/claude-code-skills",
+  "author": {
+    "name": "aaaaqwq"
+  },
+  "repository": "https://github.com/aaaaqwq/claude-code-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "gmail-skill",
+  "version": "1.0.0",
+  "description": "gmail-skill skill from idanbeck/claude-skills",
+  "author": {
+    "name": "idanbeck"
+  },
+  "repository": "https://github.com/idanbeck/claude-skills"
+}

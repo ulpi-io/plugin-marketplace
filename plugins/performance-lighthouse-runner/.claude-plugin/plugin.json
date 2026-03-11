@@ -1,0 +1,9 @@
+{
+  "name": "performance-lighthouse-runner",
+  "version": "1.0.0",
+  "description": "performance-lighthouse-runner skill from jeremylongshore/claude-code-plugins-plus-skills",
+  "author": {
+    "name": "jeremylongshore"
+  },
+  "repository": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+}

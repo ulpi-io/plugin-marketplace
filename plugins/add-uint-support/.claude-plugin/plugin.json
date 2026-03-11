@@ -1,0 +1,9 @@
+{
+  "name": "add-uint-support",
+  "version": "1.0.0",
+  "description": "add-uint-support skill from pytorch/pytorch",
+  "author": {
+    "name": "pytorch"
+  },
+  "repository": "https://github.com/pytorch/pytorch"
+}

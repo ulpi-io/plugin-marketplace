@@ -1,0 +1,9 @@
+{
+  "name": "service-mesh-expert",
+  "version": "1.0.0",
+  "description": "service-mesh-expert skill from sickn33/antigravity-awesome-skills",
+  "author": {
+    "name": "sickn33"
+  },
+  "repository": "https://github.com/sickn33/antigravity-awesome-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "mql5-indicator-patterns",
+  "version": "1.0.0",
+  "description": "mql5-indicator-patterns skill from terrylica/cc-skills",
+  "author": {
+    "name": "terrylica"
+  },
+  "repository": "https://github.com/terrylica/cc-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "r3f-loaders",
+  "version": "1.0.0",
+  "description": "r3f-loaders skill from enzed/r3f-skills",
+  "author": {
+    "name": "enzed"
+  },
+  "repository": "https://github.com/enzed/r3f-skills"
+}

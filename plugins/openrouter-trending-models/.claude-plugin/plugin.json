@@ -1,0 +1,9 @@
+{
+  "name": "openrouter-trending-models",
+  "version": "1.0.0",
+  "description": "openrouter-trending-models skill from madappgang/claude-code",
+  "author": {
+    "name": "madappgang"
+  },
+  "repository": "https://github.com/madappgang/claude-code"
+}

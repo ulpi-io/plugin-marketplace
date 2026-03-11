@@ -1,0 +1,9 @@
+{
+  "name": "brainstorming-laravel",
+  "version": "1.0.0",
+  "description": "brainstorming-laravel skill from iserter/laravel-claude-agents",
+  "author": {
+    "name": "iserter"
+  },
+  "repository": "https://github.com/iserter/laravel-claude-agents"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "openclaw-self-healing",
+  "version": "1.0.0",
+  "description": "openclaw-self-healing skill from ramsbaby/openclaw-self-healing",
+  "author": {
+    "name": "ramsbaby"
+  },
+  "repository": "https://github.com/ramsbaby/openclaw-self-healing"
+}

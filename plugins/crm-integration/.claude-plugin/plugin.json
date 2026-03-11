@@ -1,0 +1,9 @@
+{
+  "name": "crm-integration",
+  "version": "1.0.0",
+  "description": "crm-integration skill from scientiacapital/skills",
+  "author": {
+    "name": "scientiacapital"
+  },
+  "repository": "https://github.com/scientiacapital/skills"
+}

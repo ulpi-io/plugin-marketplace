@@ -1,0 +1,9 @@
+{
+  "name": "openai-knowledge",
+  "version": "1.0.0",
+  "description": "openai-knowledge skill from openai/openai-agents-python",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/openai-agents-python"
+}

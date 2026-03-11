@@ -1,0 +1,9 @@
+{
+  "name": "openviking",
+  "version": "1.0.0",
+  "description": "openviking skill from volcengine/openviking",
+  "author": {
+    "name": "volcengine"
+  },
+  "repository": "https://github.com/volcengine/openviking"
+}

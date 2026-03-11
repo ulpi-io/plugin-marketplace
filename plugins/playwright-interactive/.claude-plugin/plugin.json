@@ -1,0 +1,9 @@
+{
+  "name": "playwright-interactive",
+  "version": "1.0.0",
+  "description": "playwright-interactive skill from openai/skills",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/skills"
+}

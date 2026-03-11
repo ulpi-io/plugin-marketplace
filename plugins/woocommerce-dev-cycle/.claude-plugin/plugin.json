@@ -1,0 +1,9 @@
+{
+  "name": "woocommerce-dev-cycle",
+  "version": "1.0.0",
+  "description": "woocommerce-dev-cycle skill from woocommerce/woocommerce",
+  "author": {
+    "name": "woocommerce"
+  },
+  "repository": "https://github.com/woocommerce/woocommerce"
+}

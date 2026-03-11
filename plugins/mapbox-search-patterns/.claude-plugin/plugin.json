@@ -1,0 +1,9 @@
+{
+  "name": "mapbox-search-patterns",
+  "version": "1.0.0",
+  "description": "mapbox-search-patterns skill from mapbox/mapbox-agent-skills",
+  "author": {
+    "name": "mapbox"
+  },
+  "repository": "https://github.com/mapbox/mapbox-agent-skills"
+}

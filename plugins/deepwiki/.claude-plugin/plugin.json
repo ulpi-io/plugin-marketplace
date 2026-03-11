@@ -1,0 +1,9 @@
+{
+  "name": "deepwiki",
+  "version": "1.0.0",
+  "description": "deepwiki skill from johnlindquist/claude",
+  "author": {
+    "name": "johnlindquist"
+  },
+  "repository": "https://github.com/johnlindquist/claude"
+}

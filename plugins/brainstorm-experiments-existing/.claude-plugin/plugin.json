@@ -1,0 +1,9 @@
+{
+  "name": "brainstorm-experiments-existing",
+  "version": "1.0.0",
+  "description": "brainstorm-experiments-existing skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

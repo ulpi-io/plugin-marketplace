@@ -1,0 +1,9 @@
+{
+  "name": "context-compressor",
+  "version": "1.0.0",
+  "description": "context-compressor skill from oimiragieo/agent-studio",
+  "author": {
+    "name": "oimiragieo"
+  },
+  "repository": "https://github.com/oimiragieo/agent-studio"
+}

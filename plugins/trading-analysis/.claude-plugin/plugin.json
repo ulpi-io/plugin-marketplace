@@ -1,0 +1,9 @@
+{
+  "name": "trading-analysis",
+  "version": "1.0.0",
+  "description": "trading-analysis skill from gracefullight/stock-checker",
+  "author": {
+    "name": "gracefullight"
+  },
+  "repository": "https://github.com/gracefullight/stock-checker"
+}

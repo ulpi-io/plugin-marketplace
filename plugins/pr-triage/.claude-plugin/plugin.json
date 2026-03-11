@@ -1,0 +1,9 @@
+{
+  "name": "pr-triage",
+  "version": "1.0.0",
+  "description": "pr-triage skill from xtone/ai_development_tools",
+  "author": {
+    "name": "xtone"
+  },
+  "repository": "https://github.com/xtone/ai_development_tools"
+}

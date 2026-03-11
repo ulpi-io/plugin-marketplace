@@ -1,0 +1,9 @@
+{
+  "name": "write-unit-tests",
+  "version": "1.0.0",
+  "description": "write-unit-tests skill from tldraw/tldraw",
+  "author": {
+    "name": "tldraw"
+  },
+  "repository": "https://github.com/tldraw/tldraw"
+}

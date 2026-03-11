@@ -1,0 +1,9 @@
+{
+  "name": "csv-data-wrangler",
+  "version": "1.0.0",
+  "description": "csv-data-wrangler skill from 404kidwiz/claude-supercode-skills",
+  "author": {
+    "name": "404kidwiz"
+  },
+  "repository": "https://github.com/404kidwiz/claude-supercode-skills"
+}

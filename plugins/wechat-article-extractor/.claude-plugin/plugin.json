@@ -1,0 +1,9 @@
+{
+  "name": "wechat-article-extractor",
+  "version": "1.0.0",
+  "description": "wechat-article-extractor skill from freestylefly/wechat-article-extractor-skill",
+  "author": {
+    "name": "freestylefly"
+  },
+  "repository": "https://github.com/freestylefly/wechat-article-extractor-skill"
+}

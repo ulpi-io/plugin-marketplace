@@ -1,0 +1,9 @@
+{
+  "name": "daily-news-summarizer",
+  "version": "1.0.0",
+  "description": "daily-news-summarizer skill from yulong-me/skills",
+  "author": {
+    "name": "yulong-me"
+  },
+  "repository": "https://github.com/yulong-me/skills"
+}

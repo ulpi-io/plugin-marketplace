@@ -1,0 +1,9 @@
+{
+  "name": "remotion-render",
+  "version": "1.0.0",
+  "description": "remotion-render skill from inference-sh/skills",
+  "author": {
+    "name": "inference-sh"
+  },
+  "repository": "https://github.com/inference-sh/skills"
+}

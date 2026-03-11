@@ -1,0 +1,9 @@
+{
+  "name": "request-refactor-plan",
+  "version": "1.0.0",
+  "description": "request-refactor-plan skill from mattpocock/skills",
+  "author": {
+    "name": "mattpocock"
+  },
+  "repository": "https://github.com/mattpocock/skills"
+}

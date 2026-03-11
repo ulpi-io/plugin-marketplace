@@ -1,0 +1,9 @@
+{
+  "name": "capabilities",
+  "version": "1.0.0",
+  "description": "capabilities skill from kazukinagata/shinkoku",
+  "author": {
+    "name": "kazukinagata"
+  },
+  "repository": "https://github.com/kazukinagata/shinkoku"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "nestjs-clean-typescript",
+  "version": "1.0.0",
+  "description": "nestjs-clean-typescript skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

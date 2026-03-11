@@ -1,0 +1,9 @@
+{
+  "name": "stripe-payments",
+  "version": "1.0.0",
+  "description": "stripe-payments skill from eyadsibai/ltk",
+  "author": {
+    "name": "eyadsibai"
+  },
+  "repository": "https://github.com/eyadsibai/ltk"
+}

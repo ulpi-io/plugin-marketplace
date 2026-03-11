@@ -1,0 +1,9 @@
+{
+  "name": "notion-research-documentation",
+  "version": "1.0.0",
+  "description": "notion-research-documentation skill from openai/skills",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/skills"
+}

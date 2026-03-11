@@ -1,0 +1,9 @@
+{
+  "name": "framework-selection",
+  "version": "1.0.0",
+  "description": "framework-selection skill from langchain-ai/langchain-skills",
+  "author": {
+    "name": "langchain-ai"
+  },
+  "repository": "https://github.com/langchain-ai/langchain-skills"
+}

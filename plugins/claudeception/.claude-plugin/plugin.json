@@ -1,0 +1,9 @@
+{
+  "name": "claudeception",
+  "version": "1.0.0",
+  "description": "claudeception skill from blader/claudeception",
+  "author": {
+    "name": "blader"
+  },
+  "repository": "https://github.com/blader/claudeception"
+}

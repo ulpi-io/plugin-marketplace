@@ -1,0 +1,9 @@
+{
+  "name": "domain-modeling",
+  "version": "1.0.0",
+  "description": "domain-modeling skill from jwilger/agent-skills",
+  "author": {
+    "name": "jwilger"
+  },
+  "repository": "https://github.com/jwilger/agent-skills"
+}

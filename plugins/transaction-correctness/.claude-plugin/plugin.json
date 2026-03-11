@@ -1,0 +1,9 @@
+{
+  "name": "transaction-correctness",
+  "version": "1.0.0",
+  "description": "transaction-correctness skill from tursodatabase/turso",
+  "author": {
+    "name": "tursodatabase"
+  },
+  "repository": "https://github.com/tursodatabase/turso"
+}

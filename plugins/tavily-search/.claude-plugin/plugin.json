@@ -1,0 +1,9 @@
+{
+  "name": "tavily-search",
+  "version": "1.0.0",
+  "description": "tavily-search skill from framix-team/openclaw-tavily",
+  "author": {
+    "name": "framix-team"
+  },
+  "repository": "https://github.com/framix-team/openclaw-tavily"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "plugin-settings",
+  "version": "1.0.0",
+  "description": "plugin-settings skill from aiskillstore/marketplace",
+  "author": {
+    "name": "aiskillstore"
+  },
+  "repository": "https://github.com/aiskillstore/marketplace"
+}

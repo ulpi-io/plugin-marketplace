@@ -1,0 +1,9 @@
+{
+  "name": "implement",
+  "version": "1.0.0",
+  "description": "implement skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

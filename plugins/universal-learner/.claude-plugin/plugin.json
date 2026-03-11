@@ -1,0 +1,9 @@
+{
+  "name": "universal-learner",
+  "version": "1.0.0",
+  "description": "universal-learner skill from huangserva/skill-prompt-generator",
+  "author": {
+    "name": "huangserva"
+  },
+  "repository": "https://github.com/huangserva/skill-prompt-generator"
+}

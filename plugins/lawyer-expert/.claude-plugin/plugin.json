@@ -1,0 +1,9 @@
+{
+  "name": "lawyer-expert",
+  "version": "1.0.0",
+  "description": "lawyer-expert skill from personamanagmentlayer/pcl",
+  "author": {
+    "name": "personamanagmentlayer"
+  },
+  "repository": "https://github.com/personamanagmentlayer/pcl"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "odoo-19",
+  "version": "1.0.0",
+  "description": "odoo-19 skill from unclecatvn/agent-skills",
+  "author": {
+    "name": "unclecatvn"
+  },
+  "repository": "https://github.com/unclecatvn/agent-skills"
+}

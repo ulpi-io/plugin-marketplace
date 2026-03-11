@@ -1,0 +1,9 @@
+{
+  "name": "dagster-integrations",
+  "version": "1.0.0",
+  "description": "dagster-integrations skill from dagster-io/skills",
+  "author": {
+    "name": "dagster-io"
+  },
+  "repository": "https://github.com/dagster-io/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "apktool",
+  "version": "1.0.0",
+  "description": "apktool skill from brownfinesecurity/iothackbot",
+  "author": {
+    "name": "brownfinesecurity"
+  },
+  "repository": "https://github.com/brownfinesecurity/iothackbot"
+}

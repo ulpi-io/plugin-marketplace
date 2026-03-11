@@ -1,0 +1,9 @@
+{
+  "name": "ssh-hardening",
+  "version": "1.0.0",
+  "description": "ssh-hardening skill from mikr13/secure-server-setup-skills",
+  "author": {
+    "name": "mikr13"
+  },
+  "repository": "https://github.com/mikr13/secure-server-setup-skills"
+}

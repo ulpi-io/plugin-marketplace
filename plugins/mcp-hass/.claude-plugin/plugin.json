@@ -1,0 +1,9 @@
+{
+  "name": "mcp-hass",
+  "version": "1.0.0",
+  "description": "mcp-hass skill from aahl/skills",
+  "author": {
+    "name": "aahl"
+  },
+  "repository": "https://github.com/aahl/skills"
+}

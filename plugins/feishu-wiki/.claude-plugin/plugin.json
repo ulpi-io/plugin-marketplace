@@ -1,0 +1,9 @@
+{
+  "name": "feishu-wiki",
+  "version": "1.0.0",
+  "description": "feishu-wiki skill from m1heng/clawdbot-feishu",
+  "author": {
+    "name": "m1heng"
+  },
+  "repository": "https://github.com/m1heng/clawdbot-feishu"
+}

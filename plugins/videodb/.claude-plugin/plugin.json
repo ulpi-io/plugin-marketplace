@@ -1,0 +1,9 @@
+{
+  "name": "videodb",
+  "version": "1.0.0",
+  "description": "videodb skill from video-db/skills",
+  "author": {
+    "name": "video-db"
+  },
+  "repository": "https://github.com/video-db/skills"
+}

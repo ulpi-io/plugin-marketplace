@@ -1,0 +1,9 @@
+{
+  "name": "prompt-agent",
+  "version": "1.0.0",
+  "description": "prompt-agent skill from prompt-security/clawsec",
+  "author": {
+    "name": "prompt-security"
+  },
+  "repository": "https://github.com/prompt-security/clawsec"
+}

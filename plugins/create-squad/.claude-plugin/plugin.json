@@ -1,0 +1,9 @@
+{
+  "name": "create-squad",
+  "version": "1.0.0",
+  "description": "create-squad skill from vapiai/skills",
+  "author": {
+    "name": "vapiai"
+  },
+  "repository": "https://github.com/vapiai/skills"
+}

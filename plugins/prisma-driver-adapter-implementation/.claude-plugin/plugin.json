@@ -1,0 +1,9 @@
+{
+  "name": "prisma-driver-adapter-implementation",
+  "version": "1.0.0",
+  "description": "prisma-driver-adapter-implementation skill from prisma/skills",
+  "author": {
+    "name": "prisma"
+  },
+  "repository": "https://github.com/prisma/skills"
+}

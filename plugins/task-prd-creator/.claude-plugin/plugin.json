@@ -1,0 +1,9 @@
+{
+  "name": "task-prd-creator",
+  "version": "1.0.0",
+  "description": "task-prd-creator skill from shipshitdev/library",
+  "author": {
+    "name": "shipshitdev"
+  },
+  "repository": "https://github.com/shipshitdev/library"
+}

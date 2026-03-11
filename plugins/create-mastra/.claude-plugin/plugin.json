@@ -1,0 +1,9 @@
+{
+  "name": "create-mastra",
+  "version": "1.0.0",
+  "description": "create-mastra skill from mastra-ai/skills",
+  "author": {
+    "name": "mastra-ai"
+  },
+  "repository": "https://github.com/mastra-ai/skills"
+}

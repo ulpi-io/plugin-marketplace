@@ -1,0 +1,9 @@
+{
+  "name": "create-opencode-plugin",
+  "version": "1.0.0",
+  "description": "create-opencode-plugin skill from igorwarzocha/opencode-workflows",
+  "author": {
+    "name": "igorwarzocha"
+  },
+  "repository": "https://github.com/igorwarzocha/opencode-workflows"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "read-arxiv-paper",
+  "version": "1.0.0",
+  "description": "read-arxiv-paper skill from karpathy/nanochat",
+  "author": {
+    "name": "karpathy"
+  },
+  "repository": "https://github.com/karpathy/nanochat"
+}

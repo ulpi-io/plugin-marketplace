@@ -1,0 +1,9 @@
+{
+  "name": "research-proposal",
+  "version": "1.0.0",
+  "description": "research-proposal skill from luwill/research-skills",
+  "author": {
+    "name": "luwill"
+  },
+  "repository": "https://github.com/luwill/research-skills"
+}

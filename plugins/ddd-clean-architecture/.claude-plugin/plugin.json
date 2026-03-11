@@ -1,0 +1,9 @@
+{
+  "name": "ddd-clean-architecture",
+  "version": "1.0.0",
+  "description": "ddd-clean-architecture skill from teachingai/full-stack-skills",
+  "author": {
+    "name": "teachingai"
+  },
+  "repository": "https://github.com/teachingai/full-stack-skills"
+}

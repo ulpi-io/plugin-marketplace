@@ -1,0 +1,9 @@
+{
+  "name": "scroll-animations",
+  "version": "1.0.0",
+  "description": "scroll-animations skill from dylantarre/animation-principles",
+  "author": {
+    "name": "dylantarre"
+  },
+  "repository": "https://github.com/dylantarre/animation-principles"
+}

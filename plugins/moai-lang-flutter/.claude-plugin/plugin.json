@@ -1,0 +1,9 @@
+{
+  "name": "moai-lang-flutter",
+  "version": "1.0.0",
+  "description": "moai-lang-flutter skill from modu-ai/moai-adk",
+  "author": {
+    "name": "modu-ai"
+  },
+  "repository": "https://github.com/modu-ai/moai-adk"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-sales-navigator-alt",
+  "version": "1.0.0",
+  "description": "linkedin-sales-navigator-alt skill from onewave-ai/claude-skills",
+  "author": {
+    "name": "onewave-ai"
+  },
+  "repository": "https://github.com/onewave-ai/claude-skills"
+}

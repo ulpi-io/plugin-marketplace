@@ -1,0 +1,9 @@
+{
+  "name": "qa-regression",
+  "version": "1.0.0",
+  "description": "qa-regression skill from skillcreatorai/ai-agent-skills",
+  "author": {
+    "name": "skillcreatorai"
+  },
+  "repository": "https://github.com/skillcreatorai/ai-agent-skills"
+}

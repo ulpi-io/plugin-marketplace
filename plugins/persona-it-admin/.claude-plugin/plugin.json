@@ -1,0 +1,9 @@
+{
+  "name": "persona-it-admin",
+  "version": "1.0.0",
+  "description": "persona-it-admin skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

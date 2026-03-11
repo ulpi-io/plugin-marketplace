@@ -1,0 +1,9 @@
+{
+  "name": "cloudwatch",
+  "version": "1.0.0",
+  "description": "cloudwatch skill from itsmostafa/aws-agent-skills",
+  "author": {
+    "name": "itsmostafa"
+  },
+  "repository": "https://github.com/itsmostafa/aws-agent-skills"
+}

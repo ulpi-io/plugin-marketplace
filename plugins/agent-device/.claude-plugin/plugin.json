@@ -1,0 +1,9 @@
+{
+  "name": "agent-device",
+  "version": "1.0.0",
+  "description": "agent-device skill from callstackincubator/agent-device",
+  "author": {
+    "name": "callstackincubator"
+  },
+  "repository": "https://github.com/callstackincubator/agent-device"
+}

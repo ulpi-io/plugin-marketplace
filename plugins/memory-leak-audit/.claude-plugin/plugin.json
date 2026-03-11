@@ -1,0 +1,9 @@
+{
+  "name": "memory-leak-audit",
+  "version": "1.0.0",
+  "description": "memory-leak-audit skill from microsoft/vscode",
+  "author": {
+    "name": "microsoft"
+  },
+  "repository": "https://github.com/microsoft/vscode"
+}

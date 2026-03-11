@@ -1,0 +1,9 @@
+{
+  "name": "query-metrics",
+  "version": "1.0.0",
+  "description": "query-metrics skill from axiomhq/skills",
+  "author": {
+    "name": "axiomhq"
+  },
+  "repository": "https://github.com/axiomhq/skills"
+}

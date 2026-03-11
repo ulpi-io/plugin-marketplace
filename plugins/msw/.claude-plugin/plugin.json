@@ -1,0 +1,9 @@
+{
+  "name": "msw",
+  "version": "1.0.0",
+  "description": "msw skill from pproenca/dot-skills",
+  "author": {
+    "name": "pproenca"
+  },
+  "repository": "https://github.com/pproenca/dot-skills"
+}

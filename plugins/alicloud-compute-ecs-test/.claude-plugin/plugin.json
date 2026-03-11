@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-compute-ecs-test",
+  "version": "1.0.0",
+  "description": "alicloud-compute-ecs-test skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

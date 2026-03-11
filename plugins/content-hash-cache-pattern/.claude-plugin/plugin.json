@@ -1,0 +1,9 @@
+{
+  "name": "content-hash-cache-pattern",
+  "version": "1.0.0",
+  "description": "content-hash-cache-pattern skill from affaan-m/everything-claude-code",
+  "author": {
+    "name": "affaan-m"
+  },
+  "repository": "https://github.com/affaan-m/everything-claude-code"
+}

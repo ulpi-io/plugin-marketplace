@@ -1,0 +1,9 @@
+{
+  "name": "django-perf-review",
+  "version": "1.0.0",
+  "description": "django-perf-review skill from getsentry/skills",
+  "author": {
+    "name": "getsentry"
+  },
+  "repository": "https://github.com/getsentry/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "persistent-memory",
+  "version": "1.0.0",
+  "description": "persistent-memory skill from ropl-btc/agent-skills",
+  "author": {
+    "name": "ropl-btc"
+  },
+  "repository": "https://github.com/ropl-btc/agent-skills"
+}

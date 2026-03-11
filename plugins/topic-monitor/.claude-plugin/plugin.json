@@ -1,0 +1,9 @@
+{
+  "name": "topic-monitor",
+  "version": "1.0.0",
+  "description": "topic-monitor skill from sundial-org/awesome-openclaw-skills",
+  "author": {
+    "name": "sundial-org"
+  },
+  "repository": "https://github.com/sundial-org/awesome-openclaw-skills"
+}

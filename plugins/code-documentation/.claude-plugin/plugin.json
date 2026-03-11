@@ -1,0 +1,9 @@
+{
+  "name": "code-documentation",
+  "version": "1.0.0",
+  "description": "code-documentation skill from skillcreatorai/ai-agent-skills",
+  "author": {
+    "name": "skillcreatorai"
+  },
+  "repository": "https://github.com/skillcreatorai/ai-agent-skills"
+}

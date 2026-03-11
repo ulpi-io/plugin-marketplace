@@ -1,0 +1,9 @@
+{
+  "name": "ln-781-build-verifier",
+  "version": "1.0.0",
+  "description": "ln-781-build-verifier skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

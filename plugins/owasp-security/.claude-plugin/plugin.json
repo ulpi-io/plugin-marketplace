@@ -1,0 +1,9 @@
+{
+  "name": "owasp-security",
+  "version": "1.0.0",
+  "description": "owasp-security skill from agamm/claude-code-owasp",
+  "author": {
+    "name": "agamm"
+  },
+  "repository": "https://github.com/agamm/claude-code-owasp"
+}

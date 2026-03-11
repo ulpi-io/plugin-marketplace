@@ -1,0 +1,9 @@
+{
+  "name": "payload-cms",
+  "version": "1.0.0",
+  "description": "payload-cms skill from connorads/dotfiles",
+  "author": {
+    "name": "connorads"
+  },
+  "repository": "https://github.com/connorads/dotfiles"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "data-fetching",
+  "version": "1.0.0",
+  "description": "data-fetching skill from lobehub/lobehub",
+  "author": {
+    "name": "lobehub"
+  },
+  "repository": "https://github.com/lobehub/lobehub"
+}

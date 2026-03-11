@@ -1,0 +1,9 @@
+{
+  "name": "draft-nda",
+  "version": "1.0.0",
+  "description": "draft-nda skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "deep-research-agent",
+  "version": "1.0.0",
+  "description": "deep-research-agent skill from qodex-ai/ai-agent-skills",
+  "author": {
+    "name": "qodex-ai"
+  },
+  "repository": "https://github.com/qodex-ai/ai-agent-skills"
+}

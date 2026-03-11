@@ -1,0 +1,9 @@
+{
+  "name": "tauri-development",
+  "version": "1.0.0",
+  "description": "tauri-development skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "miniprogram-development",
+  "version": "1.0.0",
+  "description": "miniprogram-development skill from tencentcloudbase/cloudbase-mcp",
+  "author": {
+    "name": "tencentcloudbase"
+  },
+  "repository": "https://github.com/tencentcloudbase/cloudbase-mcp"
+}

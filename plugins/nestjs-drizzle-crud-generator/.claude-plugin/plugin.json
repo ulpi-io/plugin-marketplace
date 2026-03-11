@@ -1,0 +1,9 @@
+{
+  "name": "nestjs-drizzle-crud-generator",
+  "version": "1.0.0",
+  "description": "nestjs-drizzle-crud-generator skill from giuseppe-trisciuoglio/developer-kit",
+  "author": {
+    "name": "giuseppe-trisciuoglio"
+  },
+  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
+}

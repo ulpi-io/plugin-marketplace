@@ -1,0 +1,9 @@
+{
+  "name": "tooluniverse-protein-therapeutic-design",
+  "version": "1.0.0",
+  "description": "tooluniverse-protein-therapeutic-design skill from mims-harvard/tooluniverse",
+  "author": {
+    "name": "mims-harvard"
+  },
+  "repository": "https://github.com/mims-harvard/tooluniverse"
+}

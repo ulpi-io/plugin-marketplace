@@ -1,0 +1,9 @@
+{
+  "name": "drupal-security",
+  "version": "1.0.0",
+  "description": "drupal-security skill from madsnorgaard/agent-resources",
+  "author": {
+    "name": "madsnorgaard"
+  },
+  "repository": "https://github.com/madsnorgaard/agent-resources"
+}

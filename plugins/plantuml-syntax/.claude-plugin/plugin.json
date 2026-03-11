@@ -1,0 +1,9 @@
+{
+  "name": "plantuml-syntax",
+  "version": "1.0.0",
+  "description": "plantuml-syntax skill from melodic-software/claude-code-plugins",
+  "author": {
+    "name": "melodic-software"
+  },
+  "repository": "https://github.com/melodic-software/claude-code-plugins"
+}

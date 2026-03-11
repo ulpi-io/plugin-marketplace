@@ -1,0 +1,9 @@
+{
+  "name": "nutrition-analyzer",
+  "version": "1.0.0",
+  "description": "nutrition-analyzer skill from huifer/wellally-health",
+  "author": {
+    "name": "huifer"
+  },
+  "repository": "https://github.com/huifer/wellally-health"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "code-comments",
+  "version": "1.0.0",
+  "description": "code-comments skill from petekp/claude-code-setup",
+  "author": {
+    "name": "petekp"
+  },
+  "repository": "https://github.com/petekp/claude-code-setup"
+}

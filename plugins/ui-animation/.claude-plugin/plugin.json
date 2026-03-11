@@ -1,0 +1,9 @@
+{
+  "name": "ui-animation",
+  "version": "1.0.0",
+  "description": "ui-animation skill from mblode/agent-skills",
+  "author": {
+    "name": "mblode"
+  },
+  "repository": "https://github.com/mblode/agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "chat-with-arxiv",
+  "version": "1.0.0",
+  "description": "chat-with-arxiv skill from qodex-ai/ai-agent-skills",
+  "author": {
+    "name": "qodex-ai"
+  },
+  "repository": "https://github.com/qodex-ai/ai-agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ethereum-wingman",
+  "version": "1.0.0",
+  "description": "ethereum-wingman skill from austintgriffith/ethereum-wingman",
+  "author": {
+    "name": "austintgriffith"
+  },
+  "repository": "https://github.com/austintgriffith/ethereum-wingman"
+}

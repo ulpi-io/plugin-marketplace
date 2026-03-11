@@ -1,0 +1,9 @@
+{
+  "name": "infographic",
+  "version": "1.0.0",
+  "description": "infographic skill from markdown-viewer/skills",
+  "author": {
+    "name": "markdown-viewer"
+  },
+  "repository": "https://github.com/markdown-viewer/skills"
+}

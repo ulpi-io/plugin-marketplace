@@ -1,0 +1,9 @@
+{
+  "name": "wordpress-testing-qa",
+  "version": "1.0.0",
+  "description": "wordpress-testing-qa skill from bobmatnyc/claude-mpm-skills",
+  "author": {
+    "name": "bobmatnyc"
+  },
+  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "svg-art",
+  "version": "1.0.0",
+  "description": "svg-art skill from kv0906/cc-skills",
+  "author": {
+    "name": "kv0906"
+  },
+  "repository": "https://github.com/kv0906/cc-skills"
+}

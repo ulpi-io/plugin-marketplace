@@ -1,0 +1,9 @@
+{
+  "name": "music-generator",
+  "version": "1.0.0",
+  "description": "music-generator skill from aviz85/claude-skills-library",
+  "author": {
+    "name": "aviz85"
+  },
+  "repository": "https://github.com/aviz85/claude-skills-library"
+}

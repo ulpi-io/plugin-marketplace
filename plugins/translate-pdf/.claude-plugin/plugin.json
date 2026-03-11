@@ -1,0 +1,9 @@
+{
+  "name": "translate-pdf",
+  "version": "1.0.0",
+  "description": "translate-pdf skill from wshuyi/translate-pdf-skill",
+  "author": {
+    "name": "wshuyi"
+  },
+  "repository": "https://github.com/wshuyi/translate-pdf-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-security-cloudfw",
+  "version": "1.0.0",
+  "description": "alicloud-security-cloudfw skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "migrate-to-vinext",
+  "version": "1.0.0",
+  "description": "migrate-to-vinext skill from cloudflare/vinext",
+  "author": {
+    "name": "cloudflare"
+  },
+  "repository": "https://github.com/cloudflare/vinext"
+}

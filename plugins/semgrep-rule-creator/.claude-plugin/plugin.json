@@ -1,0 +1,9 @@
+{
+  "name": "semgrep-rule-creator",
+  "version": "1.0.0",
+  "description": "semgrep-rule-creator skill from trailofbits/skills",
+  "author": {
+    "name": "trailofbits"
+  },
+  "repository": "https://github.com/trailofbits/skills"
+}

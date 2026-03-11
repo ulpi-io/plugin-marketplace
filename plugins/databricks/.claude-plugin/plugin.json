@@ -1,0 +1,9 @@
+{
+  "name": "databricks",
+  "version": "1.0.0",
+  "description": "databricks skill from databricks/databricks-agent-skills",
+  "author": {
+    "name": "databricks"
+  },
+  "repository": "https://github.com/databricks/databricks-agent-skills"
+}

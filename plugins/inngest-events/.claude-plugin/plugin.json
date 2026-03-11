@@ -1,0 +1,9 @@
+{
+  "name": "inngest-events",
+  "version": "1.0.0",
+  "description": "inngest-events skill from inngest/inngest-skills",
+  "author": {
+    "name": "inngest"
+  },
+  "repository": "https://github.com/inngest/inngest-skills"
+}

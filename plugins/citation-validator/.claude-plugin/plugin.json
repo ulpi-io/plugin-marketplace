@@ -1,0 +1,9 @@
+{
+  "name": "citation-validator",
+  "version": "1.0.0",
+  "description": "citation-validator skill from liangdabiao/claude-code-stock-deep-research-agent",
+  "author": {
+    "name": "liangdabiao"
+  },
+  "repository": "https://github.com/liangdabiao/claude-code-stock-deep-research-agent"
+}

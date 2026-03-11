@@ -1,0 +1,9 @@
+{
+  "name": "building-with-llms",
+  "version": "1.0.0",
+  "description": "building-with-llms skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

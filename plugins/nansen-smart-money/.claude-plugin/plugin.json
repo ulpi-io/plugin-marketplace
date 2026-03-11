@@ -1,0 +1,9 @@
+{
+  "name": "nansen-smart-money",
+  "version": "1.0.0",
+  "description": "nansen-smart-money skill from nansen-ai/nansen-cli",
+  "author": {
+    "name": "nansen-ai"
+  },
+  "repository": "https://github.com/nansen-ai/nansen-cli"
+}

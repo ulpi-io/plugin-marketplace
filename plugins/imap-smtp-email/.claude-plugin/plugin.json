@@ -1,0 +1,9 @@
+{
+  "name": "imap-smtp-email",
+  "version": "1.0.0",
+  "description": "imap-smtp-email skill from netease-youdao/lobsterai",
+  "author": {
+    "name": "netease-youdao"
+  },
+  "repository": "https://github.com/netease-youdao/lobsterai"
+}

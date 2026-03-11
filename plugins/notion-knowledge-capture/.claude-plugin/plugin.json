@@ -1,0 +1,9 @@
+{
+  "name": "notion-knowledge-capture",
+  "version": "1.0.0",
+  "description": "notion-knowledge-capture skill from makenotion/claude-code-notion-plugin",
+  "author": {
+    "name": "makenotion"
+  },
+  "repository": "https://github.com/makenotion/claude-code-notion-plugin"
+}

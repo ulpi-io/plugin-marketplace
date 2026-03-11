@@ -1,0 +1,9 @@
+{
+  "name": "seo-aeo-audit",
+  "version": "1.0.0",
+  "description": "seo-aeo-audit skill from warpdotdev/oz-skills",
+  "author": {
+    "name": "warpdotdev"
+  },
+  "repository": "https://github.com/warpdotdev/oz-skills"
+}

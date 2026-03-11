@@ -1,0 +1,9 @@
+{
+  "name": "gramio",
+  "version": "1.0.0",
+  "description": "gramio skill from gramiojs/documentation",
+  "author": {
+    "name": "gramiojs"
+  },
+  "repository": "https://github.com/gramiojs/documentation"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "smart-ocr",
+  "version": "1.0.0",
+  "description": "smart-ocr skill from claude-office-skills/skills",
+  "author": {
+    "name": "claude-office-skills"
+  },
+  "repository": "https://github.com/claude-office-skills/skills"
+}

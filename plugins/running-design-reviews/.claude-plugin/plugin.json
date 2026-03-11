@@ -1,0 +1,9 @@
+{
+  "name": "running-design-reviews",
+  "version": "1.0.0",
+  "description": "running-design-reviews skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "magento-code-reviewer",
+  "version": "1.0.0",
+  "description": "magento-code-reviewer skill from maxnorm/magento2-agent-skills",
+  "author": {
+    "name": "maxnorm"
+  },
+  "repository": "https://github.com/maxnorm/magento2-agent-skills"
+}

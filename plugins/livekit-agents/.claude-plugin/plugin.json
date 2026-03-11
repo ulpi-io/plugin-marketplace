@@ -1,0 +1,9 @@
+{
+  "name": "livekit-agents",
+  "version": "1.0.0",
+  "description": "livekit-agents skill from livekit/agent-skills",
+  "author": {
+    "name": "livekit"
+  },
+  "repository": "https://github.com/livekit/agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "gmail",
+  "version": "1.0.0",
+  "description": "gmail skill from sanjay3290/ai-skills",
+  "author": {
+    "name": "sanjay3290"
+  },
+  "repository": "https://github.com/sanjay3290/ai-skills"
+}

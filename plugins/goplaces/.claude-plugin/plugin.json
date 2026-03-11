@@ -1,0 +1,9 @@
+{
+  "name": "goplaces",
+  "version": "1.0.0",
+  "description": "goplaces skill from steipete/clawdis",
+  "author": {
+    "name": "steipete"
+  },
+  "repository": "https://github.com/steipete/clawdis"
+}

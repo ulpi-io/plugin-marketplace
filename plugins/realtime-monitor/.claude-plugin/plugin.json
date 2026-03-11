@@ -1,0 +1,9 @@
+{
+  "name": "realtime-monitor",
+  "version": "1.0.0",
+  "description": "realtime-monitor skill from chengzuopeng/stock-sdk-mcp",
+  "author": {
+    "name": "chengzuopeng"
+  },
+  "repository": "https://github.com/chengzuopeng/stock-sdk-mcp"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "clickhouse-best-practices",
+  "version": "1.0.0",
+  "description": "clickhouse-best-practices skill from clickhouse/agent-skills",
+  "author": {
+    "name": "clickhouse"
+  },
+  "repository": "https://github.com/clickhouse/agent-skills"
+}

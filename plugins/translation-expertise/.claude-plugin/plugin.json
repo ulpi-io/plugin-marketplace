@@ -1,0 +1,9 @@
+{
+  "name": "translation-expertise",
+  "version": "1.0.0",
+  "description": "translation-expertise skill from shino369/claude-code-personal-workspace",
+  "author": {
+    "name": "shino369"
+  },
+  "repository": "https://github.com/shino369/claude-code-personal-workspace"
+}

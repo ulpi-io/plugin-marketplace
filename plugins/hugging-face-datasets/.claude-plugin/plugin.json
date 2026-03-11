@@ -1,0 +1,9 @@
+{
+  "name": "hugging-face-datasets",
+  "version": "1.0.0",
+  "description": "hugging-face-datasets skill from huggingface/skills",
+  "author": {
+    "name": "huggingface"
+  },
+  "repository": "https://github.com/huggingface/skills"
+}

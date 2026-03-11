@@ -1,0 +1,9 @@
+{
+  "name": "git-master",
+  "version": "1.0.0",
+  "description": "git-master skill from code-yeongyu/oh-my-opencode",
+  "author": {
+    "name": "code-yeongyu"
+  },
+  "repository": "https://github.com/code-yeongyu/oh-my-opencode"
+}

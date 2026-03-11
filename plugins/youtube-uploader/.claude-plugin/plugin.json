@@ -1,0 +1,9 @@
+{
+  "name": "youtube-uploader",
+  "version": "1.0.0",
+  "description": "youtube-uploader skill from aviz85/claude-skills-library",
+  "author": {
+    "name": "aviz85"
+  },
+  "repository": "https://github.com/aviz85/claude-skills-library"
+}

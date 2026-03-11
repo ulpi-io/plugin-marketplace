@@ -1,0 +1,9 @@
+{
+  "name": "predictable-revenue",
+  "version": "1.0.0",
+  "description": "predictable-revenue skill from wondelai/skills",
+  "author": {
+    "name": "wondelai"
+  },
+  "repository": "https://github.com/wondelai/skills"
+}

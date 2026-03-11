@@ -1,0 +1,9 @@
+{
+  "name": "symfony:api-platform-versioning",
+  "version": "1.0.0",
+  "description": "symfony:api-platform-versioning skill from makfly/superpowers-symfony",
+  "author": {
+    "name": "makfly"
+  },
+  "repository": "https://github.com/makfly/superpowers-symfony"
+}

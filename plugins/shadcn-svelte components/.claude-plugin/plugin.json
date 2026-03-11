@@ -1,0 +1,9 @@
+{
+  "name": "shadcn-svelte components",
+  "version": "1.0.0",
+  "description": "shadcn-svelte components skill from exceptionless/exceptionless",
+  "author": {
+    "name": "exceptionless"
+  },
+  "repository": "https://github.com/exceptionless/exceptionless"
+}

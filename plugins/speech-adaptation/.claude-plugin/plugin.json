@@ -1,0 +1,9 @@
+{
+  "name": "speech-adaptation",
+  "version": "1.0.0",
+  "description": "speech-adaptation skill from jwynia/agent-skills",
+  "author": {
+    "name": "jwynia"
+  },
+  "repository": "https://github.com/jwynia/agent-skills"
+}

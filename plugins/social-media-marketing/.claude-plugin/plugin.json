@@ -1,0 +1,9 @@
+{
+  "name": "social-media-marketing",
+  "version": "1.0.0",
+  "description": "social-media-marketing skill from dengineproblem/agents-monorepo",
+  "author": {
+    "name": "dengineproblem"
+  },
+  "repository": "https://github.com/dengineproblem/agents-monorepo"
+}

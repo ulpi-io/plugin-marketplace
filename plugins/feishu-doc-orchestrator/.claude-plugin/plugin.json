@@ -1,0 +1,9 @@
+{
+  "name": "feishu-doc-orchestrator",
+  "version": "1.0.0",
+  "description": "feishu-doc-orchestrator skill from rosalynyang/feishu-doc-creator-skill",
+  "author": {
+    "name": "rosalynyang"
+  },
+  "repository": "https://github.com/rosalynyang/feishu-doc-creator-skill"
+}

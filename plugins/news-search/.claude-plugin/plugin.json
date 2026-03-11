@@ -1,0 +1,9 @@
+{
+  "name": "news-search",
+  "version": "1.0.0",
+  "description": "news-search skill from brave/brave-search-skills",
+  "author": {
+    "name": "brave"
+  },
+  "repository": "https://github.com/brave/brave-search-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "n8n-security-testing",
+  "version": "1.0.0",
+  "description": "n8n-security-testing skill from proffesor-for-testing/agentic-qe",
+  "author": {
+    "name": "proffesor-for-testing"
+  },
+  "repository": "https://github.com/proffesor-for-testing/agentic-qe"
+}

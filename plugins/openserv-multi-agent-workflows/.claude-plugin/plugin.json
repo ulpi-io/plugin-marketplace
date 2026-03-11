@@ -1,0 +1,9 @@
+{
+  "name": "openserv-multi-agent-workflows",
+  "version": "1.0.0",
+  "description": "openserv-multi-agent-workflows skill from openserv-labs/skills",
+  "author": {
+    "name": "openserv-labs"
+  },
+  "repository": "https://github.com/openserv-labs/skills"
+}

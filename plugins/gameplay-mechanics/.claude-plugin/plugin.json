@@ -1,0 +1,9 @@
+{
+  "name": "gameplay-mechanics",
+  "version": "1.0.0",
+  "description": "gameplay-mechanics skill from pluginagentmarketplace/custom-plugin-game-developer",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-game-developer"
+}

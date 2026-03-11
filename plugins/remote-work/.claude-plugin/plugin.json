@@ -1,0 +1,9 @@
+{
+  "name": "remote-work",
+  "version": "1.0.0",
+  "description": "remote-work skill from rysweet/amplihack",
+  "author": {
+    "name": "rysweet"
+  },
+  "repository": "https://github.com/rysweet/amplihack"
+}

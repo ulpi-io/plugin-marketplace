@@ -1,0 +1,9 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "scheduler skill from jshchnz/claude-code-scheduler",
+  "author": {
+    "name": "jshchnz"
+  },
+  "repository": "https://github.com/jshchnz/claude-code-scheduler"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "effect-index",
+  "version": "1.0.0",
+  "description": "effect-index skill from mepuka/effect-ontology",
+  "author": {
+    "name": "mepuka"
+  },
+  "repository": "https://github.com/mepuka/effect-ontology"
+}

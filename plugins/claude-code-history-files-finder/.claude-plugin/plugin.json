@@ -1,0 +1,9 @@
+{
+  "name": "claude-code-history-files-finder",
+  "version": "1.0.0",
+  "description": "claude-code-history-files-finder skill from daymade/claude-code-skills",
+  "author": {
+    "name": "daymade"
+  },
+  "repository": "https://github.com/daymade/claude-code-skills"
+}

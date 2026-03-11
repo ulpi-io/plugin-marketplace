@@ -1,0 +1,9 @@
+{
+  "name": "wechat-article-publisher",
+  "version": "1.0.0",
+  "description": "wechat-article-publisher skill from iamzifei/wechat-article-publisher-skill",
+  "author": {
+    "name": "iamzifei"
+  },
+  "repository": "https://github.com/iamzifei/wechat-article-publisher-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "xiaohongshu-publisher",
+  "version": "1.0.0",
+  "description": "xiaohongshu-publisher skill from solar-luna/fully-automatic-article-generation-skill",
+  "author": {
+    "name": "solar-luna"
+  },
+  "repository": "https://github.com/solar-luna/fully-automatic-article-generation-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "shadcn-vue",
+  "version": "1.0.0",
+  "description": "shadcn-vue skill from noartem/laravel-vue-skills",
+  "author": {
+    "name": "noartem"
+  },
+  "repository": "https://github.com/noartem/laravel-vue-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "runtime-debug",
+  "version": "1.0.0",
+  "description": "runtime-debug skill from vercel/next.js",
+  "author": {
+    "name": "vercel"
+  },
+  "repository": "https://github.com/vercel/next.js"
+}

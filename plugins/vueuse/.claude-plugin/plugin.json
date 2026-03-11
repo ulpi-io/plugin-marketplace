@@ -1,0 +1,9 @@
+{
+  "name": "vueuse",
+  "version": "1.0.0",
+  "description": "vueuse skill from onmax/nuxt-skills",
+  "author": {
+    "name": "onmax"
+  },
+  "repository": "https://github.com/onmax/nuxt-skills"
+}

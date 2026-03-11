@@ -1,0 +1,9 @@
+{
+  "name": "ai-chat",
+  "version": "1.0.0",
+  "description": "ai-chat skill from andrelandgraf/fullstackrecipes",
+  "author": {
+    "name": "andrelandgraf"
+  },
+  "repository": "https://github.com/andrelandgraf/fullstackrecipes"
+}

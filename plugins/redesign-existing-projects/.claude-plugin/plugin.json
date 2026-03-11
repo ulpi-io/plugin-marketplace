@@ -1,0 +1,9 @@
+{
+  "name": "redesign-existing-projects",
+  "version": "1.0.0",
+  "description": "redesign-existing-projects skill from leonxlnx/taste-skill",
+  "author": {
+    "name": "leonxlnx"
+  },
+  "repository": "https://github.com/leonxlnx/taste-skill"
+}

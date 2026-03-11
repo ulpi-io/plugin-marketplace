@@ -1,0 +1,9 @@
+{
+  "name": "sqlite-vec",
+  "version": "1.0.0",
+  "description": "sqlite-vec skill from existential-birds/beagle",
+  "author": {
+    "name": "existential-birds"
+  },
+  "repository": "https://github.com/existential-birds/beagle"
+}

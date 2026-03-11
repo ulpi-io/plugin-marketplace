@@ -1,0 +1,9 @@
+{
+  "name": "arxiv-viewer",
+  "version": "1.0.0",
+  "description": "arxiv-viewer skill from actionbook/actionbook",
+  "author": {
+    "name": "actionbook"
+  },
+  "repository": "https://github.com/actionbook/actionbook"
+}

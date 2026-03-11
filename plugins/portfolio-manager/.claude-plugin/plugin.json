@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-manager",
+  "version": "1.0.0",
+  "description": "portfolio-manager skill from tradermonty/claude-trading-skills",
+  "author": {
+    "name": "tradermonty"
+  },
+  "repository": "https://github.com/tradermonty/claude-trading-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "threejs skill from mrgoonie/claudekit-skills",
+  "author": {
+    "name": "mrgoonie"
+  },
+  "repository": "https://github.com/mrgoonie/claudekit-skills"
+}

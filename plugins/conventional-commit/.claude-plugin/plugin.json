@@ -1,0 +1,9 @@
+{
+  "name": "conventional-commit",
+  "version": "1.0.0",
+  "description": "conventional-commit skill from marcelorodrigo/agent-skills",
+  "author": {
+    "name": "marcelorodrigo"
+  },
+  "repository": "https://github.com/marcelorodrigo/agent-skills"
+}

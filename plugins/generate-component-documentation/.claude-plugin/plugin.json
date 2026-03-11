@@ -1,0 +1,9 @@
+{
+  "name": "generate-component-documentation",
+  "version": "1.0.0",
+  "description": "generate-component-documentation skill from longbridge/gpui-component",
+  "author": {
+    "name": "longbridge"
+  },
+  "repository": "https://github.com/longbridge/gpui-component"
+}

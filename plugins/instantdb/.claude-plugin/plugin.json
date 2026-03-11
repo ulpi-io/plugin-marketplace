@@ -1,0 +1,9 @@
+{
+  "name": "instantdb",
+  "version": "1.0.0",
+  "description": "instantdb skill from instantdb/skills",
+  "author": {
+    "name": "instantdb"
+  },
+  "repository": "https://github.com/instantdb/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "aflpp",
+  "version": "1.0.0",
+  "description": "aflpp skill from trailofbits/skills",
+  "author": {
+    "name": "trailofbits"
+  },
+  "repository": "https://github.com/trailofbits/skills"
+}

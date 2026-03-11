@@ -1,0 +1,9 @@
+{
+  "name": "accessibility-audit",
+  "version": "1.0.0",
+  "description": "accessibility-audit skill from webflow/webflow-skills",
+  "author": {
+    "name": "webflow"
+  },
+  "repository": "https://github.com/webflow/webflow-skills"
+}

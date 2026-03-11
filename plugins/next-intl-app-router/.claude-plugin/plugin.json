@@ -1,0 +1,9 @@
+{
+  "name": "next-intl-app-router",
+  "version": "1.0.0",
+  "description": "next-intl-app-router skill from liuchiawei/agent-skills",
+  "author": {
+    "name": "liuchiawei"
+  },
+  "repository": "https://github.com/liuchiawei/agent-skills"
+}

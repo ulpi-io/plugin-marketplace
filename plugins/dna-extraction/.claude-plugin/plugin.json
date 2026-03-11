@@ -1,0 +1,9 @@
+{
+  "name": "dna-extraction",
+  "version": "1.0.0",
+  "description": "dna-extraction skill from jwynia/agent-skills",
+  "author": {
+    "name": "jwynia"
+  },
+  "repository": "https://github.com/jwynia/agent-skills"
+}

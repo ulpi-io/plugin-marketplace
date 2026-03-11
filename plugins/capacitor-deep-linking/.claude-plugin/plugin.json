@@ -1,0 +1,9 @@
+{
+  "name": "capacitor-deep-linking",
+  "version": "1.0.0",
+  "description": "capacitor-deep-linking skill from cap-go/capgo-skills",
+  "author": {
+    "name": "cap-go"
+  },
+  "repository": "https://github.com/cap-go/capgo-skills"
+}

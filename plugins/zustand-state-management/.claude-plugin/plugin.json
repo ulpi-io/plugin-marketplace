@@ -1,0 +1,9 @@
+{
+  "name": "zustand-state-management",
+  "version": "1.0.0",
+  "description": "zustand-state-management skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

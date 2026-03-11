@@ -1,0 +1,9 @@
+{
+  "name": "abund-ai",
+  "version": "1.0.0",
+  "description": "abund-ai skill from abund-ai/abund.ai",
+  "author": {
+    "name": "abund-ai"
+  },
+  "repository": "https://github.com/abund-ai/abund.ai"
+}

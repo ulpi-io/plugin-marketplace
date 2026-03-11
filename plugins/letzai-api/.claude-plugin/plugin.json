@@ -1,0 +1,9 @@
+{
+  "name": "letzai-api",
+  "version": "1.0.0",
+  "description": "letzai-api skill from letz-ai/letzai-skill",
+  "author": {
+    "name": "letz-ai"
+  },
+  "repository": "https://github.com/letz-ai/letzai-skill"
+}

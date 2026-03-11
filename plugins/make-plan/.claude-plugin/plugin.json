@@ -1,0 +1,9 @@
+{
+  "name": "make-plan",
+  "version": "1.0.0",
+  "description": "make-plan skill from thedotmack/claude-mem",
+  "author": {
+    "name": "thedotmack"
+  },
+  "repository": "https://github.com/thedotmack/claude-mem"
+}

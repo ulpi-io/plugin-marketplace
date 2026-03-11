@@ -1,0 +1,9 @@
+{
+  "name": "evaluating-candidates",
+  "version": "1.0.0",
+  "description": "evaluating-candidates skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

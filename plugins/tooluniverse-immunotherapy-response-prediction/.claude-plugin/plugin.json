@@ -1,0 +1,9 @@
+{
+  "name": "tooluniverse-immunotherapy-response-prediction",
+  "version": "1.0.0",
+  "description": "tooluniverse-immunotherapy-response-prediction skill from mims-harvard/tooluniverse",
+  "author": {
+    "name": "mims-harvard"
+  },
+  "repository": "https://github.com/mims-harvard/tooluniverse"
+}

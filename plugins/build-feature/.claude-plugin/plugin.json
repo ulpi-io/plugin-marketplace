@@ -1,0 +1,9 @@
+{
+  "name": "build-feature",
+  "version": "1.0.0",
+  "description": "build-feature skill from signerlabs/shipswift-skills",
+  "author": {
+    "name": "signerlabs"
+  },
+  "repository": "https://github.com/signerlabs/shipswift-skills"
+}

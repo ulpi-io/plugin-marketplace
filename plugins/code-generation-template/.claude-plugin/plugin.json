@@ -1,0 +1,9 @@
+{
+  "name": "code-generation-template",
+  "version": "1.0.0",
+  "description": "code-generation-template skill from aj-geddes/useful-ai-prompts",
+  "author": {
+    "name": "aj-geddes"
+  },
+  "repository": "https://github.com/aj-geddes/useful-ai-prompts"
+}

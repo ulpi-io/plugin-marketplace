@@ -1,0 +1,9 @@
+{
+  "name": "screenshot-to-code",
+  "version": "1.0.0",
+  "description": "screenshot-to-code skill from onewave-ai/claude-skills",
+  "author": {
+    "name": "onewave-ai"
+  },
+  "repository": "https://github.com/onewave-ai/claude-skills"
+}

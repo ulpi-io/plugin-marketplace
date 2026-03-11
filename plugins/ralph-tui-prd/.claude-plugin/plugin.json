@@ -1,0 +1,9 @@
+{
+  "name": "ralph-tui-prd",
+  "version": "1.0.0",
+  "description": "ralph-tui-prd skill from subsy/ralph-tui",
+  "author": {
+    "name": "subsy"
+  },
+  "repository": "https://github.com/subsy/ralph-tui"
+}

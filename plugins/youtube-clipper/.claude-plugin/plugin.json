@@ -1,0 +1,9 @@
+{
+  "name": "youtube-clipper",
+  "version": "1.0.0",
+  "description": "youtube-clipper skill from op7418/youtube-clipper-skill",
+  "author": {
+    "name": "op7418"
+  },
+  "repository": "https://github.com/op7418/youtube-clipper-skill"
+}

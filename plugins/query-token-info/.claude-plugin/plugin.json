@@ -1,0 +1,9 @@
+{
+  "name": "query-token-info",
+  "version": "1.0.0",
+  "description": "query-token-info skill from binance/binance-skills-hub",
+  "author": {
+    "name": "binance"
+  },
+  "repository": "https://github.com/binance/binance-skills-hub"
+}

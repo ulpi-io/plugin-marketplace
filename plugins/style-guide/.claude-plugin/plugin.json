@@ -1,0 +1,9 @@
+{
+  "name": "style-guide",
+  "version": "1.0.0",
+  "description": "style-guide skill from daleseo/korean-skills",
+  "author": {
+    "name": "daleseo"
+  },
+  "repository": "https://github.com/daleseo/korean-skills"
+}

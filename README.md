@@ -1,6 +1,12 @@
+<p align="center">
+  <a href="https://ulpi.io"><img src="https://www.ulpi.io/media/ulpi-icon-512x512.png" alt="Ulpi" height="56"></a>
+  &nbsp;&nbsp;&times;&nbsp;&nbsp;
+  <a href="https://www.thecasualleader.com/"><img src="https://images.squarespace-cdn.com/content/v1/678a556b961d7f407a170440/e9bbb79f-6115-41b5-abac-a4a124d4c071/fulllogo.png?format=1500w" alt="The Casual Leader" height="56"></a>
+</p>
+
 # Ulpi Plugin Marketplace
 
-A curated collection of 5872+ agent skills, packaged as plugins for easy installation in the Claude Desktop app.
+A curated collection of 6903+ agent skills, packaged as plugins for easy installation in the Claude Desktop app.
 
 All skills are sourced from [skills.sh](https://skills.sh) — the open agent skills ecosystem. This marketplace re-packages them so Claude Desktop users can install them with a single command.
 
@@ -28,7 +34,7 @@ Then install any plugin:
 claude plugin install frontend-design@ulpi-marketplace
 ```
 
-## Plugins by Publisher (5872 plugins from 813 publishers)
+## Plugins by Publisher (6903 plugins from 1287 publishers)
 
 ### [microsoft/github-copilot-for-azure](https://github.com/microsoft/github-copilot-for-azure) (9 plugins)
 
@@ -419,7 +425,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | web-design-guidelines | 66 | web-design-guidelines |
 | vercel-react-best-practices | 65 | vercel-react-best-practices |
 
-### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (428 plugins)
+### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (418 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -617,7 +623,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | salesforce-development | 108 | salesforce-development |
 | tdd-orchestrator | 108 | tdd-orchestrator |
 | telegram-automation | 107 | telegram-automation |
-| commit | 106 | commit |
 | javascript-typescript-typescript-scaffold | 106 | javascript-typescript-typescript-scaffold |
 | database-cloud-optimization-cost-optimize | 105 | database-cloud-optimization-cost-optimize |
 | find-bugs | 105 | find-bugs |
@@ -639,7 +644,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | error-diagnostics-error-trace | 102 | error-diagnostics-error-trace |
 | event-sourcing-architect | 102 | event-sourcing-architect |
 | moodle-external-api-development | 102 | moodle-external-api-development |
-| readme | 102 | readme |
 | security-scanning-security-dependencies | 102 | security-scanning-security-dependencies |
 | seo-content-auditor | 102 | seo-content-auditor |
 | zapier-make-patterns | 102 | zapier-make-patterns |
@@ -663,7 +667,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | azure-functions | 97 | azure-functions |
 | conductor-manage | 97 | conductor-manage |
 | dotnet-architect | 97 | dotnet-architect |
-| file-organizer | 97 | file-organizer |
 | malware-analyst | 97 | malware-analyst |
 | posix-shell-pro | 97 | posix-shell-pro |
 | angular-state-management | 96 | angular-state-management |
@@ -672,7 +675,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | deployment-engineer | 96 | deployment-engineer |
 | security-scanning-security-sast | 96 | security-scanning-security-sast |
 | test-automator | 96 | test-automator |
-| voice-agents | 96 | voice-agents |
 | backend-dev-guidelines | 95 | backend-dev-guidelines |
 | laravel-security-audit | 95 | laravel-security-audit |
 | llm-application-dev-ai-assistant | 95 | llm-application-dev-ai-assistant |
@@ -700,7 +702,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | performance-engineer | 88 | performance-engineer |
 | seo-content-refresher | 88 | seo-content-refresher |
 | unity-ecs-patterns | 88 | unity-ecs-patterns |
-| web-artifacts-builder | 88 | web-artifacts-builder |
 | computer-vision-expert | 87 | computer-vision-expert |
 | conductor-revert | 87 | conductor-revert |
 | context-fundamentals | 87 | context-fundamentals |
@@ -735,7 +736,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | multi-agent-patterns | 82 | multi-agent-patterns |
 | office-productivity | 82 | office-productivity |
 | pptx-official | 82 | pptx-official |
-| reverse-engineer | 82 | reverse-engineer |
 | team-collaboration-issue | 82 | team-collaboration-issue |
 | cqrs-implementation | 81 | cqrs-implementation |
 | haskell-pro | 81 | haskell-pro |
@@ -785,7 +785,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | cc-skill-backend-patterns | 74 | cc-skill-backend-patterns |
 | cc-skill-coding-standards | 74 | cc-skill-coding-standards |
 | pentest-commands | 74 | pentest-commands |
-| screenshots | 74 | screenshots |
 | stride-analysis-patterns | 74 | stride-analysis-patterns |
 | ai-engineer | 73 | ai-engineer |
 | airtable-automation | 73 | airtable-automation |
@@ -818,7 +817,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | mlops-engineer | 69 | mlops-engineer |
 | payment-integration | 69 | payment-integration |
 | security-bluebook-builder | 69 | security-bluebook-builder |
-| skill-developer | 69 | skill-developer |
 | supabase-automation | 69 | supabase-automation |
 | whatsapp-automation | 69 | whatsapp-automation |
 | ai-agent-development | 68 | ai-agent-development |
@@ -827,7 +825,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | dx-optimizer | 68 | dx-optimizer |
 | reference-builder | 68 | reference-builder |
 | scanning-tools | 68 | scanning-tools |
-| theme-factory | 68 | theme-factory |
 | canva-automation | 67 | canva-automation |
 | claude-d3js-skill | 67 | claude-d3js-skill |
 | csharp-pro | 67 | csharp-pro |
@@ -848,7 +845,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | graphql | 65 | graphql |
 | notion-automation | 65 | notion-automation |
 | varlock-claude-skill | 65 | varlock-claude-skill |
-| algorithmic-art | 64 | algorithmic-art |
 | api-documenter | 64 | api-documenter |
 | powershell-windows | 64 | powershell-windows |
 
@@ -1032,7 +1028,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | fp-check | 90 | fp-check |
 | devcontainer-setup | 68 | devcontainer-setup |
 
-### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) (52 plugins)
+### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) (51 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -1087,9 +1083,8 @@ claude plugin install frontend-design@ulpi-marketplace
 | enterprise-agent-ops | 167 | enterprise-agent-ops |
 | ralphinho-rfc-pipeline | 165 | ralphinho-rfc-pipeline |
 | nanoclaw-repl | 164 | nanoclaw-repl |
-| nutrient-document-processing | 66 | nutrient-document-processing |
 
-### [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) (209 plugins)
+### [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) (208 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -1300,7 +1295,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | synthetic-monitoring | 103 | synthetic-monitoring |
 | multi-cloud-strategy | 102 | multi-cloud-strategy |
 | internationalization-i18n | 95 | internationalization-i18n |
-| image-optimization | 66 | image-optimization |
 | logging-best-practices | 65 | logging-best-practices |
 
 ### [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills) (65 plugins)
@@ -1485,7 +1479,7 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | microsoft-foundry | 23.4K | microsoft-foundry |
 
-### [mindrally/skills](https://github.com/mindrally/skills) (168 plugins)
+### [mindrally/skills](https://github.com/mindrally/skills) (165 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -1559,7 +1553,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | php-development | 95 | php-development |
 | zustand-state-management | 95 | zustand-state-management |
 | bash-scripting | 94 | bash-scripting |
-| bootstrap | 92 | bootstrap |
 | fpga | 92 | fpga |
 | ux-design | 92 | ux-design |
 | deno-typescript | 91 | deno-typescript |
@@ -1602,7 +1595,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | autogen-development | 74 | autogen-development |
 | solidity | 74 | solidity |
 | business-central-development | 73 | business-central-development |
-| css | 73 | css |
 | ethereum | 73 | ethereum |
 | java | 73 | java |
 | unity | 73 | unity |
@@ -1612,7 +1604,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | ghost | 72 | ghost |
 | less-best-practices | 72 | less-best-practices |
 | openai-api-development | 72 | openai-api-development |
-| postgresql-best-practices | 72 | postgresql-best-practices |
 | viewcomfy-api-rules | 72 | viewcomfy-api-rules |
 | vue-typescript | 72 | vue-typescript |
 | angular-development | 71 | angular-development |
@@ -1967,7 +1958,21 @@ claude plugin install frontend-design@ulpi-marketplace
 | flutter-environment-setup-linux | 652 | flutter-environment-setup-linux |
 | flutter-home-screen-widget | 391 | flutter-home-screen-widget |
 
-### [parcadei/continuous-claude-v3](https://github.com/parcadei/continuous-claude-v3) (86 plugins)
+### [clerk/skills](https://github.com/clerk/skills) (9 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| clerk-nextjs-patterns | 3.3K | clerk-nextjs-patterns |
+| clerk | 2.4K | clerk |
+| clerk-setup | 1.9K | clerk-setup |
+| clerk-custom-ui | 1.8K | clerk-custom-ui |
+| clerk-webhooks | 1.8K | clerk-webhooks |
+| clerk-testing | 1.7K | clerk-testing |
+| clerk-orgs | 1.5K | clerk-orgs |
+| clerk-backend-api | 500 | clerk-backend-api |
+| clerk-swift | 243 | clerk-swift |
+
+### [parcadei/continuous-claude-v3](https://github.com/parcadei/continuous-claude-v3) (85 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -2056,23 +2061,8 @@ claude plugin install frontend-design@ulpi-marketplace
 | nia-docs | 147 | nia-docs |
 | pint-compute | 147 | pint-compute |
 | tour | 147 | tour |
-| create-handoff | 114 | create-handoff |
 
-### [clerk/skills](https://github.com/clerk/skills) (9 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| clerk-nextjs-patterns | 3.3K | clerk-nextjs-patterns |
-| clerk | 2.4K | clerk |
-| clerk-setup | 1.9K | clerk-setup |
-| clerk-custom-ui | 1.8K | clerk-custom-ui |
-| clerk-webhooks | 1.8K | clerk-webhooks |
-| clerk-testing | 1.7K | clerk-testing |
-| clerk-orgs | 1.5K | clerk-orgs |
-| clerk-backend-api | 500 | clerk-backend-api |
-| clerk-swift | 243 | clerk-swift |
-
-### [bobmatnyc/claude-mpm-skills](https://github.com/bobmatnyc/claude-mpm-skills) (101 plugins)
+### [bobmatnyc/claude-mpm-skills](https://github.com/bobmatnyc/claude-mpm-skills) (100 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -2164,7 +2154,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | digitalocean-networking | 68 | digitalocean-networking |
 | pr-quality-checklist | 68 | pr-quality-checklist |
 | pre-merge | 68 | pre-merge |
-| svelte | 68 | svelte |
 | testing anti-patterns | 68 | testing anti-patterns |
 | webapp-testing-patterns | 68 | webapp-testing-patterns |
 | better-auth-core | 67 | better-auth-core |
@@ -2300,7 +2289,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | langchain-middleware | 1.1K | langchain-middleware |
 | langgraph-human-in-the-loop | 1.1K | langgraph-human-in-the-loop |
 
-### [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) (78 plugins)
+### [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) (77 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -2381,7 +2370,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | people-analytics | 79 | people-analytics |
 | sequence-load | 79 | sequence-load |
 | slack-search | 78 | slack-search |
-| task-management | 73 | task-management |
 
 ### [ibelick/ui-skills](https://github.com/ibelick/ui-skills) (4 plugins)
 
@@ -2490,7 +2478,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | rivetkit-client-swiftui | 1.5K | rivetkit-client-swiftui |
 | multiplayer-game | 489 | multiplayer-game |
 
-### [steipete/clawdis](https://github.com/steipete/clawdis) (40 plugins)
+### [steipete/clawdis](https://github.com/steipete/clawdis) (39 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -2533,7 +2521,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | ordercli | 112 | ordercli |
 | songsee | 110 | songsee |
 | gh-issues | 106 | gh-issues |
-| weather | 96 | weather |
 
 ### [vuejs-ai/skills](https://github.com/vuejs-ai/skills) (9 plugins)
 
@@ -2548,6 +2535,131 @@ claude plugin install frontend-design@ulpi-marketplace
 | vue-jsx-best-practices | 834 | vue-jsx-best-practices |
 | vue-development-guides | 498 | vue-development-guides |
 | vue-best-practices | 88 | vue-best-practices |
+
+### [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) (120 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| google-search-console | 100 | google-search-console |
+| backlink-analysis | 95 | backlink-analysis |
+| seo-strategy | 95 | seo-strategy |
+| twitter-x-posts | 92 | twitter-x-posts |
+| privacy-page-generator | 91 | privacy-page-generator |
+| seo-monitoring | 91 | seo-monitoring |
+| terms-page-generator | 91 | terms-page-generator |
+| link-building | 90 | link-building |
+| tiktok-captions | 90 | tiktok-captions |
+| competitor-research | 89 | competitor-research |
+| products-page-generator | 89 | products-page-generator |
+| shipping-page-generator | 89 | shipping-page-generator |
+| ai-traffic-tracking | 88 | ai-traffic-tracking |
+| generative-engine-optimization | 88 | generative-engine-optimization |
+| linkedin-posts | 87 | linkedin-posts |
+| robots-txt | 87 | robots-txt |
+| content-optimization | 86 | content-optimization |
+| localization-strategy | 86 | localization-strategy |
+| open-graph | 86 | open-graph |
+| xml-sitemap | 86 | xml-sitemap |
+| blog-page-generator | 85 | blog-page-generator |
+| brand-visual-generator | 85 | brand-visual-generator |
+| branding | 85 | branding |
+| canonical-tag | 85 | canonical-tag |
+| community-forum | 85 | community-forum |
+| cta-generator | 85 | cta-generator |
+| indexing | 85 | indexing |
+| influencer-marketing | 85 | influencer-marketing |
+| meta-description | 85 | meta-description |
+| title-tag | 85 | title-tag |
+| affiliate-marketing | 84 | affiliate-marketing |
+| breadcrumb-generator | 84 | breadcrumb-generator |
+| cold-start-strategy | 84 | cold-start-strategy |
+| eeat-signals | 84 | eeat-signals |
+| hero-generator | 84 | hero-generator |
+| logo-generator | 84 | logo-generator |
+| site-crawlability | 84 | site-crawlability |
+| twitter-cards | 84 | twitter-cards |
+| url-slug-generator | 84 | url-slug-generator |
+| url-structure | 84 | url-structure |
+| website-structure | 84 | website-structure |
+| about-page-generator | 83 | about-page-generator |
+| affiliate-page-generator | 83 | affiliate-page-generator |
+| article-page-generator | 83 | article-page-generator |
+| email-marketing | 83 | email-marketing |
+| landing-page-generator | 83 | landing-page-generator |
+| reddit-posts | 83 | reddit-posts |
+| serp-features | 83 | serp-features |
+| traffic-analysis | 83 | traffic-analysis |
+| 404-page-generator | 82 | 404-page-generator |
+| directory-submission | 82 | directory-submission |
+| indexnow | 82 | indexnow |
+| integrated-marketing | 82 | integrated-marketing |
+| legal-page-generator | 82 | legal-page-generator |
+| newsletter-signup-generator | 82 | newsletter-signup-generator |
+| page-metadata | 82 | page-metadata |
+| testimonials-generator | 82 | testimonials-generator |
+| use-cases-page-generator | 82 | use-cases-page-generator |
+| careers-page-generator | 81 | careers-page-generator |
+| contact-page-generator | 81 | contact-page-generator |
+| creator-program | 81 | creator-program |
+| docs-page-generator | 81 | docs-page-generator |
+| heading-structure | 81 | heading-structure |
+| internal-links | 81 | internal-links |
+| media-kit-page-generator | 81 | media-kit-page-generator |
+| navigation-menu-generator | 81 | navigation-menu-generator |
+| pricing-page-generator | 81 | pricing-page-generator |
+| category-page-generator | 80 | category-page-generator |
+| contest-page-generator | 80 | contest-page-generator |
+| customer-stories-page-generator | 80 | customer-stories-page-generator |
+| featured-snippet | 80 | featured-snippet |
+| popup-generator | 80 | popup-generator |
+| services-page-generator | 80 | services-page-generator |
+| showcase-page-generator | 80 | showcase-page-generator |
+| sidebar-generator | 80 | sidebar-generator |
+| startups-page-generator | 80 | startups-page-generator |
+| trust-badges-generator | 80 | trust-badges-generator |
+| alternatives-page-generator | 79 | alternatives-page-generator |
+| features-page-generator | 79 | features-page-generator |
+| glossary-page-generator | 79 | glossary-page-generator |
+| paid-ads-strategy | 79 | paid-ads-strategy |
+| pricing-strategy | 79 | pricing-strategy |
+| resources-page-generator | 79 | resources-page-generator |
+| social-share-generator | 79 | social-share-generator |
+| toc-generator | 79 | toc-generator |
+| top-banner-generator | 79 | top-banner-generator |
+| disclosure-page-generator | 78 | disclosure-page-generator |
+| download-page-generator | 78 | download-page-generator |
+| integrations-page-generator | 78 | integrations-page-generator |
+| migration-page-generator | 78 | migration-page-generator |
+| refund-page-generator | 78 | refund-page-generator |
+| solutions-page-generator | 78 | solutions-page-generator |
+| status-page-generator | 78 | status-page-generator |
+| changelog-page-generator | 77 | changelog-page-generator |
+| meta-ads | 77 | meta-ads |
+| google-ads | 72 | google-ads |
+| conversion-optimization | 71 | conversion-optimization |
+| tools-page-generator | 71 | tools-page-generator |
+| video-marketing | 70 | video-marketing |
+| content-marketing | 69 | content-marketing |
+| indie-hacker-strategy | 69 | indie-hacker-strategy |
+| medium-posts | 68 | medium-posts |
+| gtm-strategy | 67 | gtm-strategy |
+| tiktok-ads | 67 | tiktok-ads |
+| app-ads | 66 | app-ads |
+| domain-architecture | 66 | domain-architecture |
+| image-optimization | 66 | image-optimization |
+| linkedin-ads | 66 | linkedin-ads |
+| product-launch | 66 | product-launch |
+| rebranding-strategy | 66 | rebranding-strategy |
+| directory-listing-ads | 65 | directory-listing-ads |
+| display-ads | 65 | display-ads |
+| domain-selection | 65 | domain-selection |
+| pinterest-posts | 65 | pinterest-posts |
+| pr-marketing | 65 | pr-marketing |
+| retention-strategy | 65 | retention-strategy |
+| native-ads | 64 | native-ads |
+| pmf-strategy | 64 | pmf-strategy |
+| template-page-generator | 64 | template-page-generator |
+| youtube-ads | 64 | youtube-ads |
 
 ### [okx/onchainos-skills](https://github.com/okx/onchainos-skills) (5 plugins)
 
@@ -2583,6 +2695,17 @@ claude plugin install frontend-design@ulpi-marketplace
 | nano-banana-pro | 88 | nano-banana-pro |
 | upstash-redis-kv | 86 | upstash-redis-kv |
 | markdown-converter | 68 | markdown-converter |
+
+### [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| react-native-best-practices | 7.0K | react-native-best-practices |
+| upgrading-react-native | 855 | upgrading-react-native |
+| validate-skills | 792 | validate-skills |
+| github | 122 | github |
+| react-native-brownfield-migration | 96 | react-native-brownfield-migration |
+| github-actions | 75 | github-actions |
 
 ### [shubhamsaboo/awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) (19 plugins)
 
@@ -2674,16 +2797,14 @@ claude plugin install frontend-design@ulpi-marketplace
 | qwen-image-2-pro | 75 | qwen-image-2-pro |
 | prompt-engineering | 72 | prompt-engineering |
 
-### [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) (4 plugins)
+### [napoleond/clawdirect](https://github.com/napoleond/clawdirect) (2 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| react-native-best-practices | 7.0K | react-native-best-practices |
-| upgrading-react-native | 855 | upgrading-react-native |
-| validate-skills | 792 | validate-skills |
-| github | 122 | github |
+| clawdirect | 4.4K | clawdirect |
+| clawdirect-dev | 4.3K | clawdirect-dev |
 
-### [tencentcloudbase/skills](https://github.com/tencentcloudbase/skills) (23 plugins)
+### [tencentcloudbase/skills](https://github.com/tencentcloudbase/skills) (22 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -2709,16 +2830,8 @@ claude plugin install frontend-design@ulpi-marketplace
 | cloudbase-agent-ts | 271 | cloudbase-agent-ts |
 | setup-cloudbase-openclaw | 157 | setup-cloudbase-openclaw |
 | web-development | 77 | web-development |
-| miniprogram-development | 73 | miniprogram-development |
 
-### [napoleond/clawdirect](https://github.com/napoleond/clawdirect) (2 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| clawdirect | 4.4K | clawdirect |
-| clawdirect-dev | 4.3K | clawdirect-dev |
-
-### [composiohq/awesome-claude-skills](https://github.com/composiohq/awesome-claude-skills) (61 plugins)
+### [composiohq/awesome-claude-skills](https://github.com/composiohq/awesome-claude-skills) (60 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -2735,7 +2848,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | google-analytics-automation | 86 | google-analytics-automation |
 | jira-automation | 84 | jira-automation |
 | reddit-automation | 83 | reddit-automation |
-| slack-automation | 83 | slack-automation |
 | bitbucket-automation | 82 | bitbucket-automation |
 | confluence-automation | 81 | confluence-automation |
 | outlook-calendar-automation | 81 | outlook-calendar-automation |
@@ -2852,7 +2964,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | tooluniverse-clinical-guidelines | 89 | tooluniverse-clinical-guidelines |
 | tooluniverse-install-skills | 77 | tooluniverse-install-skills |
 
-### [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (10 plugins)
+### [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) (9 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -2865,7 +2977,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | nuxt-better-auth | 715 | nuxt-better-auth |
 | nuxthub | 619 | nuxthub |
 | tresjs | 254 | tresjs |
-| nuxt-content | 115 | nuxt-content |
 
 ### [404kidwiz/claude-supercode-skills](https://github.com/404kidwiz/claude-supercode-skills) (64 plugins)
 
@@ -2936,7 +3047,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | external-reference-research | 64 | external-reference-research |
 | powershell-module-architect | 64 | powershell-module-architect |
 
-### [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) (58 plugins)
+### [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) (56 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -2975,12 +3086,10 @@ claude plugin install frontend-design@ulpi-marketplace
 | jira-expert | 94 | jira-expert |
 | senior-pm | 89 | senior-pm |
 | senior-frontend | 86 | senior-frontend |
-| review | 85 | review |
 | atlassian-templates | 84 | atlassian-templates |
 | c-level-advisor | 83 | c-level-advisor |
 | atlassian-admin | 80 | atlassian-admin |
 | generate | 80 | generate |
-| fix | 77 | fix |
 | cto-advisor | 76 | cto-advisor |
 | testrail | 76 | testrail |
 | coverage | 75 | coverage |
@@ -3099,7 +3208,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | prisma-upgrade-v7 | 643 | prisma-upgrade-v7 |
 | prisma-driver-adapter-implementation | 468 | prisma-driver-adapter-implementation |
 
-### [phuryn/pm-skills](https://github.com/phuryn/pm-skills) (64 plugins)
+### [phuryn/pm-skills](https://github.com/phuryn/pm-skills) (61 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -3163,10 +3272,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | stakeholder-map | 104 | stakeholder-map |
 | draft-nda | 103 | draft-nda |
 | wwas | 103 | wwas |
-| pricing-strategy | 79 | pricing-strategy |
 | growth-loops | 68 | growth-loops |
-| gtm-strategy | 67 | gtm-strategy |
-| marketing-ideas | 66 | marketing-ideas |
 
 ### [obra/episodic-memory](https://github.com/obra/episodic-memory) (1 plugins)
 
@@ -3189,6 +3295,15 @@ claude plugin install frontend-design@ulpi-marketplace
 | skill-name | 393 | skill-name |
 | seo-geo | 145 | seo-geo |
 | archive | 137 | archive |
+
+### [mastra-ai/skills](https://github.com/mastra-ai/skills) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| mastra | 6.2K | mastra |
+| create-mastra | 90 | create-mastra |
+| mastra-best-practices | 89 | mastra-best-practices |
+| mastra-embedded-docs-look-up | 67 | mastra-embedded-docs-look-up |
 
 ### [benjitaylor/agentation](https://github.com/benjitaylor/agentation) (2 plugins)
 
@@ -3326,11 +3441,15 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | nblm | 6.2K | nblm |
 
-### [mastra-ai/skills](https://github.com/mastra-ai/skills) (1 plugins)
+### [langgenius/dify](https://github.com/langgenius/dify) (5 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| mastra | 6.2K | mastra |
+| component-refactoring | 2.6K | component-refactoring |
+| frontend-code-review | 2.3K | frontend-code-review |
+| orpc-contract-first | 690 | orpc-contract-first |
+| frontend-testing | 124 | frontend-testing |
+| backend-code-review | 97 | backend-code-review |
 
 ### [shipshitdev/library](https://github.com/shipshitdev/library) (48 plugins)
 
@@ -3432,15 +3551,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | tailwindcss-debugging | 65 | tailwindcss-debugging |
 | tailwindcss-plugins | 65 | tailwindcss-plugins |
 
-### [langgenius/dify](https://github.com/langgenius/dify) (4 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| component-refactoring | 2.6K | component-refactoring |
-| frontend-code-review | 2.3K | frontend-code-review |
-| orpc-contract-first | 690 | orpc-contract-first |
-| frontend-testing | 124 | frontend-testing |
-
 ### [millionco/react-doctor](https://github.com/millionco/react-doctor) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -3527,7 +3637,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | next-cache-components | 85 | next-cache-components |
 | next-best-practices | 74 | next-best-practices |
 
-### [openai/skills](https://github.com/openai/skills) (25 plugins)
+### [openai/skills](https://github.com/openai/skills) (24 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -3553,7 +3663,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | figma-implement-design | 135 | figma-implement-design |
 | spreadsheet | 104 | spreadsheet |
 | screenshot | 90 | screenshot |
-| skill-installer | 88 | skill-installer |
 | openai-docs | 72 | openai-docs |
 | doc | 65 | doc |
 
@@ -3663,6 +3772,82 @@ claude plugin install frontend-design@ulpi-marketplace
 | grepai-embeddings-lmstudio | 151 | grepai-embeddings-lmstudio |
 | grepai-storage-postgres | 151 | grepai-storage-postgres |
 | grepai-embeddings-openai | 147 | grepai-embeddings-openai |
+
+### [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) (71 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ln-624-code-quality-auditor | 99 | ln-624-code-quality-auditor |
+| ln-626-dead-code-auditor | 91 | ln-626-dead-code-auditor |
+| ln-782-test-runner | 87 | ln-782-test-runner |
+| ln-140-test-docs-creator | 82 | ln-140-test-docs-creator |
+| ln-620-codebase-auditor | 80 | ln-620-codebase-auditor |
+| ln-634-test-coverage-auditor | 80 | ln-634-test-coverage-auditor |
+| ln-621-security-auditor | 79 | ln-621-security-auditor |
+| ln-628-concurrency-auditor | 78 | ln-628-concurrency-auditor |
+| ln-631-test-business-logic-auditor | 77 | ln-631-test-business-logic-auditor |
+| ln-625-dependencies-auditor | 76 | ln-625-dependencies-auditor |
+| ln-110-project-docs-coordinator | 75 | ln-110-project-docs-coordinator |
+| ln-210-epic-coordinator | 75 | ln-210-epic-coordinator |
+| ln-627-observability-auditor | 75 | ln-627-observability-auditor |
+| ln-114-frontend-docs-creator | 74 | ln-114-frontend-docs-creator |
+| ln-150-presentation-creator | 74 | ln-150-presentation-creator |
+| ln-200-scope-decomposer | 74 | ln-200-scope-decomposer |
+| ln-630-test-auditor | 74 | ln-630-test-auditor |
+| ln-742-precommit-setup | 74 | ln-742-precommit-setup |
+| ln-111-root-docs-creator | 73 | ln-111-root-docs-creator |
+| ln-112-project-core-creator | 73 | ln-112-project-core-creator |
+| ln-113-backend-docs-creator | 73 | ln-113-backend-docs-creator |
+| ln-115-devops-docs-creator | 73 | ln-115-devops-docs-creator |
+| ln-622-build-auditor | 73 | ln-622-build-auditor |
+| ln-730-devops-setup | 73 | ln-730-devops-setup |
+| ln-001-standards-researcher | 72 | ln-001-standards-researcher |
+| ln-120-reference-docs-creator | 72 | ln-120-reference-docs-creator |
+| ln-130-tasks-docs-creator | 72 | ln-130-tasks-docs-creator |
+| ln-220-story-coordinator | 72 | ln-220-story-coordinator |
+| ln-302-task-replanner | 72 | ln-302-task-replanner |
+| ln-629-lifecycle-auditor | 72 | ln-629-lifecycle-auditor |
+| ln-633-test-value-auditor | 72 | ln-633-test-value-auditor |
+| ln-732-cicd-generator | 72 | ln-732-cicd-generator |
+| ln-761-secret-scanner | 72 | ln-761-secret-scanner |
+| ln-772-error-handler-setup | 72 | ln-772-error-handler-setup |
+| ln-774-healthcheck-setup | 72 | ln-774-healthcheck-setup |
+| ln-404-test-executor | 71 | ln-404-test-executor |
+| ln-002-best-practices-researcher | 70 | ln-002-best-practices-researcher |
+| ln-221-story-creator | 70 | ln-221-story-creator |
+| ln-222-story-replanner | 70 | ln-222-story-replanner |
+| ln-301-task-creator | 70 | ln-301-task-creator |
+| ln-400-story-executor | 70 | ln-400-story-executor |
+| ln-401-task-executor | 70 | ln-401-task-executor |
+| ln-632-test-e2e-priority-auditor | 70 | ln-632-test-e2e-priority-auditor |
+| ln-635-test-isolation-auditor | 70 | ln-635-test-isolation-auditor |
+| ln-720-structure-migrator | 70 | ln-720-structure-migrator |
+| ln-721-frontend-restructure | 70 | ln-721-frontend-restructure |
+| ln-733-env-configurator | 70 | ln-733-env-configurator |
+| ln-741-linter-configurator | 70 | ln-741-linter-configurator |
+| ln-770-crosscutting-setup | 70 | ln-770-crosscutting-setup |
+| ln-771-logging-configurator | 70 | ln-771-logging-configurator |
+| ln-773-cors-configurator | 70 | ln-773-cors-configurator |
+| ln-783-container-launcher | 70 | ln-783-container-launcher |
+| ln-230-story-prioritizer | 69 | ln-230-story-prioritizer |
+| ln-300-task-coordinator | 69 | ln-300-task-coordinator |
+| ln-403-task-rework | 69 | ln-403-task-rework |
+| ln-700-project-bootstrap | 69 | ln-700-project-bootstrap |
+| ln-722-backend-generator | 69 | ln-722-backend-generator |
+| ln-731-docker-generator | 69 | ln-731-docker-generator |
+| ln-740-quality-setup | 69 | ln-740-quality-setup |
+| ln-743-test-infrastructure | 69 | ln-743-test-infrastructure |
+| ln-751-command-templates | 69 | ln-751-command-templates |
+| ln-760-security-setup | 69 | ln-760-security-setup |
+| ln-775-api-docs-generator | 69 | ln-775-api-docs-generator |
+| ln-780-bootstrap-verifier | 69 | ln-780-bootstrap-verifier |
+| ln-781-build-verifier | 69 | ln-781-build-verifier |
+| ln-623-code-principles-auditor | 68 | ln-623-code-principles-auditor |
+| ln-750-commands-generator | 68 | ln-750-commands-generator |
+| ln-100-documents-pipeline | 67 | ln-100-documents-pipeline |
+| ln-201-opportunity-discoverer | 66 | ln-201-opportunity-discoverer |
+| ln-402-task-reviewer | 65 | ln-402-task-reviewer |
+| ln-642-layer-boundary-auditor | 65 | ln-642-layer-boundary-auditor |
 
 ### [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) (4 plugins)
 
@@ -3938,6 +4123,59 @@ claude plugin install frontend-design@ulpi-marketplace
 | mcp-lark | 143 | mcp-lark |
 | tianqi | 132 | tianqi |
 
+### [neolabhq/context-engineering-kit](https://github.com/neolabhq/context-engineering-kit) (48 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ddd:software-architecture | 117 | ddd:software-architecture |
+| customaize-agent:prompt-engineering | 111 | customaize-agent:prompt-engineering |
+| code-review:review-local-changes | 107 | code-review:review-local-changes |
+| sdd:add-task | 98 | sdd:add-task |
+| sdd:create-ideas | 97 | sdd:create-ideas |
+| docs:write-concisely | 95 | docs:write-concisely |
+| customaize-agent:thought-based-reasoning | 93 | customaize-agent:thought-based-reasoning |
+| tdd:test-driven-development | 93 | tdd:test-driven-development |
+| code-review:review-pr | 92 | code-review:review-pr |
+| sadd:subagent-driven-development | 92 | sadd:subagent-driven-development |
+| customaize-agent:context-engineering | 91 | customaize-agent:context-engineering |
+| docs:update-docs | 91 | docs:update-docs |
+| git:create-pr | 91 | git:create-pr |
+| tdd:fix-tests | 91 | tdd:fix-tests |
+| tdd:write-tests | 90 | tdd:write-tests |
+| sadd:tree-of-thoughts | 87 | sadd:tree-of-thoughts |
+| customaize-agent:apply-anthropic-skill-best-practices | 86 | customaize-agent:apply-anthropic-skill-best-practices |
+| customaize-agent:test-prompt | 86 | customaize-agent:test-prompt |
+| customaize-agent:test-skill | 86 | customaize-agent:test-skill |
+| ddd:setup-code-formating | 86 | ddd:setup-code-formating |
+| tech-stack:add-typescript-best-practices | 86 | tech-stack:add-typescript-best-practices |
+| customaize-agent:create-skill | 85 | customaize-agent:create-skill |
+| git:attach-review-to-pr | 85 | git:attach-review-to-pr |
+| git:compare-worktrees | 85 | git:compare-worktrees |
+| git:merge-worktree | 85 | git:merge-worktree |
+| kaizen:root-cause-tracing | 85 | kaizen:root-cause-tracing |
+| mcp:setup-serena-mcp | 85 | mcp:setup-serena-mcp |
+| sadd:judge-with-debate | 85 | sadd:judge-with-debate |
+| sadd:multi-agent-patterns | 85 | sadd:multi-agent-patterns |
+| customaize-agent:agent-evaluation | 84 | customaize-agent:agent-evaluation |
+| customaize-agent:create-hook | 84 | customaize-agent:create-hook |
+| kaizen:analyse-problem | 84 | kaizen:analyse-problem |
+| mcp:build-mcp | 84 | mcp:build-mcp |
+| sadd:do-and-judge | 84 | sadd:do-and-judge |
+| sadd:do-in-steps | 84 | sadd:do-in-steps |
+| sadd:launch-sub-agent | 84 | sadd:launch-sub-agent |
+| git:analyze-issue | 83 | git:analyze-issue |
+| git:create-worktree | 83 | git:create-worktree |
+| kaizen:plan-do-check-act | 83 | kaizen:plan-do-check-act |
+| mcp:setup-context7-mcp | 83 | mcp:setup-context7-mcp |
+| sadd:do-in-parallel | 83 | sadd:do-in-parallel |
+| customaize-agent:create-command | 82 | customaize-agent:create-command |
+| kaizen:cause-and-effect | 82 | kaizen:cause-and-effect |
+| sadd:do-competitively | 82 | sadd:do-competitively |
+| git:load-issues | 80 | git:load-issues |
+| mcp:setup-arxiv-mcp | 80 | mcp:setup-arxiv-mcp |
+| mcp:setup-codemap-cli | 80 | mcp:setup-codemap-cli |
+| fpf:propose-hypotheses | 78 | fpf:propose-hypotheses |
+
 ### [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) (20 plugins)
 
 | Plugin | Installs | Description |
@@ -3962,45 +4200,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | ml-expert | 73 | ml-expert |
 | data-science-expert | 68 | data-science-expert |
 | grafana-expert | 68 | grafana-expert |
-
-### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) (12 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| claude-md-improver | 1.3K | claude-md-improver |
-| playground | 1.0K | playground |
-| claude-automation-recommender | 849 | claude-automation-recommender |
-| example-skill | 154 | example-skill |
-| agent-development | 96 | agent-development |
-| skill-development | 93 | skill-development |
-| command-development | 90 | command-development |
-| hook-development | 87 | hook-development |
-| mcp-integration | 87 | mcp-integration |
-| plugin-structure | 86 | plugin-structure |
-| plugin-settings | 85 | plugin-settings |
-| writing-hookify-rules | 83 | writing-hookify-rules |
-
-### [ailabs-393/ai-labs-claude-skills](https://github.com/ailabs-393/ai-labs-claude-skills) (17 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| personal-assistant | 1.0K | personal-assistant |
-| research-paper-writer | 644 | research-paper-writer |
-| travel-planner | 463 | travel-planner |
-| finance-manager | 356 | finance-manager |
-| script-writer | 233 | script-writer |
-| seo-optimizer | 157 | seo-optimizer |
-| csv-data-visualizer | 137 | csv-data-visualizer |
-| startup-validator | 132 | startup-validator |
-| storyboard-manager | 130 | storyboard-manager |
-| business-analytics-reporter | 119 | business-analytics-reporter |
-| social-media-generator | 119 | social-media-generator |
-| codebase-documenter | 118 | codebase-documenter |
-| business-document-generator | 116 | business-document-generator |
-| nutritional-specialist | 83 | nutritional-specialist |
-| resume-manager | 70 | resume-manager |
-| tech-debt-analyzer | 68 | tech-debt-analyzer |
-| frontend-enhancer | 64 | frontend-enhancer |
 
 ### [aaronontheweb/dotnet-skills](https://github.com/aaronontheweb/dotnet-skills) (33 plugins)
 
@@ -4118,38 +4317,26 @@ claude plugin install frontend-design@ulpi-marketplace
 | marketing-product-analytics | 64 | marketing-product-analytics |
 | startup-trend-prediction | 64 | startup-trend-prediction |
 
-### [pproenca/dot-skills](https://github.com/pproenca/dot-skills) (28 plugins)
+### [ailabs-393/ai-labs-claude-skills](https://github.com/ailabs-393/ai-labs-claude-skills) (16 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| emilkowal-animations | 463 | emilkowal-animations |
-| nuqs | 408 | nuqs |
-| react-hook-form | 243 | react-hook-form |
-| terminal-ui | 198 | terminal-ui |
-| framer-motion-best-practices | 190 | framer-motion-best-practices |
-| wxt-browser-extensions | 183 | wxt-browser-extensions |
-| expo-react-native-performance | 178 | expo-react-native-performance |
-| chrome-extension | 163 | chrome-extension |
-| shell | 160 | shell |
-| tailwind | 151 | tailwind |
-| expo | 150 | expo |
-| chrome-extension-ui | 139 | chrome-extension-ui |
-| msw | 126 | msw |
-| feature-arch | 94 | feature-arch |
-| framer-motion | 89 | framer-motion |
-| ts-google | 86 | ts-google |
-| nextjs | 84 | nextjs |
-| mui-base | 82 | mui-base |
-| orval | 81 | orval |
-| pulumi | 81 | pulumi |
-| ui-design | 81 | ui-design |
-| rust-testing | 79 | rust-testing |
-| codemod | 75 | codemod |
-| tailwind-ui-refactor | 70 | tailwind-ui-refactor |
-| js-google | 68 | js-google |
-| python | 67 | python |
-| vhs | 67 | vhs |
-| jscodeshift | 65 | jscodeshift |
+| personal-assistant | 1.0K | personal-assistant |
+| research-paper-writer | 644 | research-paper-writer |
+| travel-planner | 463 | travel-planner |
+| finance-manager | 356 | finance-manager |
+| script-writer | 233 | script-writer |
+| seo-optimizer | 157 | seo-optimizer |
+| csv-data-visualizer | 137 | csv-data-visualizer |
+| startup-validator | 132 | startup-validator |
+| storyboard-manager | 130 | storyboard-manager |
+| business-analytics-reporter | 119 | business-analytics-reporter |
+| social-media-generator | 119 | social-media-generator |
+| business-document-generator | 116 | business-document-generator |
+| nutritional-specialist | 83 | nutritional-specialist |
+| resume-manager | 70 | resume-manager |
+| tech-debt-analyzer | 68 | tech-debt-analyzer |
+| frontend-enhancer | 64 | frontend-enhancer |
 
 ### [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) (14 plugins)
 
@@ -4187,7 +4374,38 @@ claude plugin install frontend-design@ulpi-marketplace
 | java-maven-gradle | 91 | java-maven-gradle |
 | java-docker | 90 | java-docker |
 
-### [everyinc/compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) (15 plugins)
+### [pproenca/dot-skills](https://github.com/pproenca/dot-skills) (26 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| emilkowal-animations | 463 | emilkowal-animations |
+| nuqs | 408 | nuqs |
+| react-hook-form | 243 | react-hook-form |
+| terminal-ui | 198 | terminal-ui |
+| framer-motion-best-practices | 190 | framer-motion-best-practices |
+| wxt-browser-extensions | 183 | wxt-browser-extensions |
+| expo-react-native-performance | 178 | expo-react-native-performance |
+| chrome-extension | 163 | chrome-extension |
+| shell | 160 | shell |
+| tailwind | 151 | tailwind |
+| expo | 150 | expo |
+| chrome-extension-ui | 139 | chrome-extension-ui |
+| msw | 126 | msw |
+| feature-arch | 94 | feature-arch |
+| framer-motion | 89 | framer-motion |
+| ts-google | 86 | ts-google |
+| mui-base | 82 | mui-base |
+| orval | 81 | orval |
+| pulumi | 81 | pulumi |
+| rust-testing | 79 | rust-testing |
+| codemod | 75 | codemod |
+| tailwind-ui-refactor | 70 | tailwind-ui-refactor |
+| js-google | 68 | js-google |
+| python | 67 | python |
+| vhs | 67 | vhs |
+| jscodeshift | 65 | jscodeshift |
+
+### [everyinc/compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) (14 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -4204,10 +4422,9 @@ claude plugin install frontend-design@ulpi-marketplace
 | dspy-ruby | 135 | dspy-ruby |
 | andrew-kane-gem-writer | 133 | andrew-kane-gem-writer |
 | document-review | 125 | document-review |
-| create-agent-skills | 112 | create-agent-skills |
 | creating-agent-skills | 71 | creating-agent-skills |
 
-### [martinholovsky/claude-skills-generator](https://github.com/martinholovsky/claude-skills-generator) (29 plugins)
+### [martinholovsky/claude-skills-generator](https://github.com/martinholovsky/claude-skills-generator) (28 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -4238,7 +4455,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | threejs-tresjs | 73 | threejs-tresjs |
 | vue-nuxt | 73 | vue-nuxt |
 | llm-integration | 72 | llm-integration |
-| tailwindcss | 68 | tailwindcss |
 | rust | 65 | rust |
 
 ### [sugarforever/01coder-agent-skills](https://github.com/sugarforever/01coder-agent-skills) (1 plugins)
@@ -4388,12 +4604,14 @@ claude plugin install frontend-design@ulpi-marketplace
 | e-bookkeeping-compliance | 112 | e-bookkeeping-compliance |
 | setup | 93 | setup |
 
-### [resend/resend-skills](https://github.com/resend/resend-skills) (2 plugins)
+### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) (4 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| resend | 3.1K | resend |
-| send-email | 98 | send-email |
+| claude-md-improver | 1.3K | claude-md-improver |
+| playground | 1.0K | playground |
+| claude-automation-recommender | 849 | claude-automation-recommender |
+| example-skill | 154 | example-skill |
 
 ### [ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills) (7 plugins)
 
@@ -4406,6 +4624,12 @@ claude plugin install frontend-design@ulpi-marketplace
 | watchos-design-guidelines | 171 | watchos-design-guidelines |
 | tvos-design-guidelines | 166 | tvos-design-guidelines |
 | visionos-design-guidelines | 148 | visionos-design-guidelines |
+
+### [resend/resend-skills](https://github.com/resend/resend-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| resend | 3.1K | resend |
 
 ### [dkyazzentwatwa/chatgpt-skills](https://github.com/dkyazzentwatwa/chatgpt-skills) (14 plugins)
 
@@ -4439,7 +4663,25 @@ claude plugin install frontend-design@ulpi-marketplace
 | pulumi-cdk-to-pulumi | 164 | pulumi-cdk-to-pulumi |
 | cloudformation-to-pulumi | 162 | cloudformation-to-pulumi |
 
-### [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) (23 plugins)
+### [hau823823/gen-paylink-govilo](https://github.com/hau823823/gen-paylink-govilo) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| gen-paylink-govilo | 3.0K | gen-paylink-govilo |
+
+### [ghostsecurity/skills](https://github.com/ghostsecurity/skills) (7 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ghost-scan-code | 647 | ghost-scan-code |
+| ghost-scan-secrets | 509 | ghost-scan-secrets |
+| ghost-scan-deps | 438 | ghost-scan-deps |
+| ghost-proxy | 360 | ghost-proxy |
+| ghost-validate | 349 | ghost-validate |
+| ghost-report | 346 | ghost-report |
+| ghost-repo-context | 323 | ghost-repo-context |
+
+### [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) (22 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -4461,29 +4703,10 @@ claude plugin install frontend-design@ulpi-marketplace
 | voice-interface-builder | 72 | voice-interface-builder |
 | growth-experimenter | 69 | growth-experimenter |
 | usability-tester | 69 | usability-tester |
-| pricing-strategist | 68 | pricing-strategist |
 | codex-review-workflow | 67 | codex-review-workflow |
 | localization-engineer | 66 | localization-engineer |
 | spatial-developer | 65 | spatial-developer |
 | forensic-data-engineer | 64 | forensic-data-engineer |
-
-### [hau823823/gen-paylink-govilo](https://github.com/hau823823/gen-paylink-govilo) (1 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| gen-paylink-govilo | 3.0K | gen-paylink-govilo |
-
-### [ghostsecurity/skills](https://github.com/ghostsecurity/skills) (7 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| ghost-scan-code | 647 | ghost-scan-code |
-| ghost-scan-secrets | 509 | ghost-scan-secrets |
-| ghost-scan-deps | 438 | ghost-scan-deps |
-| ghost-proxy | 360 | ghost-proxy |
-| ghost-validate | 349 | ghost-validate |
-| ghost-report | 346 | ghost-report |
-| ghost-repo-context | 323 | ghost-repo-context |
 
 ### [eraserlabs/eraser-io](https://github.com/eraserlabs/eraser-io) (5 plugins)
 
@@ -4517,6 +4740,40 @@ claude plugin install frontend-design@ulpi-marketplace
 | storybook-setup | 72 | storybook-setup |
 | oauth2-oidc-implementer | 68 | oauth2-oidc-implementer |
 | responsive-design-system | 67 | responsive-design-system |
+
+### [casper-studios/casper-marketplace](https://github.com/casper-studios/casper-marketplace) (29 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| pr-summary | 121 | pr-summary |
+| pr-comments | 120 | pr-comments |
+| create-handoff | 114 | create-handoff |
+| polishing | 114 | polishing |
+| content-generation | 113 | content-generation |
+| implement-plan | 113 | implement-plan |
+| recover-branch-context | 113 | recover-branch-context |
+| bump-deps | 112 | bump-deps |
+| attio-crm | 111 | attio-crm |
+| extract-my-action-items | 110 | extract-my-action-items |
+| firecrawl-scraping | 110 | firecrawl-scraping |
+| youtube-tools | 108 | youtube-tools |
+| commit | 106 | commit |
+| liquid-glass | 104 | liquid-glass |
+| parallel-research | 103 | parallel-research |
+| apify-scrapers | 101 | apify-scrapers |
+| csv-analyzer | 100 | csv-analyzer |
+| agent-ready-codebase | 98 | agent-ready-codebase |
+| better-all | 97 | better-all |
+| casper-design-system | 97 | casper-design-system |
+| composio-connect | 97 | composio-connect |
+| transcript-search | 97 | transcript-search |
+| linkedin-post-generator | 96 | linkedin-post-generator |
+| voice-agents | 96 | voice-agents |
+| google-workspace | 94 | google-workspace |
+| slack-automation | 83 | slack-automation |
+| send-to-linear | 82 | send-to-linear |
+| email-triage | 65 | email-triage |
+| meeting-followup | 65 | meeting-followup |
 
 ### [triggerdotdev/skills](https://github.com/triggerdotdev/skills) (6 plugins)
 
@@ -4556,44 +4813,6 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | text-optimizer | 1.8K | text-optimizer |
 | memory-optimize | 1.0K | memory-optimize |
-
-### [claude-office-skills/skills](https://github.com/claude-office-skills/skills) (33 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| office-mcp | 229 | office-mcp |
-| excel-automation | 154 | excel-automation |
-| ppt-visual | 148 | ppt-visual |
-| calendar-automation | 112 | calendar-automation |
-| pdf-to-docx | 91 | pdf-to-docx |
-| news-monitor | 87 | news-monitor |
-| md-to-office | 85 | md-to-office |
-| doc-parser | 84 | doc-parser |
-| office-to-md | 83 | office-to-md |
-| sheets-automation | 82 | sheets-automation |
-| image-generation | 80 | image-generation |
-| pdf-extraction | 80 | pdf-extraction |
-| pptx-manipulation | 80 | pptx-manipulation |
-| docx-manipulation | 79 | docx-manipulation |
-| xlsx-manipulation | 78 | xlsx-manipulation |
-| smart-ocr | 73 | smart-ocr |
-| academic-search | 72 | academic-search |
-| tiktok-marketing | 72 | tiktok-marketing |
-| weekly-report | 71 | weekly-report |
-| data-extractor | 70 | data-extractor |
-| gmail-workflows | 70 | gmail-workflows |
-| ai-agent-builder | 69 | ai-agent-builder |
-| social-publisher | 69 | social-publisher |
-| crm-automation | 67 | crm-automation |
-| report-generator | 66 | report-generator |
-| ads-copywriter | 65 | ads-copywriter |
-| ai-slides | 65 | ai-slides |
-| batch-processor | 65 | batch-processor |
-| chart-designer | 65 | chart-designer |
-| contract-review | 65 | contract-review |
-| data-pipeline | 65 | data-pipeline |
-| html-to-ppt | 64 | html-to-ppt |
-| invoice-generator | 64 | invoice-generator |
 
 ### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (4 plugins)
 
@@ -4642,32 +4861,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | release-management | 64 | release-management |
 | verify | 64 | verify |
 
-### [skillcreatorai/ai-agent-skills](https://github.com/skillcreatorai/ai-agent-skills) (21 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| code-refactoring | 510 | code-refactoring |
-| expo-app-design | 351 | expo-app-design |
-| javascript-typescript | 174 | javascript-typescript |
-| job-application | 146 | job-application |
-| code-documentation | 124 | code-documentation |
-| jira-issues | 118 | jira-issues |
-| llm-application-dev | 117 | llm-application-dev |
-| qa-regression | 104 | qa-regression |
-| ask-questions-if-underspecified | 102 | ask-questions-if-underspecified |
-| lead-research-assistant | 96 | lead-research-assistant |
-| video-downloader | 91 | video-downloader |
-| developer-growth-analysis | 88 | developer-growth-analysis |
-| competitive-ads-extractor | 86 | competitive-ads-extractor |
-| image-enhancer | 86 | image-enhancer |
-| meeting-insights-analyzer | 86 | meeting-insights-analyzer |
-| invoice-organizer | 83 | invoice-organizer |
-| content-research-writer | 78 | content-research-writer |
-| raffle-winner-picker | 78 | raffle-winner-picker |
-| changelog-generator | 71 | changelog-generator |
-| artifacts-builder | 64 | artifacts-builder |
-| backend-development | 64 | backend-development |
-
 ### [openrouterteam/agent-skills](https://github.com/openrouterteam/agent-skills) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -4675,26 +4868,42 @@ claude plugin install frontend-design@ulpi-marketplace
 | create-agent | 1.8K | create-agent |
 | openrouter-typescript-sdk | 911 | openrouter-typescript-sdk |
 
-### [omer-metin/skills-for-antigravity](https://github.com/omer-metin/skills-for-antigravity) (16 plugins)
+### [claude-office-skills/skills](https://github.com/claude-office-skills/skills) (32 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| game-ui-design | 406 | game-ui-design |
-| technical-analysis | 376 | technical-analysis |
-| quantitative-research | 314 | quantitative-research |
-| crypto-trading-bots | 283 | crypto-trading-bots |
-| pixel-art-sprites | 233 | pixel-art-sprites |
-| 3d-modeling | 125 | 3d-modeling |
-| sentiment-analysis-trading | 125 | sentiment-analysis-trading |
-| threejs-3d-graphics | 125 | threejs-3d-graphics |
-| algorithmic-trading | 121 | algorithmic-trading |
-| gamification-loops | 111 | gamification-loops |
-| game-design-core | 103 | game-design-core |
-| branding | 85 | branding |
-| viral-hooks | 78 | viral-hooks |
-| risk-management-trading | 77 | risk-management-trading |
-| game-audio | 72 | game-audio |
-| ros2-robotics | 71 | ros2-robotics |
+| office-mcp | 229 | office-mcp |
+| excel-automation | 154 | excel-automation |
+| ppt-visual | 148 | ppt-visual |
+| calendar-automation | 112 | calendar-automation |
+| pdf-to-docx | 91 | pdf-to-docx |
+| news-monitor | 87 | news-monitor |
+| md-to-office | 85 | md-to-office |
+| doc-parser | 84 | doc-parser |
+| office-to-md | 83 | office-to-md |
+| sheets-automation | 82 | sheets-automation |
+| image-generation | 80 | image-generation |
+| pdf-extraction | 80 | pdf-extraction |
+| pptx-manipulation | 80 | pptx-manipulation |
+| docx-manipulation | 79 | docx-manipulation |
+| xlsx-manipulation | 78 | xlsx-manipulation |
+| smart-ocr | 73 | smart-ocr |
+| academic-search | 72 | academic-search |
+| tiktok-marketing | 72 | tiktok-marketing |
+| data-extractor | 70 | data-extractor |
+| gmail-workflows | 70 | gmail-workflows |
+| ai-agent-builder | 69 | ai-agent-builder |
+| social-publisher | 69 | social-publisher |
+| crm-automation | 67 | crm-automation |
+| report-generator | 66 | report-generator |
+| ads-copywriter | 65 | ads-copywriter |
+| ai-slides | 65 | ai-slides |
+| batch-processor | 65 | batch-processor |
+| chart-designer | 65 | chart-designer |
+| contract-review | 65 | contract-review |
+| data-pipeline | 65 | data-pipeline |
+| html-to-ppt | 64 | html-to-ppt |
+| invoice-generator | 64 | invoice-generator |
 
 ### [incept5/eve-skillpacks](https://github.com/incept5/eve-skillpacks) (24 plugins)
 
@@ -4746,34 +4955,25 @@ claude plugin install frontend-design@ulpi-marketplace
 | atlas-best-practices | 73 | atlas-best-practices |
 | tmux-processes | 69 | tmux-processes |
 
-### [jwynia/agent-skills](https://github.com/jwynia/agent-skills) (24 plugins)
+### [omer-metin/skills-for-antigravity](https://github.com/omer-metin/skills-for-antigravity) (15 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| requirements-analysis | 648 | requirements-analysis |
-| task-decomposition | 166 | task-decomposition |
-| story-analysis | 119 | story-analysis |
-| context-retrospective | 107 | context-retrospective |
-| musical-dna | 101 | musical-dna |
-| naming | 98 | naming |
-| voice-analysis | 97 | voice-analysis |
-| ebook-analysis | 96 | ebook-analysis |
-| gentle-teaching | 88 | gentle-teaching |
-| context-network | 86 | context-network |
-| joke-engineering | 86 | joke-engineering |
-| mastra-hono | 85 | mastra-hono |
-| character-naming | 82 | character-naming |
-| scraper-builder | 76 | scraper-builder |
-| competency-builder | 74 | competency-builder |
-| settlement-design | 71 | settlement-design |
-| media-adaptation | 69 | media-adaptation |
-| speech-adaptation | 68 | speech-adaptation |
-| lyric-diagnostic | 67 | lyric-diagnostic |
-| technology-impact | 67 | technology-impact |
-| adaptation-synthesis | 66 | adaptation-synthesis |
-| dna-extraction | 65 | dna-extraction |
-| presentation-design | 65 | presentation-design |
-| list-builder | 64 | list-builder |
+| game-ui-design | 406 | game-ui-design |
+| technical-analysis | 376 | technical-analysis |
+| quantitative-research | 314 | quantitative-research |
+| crypto-trading-bots | 283 | crypto-trading-bots |
+| pixel-art-sprites | 233 | pixel-art-sprites |
+| 3d-modeling | 125 | 3d-modeling |
+| sentiment-analysis-trading | 125 | sentiment-analysis-trading |
+| threejs-3d-graphics | 125 | threejs-3d-graphics |
+| algorithmic-trading | 121 | algorithmic-trading |
+| gamification-loops | 111 | gamification-loops |
+| game-design-core | 103 | game-design-core |
+| viral-hooks | 78 | viral-hooks |
+| risk-management-trading | 77 | risk-management-trading |
+| game-audio | 72 | game-audio |
+| ros2-robotics | 71 | ros2-robotics |
 
 ### [elysiajs/skills](https://github.com/elysiajs/skills) (1 plugins)
 
@@ -4808,6 +5008,34 @@ claude plugin install frontend-design@ulpi-marketplace
 | stanley-druckenmiller-investment | 64 | stanley-druckenmiller-investment |
 | us-market-bubble-detector | 64 | us-market-bubble-detector |
 
+### [jwynia/agent-skills](https://github.com/jwynia/agent-skills) (23 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| requirements-analysis | 648 | requirements-analysis |
+| task-decomposition | 166 | task-decomposition |
+| story-analysis | 119 | story-analysis |
+| context-retrospective | 107 | context-retrospective |
+| musical-dna | 101 | musical-dna |
+| naming | 98 | naming |
+| voice-analysis | 97 | voice-analysis |
+| ebook-analysis | 96 | ebook-analysis |
+| gentle-teaching | 88 | gentle-teaching |
+| context-network | 86 | context-network |
+| joke-engineering | 86 | joke-engineering |
+| mastra-hono | 85 | mastra-hono |
+| character-naming | 82 | character-naming |
+| scraper-builder | 76 | scraper-builder |
+| competency-builder | 74 | competency-builder |
+| settlement-design | 71 | settlement-design |
+| media-adaptation | 69 | media-adaptation |
+| speech-adaptation | 68 | speech-adaptation |
+| lyric-diagnostic | 67 | lyric-diagnostic |
+| technology-impact | 67 | technology-impact |
+| adaptation-synthesis | 66 | adaptation-synthesis |
+| dna-extraction | 65 | dna-extraction |
+| list-builder | 64 | list-builder |
+
 ### [cxuu/golang-skills](https://github.com/cxuu/golang-skills) (16 plugins)
 
 | Plugin | Installs | Description |
@@ -4836,6 +5064,29 @@ claude plugin install frontend-design@ulpi-marketplace
 | manimce-best-practices | 1.0K | manimce-best-practices |
 | manim-composer | 803 | manim-composer |
 | manimgl-best-practices | 707 | manimgl-best-practices |
+
+### [skillcreatorai/ai-agent-skills](https://github.com/skillcreatorai/ai-agent-skills) (18 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| code-refactoring | 510 | code-refactoring |
+| expo-app-design | 351 | expo-app-design |
+| javascript-typescript | 174 | javascript-typescript |
+| job-application | 146 | job-application |
+| code-documentation | 124 | code-documentation |
+| jira-issues | 118 | jira-issues |
+| llm-application-dev | 117 | llm-application-dev |
+| qa-regression | 104 | qa-regression |
+| ask-questions-if-underspecified | 102 | ask-questions-if-underspecified |
+| lead-research-assistant | 96 | lead-research-assistant |
+| video-downloader | 91 | video-downloader |
+| developer-growth-analysis | 88 | developer-growth-analysis |
+| competitive-ads-extractor | 86 | competitive-ads-extractor |
+| image-enhancer | 86 | image-enhancer |
+| meeting-insights-analyzer | 86 | meeting-insights-analyzer |
+| invoice-organizer | 83 | invoice-organizer |
+| raffle-winner-picker | 78 | raffle-winner-picker |
+| backend-development | 64 | backend-development |
 
 ### [mapbox/mapbox-agent-skills](https://github.com/mapbox/mapbox-agent-skills) (15 plugins)
 
@@ -4881,6 +5132,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | sf-ai-agentforce-observability | 108 | sf-ai-agentforce-observability |
 | sf-ai-agentforce-conversationdesign | 68 | sf-ai-agentforce-conversationdesign |
 
+### [sveltejs/mcp](https://github.com/sveltejs/mcp) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| svelte-code-writer | 2.4K | svelte-code-writer |
+| svelte-core-bestpractices | 67 | svelte-core-bestpractices |
+
 ### [dylantarre/animation-principles](https://github.com/dylantarre/animation-principles) (13 plugins)
 
 | Plugin | Installs | Description |
@@ -4915,12 +5173,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | session-analyzer | 135 | session-analyzer |
 | compound | 134 | compound |
 | day1-test-skill | 67 | day1-test-skill |
-
-### [sveltejs/mcp](https://github.com/sveltejs/mcp) (1 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| svelte-code-writer | 2.4K | svelte-code-writer |
 
 ### [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) (11 plugins)
 
@@ -4980,19 +5232,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | spring-boot | 65 | spring-boot |
 | cocos2d-x | 64 | cocos2d-x |
 | dalle | 64 | dalle |
-
-### [medusajs/medusa-agent-skills](https://github.com/medusajs/medusa-agent-skills) (8 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| storefront-best-practices | 639 | storefront-best-practices |
-| learning-medusa | 511 | learning-medusa |
-| db-migrate | 322 | db-migrate |
-| db-generate | 316 | db-generate |
-| new-user | 268 | new-user |
-| building-with-medusa | 93 | building-with-medusa |
-| building-admin-dashboard-customizations | 80 | building-admin-dashboard-customizations |
-| building-storefronts | 73 | building-storefronts |
 
 ### [nodnarbnitram/claude-code-extensions](https://github.com/nodnarbnitram/claude-code-extensions) (1 plugins)
 
@@ -5188,6 +5427,16 @@ claude plugin install frontend-design@ulpi-marketplace
 | sentry-ruby-setup | 85 | sentry-ruby-setup |
 | sentry-ios-swift-setup | 81 | sentry-ios-swift-setup |
 
+### [medusajs/medusa-agent-skills](https://github.com/medusajs/medusa-agent-skills) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| storefront-best-practices | 639 | storefront-best-practices |
+| learning-medusa | 511 | learning-medusa |
+| db-migrate | 322 | db-migrate |
+| db-generate | 316 | db-generate |
+| new-user | 268 | new-user |
+
 ### [0xhubed/agent-trading-arena](https://github.com/0xhubed/agent-trading-arena) (4 plugins)
 
 | Plugin | Installs | Description |
@@ -5314,21 +5563,25 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | linear-cli | 1.8K | linear-cli |
 
-### [mcollina/skills](https://github.com/mcollina/skills) (9 plugins)
+### [nuxt/ui](https://github.com/nuxt/ui) (2 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| fastify-best-practices | 522 | fastify-best-practices |
-| node-best-practices | 304 | node-best-practices |
-| typescript-magician | 277 | typescript-magician |
-| nodejs-core | 179 | nodejs-core |
-| oauth | 110 | oauth |
-| octocat | 108 | octocat |
-| linting-neostandard-eslint9 | 103 | linting-neostandard-eslint9 |
-| documentation | 95 | documentation |
-| snipgrapher | 82 | snipgrapher |
+| nuxt-ui | 1.6K | nuxt-ui |
+| contributing | 175 | contributing |
 
-### [yeachan-heo/oh-my-claudecode](https://github.com/yeachan-heo/oh-my-claudecode) (19 plugins)
+### [nrwl/nx-ai-agents-config](https://github.com/nrwl/nx-ai-agents-config) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| nx-workspace | 362 | nx-workspace |
+| nx-run-tasks | 330 | nx-run-tasks |
+| nx-generate | 310 | nx-generate |
+| link-workspace-packages | 283 | link-workspace-packages |
+| nx-plugins | 275 | nx-plugins |
+| monitor-ci | 159 | monitor-ci |
+
+### [yeachan-heo/oh-my-claudecode](https://github.com/yeachan-heo/oh-my-claudecode) (18 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
@@ -5349,42 +5602,7 @@ claude plugin install frontend-design@ulpi-marketplace
 | cancel | 86 | cancel |
 | learn-about-omc | 75 | learn-about-omc |
 | team | 73 | team |
-| release | 70 | release |
 | plan | 68 | plan |
-
-### [nuxt/ui](https://github.com/nuxt/ui) (2 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| nuxt-ui | 1.6K | nuxt-ui |
-| contributing | 175 | contributing |
-
-### [nrwl/nx-ai-agents-config](https://github.com/nrwl/nx-ai-agents-config) (6 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| nx-workspace | 362 | nx-workspace |
-| nx-run-tasks | 330 | nx-run-tasks |
-| nx-generate | 310 | nx-generate |
-| link-workspace-packages | 283 | link-workspace-packages |
-| nx-plugins | 275 | nx-plugins |
-| monitor-ci | 159 | monitor-ci |
-
-### [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) (11 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| trading-plan-generator | 522 | trading-plan-generator |
-| apple-hig-designer | 369 | apple-hig-designer |
-| math-teacher | 140 | math-teacher |
-| frontend-designer | 107 | frontend-designer |
-| leetcode-teacher | 106 | leetcode-teacher |
-| prd-generator | 90 | prd-generator |
-| kids-book-writer | 84 | kids-book-writer |
-| book-illustrator | 81 | book-illustrator |
-| reading-teacher | 78 | reading-teacher |
-| content-brief-generator | 68 | content-brief-generator |
-| query-expert | 64 | query-expert |
 
 ### [remorses/playwriter](https://github.com/remorses/playwriter) (1 plugins)
 
@@ -5400,26 +5618,18 @@ claude plugin install frontend-design@ulpi-marketplace
 | base44-sdk | 744 | base44-sdk |
 | base44-troubleshooter | 191 | base44-troubleshooter |
 
-### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (16 plugins)
+### [mcollina/skills](https://github.com/mcollina/skills) (8 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| drizzle | 185 | drizzle |
-| project-overview | 132 | project-overview |
-| i18n | 124 | i18n |
-| microcopy | 113 | microcopy |
-| desktop | 112 | desktop |
-| add-setting-env | 107 | add-setting-env |
-| add-provider-doc | 103 | add-provider-doc |
-| recent-data | 102 | recent-data |
-| modal | 101 | modal |
-| hotkey | 100 | hotkey |
-| linear | 98 | linear |
-| debug | 83 | debug |
-| react | 83 | react |
-| zustand | 78 | zustand |
-| typescript | 75 | typescript |
-| testing | 68 | testing |
+| fastify-best-practices | 522 | fastify-best-practices |
+| node-best-practices | 304 | node-best-practices |
+| typescript-magician | 277 | typescript-magician |
+| nodejs-core | 179 | nodejs-core |
+| oauth | 110 | oauth |
+| octocat | 108 | octocat |
+| linting-neostandard-eslint9 | 103 | linting-neostandard-eslint9 |
+| snipgrapher | 82 | snipgrapher |
 
 ### [yoanbernabeu/supabase-pentest-skills](https://github.com/yoanbernabeu/supabase-pentest-skills) (20 plugins)
 
@@ -5466,6 +5676,29 @@ claude plugin install frontend-design@ulpi-marketplace
 | generate-component-story | 81 | generate-component-story |
 | github-pull-request-description | 81 | github-pull-request-description |
 
+### [encoredev/skills](https://github.com/encoredev/skills) (18 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| encore-auth | 117 | encore-auth |
+| encore-service | 117 | encore-service |
+| encore-api | 116 | encore-api |
+| encore-code-review | 115 | encore-code-review |
+| encore-database | 112 | encore-database |
+| encore-infrastructure | 108 | encore-infrastructure |
+| encore-testing | 107 | encore-testing |
+| encore-getting-started | 89 | encore-getting-started |
+| encore-frontend | 86 | encore-frontend |
+| encore-migrate | 83 | encore-migrate |
+| encore-go-service | 76 | encore-go-service |
+| encore-go-api | 75 | encore-go-api |
+| encore-go-auth | 75 | encore-go-auth |
+| encore-go-testing | 75 | encore-go-testing |
+| encore-go-code-review | 74 | encore-go-code-review |
+| encore-go-database | 74 | encore-go-database |
+| encore-go-infrastructure | 73 | encore-go-infrastructure |
+| encore-go-getting-started | 70 | encore-go-getting-started |
+
 ### [rudrankriyam/asc-skills](https://github.com/rudrankriyam/asc-skills) (16 plugins)
 
 | Plugin | Installs | Description |
@@ -5506,6 +5739,21 @@ claude plugin install frontend-design@ulpi-marketplace
 | xml-to-compose-migration | 75 | xml-to-compose-migration |
 | android-architecture | 74 | android-architecture |
 | android-retrofit | 74 | android-retrofit |
+
+### [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) (10 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| trading-plan-generator | 522 | trading-plan-generator |
+| apple-hig-designer | 369 | apple-hig-designer |
+| math-teacher | 140 | math-teacher |
+| frontend-designer | 107 | frontend-designer |
+| leetcode-teacher | 106 | leetcode-teacher |
+| kids-book-writer | 84 | kids-book-writer |
+| book-illustrator | 81 | book-illustrator |
+| reading-teacher | 78 | reading-teacher |
+| content-brief-generator | 68 | content-brief-generator |
+| query-expert | 64 | query-expert |
 
 ### [bmad-labs/skills](https://github.com/bmad-labs/skills) (2 plugins)
 
@@ -5637,6 +5885,25 @@ claude plugin install frontend-design@ulpi-marketplace
 | seven-powers | 64 | seven-powers |
 | trustworthy-experiments | 64 | trustworthy-experiments |
 
+### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (14 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| drizzle | 185 | drizzle |
+| project-overview | 132 | project-overview |
+| i18n | 124 | i18n |
+| microcopy | 113 | microcopy |
+| desktop | 112 | desktop |
+| add-setting-env | 107 | add-setting-env |
+| add-provider-doc | 103 | add-provider-doc |
+| recent-data | 102 | recent-data |
+| modal | 101 | modal |
+| hotkey | 100 | hotkey |
+| linear | 98 | linear |
+| react | 83 | react |
+| zustand | 78 | zustand |
+| testing | 68 | testing |
+
 ### [ast-grep/agent-skill](https://github.com/ast-grep/agent-skill) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -5724,6 +5991,30 @@ claude plugin install frontend-design@ulpi-marketplace
 | ckm:banner-design | 227 | ckm:banner-design |
 | ckm:slides | 226 | ckm:slides |
 | ui-ux-pro-max | 64 | ui-ux-pro-max |
+
+### [freestylefly/canghe-skills](https://github.com/freestylefly/canghe-skills) (19 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| canghe-image-gen | 100 | canghe-image-gen |
+| manga-drama | 92 | manga-drama |
+| canghe-xhs-images | 87 | canghe-xhs-images |
+| volcengine-video-understanding | 79 | volcengine-video-understanding |
+| seedance-video | 77 | seedance-video |
+| canghe-cover-image | 76 | canghe-cover-image |
+| canghe-url-to-markdown | 76 | canghe-url-to-markdown |
+| canghe-danger-gemini-web | 75 | canghe-danger-gemini-web |
+| canghe-infographic | 75 | canghe-infographic |
+| manga-style-video | 75 | manga-style-video |
+| canghe-article-illustrator | 74 | canghe-article-illustrator |
+| canghe-comic | 74 | canghe-comic |
+| canghe-markdown-to-html | 73 | canghe-markdown-to-html |
+| canghe-post-to-wechat | 73 | canghe-post-to-wechat |
+| canghe-post-to-x | 73 | canghe-post-to-x |
+| canghe-slide-deck | 72 | canghe-slide-deck |
+| canghe-compress-image | 71 | canghe-compress-image |
+| canghe-danger-x-to-markdown | 71 | canghe-danger-x-to-markdown |
+| canghe-format-markdown | 70 | canghe-format-markdown |
 
 ### [huggingface/skills](https://github.com/huggingface/skills) (9 plugins)
 
@@ -5930,19 +6221,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | agentwallet | 648 | agentwallet |
 | registry | 637 | registry |
 
-### [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (8 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| mongodb | 568 | mongodb |
-| mobile-responsiveness | 164 | mobile-responsiveness |
-| figma | 120 | figma |
-| analytics-metrics | 111 | analytics-metrics |
-| owasp-security | 104 | owasp-security |
-| github-trending | 78 | github-trending |
-| aws-strands | 76 | aws-strands |
-| web-accessibility | 64 | web-accessibility |
-
 ### [gbsoss/skill-from-masters](https://github.com/gbsoss/skill-from-masters) (4 plugins)
 
 | Plugin | Installs | Description |
@@ -5951,18 +6229,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | skill-from-github | 316 | skill-from-github |
 | search-skill | 292 | search-skill |
 | skill-from-notebook | 215 | skill-from-notebook |
-
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (7 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| ppt-generation | 289 | ppt-generation |
-| github-deep-research | 226 | github-deep-research |
-| consulting-analysis | 217 | consulting-analysis |
-| chart-visualization | 161 | chart-visualization |
-| podcast-generation | 142 | podcast-generation |
-| surprise-me | 142 | surprise-me |
-| video-generation | 104 | video-generation |
 
 ### [benjaminsehl/liquid-skills](https://github.com/benjaminsehl/liquid-skills) (3 plugins)
 
@@ -5998,20 +6264,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | pdf | 64 | pdf |
 | webapp-testing | 64 | webapp-testing |
 
-### [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) (9 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| ctf-web | 194 | ctf-web |
-| ctf-reverse | 183 | ctf-reverse |
-| ctf-osint | 159 | ctf-osint |
-| ctf-forensics | 153 | ctf-forensics |
-| ctf-misc | 145 | ctf-misc |
-| solve-challenge | 125 | solve-challenge |
-| ctf-malware | 124 | ctf-malware |
-| ctf-pwn | 103 | ctf-pwn |
-| ctf-crypto | 68 | ctf-crypto |
-
 ### [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) (13 plugins)
 
 | Plugin | Installs | Description |
@@ -6038,24 +6290,26 @@ claude plugin install frontend-design@ulpi-marketplace
 | react-router-data-mode | 161 | react-router-data-mode |
 | react-router-declarative-mode | 115 | react-router-declarative-mode |
 
-### [andrelandgraf/fullstackrecipes](https://github.com/andrelandgraf/fullstackrecipes) (14 plugins)
+### [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) (16 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| observability-monitoring | 182 | observability-monitoring |
-| stripe-subscriptions | 128 | stripe-subscriptions |
-| og-image-generation | 88 | og-image-generation |
-| nextjs-on-vercel | 87 | nextjs-on-vercel |
-| ai-chat | 86 | ai-chat |
-| neon-drizzle-setup | 78 | neon-drizzle-setup |
-| using-drizzle-queries | 76 | using-drizzle-queries |
-| ralph-loop | 75 | ralph-loop |
-| shiki-code-blocks | 75 | shiki-code-blocks |
-| use-fullstackrecipes | 74 | use-fullstackrecipes |
-| pino-logging-setup | 71 | pino-logging-setup |
-| base-app-setup | 70 | base-app-setup |
-| url-state-management | 70 | url-state-management |
-| ai-agent-workflow | 68 | ai-agent-workflow |
+| moai-framework-electron | 113 | moai-framework-electron |
+| moai-domain-backend | 89 | moai-domain-backend |
+| moai-domain-uiux | 89 | moai-domain-uiux |
+| moai-lang-elixir | 89 | moai-lang-elixir |
+| moai-domain-frontend | 82 | moai-domain-frontend |
+| moai-domain-database | 75 | moai-domain-database |
+| moai-workflow-ddd | 73 | moai-workflow-ddd |
+| moai-lang-flutter | 72 | moai-lang-flutter |
+| moai-lang-typescript | 72 | moai-lang-typescript |
+| moai-lang-cpp | 71 | moai-lang-cpp |
+| moai-lang-csharp | 70 | moai-lang-csharp |
+| moai-docs-generation | 69 | moai-docs-generation |
+| moai-lang-java | 68 | moai-lang-java |
+| moai-tool-svg | 68 | moai-tool-svg |
+| moai-library-shadcn | 66 | moai-library-shadcn |
+| moai-lang-python | 65 | moai-lang-python |
 
 ### [machina-sports/sports-skills](https://github.com/machina-sports/sports-skills) (12 plugins)
 
@@ -6177,6 +6431,17 @@ claude plugin install frontend-design@ulpi-marketplace
 | claude-cookbooks | 83 | claude-cookbooks |
 | snapdom | 71 | snapdom |
 
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ppt-generation | 289 | ppt-generation |
+| github-deep-research | 226 | github-deep-research |
+| consulting-analysis | 217 | consulting-analysis |
+| chart-visualization | 161 | chart-visualization |
+| podcast-generation | 142 | podcast-generation |
+| surprise-me | 142 | surprise-me |
+
 ### [atxp-dev/cli](https://github.com/atxp-dev/cli) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -6194,6 +6459,24 @@ claude plugin install frontend-design@ulpi-marketplace
 | gsap-sequencing | 98 | gsap-sequencing |
 | shader-effects | 80 | shader-effects |
 | shader-fundamentals | 72 | shader-fundamentals |
+
+### [andrelandgraf/fullstackrecipes](https://github.com/andrelandgraf/fullstackrecipes) (13 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| observability-monitoring | 182 | observability-monitoring |
+| stripe-subscriptions | 128 | stripe-subscriptions |
+| og-image-generation | 88 | og-image-generation |
+| nextjs-on-vercel | 87 | nextjs-on-vercel |
+| ai-chat | 86 | ai-chat |
+| neon-drizzle-setup | 78 | neon-drizzle-setup |
+| using-drizzle-queries | 76 | using-drizzle-queries |
+| shiki-code-blocks | 75 | shiki-code-blocks |
+| use-fullstackrecipes | 74 | use-fullstackrecipes |
+| pino-logging-setup | 71 | pino-logging-setup |
+| base-app-setup | 70 | base-app-setup |
+| url-state-management | 70 | url-state-management |
+| ai-agent-workflow | 68 | ai-agent-workflow |
 
 ### [gracefullight/stock-checker](https://github.com/gracefullight/stock-checker) (6 plugins)
 
@@ -6236,6 +6519,34 @@ claude plugin install frontend-design@ulpi-marketplace
 | citation-validator | 83 | citation-validator |
 | research-executor | 64 | research-executor |
 
+### [hyva-themes/hyva-ai-tools](https://github.com/hyva-themes/hyva-ai-tools) (12 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| hyva-exec-shell-cmd | 98 | hyva-exec-shell-cmd |
+| hyva-alpine-component | 95 | hyva-alpine-component |
+| hyva-render-media-image | 94 | hyva-render-media-image |
+| hyva-theme-list | 94 | hyva-theme-list |
+| hyva-cms-component | 93 | hyva-cms-component |
+| hyva-compile-tailwind-css | 93 | hyva-compile-tailwind-css |
+| hyva-create-module | 92 | hyva-create-module |
+| hyva-playwright-test | 91 | hyva-playwright-test |
+| hyva-ui-component | 91 | hyva-ui-component |
+| hyva-child-theme | 90 | hyva-child-theme |
+| hyva-cms-components-dump | 90 | hyva-cms-components-dump |
+| hyva-cms-custom-field | 90 | hyva-cms-custom-field |
+
+### [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| mongodb | 568 | mongodb |
+| mobile-responsiveness | 164 | mobile-responsiveness |
+| figma | 120 | figma |
+| analytics-metrics | 111 | analytics-metrics |
+| aws-strands | 76 | aws-strands |
+| web-accessibility | 64 | web-accessibility |
+
 ### [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -6253,6 +6564,18 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | steel-browser | 1.1K | steel-browser |
+
+### [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) (7 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ctf-web | 194 | ctf-web |
+| ctf-reverse | 183 | ctf-reverse |
+| ctf-osint | 159 | ctf-osint |
+| ctf-forensics | 153 | ctf-forensics |
+| ctf-misc | 145 | ctf-misc |
+| solve-challenge | 125 | solve-challenge |
+| ctf-malware | 124 | ctf-malware |
 
 ### [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki) (7 plugins)
 
@@ -6276,22 +6599,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | adk-scaffold | 178 | adk-scaffold |
 | adk-observability-guide | 177 | adk-observability-guide |
 | adk-eval-guide | 176 | adk-eval-guide |
-
-### [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) (11 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| tracking-crypto-prices | 171 | tracking-crypto-prices |
-| performance-lighthouse-runner | 138 | performance-lighthouse-runner |
-| svg-icon-generator | 134 | svg-icon-generator |
-| n8n-workflow-generator | 106 | n8n-workflow-generator |
-| mindmap-generator | 90 | mindmap-generator |
-| readme-generator | 83 | readme-generator |
-| d2-diagram-creator | 79 | d2-diagram-creator |
-| docker-compose-creator | 68 | docker-compose-creator |
-| pdf-parser | 67 | pdf-parser |
-| dockerfile-generator | 66 | dockerfile-generator |
-| swagger-doc-creator | 66 | swagger-doc-creator |
 
 ### [thebushidocollective/han](https://github.com/thebushidocollective/han) (8 plugins)
 
@@ -6337,24 +6644,24 @@ claude plugin install frontend-design@ulpi-marketplace
 | aoti-debug | 70 | aoti-debug |
 | pyrefly-type-coverage | 67 | pyrefly-type-coverage |
 
-### [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) (14 plugins)
+### [wix/skills](https://github.com/wix/skills) (14 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| code-review-checklist | 139 | code-review-checklist |
-| architecture | 82 | architecture |
-| api-patterns | 74 | api-patterns |
-| testing-patterns | 71 | testing-patterns |
-| vulnerability-scanner | 71 | vulnerability-scanner |
-| deployment-procedures | 70 | deployment-procedures |
-| app-builder | 69 | app-builder |
-| parallel-agents | 67 | parallel-agents |
-| plan-writing | 67 | plan-writing |
-| intelligent-routing | 66 | intelligent-routing |
-| server-management | 65 | server-management |
-| tdd-workflow | 65 | tdd-workflow |
-| performance-profiling | 64 | performance-profiling |
-| seo-fundamentals | 64 | seo-fundamentals |
+| wix-cli-app-validation | 76 | wix-cli-app-validation |
+| wix-cli-backend-api | 76 | wix-cli-backend-api |
+| wix-cli-dashboard-modal | 76 | wix-cli-dashboard-modal |
+| wix-cli-dashboard-page | 76 | wix-cli-dashboard-page |
+| wix-cli-embedded-script | 76 | wix-cli-embedded-script |
+| wix-cli-service-plugin | 76 | wix-cli-service-plugin |
+| wix-cli-site-component | 76 | wix-cli-site-component |
+| wix-cli-site-widget | 76 | wix-cli-site-widget |
+| wix-cli-site-plugin | 75 | wix-cli-site-plugin |
+| wds-docs | 73 | wds-docs |
+| wix-cli-extension-registration | 73 | wix-cli-extension-registration |
+| wix-cli-orchestrator | 73 | wix-cli-orchestrator |
+| wix-cli-backend-event | 71 | wix-cli-backend-event |
+| wix-cli-data-collection | 71 | wix-cli-data-collection |
 
 ### [pskoett/pskoett-ai-skills](https://github.com/pskoett/pskoett-ai-skills) (7 plugins)
 
@@ -6398,6 +6705,23 @@ claude plugin install frontend-design@ulpi-marketplace
 | json-canvas | 72 | json-canvas |
 | obsidian-markdown | 69 | obsidian-markdown |
 | obsidian-bases | 66 | obsidian-bases |
+
+### [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) (12 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| agent-development | 96 | agent-development |
+| skill-development | 93 | skill-development |
+| command-development | 90 | command-development |
+| skill-installer | 88 | skill-installer |
+| web-artifacts-builder | 88 | web-artifacts-builder |
+| hook-development | 87 | hook-development |
+| mcp-integration | 87 | mcp-integration |
+| plugin-structure | 86 | plugin-structure |
+| plugin-settings | 85 | plugin-settings |
+| writing-hookify-rules | 83 | writing-hookify-rules |
+| theme-factory | 68 | theme-factory |
+| algorithmic-art | 64 | algorithmic-art |
 
 ### [nickcrew/claude-ctx-plugin](https://github.com/nickcrew/claude-ctx-plugin) (5 plugins)
 
@@ -6457,6 +6781,38 @@ claude plugin install frontend-design@ulpi-marketplace
 | license-keys | 116 | license-keys |
 | webhook-integration | 114 | webhook-integration |
 
+### [ognjengt/founder-skills](https://github.com/ognjengt/founder-skills) (12 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| viral-hook-creator | 113 | viral-hook-creator |
+| go-to-market-plan | 103 | go-to-market-plan |
+| outreach-specialist | 103 | outreach-specialist |
+| prd-generator | 90 | prd-generator |
+| sop-creator | 83 | sop-creator |
+| strategic-planning | 79 | strategic-planning |
+| brand-copywriter | 77 | brand-copywriter |
+| competitor-intel | 68 | competitor-intel |
+| lead-magnet-generator | 68 | lead-magnet-generator |
+| linkedin-writer | 68 | linkedin-writer |
+| pricing-strategist | 68 | pricing-strategist |
+| marketing-ideas | 66 | marketing-ideas |
+
+### [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) (10 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tracking-crypto-prices | 171 | tracking-crypto-prices |
+| performance-lighthouse-runner | 138 | performance-lighthouse-runner |
+| svg-icon-generator | 134 | svg-icon-generator |
+| n8n-workflow-generator | 106 | n8n-workflow-generator |
+| mindmap-generator | 90 | mindmap-generator |
+| d2-diagram-creator | 79 | d2-diagram-creator |
+| docker-compose-creator | 68 | docker-compose-creator |
+| pdf-parser | 67 | pdf-parser |
+| dockerfile-generator | 66 | dockerfile-generator |
+| swagger-doc-creator | 66 | swagger-doc-creator |
+
 ### [rshankras/claude-code-apple-skills](https://github.com/rshankras/claude-code-apple-skills) (8 plugins)
 
 | Plugin | Installs | Description |
@@ -6485,20 +6841,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | visual-explainer | 981 | visual-explainer |
-
-### [tldraw/tldraw](https://github.com/tldraw/tldraw) (9 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| write-e2e-tests | 146 | write-e2e-tests |
-| write-unit-tests | 143 | write-unit-tests |
-| write-docs | 134 | write-docs |
-| write-example | 121 | write-example |
-| write-issue | 116 | write-issue |
-| review-docs | 88 | review-docs |
-| write-release-notes | 84 | write-release-notes |
-| write-tbp | 72 | write-tbp |
-| write-pr | 69 | write-pr |
 
 ### [waditu-tushare/skills](https://github.com/waditu-tushare/skills) (1 plugins)
 
@@ -6530,18 +6872,23 @@ claude plugin install frontend-design@ulpi-marketplace
 | home-assistant-custom-integration | 119 | home-assistant-custom-integration |
 | home-assistant-awtrix | 113 | home-assistant-awtrix |
 
-### [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) (8 plugins)
+### [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) (13 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| zod-4 | 259 | zod-4 |
-| react-19 | 134 | react-19 |
-| tailwind-4 | 134 | tailwind-4 |
-| zustand-5 | 114 | zustand-5 |
-| django-drf | 107 | django-drf |
-| nextjs-15 | 70 | nextjs-15 |
-| playwright | 70 | playwright |
-| skill-sync | 67 | skill-sync |
+| code-review-checklist | 139 | code-review-checklist |
+| api-patterns | 74 | api-patterns |
+| testing-patterns | 71 | testing-patterns |
+| vulnerability-scanner | 71 | vulnerability-scanner |
+| deployment-procedures | 70 | deployment-procedures |
+| app-builder | 69 | app-builder |
+| parallel-agents | 67 | parallel-agents |
+| plan-writing | 67 | plan-writing |
+| intelligent-routing | 66 | intelligent-routing |
+| server-management | 65 | server-management |
+| tdd-workflow | 65 | tdd-workflow |
+| performance-profiling | 64 | performance-profiling |
+| seo-fundamentals | 64 | seo-fundamentals |
 
 ### [itechmeat/llm-code](https://github.com/itechmeat/llm-code) (9 plugins)
 
@@ -6575,6 +6922,23 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | grammar-checker | 494 | grammar-checker |
 | style-guide | 448 | style-guide |
+
+### [different-ai/openwork](https://github.com/different-ai/openwork) (12 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| opencode-primitives | 113 | opencode-primitives |
+| solidjs-patterns | 98 | solidjs-patterns |
+| opencode-bridge | 89 | opencode-bridge |
+| tauri-solidjs | 89 | tauri-solidjs |
+| openwork-core | 76 | openwork-core |
+| opencode-mirror | 75 | opencode-mirror |
+| release | 70 | release |
+| get-started | 68 | get-started |
+| browser-setup-devtools | 67 | browser-setup-devtools |
+| openwork-debug | 66 | openwork-debug |
+| cargo-lock-manager | 65 | cargo-lock-manager |
+| openwork-docker-chrome-mcp | 65 | openwork-docker-chrome-mcp |
 
 ### [spences10/svelte-skills-kit](https://github.com/spences10/svelte-skills-kit) (6 plugins)
 
@@ -6620,6 +6984,19 @@ claude plugin install frontend-design@ulpi-marketplace
 | clojure-review | 91 | clojure-review |
 | analytics-events | 85 | analytics-events |
 
+### [tldraw/tldraw](https://github.com/tldraw/tldraw) (8 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| write-e2e-tests | 146 | write-e2e-tests |
+| write-unit-tests | 143 | write-unit-tests |
+| write-docs | 134 | write-docs |
+| write-example | 121 | write-example |
+| write-issue | 116 | write-issue |
+| review-docs | 88 | review-docs |
+| write-release-notes | 84 | write-release-notes |
+| write-tbp | 72 | write-tbp |
+
 ### [okx/agent-skills](https://github.com/okx/agent-skills) (4 plugins)
 
 | Plugin | Installs | Description |
@@ -6650,6 +7027,18 @@ claude plugin install frontend-design@ulpi-marketplace
 | ios-device-automation | 105 | ios-device-automation |
 | harmonyos-device-automation | 84 | harmonyos-device-automation |
 | browser automation | 76 | browser automation |
+
+### [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) (7 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| zod-4 | 259 | zod-4 |
+| react-19 | 134 | react-19 |
+| tailwind-4 | 134 | tailwind-4 |
+| zustand-5 | 114 | zustand-5 |
+| django-drf | 107 | django-drf |
+| nextjs-15 | 70 | nextjs-15 |
+| skill-sync | 67 | skill-sync |
 
 ### [letz-ai/letzai-skill](https://github.com/letz-ai/letzai-skill) (1 plugins)
 
@@ -6694,6 +7083,23 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | setup-sandbox | 854 | setup-sandbox |
+
+### [zixun-github/aisdlc](https://github.com/zixun-github/aisdlc) (12 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| spec-product-demo | 73 | spec-product-demo |
+| spec-product-prd | 73 | spec-product-prd |
+| spec-product-prototype | 72 | spec-product-prototype |
+| spec-init | 71 | spec-init |
+| spec-context | 70 | spec-context |
+| spec-product-clarify | 70 | spec-product-clarify |
+| spec-receiving-code-review | 70 | spec-receiving-code-review |
+| using-aisdlc | 70 | using-aisdlc |
+| finishing-development | 69 | finishing-development |
+| spec-design | 69 | spec-design |
+| spec-design-research | 69 | spec-design-research |
+| spec-requesting-code-review | 69 | spec-requesting-code-review |
 
 ### [yorkeccak/scientific-skills](https://github.com/yorkeccak/scientific-skills) (6 plugins)
 
@@ -6751,6 +7157,20 @@ claude plugin install frontend-design@ulpi-marketplace
 | hot-topics | 437 | hot-topics |
 | weather-query | 227 | weather-query |
 | daily-news-60s | 165 | daily-news-60s |
+
+### [buiducnhat/agent-skills](https://github.com/buiducnhat/agent-skills) (9 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| execute-plan | 97 | execute-plan |
+| write-plan | 97 | write-plan |
+| ask | 95 | ask |
+| docs | 95 | docs |
+| brainstorm | 94 | brainstorm |
+| quick-implement | 94 | quick-implement |
+| bootstrap | 92 | bootstrap |
+| review | 85 | review |
+| fix | 77 | fix |
 
 ### [xiaoyiv/douyin-skill](https://github.com/xiaoyiv/douyin-skill) (1 plugins)
 
@@ -6918,6 +7338,22 @@ claude plugin install frontend-design@ulpi-marketplace
 | get-review-theme | 66 | get-review-theme |
 | migrating-latex-templates | 64 | migrating-latex-templates |
 
+### [cap-go/capgo-skills](https://github.com/cap-go/capgo-skills) (11 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| capacitor-best-practices | 75 | capacitor-best-practices |
+| capacitor-splash-screen | 72 | capacitor-splash-screen |
+| capacitor-performance | 71 | capacitor-performance |
+| capacitor-security | 71 | capacitor-security |
+| capacitor-push-notifications | 70 | capacitor-push-notifications |
+| debugging-capacitor | 70 | debugging-capacitor |
+| capacitor-keyboard | 68 | capacitor-keyboard |
+| capacitor-plugins | 66 | capacitor-plugins |
+| safe-area-handling | 66 | safe-area-handling |
+| capacitor-deep-linking | 64 | capacitor-deep-linking |
+| capacitor-testing | 64 | capacitor-testing |
+
 ### [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -6937,18 +7373,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | senpi-entrypoint | 71 | senpi-entrypoint |
 | opportunity-scanner | 68 | opportunity-scanner |
 | dsl-tight | 66 | dsl-tight |
-
-### [secondsky/claude-skills](https://github.com/secondsky/claude-skills) (7 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| aceternity-ui | 278 | aceternity-ui |
-| zod | 110 | zod |
-| tanstack-table | 80 | tanstack-table |
-| inspira-ui | 75 | inspira-ui |
-| vitest-testing | 73 | vitest-testing |
-| api-testing | 72 | api-testing |
-| motion | 67 | motion |
 
 ### [oimiragieo/agent-studio](https://github.com/oimiragieo/agent-studio) (9 plugins)
 
@@ -7008,16 +7432,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | latex-paper-en | 310 | latex-paper-en |
 | paper-audit | 66 | paper-audit |
 
-### [johnlindquist/claude](https://github.com/johnlindquist/claude) (5 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| gemini-image | 296 | gemini-image |
-| deepwiki | 163 | deepwiki |
-| raycast-extension | 99 | raycast-extension |
-| brainstorm | 94 | brainstorm |
-| spider | 66 | spider |
-
 ### [pluginagentmarketplace/custom-plugin-nodejs](https://github.com/pluginagentmarketplace/custom-plugin-nodejs) (3 plugins)
 
 | Plugin | Installs | Description |
@@ -7066,17 +7480,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | heygen | 550 | heygen |
 | video-translate | 147 | video-translate |
 
-### [ovachiever/droid-tings](https://github.com/ovachiever/droid-tings) (6 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| react-hook-form-zod | 191 | react-hook-form-zod |
-| nextjs-shadcn-builder | 171 | nextjs-shadcn-builder |
-| deep-reading-analyst | 99 | deep-reading-analyst |
-| security-auditor | 87 | security-auditor |
-| react-native-expo | 77 | react-native-expo |
-| threejs-graphics-optimizer | 71 | threejs-graphics-optimizer |
-
 ### [hyf0/vue-skills](https://github.com/hyf0/vue-skills) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -7089,6 +7492,30 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | office-automation | 688 | office-automation |
+
+### [microsoft/vscode](https://github.com/microsoft/vscode) (8 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| fix-errors | 108 | fix-errors |
+| sessions | 99 | sessions |
+| agent-sessions-layout | 87 | agent-sessions-layout |
+| author-contributions | 83 | author-contributions |
+| azure-pipelines | 80 | azure-pipelines |
+| hygiene | 79 | hygiene |
+| tool-rename-deprecation | 74 | tool-rename-deprecation |
+| memory-leak-audit | 69 | memory-leak-audit |
+
+### [secondsky/claude-skills](https://github.com/secondsky/claude-skills) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| aceternity-ui | 278 | aceternity-ui |
+| zod | 110 | zod |
+| inspira-ui | 75 | inspira-ui |
+| vitest-testing | 73 | vitest-testing |
+| api-testing | 72 | api-testing |
+| motion | 67 | motion |
 
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) (4 plugins)
 
@@ -7130,14 +7557,6 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | xiaohongshu-images | 650 | xiaohongshu-images |
 
-### [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) (3 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| academic-writing | 481 | academic-writing |
-| page-monitoring | 90 | page-monitoring |
-| web-scraping | 76 | web-scraping |
-
 ### [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) (3 plugins)
 
 | Plugin | Installs | Description |
@@ -7145,6 +7564,20 @@ claude plugin install frontend-design@ulpi-marketplace
 | cmux | 320 | cmux |
 | cmux-browser | 249 | cmux-browser |
 | cmux-markdown | 73 | cmux-markdown |
+
+### [arcblock/idd](https://github.com/arcblock/idd) (9 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| intent-review | 73 | intent-review |
+| intent-init | 72 | intent-init |
+| intent-assess | 71 | intent-assess |
+| intent-check | 71 | intent-check |
+| intent-plan | 71 | intent-plan |
+| intent-report | 71 | intent-report |
+| intent-story | 71 | intent-story |
+| intent-critique | 68 | intent-critique |
+| intent-sync | 67 | intent-sync |
 
 ### [ant-design/antd-skill](https://github.com/ant-design/antd-skill) (1 plugins)
 
@@ -7173,6 +7606,14 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | paddleocr-text-recognition | 632 | paddleocr-text-recognition |
 
+### [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| code-review-expert | 414 | code-review-expert |
+| sigma | 109 | sigma |
+| skill-forge | 108 | skill-forge |
+
 ### [robbyczgw-cla/web-search-plus](https://github.com/robbyczgw-cla/web-search-plus) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -7185,18 +7626,14 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | core-data-expert | 624 | core-data-expert |
 
-### [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) (8 plugins)
+### [johnlindquist/claude](https://github.com/johnlindquist/claude) (4 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| imagen | 128 | imagen |
-| google-calendar | 83 | google-calendar |
-| gmail | 74 | gmail |
-| google-drive | 72 | google-drive |
-| postgres | 69 | postgres |
-| google-docs | 67 | google-docs |
-| google-sheets | 66 | google-sheets |
-| jules | 64 | jules |
+| gemini-image | 296 | gemini-image |
+| deepwiki | 163 | deepwiki |
+| raycast-extension | 99 | raycast-extension |
+| spider | 66 | spider |
 
 ### [markpitt/claude-skills](https://github.com/markpitt/claude-skills) (6 plugins)
 
@@ -7214,6 +7651,16 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | wordspace | 617 | wordspace |
+
+### [ovachiever/droid-tings](https://github.com/ovachiever/droid-tings) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| react-hook-form-zod | 191 | react-hook-form-zod |
+| nextjs-shadcn-builder | 171 | nextjs-shadcn-builder |
+| deep-reading-analyst | 99 | deep-reading-analyst |
+| react-native-expo | 77 | react-native-expo |
+| threejs-graphics-optimizer | 71 | threejs-graphics-optimizer |
 
 ### [delphine-l/claude_global](https://github.com/delphine-l/claude_global) (3 plugins)
 
@@ -7263,17 +7710,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | youtube-transcribe-skill | 75 | youtube-transcribe-skill |
 | codex-skill | 68 | codex-skill |
 
-### [letta-ai/skills](https://github.com/letta-ai/skills) (6 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| extracting-pdf-text | 154 | extracting-pdf-text |
-| video-processing | 113 | video-processing |
-| google-workspace | 94 | google-workspace |
-| portfolio-optimization | 87 | portfolio-optimization |
-| code-from-image | 82 | code-from-image |
-| imessage | 65 | imessage |
-
 ### [openprose/prose](https://github.com/openprose/prose) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -7311,6 +7747,36 @@ claude plugin install frontend-design@ulpi-marketplace
 | angular-best-practices-ngrx | 110 | angular-best-practices-ngrx |
 | angular-best-practices-material | 90 | angular-best-practices-material |
 
+### [nansen-ai/nansen-cli](https://github.com/nansen-ai/nansen-cli) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| nansen-smart-money | 118 | nansen-smart-money |
+| nansen-search | 97 | nansen-search |
+| nansen-profiler | 94 | nansen-profiler |
+| nansen-token | 94 | nansen-token |
+| nansen-wallet | 86 | nansen-wallet |
+| nansen-trade | 83 | nansen-trade |
+
+### [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| academic-writing | 481 | academic-writing |
+| page-monitoring | 90 | page-monitoring |
+
+### [hamelsmu/evals-skills](https://github.com/hamelsmu/evals-skills) (7 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| eval-audit | 87 | eval-audit |
+| error-analysis | 83 | error-analysis |
+| build-review-interface | 82 | build-review-interface |
+| write-judge-prompt | 82 | write-judge-prompt |
+| evaluate-rag | 80 | evaluate-rag |
+| generate-synthetic-data | 78 | generate-synthetic-data |
+| validate-evaluator | 78 | validate-evaluator |
+
 ### [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -7338,6 +7804,29 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | xiaohongshu-cover-generator | 554 | xiaohongshu-cover-generator |
 
+### [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) (7 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| imagen | 128 | imagen |
+| google-calendar | 83 | google-calendar |
+| gmail | 74 | gmail |
+| google-drive | 72 | google-drive |
+| google-docs | 67 | google-docs |
+| google-sheets | 66 | google-sheets |
+| jules | 64 | jules |
+
+### [markdown-viewer/skills](https://github.com/markdown-viewer/skills) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| wireframe | 117 | wireframe |
+| drawio | 106 | drawio |
+| mermaid | 88 | mermaid |
+| floor-plan | 85 | floor-plan |
+| architecture | 82 | architecture |
+| infographic | 74 | infographic |
+
 ### [bear2u/my-skills](https://github.com/bear2u/my-skills) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -7361,6 +7850,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | reproduce-bug | 73 | reproduce-bug |
 | loom-transcript | 71 | loom-transcript |
 
+### [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| playwright-cli | 432 | playwright-cli |
+| dev | 109 | dev |
+
 ### [semgrep/skills](https://github.com/semgrep/skills) (3 plugins)
 
 | Plugin | Installs | Description |
@@ -7375,22 +7871,22 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | opentwitter | 539 | opentwitter |
 
+### [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| codebase-documenter | 118 | codebase-documenter |
+| architecture-diagram-creator | 107 | architecture-diagram-creator |
+| file-operations | 107 | file-operations |
+| flowchart-creator | 73 | flowchart-creator |
+| feature-planning | 70 | feature-planning |
+| code-auditor | 64 | code-auditor |
+
 ### [joeseesun/knowledge-site-creator](https://github.com/joeseesun/knowledge-site-creator) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | knowledge-site-creator | 536 | knowledge-site-creator |
-
-### [cap-go/capacitor-skills](https://github.com/cap-go/capacitor-skills) (6 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| ionic-design | 162 | ionic-design |
-| ios-android-logs | 87 | ios-android-logs |
-| capacitor-best-practices | 75 | capacitor-best-practices |
-| capacitor-app-store | 72 | capacitor-app-store |
-| capacitor-security | 71 | capacitor-security |
-| capacitor-plugins | 66 | capacitor-plugins |
 
 ### [mhagrelius/dotfiles](https://github.com/mhagrelius/dotfiles) (1 plugins)
 
@@ -7416,15 +7912,16 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | agent-slack | 524 | agent-slack |
 
-### [dengineproblem/agents-monorepo](https://github.com/dengineproblem/agents-monorepo) (5 plugins)
+### [terrylica/cc-skills](https://github.com/terrylica/cc-skills) (6 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| social-media-marketing | 242 | social-media-marketing |
-| k6-load-test | 74 | k6-load-test |
-| seo-expert | 70 | seo-expert |
-| video-marketing | 70 | video-marketing |
-| b2b-saas-marketing | 67 | b2b-saas-marketing |
+| pandoc-pdf-generation | 106 | pandoc-pdf-generation |
+| python-logging-best-practices | 95 | python-logging-best-practices |
+| mql5-indicator-patterns | 92 | mql5-indicator-patterns |
+| mise-tasks | 82 | mise-tasks |
+| semantic-release | 75 | semantic-release |
+| ascii-diagram-validator | 74 | ascii-diagram-validator |
 
 ### [6551team/opennews-mcp](https://github.com/6551team/opennews-mcp) (1 plugins)
 
@@ -7457,6 +7954,17 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | read-arxiv-paper | 516 | read-arxiv-paper |
+
+### [charon-fan/agent-playbook](https://github.com/charon-fan/agent-playbook) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| self-improving-agent | 122 | self-improving-agent |
+| prd-planner | 100 | prd-planner |
+| security-auditor | 87 | security-auditor |
+| session-logger | 76 | session-logger |
+| skill-router | 66 | skill-router |
+| architecting-solutions | 64 | architecting-solutions |
 
 ### [lwmxiaobei/yt-dlp-skill](https://github.com/lwmxiaobei/yt-dlp-skill) (1 plugins)
 
@@ -7501,6 +8009,16 @@ claude plugin install frontend-design@ulpi-marketplace
 | fix-flaky-tests | 120 | fix-flaky-tests |
 | using-tuist-generated-projects | 115 | using-tuist-generated-projects |
 
+### [letta-ai/skills](https://github.com/letta-ai/skills) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| extracting-pdf-text | 154 | extracting-pdf-text |
+| video-processing | 113 | video-processing |
+| portfolio-optimization | 87 | portfolio-optimization |
+| code-from-image | 82 | code-from-image |
+| imessage | 65 | imessage |
+
 ### [ctsstc/get-shit-done-skills](https://github.com/ctsstc/get-shit-done-skills) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -7542,14 +8060,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | css-styling-expert | 74 | css-styling-expert |
 | research-expert | 70 | research-expert |
 
-### [leonxlnx/taste-skill](https://github.com/leonxlnx/taste-skill) (3 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| redesign-existing-projects | 239 | redesign-existing-projects |
-| full-output-enforcement | 156 | full-output-enforcement |
-| design-taste-frontend | 94 | design-taste-frontend |
-
 ### [dcramer/dex](https://github.com/dcramer/dex) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -7571,14 +8081,25 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | chat-sdk | 486 | chat-sdk |
 
-### [scientiacapital/skills](https://github.com/scientiacapital/skills) (4 plugins)
+### [nice-wolf-studio/claude-code-supabase-skills](https://github.com/nice-wolf-studio/claude-code-supabase-skills) (5 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| business-model-canvas | 167 | business-model-canvas |
-| trading-signals | 159 | trading-signals |
-| crm-integration | 86 | crm-integration |
-| content-marketing | 69 | content-marketing |
+| supabase-edge-functions | 118 | supabase-edge-functions |
+| supabase-auth | 110 | supabase-auth |
+| supabase-database | 96 | supabase-database |
+| supabase-realtime | 96 | supabase-realtime |
+| supabase-storage | 64 | supabase-storage |
+
+### [datadog-labs/agent-skills](https://github.com/datadog-labs/agent-skills) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| dd-pup | 107 | dd-pup |
+| dd-apm | 97 | dd-apm |
+| dd-logs | 95 | dd-logs |
+| dd-docs | 92 | dd-docs |
+| dd-monitors | 92 | dd-monitors |
 
 ### [forztf/open-skilled-sdd](https://github.com/forztf/open-skilled-sdd) (5 plugins)
 
@@ -7621,6 +8142,16 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | livekit-agents | 468 | livekit-agents |
 
+### [kernel/skills](https://github.com/kernel/skills) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| kernel-agent-browser | 113 | kernel-agent-browser |
+| kernel-cli | 107 | kernel-cli |
+| kernel-typescript-sdk | 90 | kernel-typescript-sdk |
+| kernel-python-sdk | 83 | kernel-python-sdk |
+| kernel-auth | 74 | kernel-auth |
+
 ### [cameroncooke/xcodebuildmcp](https://github.com/cameroncooke/xcodebuildmcp) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -7647,6 +8178,17 @@ claude plugin install frontend-design@ulpi-marketplace
 | mobile-security | 79 | mobile-security |
 | anti-cheat-systems | 68 | anti-cheat-systems |
 
+### [specstoryai/agent-skills](https://github.com/specstoryai/agent-skills) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| specstory-session-summary | 102 | specstory-session-summary |
+| specstory-organize | 75 | specstory-organize |
+| specstory-yak | 74 | specstory-yak |
+| specstory-guard | 72 | specstory-guard |
+| specstory-link-trail | 70 | specstory-link-trail |
+| specstory-project-stats | 69 | specstory-project-stats |
+
 ### [laurigates/claude-plugins](https://github.com/laurigates/claude-plugins) (5 plugins)
 
 | Plugin | Installs | Description |
@@ -7657,21 +8199,15 @@ claude plugin install frontend-design@ulpi-marketplace
 | python-development | 71 | python-development |
 | jq-json-processing | 65 | jq-json-processing |
 
-### [steipete/agent-scripts](https://github.com/steipete/agent-scripts) (4 plugins)
+### [base/skills](https://github.com/base/skills) (5 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| video-transcript-downloader | 186 | video-transcript-downloader |
-| 1password | 120 | 1password |
-| brave-search | 79 | brave-search |
-| create-cli | 75 | create-cli |
-
-### [stripe/ai](https://github.com/stripe/ai) (2 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| upgrade-stripe | 368 | upgrade-stripe |
-| stripe-best-practices | 90 | stripe-best-practices |
+| building-with-base-account | 93 | building-with-base-account |
+| connecting-to-base-network | 91 | connecting-to-base-network |
+| converting-minikit-to-farcaster | 91 | converting-minikit-to-farcaster |
+| deploying-contracts-on-base | 90 | deploying-contracts-on-base |
+| running-a-base-node | 90 | running-a-base-node |
 
 ### [wwwzhouhui/skills_collection](https://github.com/wwwzhouhui/skills_collection) (4 plugins)
 
@@ -7691,6 +8227,26 @@ claude plugin install frontend-design@ulpi-marketplace
 | understanding-tauri-architecture | 88 | understanding-tauri-architecture |
 | calling-rust-from-tauri-frontend | 69 | calling-rust-from-tauri-frontend |
 | setting-up-tauri-projects | 64 | setting-up-tauri-projects |
+
+### [dengineproblem/agents-monorepo](https://github.com/dengineproblem/agents-monorepo) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| social-media-marketing | 242 | social-media-marketing |
+| k6-load-test | 74 | k6-load-test |
+| seo-expert | 70 | seo-expert |
+| b2b-saas-marketing | 67 | b2b-saas-marketing |
+
+### [useai-pro/openclaw-skills-security](https://github.com/useai-pro/openclaw-skills-security) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| skill-auditor | 107 | skill-auditor |
+| prompt-guard | 74 | prompt-guard |
+| config-hardener | 70 | config-hardener |
+| skill-guard | 68 | skill-guard |
+| skill-vetter | 68 | skill-vetter |
+| sandbox-guard | 65 | sandbox-guard |
 
 ### [muratcankoylan/agent-skills-for-context-engineering](https://github.com/muratcankoylan/agent-skills-for-context-engineering) (1 plugins)
 
@@ -7731,11 +8287,36 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | ios-simulator-skill | 440 | ios-simulator-skill |
 
-### [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) (1 plugins)
+### [lattifai/omni-captions-skills](https://github.com/lattifai/omni-captions-skills) (5 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| playwright-cli | 432 | playwright-cli |
+| omnicaptions-translate | 114 | omnicaptions-translate |
+| omnicaptions-transcribe | 98 | omnicaptions-transcribe |
+| omnicaptions-convert | 75 | omnicaptions-convert |
+| omnicaptions-laicut | 75 | omnicaptions-laicut |
+| omnicaptions-download | 73 | omnicaptions-download |
+
+### [gohypergiant/agent-skills](https://github.com/gohypergiant/agent-skills) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| accelint-nextjs-best-practices | 121 | accelint-nextjs-best-practices |
+| accelint-ts-testing | 94 | accelint-ts-testing |
+| accelint-react-best-practices | 80 | accelint-react-best-practices |
+| accelint-ts-performance | 72 | accelint-ts-performance |
+| accelint-ts-best-practices | 67 | accelint-ts-best-practices |
+
+### [jwilger/agent-skills](https://github.com/jwilger/agent-skills) (6 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| memory-protocol | 82 | memory-protocol |
+| task-management | 73 | task-management |
+| atomic-design | 72 | atomic-design |
+| domain-modeling | 68 | domain-modeling |
+| debugging-protocol | 67 | debugging-protocol |
+| ensemble-team | 67 | ensemble-team |
 
 ### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) (1 plugins)
 
@@ -7797,14 +8378,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | aixyz | 209 | aixyz |
 | aixyz-on-openclaw | 205 | aixyz-on-openclaw |
 
-### [antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills) (3 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| narrative-text-visualization | 175 | narrative-text-visualization |
-| icon-retrieval | 159 | icon-retrieval |
-| infographic-creator | 80 | infographic-creator |
-
 ### [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) (4 plugins)
 
 | Plugin | Installs | Description |
@@ -7813,12 +8386,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | ghidra | 104 | ghidra |
 | openscad | 103 | openscad |
 | tmux | 72 | tmux |
-
-### [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert) (1 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| code-review-expert | 414 | code-review-expert |
 
 ### [tobi/qmd](https://github.com/tobi/qmd) (1 plugins)
 
@@ -7845,6 +8412,14 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | flux-best-practices | 236 | flux-best-practices |
 | bfl-api | 176 | bfl-api |
+
+### [scientiacapital/skills](https://github.com/scientiacapital/skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| business-model-canvas | 167 | business-model-canvas |
+| trading-signals | 159 | trading-signals |
+| crm-integration | 86 | crm-integration |
 
 ### [blader/claudeception](https://github.com/blader/claudeception) (1 plugins)
 
@@ -7875,6 +8450,24 @@ claude plugin install frontend-design@ulpi-marketplace
 | fastapi | 71 | fastapi |
 | navigator | 71 | navigator |
 
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| add-components-to-registry | 106 | add-components-to-registry |
+| generative-ui | 102 | generative-ui |
+| components | 99 | components |
+| component-rendering | 97 | component-rendering |
+
+### [majiayu000/claude-arsenal](https://github.com/majiayu000/claude-arsenal) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| product-discovery | 118 | product-discovery |
+| app-ui-design | 113 | app-ui-design |
+| harmonyos-app | 93 | harmonyos-app |
+| github-trending | 78 | github-trending |
+
 ### [tristanmanchester/agent-skills](https://github.com/tristanmanchester/agent-skills) (3 plugins)
 
 | Plugin | Installs | Description |
@@ -7896,6 +8489,13 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | skill-manager | 198 | skill-manager |
 | github-to-skills | 197 | github-to-skills |
+
+### [leonxlnx/taste-skill](https://github.com/leonxlnx/taste-skill) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| redesign-existing-projects | 239 | redesign-existing-projects |
+| full-output-enforcement | 156 | full-output-enforcement |
 
 ### [referodesign/refero_skill](https://github.com/referodesign/refero_skill) (1 plugins)
 
@@ -7925,15 +8525,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | clone-website | 254 | clone-website |
 | frontend-ui-animator | 134 | frontend-ui-animator |
 
-### [s-hiraoku/synapse-a2a](https://github.com/s-hiraoku/synapse-a2a) (4 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| opencode-expert | 147 | opencode-expert |
-| synapse-a2a | 106 | synapse-a2a |
-| synapse-reinst | 70 | synapse-reinst |
-| code-quality | 65 | code-quality |
-
 ### [planetscale/database-skills](https://github.com/planetscale/database-skills) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -7947,11 +8538,29 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | maestro | 386 | maestro |
 
+### [mindverse/second-me-skills](https://github.com/mindverse/second-me-skills) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| secondme-nextjs | 78 | secondme-nextjs |
+| secondme-prd | 78 | secondme-prd |
+| secondme-init | 77 | secondme-init |
+| secondme | 76 | secondme |
+| secondme-reference | 75 | secondme-reference |
+
 ### [nextfrontierbuilds/elite-longterm-memory](https://github.com/nextfrontierbuilds/elite-longterm-memory) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | elite-longterm-memory | 382 | elite-longterm-memory |
+
+### [steipete/agent-scripts](https://github.com/steipete/agent-scripts) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| video-transcript-downloader | 186 | video-transcript-downloader |
+| 1password | 120 | 1password |
+| create-cli | 75 | create-cli |
 
 ### [streamlit/agent-skills](https://github.com/streamlit/agent-skills) (1 plugins)
 
@@ -7964,6 +8573,15 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | media-downloader | 375 | media-downloader |
+
+### [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| deep-analysis | 115 | deep-analysis |
+| ctf-pwn | 103 | ctf-pwn |
+| ctf-rev | 87 | ctf-rev |
+| ctf-crypto | 68 | ctf-crypto |
 
 ### [ramsbaby/openclaw-self-healing](https://github.com/ramsbaby/openclaw-self-healing) (1 plugins)
 
@@ -7990,6 +8608,12 @@ claude plugin install frontend-design@ulpi-marketplace
 | smart-contract-security | 134 | smart-contract-security |
 | web3-frontend | 123 | web3-frontend |
 | solidity-development | 111 | solidity-development |
+
+### [stripe/ai](https://github.com/stripe/ai) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| upgrade-stripe | 368 | upgrade-stripe |
 
 ### [solanaguide/solana-cli](https://github.com/solanaguide/solana-cli) (2 plugins)
 
@@ -8030,11 +8654,41 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | document-illustrator | 360 | document-illustrator |
 
+### [yuque/yuque-plugin](https://github.com/yuque/yuque-plugin) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| yuque-personal-knowledge-connect | 85 | yuque-personal-knowledge-connect |
+| yuque-personal-reading-digest | 72 | yuque-personal-reading-digest |
+| yuque-personal-smart-search | 70 | yuque-personal-smart-search |
+| yuque-personal-smart-summary | 67 | yuque-personal-smart-summary |
+| yuque-personal-style-extract | 66 | yuque-personal-style-extract |
+
+### [posit-dev/skills](https://github.com/posit-dev/skills) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| quarto-authoring | 89 | quarto-authoring |
+| critical-code-reviewer | 72 | critical-code-reviewer |
+| brand-yml | 68 | brand-yml |
+| cli | 66 | cli |
+| describe-design | 64 | describe-design |
+
 ### [vigorx777/ai-daily-digest](https://github.com/vigorx777/ai-daily-digest) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | ai-daily-digest | 359 | ai-daily-digest |
+
+### [jorgealves/agent_skills](https://github.com/jorgealves/agent_skills) (5 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| python-security-scanner | 79 | python-security-scanner |
+| prompt-injection-scanner | 76 | prompt-injection-scanner |
+| gdpr-ccpa-privacy-auditor | 73 | gdpr-ccpa-privacy-auditor |
+| hipaa-compliance-guard | 64 | hipaa-compliance-guard |
+| python-data-pipeline-designer | 64 | python-data-pipeline-designer |
 
 ### [endigo/claude-skills](https://github.com/endigo/claude-skills) (1 plugins)
 
@@ -8068,6 +8722,15 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | sensitive-browser | 350 | sensitive-browser |
 
+### [glebis/claude-skills](https://github.com/glebis/claude-skills) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| google-image-search | 112 | google-image-search |
+| firecrawl-research | 92 | firecrawl-research |
+| elevenlabs-tts | 77 | elevenlabs-tts |
+| presentation-generator | 65 | presentation-generator |
+
 ### [paulrberg/agent-skills](https://github.com/paulrberg/agent-skills) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -8095,6 +8758,15 @@ claude plugin install frontend-design@ulpi-marketplace
 | store-data-structures | 111 | store-data-structures |
 | version-release | 109 | version-release |
 
+### [timelessco/recollect](https://github.com/timelessco/recollect) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| postgresql-psql | 116 | postgresql-psql |
+| nextjs | 84 | nextjs |
+| supabase-expert | 72 | supabase-expert |
+| tailwindcss | 68 | tailwindcss |
+
 ### [zeropointrepo/youtube-skills](https://github.com/zeropointrepo/youtube-skills) (3 plugins)
 
 | Plugin | Installs | Description |
@@ -8108,6 +8780,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | bilibili-subtitle | 339 | bilibili-subtitle |
+
+### [antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| narrative-text-visualization | 175 | narrative-text-visualization |
+| icon-retrieval | 159 | icon-retrieval |
 
 ### [webflow/webflow-skills](https://github.com/webflow/webflow-skills) (3 plugins)
 
@@ -8130,6 +8809,15 @@ claude plugin install frontend-design@ulpi-marketplace
 | n8n | 242 | n8n |
 | google-adk | 87 | google-adk |
 
+### [dylanfeltus/skills](https://github.com/dylanfeltus/skills) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| visual-qa | 110 | visual-qa |
+| design-tokens | 76 | design-tokens |
+| creative-direction | 75 | creative-direction |
+| motion-design-patterns | 67 | motion-design-patterns |
+
 ### [mastepanoski/claude-skills](https://github.com/mastepanoski/claude-skills) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -8142,13 +8830,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | shadcn-vue | 325 | shadcn-vue |
-
-### [adaptationio/skrillz](https://github.com/adaptationio/skrillz) (2 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| finnhub-api | 244 | finnhub-api |
-| auto-updater | 80 | auto-updater |
 
 ### [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) (3 plugins)
 
@@ -8171,6 +8852,31 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | unbrowse | 324 | unbrowse |
 
+### [s-hiraoku/synapse-a2a](https://github.com/s-hiraoku/synapse-a2a) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| opencode-expert | 147 | opencode-expert |
+| synapse-a2a | 106 | synapse-a2a |
+| synapse-reinst | 70 | synapse-reinst |
+
+### [angular/angular](https://github.com/angular/angular) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| reference-core | 96 | reference-core |
+| reference-signal-forms | 87 | reference-signal-forms |
+| reference-compiler-cli | 74 | reference-compiler-cli |
+| adev-writing-guide | 65 | adev-writing-guide |
+
+### [cap-go/capacitor-skills](https://github.com/cap-go/capacitor-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ionic-design | 162 | ionic-design |
+| ios-android-logs | 87 | ios-android-logs |
+| capacitor-app-store | 72 | capacitor-app-store |
+
 ### [lc2panda/wps-skills](https://github.com/lc2panda/wps-skills) (3 plugins)
 
 | Plugin | Installs | Description |
@@ -8184,6 +8890,15 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | mysql | 321 | mysql |
+
+### [jackspace/claudeskillz](https://github.com/jackspace/claudeskillz) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| base-ui-react | 103 | base-ui-react |
+| rapid-prototyper | 87 | rapid-prototyper |
+| repository-analyzer | 65 | repository-analyzer |
+| hugo | 64 | hugo |
 
 ### [alchemyplatform/skills](https://github.com/alchemyplatform/skills) (2 plugins)
 
@@ -8203,6 +8918,14 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | clawdstrike | 315 | clawdstrike |
+
+### [get-convex/agent-skills](https://github.com/get-convex/agent-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| convex-helpers-guide | 123 | convex-helpers-guide |
+| components-guide | 107 | components-guide |
+| migration-helper | 85 | migration-helper |
 
 ### [posthog/posthog-for-claude](https://github.com/posthog/posthog-for-claude) (1 plugins)
 
@@ -8228,6 +8951,23 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | douyin-viral-content | 308 | douyin-viral-content |
+
+### [arize-ai/phoenix](https://github.com/arize-ai/phoenix) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| phoenix-cli | 113 | phoenix-cli |
+| phoenix-tracing | 105 | phoenix-tracing |
+| phoenix-evals | 89 | phoenix-evals |
+
+### [openserv-labs/skills](https://github.com/openserv-labs/skills) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| openserv-agent-sdk | 88 | openserv-agent-sdk |
+| openserv-client | 77 | openserv-client |
+| openserv-multi-agent-workflows | 77 | openserv-multi-agent-workflows |
+| openserv-ideaboard-api | 64 | openserv-ideaboard-api |
 
 ### [dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations) (3 plugins)
 
@@ -8312,11 +9052,37 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | mastering-typescript | 292 | mastering-typescript |
 
+### [get-convex/convex-agent-plugins](https://github.com/get-convex/convex-agent-plugins) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| convex-quickstart | 79 | convex-quickstart |
+| auth-setup | 77 | auth-setup |
+| schema-builder | 69 | schema-builder |
+| function-creator | 66 | function-creator |
+
 ### [yanhongxi-openclaw/proactive-self-improving-agent](https://github.com/yanhongxi-openclaw/proactive-self-improving-agent) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | proactive-self-improving-agent | 291 | proactive-self-improving-agent |
+
+### [connorads/dotfiles](https://github.com/connorads/dotfiles) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| payload-cms | 114 | payload-cms |
+| web-animation-design | 93 | web-animation-design |
+| hetzner-server | 82 | hetzner-server |
+
+### [thedivergentai/gd-agentic-skills](https://github.com/thedivergentai/gd-agentic-skills) (4 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| godot-master | 84 | godot-master |
+| godot-shaders-basics | 73 | godot-shaders-basics |
+| godot-ui-theming | 68 | godot-ui-theming |
+| godot-particles | 64 | godot-particles |
 
 ### [xiangyu-cas/xiaohongshu-ops-skill](https://github.com/xiangyu-cas/xiaohongshu-ops-skill) (1 plugins)
 
@@ -8338,11 +9104,27 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | anything-to-notebooklm | 284 | anything-to-notebooklm |
 
+### [lyndonkl/claude](https://github.com/lyndonkl/claude) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| strategy-and-competitive-analysis | 111 | strategy-and-competitive-analysis |
+| scientific-manuscript-review | 86 | scientific-manuscript-review |
+| memory-retrieval-learning | 85 | memory-retrieval-learning |
+
 ### [marswaveai/skills](https://github.com/marswaveai/skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | listenhub | 282 | listenhub |
+
+### [payloadcms/payload](https://github.com/payloadcms/payload) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| generate-translations | 104 | generate-translations |
+| payload | 97 | payload |
+| triage-ci-flake | 81 | triage-ci-flake |
 
 ### [hairyf/knitwork-x](https://github.com/hairyf/knitwork-x) (1 plugins)
 
@@ -8469,6 +9251,14 @@ claude plugin install frontend-design@ulpi-marketplace
 | graphic-designer | 196 | graphic-designer |
 | power-query-coaching | 74 | power-query-coaching |
 
+### [gentleman-programming/gentleman-skills](https://github.com/gentleman-programming/gentleman-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| angular-performance | 99 | angular-performance |
+| angular-architecture | 95 | angular-architecture |
+| typescript | 75 | typescript |
+
 ### [nex-zmh/agent-websearch-skill](https://github.com/nex-zmh/agent-websearch-skill) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -8481,6 +9271,14 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | macos-app-design | 154 | macos-app-design |
 | typography | 115 | typography |
+
+### [huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| intelligent-prompt-generator | 115 | intelligent-prompt-generator |
+| universal-learner | 77 | universal-learner |
+| prompt-analyzer | 75 | prompt-analyzer |
 
 ### [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library) (1 plugins)
 
@@ -8500,13 +9298,6 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | upgrade-react-native | 263 | upgrade-react-native |
-
-### [yamadashy/repomix](https://github.com/yamadashy/repomix) (2 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| repomix-explorer | 194 | repomix-explorer |
-| agent-memory | 69 | agent-memory |
 
 ### [rkiding/awesome-finance-skills](https://github.com/rkiding/awesome-finance-skills) (2 plugins)
 
@@ -8547,6 +9338,14 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | elevenlabs-remotion | 258 | elevenlabs-remotion |
 
+### [openai/openai-agents-python](https://github.com/openai/openai-agents-python) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| openai-knowledge | 110 | openai-knowledge |
+| test-coverage-improver | 79 | test-coverage-improver |
+| pr-draft-summary | 67 | pr-draft-summary |
+
 ### [joeseesun/qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -8559,6 +9358,14 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | kotlin-multiplatform | 160 | kotlin-multiplatform |
 | compose-expert | 92 | compose-expert |
+
+### [vibeindex/skills](https://github.com/vibeindex/skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| vibeindex | 103 | vibeindex |
+| rising | 75 | rising |
+| ecosystem | 73 | ecosystem |
 
 ### [spatie/freek.dev](https://github.com/spatie/freek.dev) (2 plugins)
 
@@ -8573,13 +9380,13 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | ecommerce-competitor-analyzer | 249 | ecommerce-competitor-analyzer |
 
-### [dalestudy/skills](https://github.com/dalestudy/skills) (3 plugins)
+### [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) (3 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| git | 101 | git |
-| github-actions | 75 | github-actions |
-| storybook | 73 | storybook |
+| file-organizer | 97 | file-organizer |
+| content-research-writer | 78 | content-research-writer |
+| auth-patterns | 74 | auth-patterns |
 
 ### [greekr4/playwright-bot-bypass](https://github.com/greekr4/playwright-bot-bypass) (1 plugins)
 
@@ -8599,11 +9406,33 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | preline-theme-generator | 247 | preline-theme-generator |
 
+### [civitai/civitai](https://github.com/civitai/civitai) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| clickup | 104 | clickup |
+| quick-mockups | 78 | quick-mockups |
+| meilisearch-admin | 64 | meilisearch-admin |
+
+### [medusajs/medusa-claude-plugins](https://github.com/medusajs/medusa-claude-plugins) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| building-with-medusa | 93 | building-with-medusa |
+| building-admin-dashboard-customizations | 80 | building-admin-dashboard-customizations |
+| building-storefronts | 73 | building-storefronts |
+
 ### [naoterumaker/openclaw-gog-skills](https://github.com/naoterumaker/openclaw-gog-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | gog | 245 | gog |
+
+### [adaptationio/skrillz](https://github.com/adaptationio/skrillz) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| finnhub-api | 244 | finnhub-api |
 
 ### [poteto/noodle](https://github.com/poteto/noodle) (1 plugins)
 
@@ -8617,6 +9446,22 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | bilibili-analyzer | 243 | bilibili-analyzer |
 
+### [geeksfino/finskills](https://github.com/geeksfino/finskills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| findata-toolkit-cn | 93 | findata-toolkit-cn |
+| event-driven-detector | 82 | event-driven-detector |
+| quant-factor-screener | 68 | quant-factor-screener |
+
+### [julianobarbosa/claude-code-skills](https://github.com/julianobarbosa/claude-code-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| obsidian-vault-management | 102 | obsidian-vault-management |
+| zabbix | 72 | zabbix |
+| neovim | 69 | neovim |
+
 ### [storybookjs/react-native](https://github.com/storybookjs/react-native) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -8624,13 +9469,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | writing-react-native-storybook-stories | 133 | writing-react-native-storybook-stories |
 | setup-react-native-storybook | 110 | setup-react-native-storybook |
 
-### [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) (3 plugins)
+### [maxnorm/magento2-agent-skills](https://github.com/maxnorm/magento2-agent-skills) (3 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| gsc | 93 | gsc |
-| ga4 | 76 | ga4 |
-| google-ads | 72 | google-ads |
+| magento-hyva-specialist | 97 | magento-hyva-specialist |
+| magento-module-developer | 78 | magento-module-developer |
+| magento-code-reviewer | 66 | magento-code-reviewer |
 
 ### [crypto-com/crypto-agent-trading](https://github.com/crypto-com/crypto-agent-trading) (1 plugins)
 
@@ -8682,11 +9527,34 @@ claude plugin install frontend-design@ulpi-marketplace
 | ffmpeg-patterns | 128 | ffmpeg-patterns |
 | site-crawler | 108 | site-crawler |
 
+### [nanmicoder/newscrawler](https://github.com/nanmicoder/newscrawler) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| china-news-crawler | 118 | china-news-crawler |
+| news-extractor | 118 | news-extractor |
+
+### [secondsky/sap-skills](https://github.com/secondsky/sap-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| sap-abap | 97 | sap-abap |
+| sap-fiori-tools | 72 | sap-fiori-tools |
+| sap-cap-capire | 67 | sap-cap-capire |
+
 ### [botpress/skills](https://github.com/botpress/skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | adk | 235 | adk |
+
+### [sendaifun/skills](https://github.com/sendaifun/skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| solana-kit | 88 | solana-kit |
+| helius | 83 | helius |
+| pumpfun | 64 | pumpfun |
 
 ### [bencium/bencium-claude-code-design-skill](https://github.com/bencium/bencium-claude-code-design-skill) (1 plugins)
 
@@ -8760,6 +9628,14 @@ claude plugin install frontend-design@ulpi-marketplace
 | ccxt-python | 160 | ccxt-python |
 | ccxt-typescript | 68 | ccxt-typescript |
 
+### [voltagent/skills](https://github.com/voltagent/skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| voltagent-best-practices | 80 | voltagent-best-practices |
+| voltagent-docs-bundle | 79 | voltagent-docs-bundle |
+| create-voltagent | 69 | create-voltagent |
+
 ### [brooksy4503/rss-agent-viewer](https://github.com/brooksy4503/rss-agent-viewer) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -8811,6 +9687,14 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | create-docs | 221 | create-docs |
 
+### [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| using-dbt-for-analytics-engineering | 81 | using-dbt-for-analytics-engineering |
+| adding-dbt-unit-test | 70 | adding-dbt-unit-test |
+| fetching-dbt-docs | 69 | fetching-dbt-docs |
+
 ### [ypares/agent-skills](https://github.com/ypares/agent-skills) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -8823,13 +9707,13 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | gpt-researcher | 219 | gpt-researcher |
 
-### [eyadsibai/ltk](https://github.com/eyadsibai/ltk) (3 plugins)
+### [blessonism/openclaw-search-skills](https://github.com/blessonism/openclaw-search-skills) (3 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| stripe-payments | 78 | stripe-payments |
-| file-organization | 72 | file-organization |
-| document-processing | 69 | document-processing |
+| content-extract | 79 | content-extract |
+| search-layer | 73 | search-layer |
+| mineru-extract | 67 | mineru-extract |
 
 ### [steelan9199/wechat-publisher](https://github.com/steelan9199/wechat-publisher) (2 plugins)
 
@@ -8850,12 +9734,20 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | context7-auto-research | 217 | context7-auto-research |
 
-### [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) (2 plugins)
+### [dmmulroy/overseer](https://github.com/dmmulroy/overseer) (2 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| sigma | 109 | sigma |
-| skill-forge | 108 | skill-forge |
+| overseer | 110 | overseer |
+| overseer-plan | 107 | overseer-plan |
+
+### [harlan-zw/vue-ecosystem-skills](https://github.com/harlan-zw/vue-ecosystem-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| vue-skilld | 79 | vue-skilld |
+| pinia-skilld | 69 | pinia-skilld |
+| vueuse-core-skilld | 68 | vueuse-core-skilld |
 
 ### [abund-ai/abund.ai](https://github.com/abund-ai/abund.ai) (1 plugins)
 
@@ -8868,6 +9760,14 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | supabase-postgres-best-practices | 214 | supabase-postgres-best-practices |
+
+### [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| s3 | 76 | s3 |
+| cloudwatch | 69 | cloudwatch |
+| lambda | 68 | lambda |
 
 ### [xiaomingx/moltbot-connector-feishu-dingtalk](https://github.com/xiaomingx/moltbot-connector-feishu-dingtalk) (1 plugins)
 
@@ -8886,6 +9786,21 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | react-pdf | 212 | react-pdf |
+
+### [openzeppelin/openzeppelin-skills](https://github.com/openzeppelin/openzeppelin-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| develop-secure-contracts | 74 | develop-secure-contracts |
+| setup-solidity-contracts | 72 | setup-solidity-contracts |
+| upgrade-solidity-contracts | 66 | upgrade-solidity-contracts |
+
+### [exceptionless/exceptionless](https://github.com/exceptionless/exceptionless) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| shadcn-svelte components | 120 | shadcn-svelte components |
+| stripe-best-practices | 90 | stripe-best-practices |
 
 ### [guanyang/super-publisher](https://github.com/guanyang/super-publisher) (1 plugins)
 
@@ -8906,6 +9821,21 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | lesson | 209 | lesson |
 
+### [avdlee/swiftui-agent-skill](https://github.com/avdlee/swiftui-agent-skill) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| swiftui-expert-skill | 108 | swiftui-expert-skill |
+| update-swiftui-apis | 100 | update-swiftui-apis |
+
+### [dedalus-erp-pas/foundation-skills](https://github.com/dedalus-erp-pas/foundation-skills) (3 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| changelog-generator | 71 | changelog-generator |
+| postgres | 69 | postgres |
+| article-extractor | 68 | article-extractor |
+
 ### [elementsix/elementsix-skills](https://github.com/elementsix/elementsix-skills) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -8923,6 +9853,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | threejs-game | 205 | threejs-game |
+
+### [silvainfm/claude-skills](https://github.com/silvainfm/claude-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| streamlit | 104 | streamlit |
+| duckdb | 100 | duckdb |
 
 ### [vercel-labs/portless](https://github.com/vercel-labs/portless) (1 plugins)
 
@@ -8991,17 +9928,37 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | skills-updater | 197 | skills-updater |
 
+### [schalkneethling/webdev-agent-skills](https://github.com/schalkneethling/webdev-agent-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| frontend-security | 116 | frontend-security |
+| semantic-html | 80 | semantic-html |
+
 ### [byheaven/byheaven-skills](https://github.com/byheaven/byheaven-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | xhs-publisher | 195 | xhs-publisher |
 
+### [zephyrwang6/myskill](https://github.com/zephyrwang6/myskill) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| web-scraper | 99 | web-scraper |
+| rss-aggregator | 96 | rss-aggregator |
+
 ### [binjuhor/shadcn-lar](https://github.com/binjuhor/shadcn-lar) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | frontend-design-pro | 194 | frontend-design-pro |
+
+### [yamadashy/repomix](https://github.com/yamadashy/repomix) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| repomix-explorer | 194 | repomix-explorer |
 
 ### [vercel-labs/skill-remotion-geist](https://github.com/vercel-labs/skill-remotion-geist) (1 plugins)
 
@@ -9015,6 +9972,13 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | design-motion-principles | 192 | design-motion-principles |
 
+### [imsus/pi-extension-minimax-coding-plan-mcp](https://github.com/imsus/pi-extension-minimax-coding-plan-mcp) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| minimax-image-understanding | 112 | minimax-image-understanding |
+| minimax-web-search | 79 | minimax-web-search |
+
 ### [instantdb/skills](https://github.com/instantdb/skills) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -9026,6 +9990,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | notion-knowledge-capture | 191 | notion-knowledge-capture |
+
+### [mckruz/comfyui-expert](https://github.com/mckruz/comfyui-expert) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| comfyui-api | 102 | comfyui-api |
+| comfyui-workflow-builder | 89 | comfyui-workflow-builder |
 
 ### [affilino/ecommerce-seo-audit-skill](https://github.com/affilino/ecommerce-seo-audit-skill) (1 plugins)
 
@@ -9039,11 +10010,39 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | antdv-next | 190 | antdv-next |
 
+### [robthepcguy/claude-patent-creator](https://github.com/robthepcguy/claude-patent-creator) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| patent-application-creator | 107 | patent-application-creator |
+| prior-art-search | 83 | prior-art-search |
+
+### [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| create-agent-skills | 112 | create-agent-skills |
+| create-subagents | 77 | create-subagents |
+
 ### [joeseesun/skill-publisher](https://github.com/joeseesun/skill-publisher) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | skill-publisher | 189 | skill-publisher |
+
+### [microck/ordinary-claude-skills](https://github.com/microck/ordinary-claude-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| crypto-research | 110 | crypto-research |
+| novelweave-workflow | 79 | novelweave-workflow |
+
+### [neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| neon-postgres | 111 | neon-postgres |
+| claimable-postgres | 78 | claimable-postgres |
 
 ### [jimmylv/bibigpt-skill](https://github.com/jimmylv/bibigpt-skill) (1 plugins)
 
@@ -9057,6 +10056,13 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | scrapling-official | 187 | scrapling-official |
 
+### [nimbleway/agent-skills](https://github.com/nimbleway/agent-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| nimble-web-tools | 94 | nimble-web-tools |
+| nimble-agents | 93 | nimble-agents |
+
 ### [odyssey4me/agent-skills](https://github.com/odyssey4me/agent-skills) (2 plugins)
 
 | Plugin | Installs | Description |
@@ -9064,12 +10070,19 @@ claude plugin install frontend-design@ulpi-marketplace
 | google-slides | 94 | google-slides |
 | gitlab | 93 | gitlab |
 
-### [iamzhihuix/happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) (2 plugins)
+### [workos/skills](https://github.com/workos/skills) (2 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| docx-format-replicator | 111 | docx-format-replicator |
-| wechat-article-writer | 74 | wechat-article-writer |
+| workos | 122 | workos |
+| workos-authkit-nextjs | 64 | workos-authkit-nextjs |
+
+### [irangareddy/openclaw-essentials](https://github.com/irangareddy/openclaw-essentials) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| openclaw-cli | 109 | openclaw-cli |
+| memory-curator | 75 | memory-curator |
 
 ### [plugins-world/pw-skills](https://github.com/plugins-world/pw-skills) (1 plugins)
 
@@ -9089,11 +10102,46 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | social-media-trends-research | 180 | social-media-trends-research |
 
+### [luwill/research-skills](https://github.com/luwill/research-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| medical-imaging-review | 94 | medical-imaging-review |
+| research-proposal | 86 | research-proposal |
+
 ### [spillwavesolutions/confluence-skill](https://github.com/spillwavesolutions/confluence-skill) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | confluence | 179 | confluence |
+
+### [89jobrien/steve](https://github.com/89jobrien/steve) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| dead-code-removal | 107 | dead-code-removal |
+| meta-cognitive-reasoning | 71 | meta-cognitive-reasoning |
+
+### [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| process-builder | 108 | process-builder |
+| babysit | 70 | babysit |
+
+### [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| skybridge | 106 | skybridge |
+| mcp-app-builder | 72 | mcp-app-builder |
+
+### [rand/cc-polymath](https://github.com/rand/cc-polymath) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| anti-slop | 111 | anti-slop |
+| elegant-design | 67 | elegant-design |
 
 ### [shino369/claude-code-personal-workspace](https://github.com/shino369/claude-code-personal-workspace) (1 plugins)
 
@@ -9125,17 +10173,59 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | cosmosdb-best-practices | 176 | cosmosdb-best-practices |
 
+### [childbamboo/claude-code-marketplace-sample](https://github.com/childbamboo/claude-code-marketplace-sample) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| pdf-vision-reader | 109 | pdf-vision-reader |
+| docx-reader | 67 | docx-reader |
+
+### [dirnbauer/webconsulting-skills](https://github.com/dirnbauer/webconsulting-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ai-search-optimization | 107 | ai-search-optimization |
+| document-processing | 69 | document-processing |
+
+### [shpigford/skills](https://github.com/shpigford/skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| readme | 102 | readme |
+| screenshots | 74 | screenshots |
+
 ### [halthelobster/proactive-agent](https://github.com/halthelobster/proactive-agent) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | proactive-agent | 175 | proactive-agent |
 
+### [zackkorman/skills](https://github.com/zackkorman/skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| security-review-2 | 111 | security-review-2 |
+| pdf-helper | 64 | pdf-helper |
+
+### [0xsardius/onchain-typescript-skills](https://github.com/0xsardius/onchain-typescript-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| viem | 97 | viem |
+| wagmi | 77 | wagmi |
+
 ### [cline/cline](https://github.com/cline/cline) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | create-pull-request | 174 | create-pull-request |
+
+### [dalestudy/skills](https://github.com/dalestudy/skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| git | 101 | git |
+| storybook | 73 | storybook |
 
 ### [ropl-btc/agent-skills](https://github.com/ropl-btc/agent-skills) (1 plugins)
 
@@ -9149,6 +10239,13 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | remotion-video-toolkit | 174 | remotion-video-toolkit |
 
+### [srstomp/pokayokay](https://github.com/srstomp/pokayokay) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| architecture-review | 110 | architecture-review |
+| figma-plugin | 64 | figma-plugin |
+
 ### [ameyalambat128/swiftui-skills](https://github.com/ameyalambat128/swiftui-skills) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -9160,6 +10257,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | polymarket-prediction-market | 173 | polymarket-prediction-market |
+
+### [theorcdev/8bitcn-ui](https://github.com/theorcdev/8bitcn-ui) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| fumadocs-mdx-structure | 97 | fumadocs-mdx-structure |
+| rendering-animate-svg | 76 | rendering-animate-svg |
 
 ### [hexbee/hello-skills](https://github.com/hexbee/hello-skills) (1 plugins)
 
@@ -9173,11 +10277,46 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | redbookskills | 172 | redbookskills |
 
+### [melodic-software/claude-code-plugins](https://github.com/melodic-software/claude-code-plugins) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| design-thinking | 98 | design-thinking |
+| plantuml-syntax | 73 | plantuml-syntax |
+
+### [tiangong-ai/skills](https://github.com/tiangong-ai/skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ai-tech-rss-fetch | 104 | ai-tech-rss-fetch |
+| email-imap-fetch | 67 | email-imap-fetch |
+
+### [dbos-inc/agent-skills](https://github.com/dbos-inc/agent-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| dbos-python | 88 | dbos-python |
+| dbos-typescript | 82 | dbos-typescript |
+
+### [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| github-project-management | 100 | github-project-management |
+| github-code-review | 70 | github-code-review |
+
 ### [fernandofuc/nextjs-claude-setup](https://github.com/fernandofuc/nextjs-claude-setup) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | nextjs-16-complete-guide | 169 | nextjs-16-complete-guide |
+
+### [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| gsc | 93 | gsc |
+| ga4 | 76 | ga4 |
 
 ### [suryavirkapur/skills](https://github.com/suryavirkapur/skills) (1 plugins)
 
@@ -9263,6 +10402,20 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | greenlight | 164 | greenlight |
 
+### [epicenterhq/epicenter](https://github.com/epicenterhq/epicenter) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| documentation | 95 | documentation |
+| svelte | 68 | svelte |
+
+### [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| pgvector-semantic-search | 98 | pgvector-semantic-search |
+| design-postgres-tables | 65 | design-postgres-tables |
+
 ### [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -9280,6 +10433,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | automation-workflows | 162 | automation-workflows |
+
+### [kevmoo/dash_skills](https://github.com/kevmoo/dash_skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| dart-best-practices | 90 | dart-best-practices |
+| dart-test-fundamentals | 72 | dart-test-fundamentals |
 
 ### [coollabsio/coolify](https://github.com/coollabsio/coolify) (1 plugins)
 
@@ -9299,11 +10459,32 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | revenuecat | 161 | revenuecat |
 
+### [chromedevtools/chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| a11y-debugging | 85 | a11y-debugging |
+| debug-optimize-lcp | 74 | debug-optimize-lcp |
+
 ### [tomlord1122/tomtom-skill](https://github.com/tomlord1122/tomtom-skill) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | golang-architect | 159 | golang-architect |
+
+### [aaronvanston/skills-presentations](https://github.com/aaronvanston/skills-presentations) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| presentation-content | 93 | presentation-content |
+| presentation-design | 65 | presentation-design |
+
+### [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| commit-helper | 94 | commit-helper |
+| backport-pr-assistant | 64 | backport-pr-assistant |
 
 ### [jshchnz/claude-code-scheduler](https://github.com/jshchnz/claude-code-scheduler) (1 plugins)
 
@@ -9323,11 +10504,25 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | ui-audit | 158 | ui-audit |
 
+### [volcengine/openviking](https://github.com/volcengine/openviking) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| memory-recall | 88 | memory-recall |
+| openviking | 70 | openviking |
+
 ### [scrapegraphai/just-scrape](https://github.com/scrapegraphai/just-scrape) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | just-scrape | 157 | just-scrape |
+
+### [brownfinesecurity/iothackbot](https://github.com/brownfinesecurity/iothackbot) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| apktool | 81 | apktool |
+| jadx | 75 | jadx |
 
 ### [songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) (1 plugins)
 
@@ -9348,6 +10543,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | vercel-ai-sdk | 82 | vercel-ai-sdk |
 | typescript-strict-mode | 73 | typescript-strict-mode |
 
+### [i9wa4/dotfiles](https://github.com/i9wa4/dotfiles) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| daily-report | 83 | daily-report |
+| bigquery | 72 | bigquery |
+
 ### [kevintsai1202/humanizer-zh-tw](https://github.com/kevintsai1202/humanizer-zh-tw) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -9360,6 +10562,13 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | skill-security-audit | 155 | skill-security-audit |
 
+### [cloudai-x/claude-workflow-v2](https://github.com/cloudai-x/claude-workflow-v2) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| analyzing-projects | 77 | analyzing-projects |
+| convex-backend | 77 | convex-backend |
+
 ### [four-meme-community/four-meme-ai](https://github.com/four-meme-community/four-meme-ai) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -9371,6 +10580,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | pocketbase-best-practices | 154 | pocketbase-best-practices |
+
+### [haaaiawd/nexus-skills](https://github.com/haaaiawd/nexus-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| nexus-mapper | 81 | nexus-mapper |
+| nexus-query | 73 | nexus-query |
 
 ### [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) (1 plugins)
 
@@ -9408,11 +10624,39 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | self-improvement | 152 | self-improvement |
 
+### [brave/brave-search-skills](https://github.com/brave/brave-search-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| news-search | 77 | news-search |
+| images-search | 74 | images-search |
+
+### [streamlit/streamlit](https://github.com/streamlit/streamlit) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| debugging-streamlit | 83 | debugging-streamlit |
+| implementing-new-features | 68 | implementing-new-features |
+
+### [eyadsibai/ltk](https://github.com/eyadsibai/ltk) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| stripe-payments | 78 | stripe-payments |
+| file-organization | 72 | file-organization |
+
 ### [henricook/claude-glab-skill](https://github.com/henricook/claude-glab-skill) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | glab | 150 | glab |
+
+### [dauquangthanh/hanoi-rainbow](https://github.com/dauquangthanh/hanoi-rainbow) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| frontend-design-review | 77 | frontend-design-review |
+| keycloak-administration | 72 | keycloak-administration |
 
 ### [fuzhiyu/researchprojecttemplate](https://github.com/fuzhiyu/researchprojecttemplate) (1 plugins)
 
@@ -9438,11 +10682,32 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | webgpu-threejs-tsl | 148 | webgpu-threejs-tsl |
 
+### [el-feo/ai-context](https://github.com/el-feo/ai-context) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tailscale | 78 | tailscale |
+| cucumber-gherkin | 70 | cucumber-gherkin |
+
 ### [twillai/skills](https://github.com/twillai/skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | twill-cloud-coding-agent | 148 | twill-cloud-coding-agent |
+
+### [catlog22/claude-code-workflow](https://github.com/catlog22/claude-code-workflow) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| review-code | 74 | review-code |
+| skill-generator | 73 | skill-generator |
+
+### [2ykwang/agent-skills](https://github.com/2ykwang/agent-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| html-visual | 77 | html-visual |
+| write-pr | 69 | write-pr |
 
 ### [dnvriend/pdf-to-pptx-tool](https://github.com/dnvriend/pdf-to-pptx-tool) (1 plugins)
 
@@ -9474,6 +10739,20 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | fiction-workshop | 145 | fiction-workshop |
 
+### [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ui-design | 81 | ui-design |
+| artifacts-builder | 64 | artifacts-builder |
+
+### [windmill-labs/windmill](https://github.com/windmill-labs/windmill) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| rust-backend | 80 | rust-backend |
+| svelte-frontend | 65 | svelte-frontend |
+
 ### [matsonj/mviz](https://github.com/matsonj/mviz) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -9491,6 +10770,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | java-dev | 143 | java-dev |
+
+### [miles990/claude-software-skills](https://github.com/miles990/claude-software-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| saas-platforms | 78 | saas-platforms |
+| code-quality | 65 | code-quality |
 
 ### [shaivpidadi/freeride](https://github.com/shaivpidadi/freeride) (1 plugins)
 
@@ -9510,6 +10796,13 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | poster-design-generation | 141 | poster-design-generation |
 
+### [guia-matthieu/clawfu-skills](https://github.com/guia-matthieu/clawfu-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| whisper-transcription | 73 | whisper-transcription |
+| design-trends-2026 | 68 | design-trends-2026 |
+
 ### [vercel-labs/agentic-commerce-skills](https://github.com/vercel-labs/agentic-commerce-skills) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -9527,6 +10820,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | vibe-check | 140 | vibe-check |
+
+### [yunshu0909/yunshu_skillshub](https://github.com/yunshu0909/yunshu_skillshub) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| weekly-report | 71 | weekly-report |
+| github-repo-search | 69 | github-repo-search |
 
 ### [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) (1 plugins)
 
@@ -9564,6 +10864,13 @@ claude plugin install frontend-design@ulpi-marketplace
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | claw-control | 136 | claw-control |
+
+### [marketcalls/openalgo-indicator-skills](https://github.com/marketcalls/openalgo-indicator-skills) (2 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| indicator-expert | 70 | indicator-expert |
+| indicator-chart | 65 | indicator-chart |
 
 ### [ajaxhe/universal-pptx-generator-skill](https://github.com/ajaxhe/universal-pptx-generator-skill) (1 plugins)
 
@@ -9703,6 +11010,18 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | dagster-integrations | 124 | dagster-integrations |
 
+### [ahmed-lakosha/odoo-upgrade-skill](https://github.com/ahmed-lakosha/odoo-upgrade-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| odoo-upgrade | 123 | odoo-upgrade |
+
+### [aiko-atami/fsd](https://github.com/aiko-atami/fsd) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| feature-sliced-design | 123 | feature-sliced-design |
+
 ### [benedictking/firecrawl-scraper](https://github.com/benedictking/firecrawl-scraper) (1 plugins)
 
 | Plugin | Installs | Description |
@@ -9715,11 +11034,41 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | bnbchain-mcp | 123 | bnbchain-mcp |
 
-### [charon-fan/agent-playbook](https://github.com/charon-fan/agent-playbook) (1 plugins)
+### [win4r/memory-lancedb-pro-skill](https://github.com/win4r/memory-lancedb-pro-skill) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| self-improving-agent | 122 | self-improving-agent |
+| memory-lancedb-pro | 123 | memory-lancedb-pro |
+
+### [coderabbitai/skills](https://github.com/coderabbitai/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| autofix | 122 | autofix |
+
+### [lightfastai/lightfast](https://github.com/lightfastai/lightfast) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| blog-writer | 122 | blog-writer |
+
+### [tangc/tangzhan-skills](https://github.com/tangc/tangzhan-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tangzhan-skill-opencodeinsights | 122 | tangzhan-skill-opencodeinsights |
+
+### [vxcozy/workflow-orchestration](https://github.com/vxcozy/workflow-orchestration) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| workflow-orchestration | 122 | workflow-orchestration |
+
+### [ada20204/qwen-voice](https://github.com/ada20204/qwen-voice) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| qwen-voice | 121 | qwen-voice |
 
 ### [benedictking/tavily-web](https://github.com/benedictking/tavily-web) (1 plugins)
 
@@ -9727,11 +11076,107 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | tavily-web | 121 | tavily-web |
 
+### [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| worktrunk | 121 | worktrunk |
+
+### [autoclaw-cc/xiaohongshu-skills](https://github.com/autoclaw-cc/xiaohongshu-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| xiaohongshu-skills | 119 | xiaohongshu-skills |
+
+### [autohandai/community-skills](https://github.com/autohandai/community-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tailwind-ui-patterns | 119 | tailwind-ui-patterns |
+
+### [dstn2000/claude-unreal-engine-skill](https://github.com/dstn2000/claude-unreal-engine-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| unreal-engine | 119 | unreal-engine |
+
+### [pluginagentmarketplace/custom-plugin-data-engineer](https://github.com/pluginagentmarketplace/custom-plugin-data-engineer) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| statistics-math | 119 | statistics-math |
+
+### [replicate/skills](https://github.com/replicate/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| replicate | 119 | replicate |
+
+### [terminaluse/agent-skills](https://github.com/terminaluse/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| terminaluse | 118 | terminaluse |
+
+### [vladmdgolam/agent-skills](https://github.com/vladmdgolam/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| blender-mcp | 118 | blender-mcp |
+
+### [crafter-station/skills](https://github.com/crafter-station/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| intent-layer | 117 | intent-layer |
+
 ### [zjfls/zhoujie-claude-skills](https://github.com/zjfls/zhoujie-claude-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | news-summary | 117 | news-summary |
+
+### [zstmfhy/zlibrary-to-notebooklm](https://github.com/zstmfhy/zlibrary-to-notebooklm) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| zlibrary-to-notebooklm | 117 | zlibrary-to-notebooklm |
+
+### [skindhu/skind-skills](https://github.com/skindhu/skind-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| educational-video-creator | 116 | educational-video-creator |
+
+### [aliramw/dingtalk-ai-table](https://github.com/aliramw/dingtalk-ai-table) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| dingtalk-ai-table | 115 | dingtalk-ai-table |
+
+### [continuedev/skills](https://github.com/continuedev/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| check | 115 | check |
+
+### [lsp-client/lsp-skill](https://github.com/lsp-client/lsp-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| lsp-code-analysis | 115 | lsp-code-analysis |
+
+### [nuxt-content/nuxt-studio](https://github.com/nuxt-content/nuxt-studio) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| nuxt-content | 115 | nuxt-content |
+
+### [yashaiguy-dev/sales-page-copywriting-skill](https://github.com/yashaiguy-dev/sales-page-copywriting-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| sales-page-copywriting | 115 | sales-page-copywriting |
 
 ### [avdlee/swift-concurrency-agent-skill](https://github.com/avdlee/swift-concurrency-agent-skill) (1 plugins)
 
@@ -9739,29 +11184,251 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | swift-concurrency | 114 | swift-concurrency |
 
+### [imaimai17468/modern-short-video-skills](https://github.com/imaimai17468/modern-short-video-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| modern-short-video | 114 | modern-short-video |
+
+### [mineru98/skills-store](https://github.com/mineru98/skills-store) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| excel-data-analyzer | 114 | excel-data-analyzer |
+
+### [pzep1/xcode-build-skill](https://github.com/pzep1/xcode-build-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| xcode-build | 114 | xcode-build |
+
+### [bayramannakov/claude-reflect](https://github.com/bayramannakov/claude-reflect) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| claude-reflect | 113 | claude-reflect |
+
+### [caido/skills](https://github.com/caido/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| caido-mode | 113 | caido-mode |
+
+### [fredm00n/framerlabs](https://github.com/fredm00n/framerlabs) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| framer-code-components-overrides | 113 | framer-code-components-overrides |
+
+### [tanweai/pua](https://github.com/tanweai/pua) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| pua-debugging | 113 | pua-debugging |
+
+### [alentodorov/create-promo-video](https://github.com/alentodorov/create-promo-video) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| create-promo-video | 112 | create-promo-video |
+
 ### [benedictking/exa-search](https://github.com/benedictking/exa-search) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | exa-search | 112 | exa-search |
 
-### [freee/freee-mcp](https://github.com/freee/freee-mcp) (1 plugins)
+### [delorenj/skills](https://github.com/delorenj/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| agno | 112 | agno |
+
+### [dmmulroy/better-result](https://github.com/dmmulroy/better-result) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| better-result-adopt | 112 | better-result-adopt |
+
+### [him0/freee-mcp](https://github.com/him0/freee-mcp) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | freee-api-skill | 111 | freee-api-skill |
 
-### [neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) (1 plugins)
+### [iamzhihuix/happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| neon-postgres | 111 | neon-postgres |
+| docx-format-replicator | 111 | docx-format-replicator |
 
-### [avdlee/swiftui-agent-skill](https://github.com/avdlee/swiftui-agent-skill) (1 plugins)
+### [nodeops-app/skills](https://github.com/nodeops-app/skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| swiftui-expert-skill | 108 | swiftui-expert-skill |
+| createos | 111 | createos |
+
+### [electron/electron](https://github.com/electron/electron) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| electron-chromium-upgrade | 110 | electron-chromium-upgrade |
+
+### [kaichen/amap-skill](https://github.com/kaichen/amap-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| amap | 110 | amap |
+
+### [liang121/video-summarizer](https://github.com/liang121/video-summarizer) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| video-summarizer | 110 | video-summarizer |
+
+### [robonet-tech/skills](https://github.com/robonet-tech/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| trade-prediction-markets | 110 | trade-prediction-markets |
+
+### [vercel-labs/migration-skills](https://github.com/vercel-labs/migration-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| cra-to-next-migration | 110 | cra-to-next-migration |
+
+### [wolke/bazi-mingli](https://github.com/wolke/bazi-mingli) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| bazi-mingli | 110 | bazi-mingli |
+
+### [fastapi-practices/skills](https://github.com/fastapi-practices/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| fba | 109 | fba |
+
+### [flipsidecrypto/flipside-tools](https://github.com/flipsidecrypto/flipside-tools) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| flipside | 109 | flipside |
+
+### [geekjourneyx/mind-skills](https://github.com/geekjourneyx/mind-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ai-daily | 109 | ai-daily |
+
+### [vangongwanxiaowan/screen-creative-skills](https://github.com/vangongwanxiaowan/screen-creative-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| drama-creator | 109 | drama-creator |
+
+### [fradser/dotclaude](https://github.com/fradser/dotclaude) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| patent-architect | 108 | patent-architect |
+
+### [kesslerio/academic-deep-research-clawhub-skill](https://github.com/kesslerio/academic-deep-research-clawhub-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| academic-deep-research | 108 | academic-deep-research |
+
+### [lucaperret/agent-skills](https://github.com/lucaperret/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| macos-calendar | 108 | macos-calendar |
+
+### [mcollina/githuman-skills](https://github.com/mcollina/githuman-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| githuman | 108 | githuman |
+
+### [nweii/agent-stuff](https://github.com/nweii/agent-stuff) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| suggest-lucide-icons | 108 | suggest-lucide-icons |
+
+### [robdtaylor/personal-ai-infrastructure](https://github.com/robdtaylor/personal-ai-infrastructure) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| businessstrategy | 108 | businessstrategy |
+
+### [seed-hypermedia/seed](https://github.com/seed-hypermedia/seed) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| xstate | 108 | xstate |
+
+### [stevysmith/og-image-skill](https://github.com/stevysmith/og-image-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| og-image | 108 | og-image |
+
+### [ysm-dev/ddgr-skill](https://github.com/ysm-dev/ddgr-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ddgr | 108 | ddgr |
+
+### [bastos/skills](https://github.com/bastos/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| proxmox-admin | 107 | proxmox-admin |
+
+### [claude-skills/sveltekit-svelte5-tailwind-skill](https://github.com/claude-skills/sveltekit-svelte5-tailwind-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| sveltekit-svelte5-tailwind-skill | 107 | sveltekit-svelte5-tailwind-skill |
+
+### [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| databricks | 107 | databricks |
+
+### [nolly-studio/components-build-skill](https://github.com/nolly-studio/components-build-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| components-build | 107 | components-build |
+
+### [outsharp/shipp-skills](https://github.com/outsharp/shipp-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| google-news | 107 | google-news |
+
+### [svenja-dev/claude-code-skills](https://github.com/svenja-dev/claude-code-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| social-media-content | 107 | social-media-content |
+
+### [tamagui/tamagui](https://github.com/tamagui/tamagui) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tamagui | 107 | tamagui |
+
+### [ashchupliak/dream-team](https://github.com/ashchupliak/dream-team) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| kotlin-spring-boot | 106 | kotlin-spring-boot |
 
 ### [content-designer/ux-writing-skill](https://github.com/content-designer/ux-writing-skill) (1 plugins)
 
@@ -9769,11 +11436,47 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | ux-writing | 106 | ux-writing |
 
-### [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp) (1 plugins)
+### [ggprompts/tfe](https://github.com/ggprompts/tfe) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| drawio | 106 | drawio |
+| bubbletea | 106 | bubbletea |
+
+### [mitscherlich/skills](https://github.com/mitscherlich/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| xmind | 106 | xmind |
+
+### [sanity-io/agent-context](https://github.com/sanity-io/agent-context) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| create-agent-with-sanity-context | 106 | create-agent-with-sanity-context |
+
+### [trsoliu/mini-wiki](https://github.com/trsoliu/mini-wiki) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| mini-wiki | 106 | mini-wiki |
+
+### [vercel-labs/slack-agent-skill](https://github.com/vercel-labs/slack-agent-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| slack-agent | 105 | slack-agent |
+
+### [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| owasp-security | 104 | owasp-security |
+
+### [bartundmett/skills](https://github.com/bartundmett/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| shopware6-best-practices | 104 | shopware6-best-practices |
 
 ### [browserbase/skills](https://github.com/browserbase/skills) (1 plugins)
 
@@ -9781,23 +11484,413 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | browser | 104 | browser |
 
+### [cleanexpo/ato](https://github.com/cleanexpo/ato) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| video-generation | 104 | video-generation |
+
+### [froessell/app-store-opportunity-research](https://github.com/froessell/app-store-opportunity-research) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| app-store-opportunity-research | 104 | app-store-opportunity-research |
+
+### [0xindiebruh/openclaw-mission-control-skill](https://github.com/0xindiebruh/openclaw-mission-control-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| openclaw-mission-control | 103 | openclaw-mission-control |
+
+### [anthropics/healthcare](https://github.com/anthropics/healthcare) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| fhir-developer-skill | 103 | fhir-developer-skill |
+
+### [tato418/x-twitter-api](https://github.com/tato418/x-twitter-api) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| x-twitter-api | 103 | x-twitter-api |
+
+### [video-db/skills](https://github.com/video-db/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| videodb | 103 | videodb |
+
+### [224-industries/webflow-skills](https://github.com/224-industries/webflow-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| webflow-designer-api | 102 | webflow-designer-api |
+
+### [allenai2014/pencil-ui-design](https://github.com/allenai2014/pencil-ui-design) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| pencil-ui-design | 102 | pencil-ui-design |
+
+### [nohumanera/cn-stock-price](https://github.com/nohumanera/cn-stock-price) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| cn-stock-price | 102 | cn-stock-price |
+
+### [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| md2wechat | 101 | md2wechat |
+
+### [mshumer/claude-skill-railway](https://github.com/mshumer/claude-skill-railway) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| railway | 101 | railway |
+
 ### [vercel/ai-elements](https://github.com/vercel/ai-elements) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | ai-elements | 101 | ai-elements |
 
-### [succ985/openclaw-akshare-skill](https://github.com/succ985/openclaw-akshare-skill) (1 plugins)
+### [ajianaz/skills-collection](https://github.com/ajianaz/skills-collection) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| flutter-ui-ux | 100 | flutter-ui-ux |
+
+### [av/remotion-bits](https://github.com/av/remotion-bits) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| remotion-bits | 100 | remotion-bits |
+
+### [feiyuggg/openclaw-stock-analyzer](https://github.com/feiyuggg/openclaw-stock-analyzer) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| stock-analyzer | 100 | stock-analyzer |
+
+### [sorcerai/moltbook-skill](https://github.com/sorcerai/moltbook-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| moltbook | 100 | moltbook |
+
+### [arcaneorion/alice-single](https://github.com/arcaneorion/alice-single) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | akshare | 99 | akshare |
 
-### [payloadcms/skills](https://github.com/payloadcms/skills) (1 plugins)
+### [cfircoo/claude-code-toolkit](https://github.com/cfircoo/claude-code-toolkit) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| payload | 97 | payload |
+| sqlalchemy-postgres | 99 | sqlalchemy-postgres |
+
+### [xiaodong-wu/web-design-studio](https://github.com/xiaodong-wu/web-design-studio) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| web-design-studio | 99 | web-design-studio |
+
+### [devanshudesai/agent-skills](https://github.com/devanshudesai/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| expo-liquid-glass | 98 | expo-liquid-glass |
+
+### [evolinkai/image-generation-skill-for-openclaw](https://github.com/evolinkai/image-generation-skill-for-openclaw) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| evolink-image | 98 | evolink-image |
+
+### [felo-inc/felo-skills](https://github.com/felo-inc/felo-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| felo-slides | 98 | felo-slides |
+
+### [infquest/vibe-ops-plugin](https://github.com/infquest/vibe-ops-plugin) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| audio-transcribe | 98 | audio-transcribe |
+
+### [parlamento-ai/parlamento-ai](https://github.com/parlamento-ai/parlamento-ai) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| mistral-ocr | 98 | mistral-ocr |
+
+### [wangyendt/wayne-skills](https://github.com/wangyendt/wayne-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| send-email | 98 | send-email |
+
+### [oil-oil/oiloil-ui-ux-guide](https://github.com/oil-oil/oiloil-ui-ux-guide) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| oiloil-ui-ux-guide | 97 | oiloil-ui-ux-guide |
+
+### [smerchek/claude-epub-skill](https://github.com/smerchek/claude-epub-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| markdown-to-epub-converter | 97 | markdown-to-epub-converter |
+
+### [tclawde/xiaohongshu-mcp-skill](https://github.com/tclawde/xiaohongshu-mcp-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| xiaohongshu-mcp | 97 | xiaohongshu-mcp |
+
+### [apetta/agent-xlsx](https://github.com/apetta/agent-xlsx) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| agent-xlsx | 96 | agent-xlsx |
+
+### [chandima/agent-skills](https://github.com/chandima/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| weather | 96 | weather |
+
+### [estevg/skills](https://github.com/estevg/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| creating-reanimated-animations | 96 | creating-reanimated-animations |
+
+### [advisorydz/wechat-daily-report-skill](https://github.com/advisorydz/wechat-daily-report-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| wechat-daily-report | 95 | wechat-daily-report |
+
+### [andyhuo520/aetherviz-master](https://github.com/andyhuo520/aetherviz-master) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| aetherviz-master | 95 | aetherviz-master |
+
+### [jgeurts/eslint-config-decent](https://github.com/jgeurts/eslint-config-decent) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| enforcing-typescript-standards | 95 | enforcing-typescript-standards |
+
+### [meleantonio/awesome-econ-ai-stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| academic-paper-writer | 95 | academic-paper-writer |
+
+### [spatie/ray-skills](https://github.com/spatie/ray-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ray | 95 | ray |
+
+### [2939387245/agent-skill_stm32-freertos](https://github.com/2939387245/agent-skill_stm32-freertos) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| stm32-freertos-developer | 94 | stm32-freertos-developer |
+
+### [abdelhakrazi/flutter-bloc-clean-architecture-skill](https://github.com/abdelhakrazi/flutter-bloc-clean-architecture-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| flutter-bloc-development | 94 | flutter-bloc-development |
+
+### [bnd-1/taste-skill](https://github.com/bnd-1/taste-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| design-taste-frontend | 94 | design-taste-frontend |
+
+### [calcom/cal.com](https://github.com/calcom/cal.com) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| calcom-api | 94 | calcom-api |
+
+### [jetbrains/go-modern-guidelines](https://github.com/jetbrains/go-modern-guidelines) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| use-modern-go | 94 | use-modern-go |
+
+### [luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| jianying-editor | 94 | jianying-editor |
+
+### [ppx123-web/claude-config](https://github.com/ppx123-web/claude-config) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| wechat-article-fetcher | 94 | wechat-article-fetcher |
+
+### [rkreddyp/investrecipes](https://github.com/rkreddyp/investrecipes) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| industry-research | 94 | industry-research |
+
+### [trancong12102/agentskills](https://github.com/trancong12102/agentskills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| deps-dev | 94 | deps-dev |
+
+### [collaborative-deep-research/agent-papers-cli](https://github.com/collaborative-deep-research/agent-papers-cli) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| literature-review | 93 | literature-review |
+
+### [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| cmake | 93 | cmake |
+
+### [shining319/claude-code-single-person-workflow](https://github.com/shining319/claude-code-single-person-workflow) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| academic-writing-style | 93 | academic-writing-style |
+
+### [sketch-hq/skills](https://github.com/sketch-hq/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| sketch-implement-design | 93 | sketch-implement-design |
+
+### [su69ar/rdnax-gsap-master](https://github.com/su69ar/rdnax-gsap-master) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| gsap-master | 93 | gsap-master |
+
+### [adspower/adspower-browser](https://github.com/adspower/adspower-browser) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| adspower-browser | 92 | adspower-browser |
+
+### [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| octocode-research | 92 | octocode-research |
+
+### [fatfingererr/macro-skills](https://github.com/fatfingererr/macro-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| list-china-today-macro-news | 92 | list-china-today-macro-news |
+
+### [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| php-guidelines-from-spatie | 92 | php-guidelines-from-spatie |
+
+### [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| mcp2cli | 92 | mcp2cli |
+
+### [mkshahzad77/claude-skill-strapi-expert](https://github.com/mkshahzad77/claude-skill-strapi-expert) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| strapi-expert | 92 | strapi-expert |
+
+### [niller2005/polyflup](https://github.com/niller2005/polyflup) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| polymarket-trading | 92 | polymarket-trading |
+
+### [vieko/bonfire](https://github.com/vieko/bonfire) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| bonfire | 92 | bonfire |
+
+### [arcblock/myvibe-skills](https://github.com/arcblock/myvibe-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| myvibe-publish | 91 | myvibe-publish |
+
+### [chjm-ai/stock-daily-analysis-skill](https://github.com/chjm-ai/stock-daily-analysis-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| stock-daily-analysis | 91 | stock-daily-analysis |
+
+### [fearovex/claude-config](https://github.com/fearovex/claude-config) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| image-ocr | 91 | image-ocr |
+
+### [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| browsing | 91 | browsing |
+
+### [pluginagentmarketplace/custom-plugin-angular](https://github.com/pluginagentmarketplace/custom-plugin-angular) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| angular-material | 91 | angular-material |
+
+### [theagentservice/skills](https://github.com/theagentservice/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| openclaw-backup | 91 | openclaw-backup |
+
+### [thunderboltdev/shadcn-baseui](https://github.com/thunderboltdev/shadcn-baseui) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| shadcn-baseui | 91 | shadcn-baseui |
+
+### [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| trigger-dev-tasks | 91 | trigger-dev-tasks |
+
+### [agricidaniel/claude-ads](https://github.com/agricidaniel/claude-ads) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ads-tiktok | 90 | ads-tiktok |
+
+### [antinomyhq/forge](https://github.com/antinomyhq/forge) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| resolve-conflicts | 90 | resolve-conflicts |
 
 ### [blader/humanizer](https://github.com/blader/humanizer) (1 plugins)
 
@@ -9805,11 +11898,11 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | humanizer | 90 | humanizer |
 
-### [boomsystel-code/openclaw-workspace](https://github.com/boomsystel-code/openclaw-workspace) (1 plugins)
+### [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| imap-smtp-email | 90 | imap-smtp-email |
+| but | 90 | but |
 
 ### [humanizerai/agent-skills](https://github.com/humanizerai/agent-skills) (1 plugins)
 
@@ -9817,35 +11910,341 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | humanize | 90 | humanize |
 
+### [jimlee2048/skills](https://github.com/jimlee2048/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| comfyui-nodes-dev | 90 | comfyui-nodes-dev |
+
+### [netease-youdao/lobsterai](https://github.com/netease-youdao/lobsterai) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| imap-smtp-email | 90 | imap-smtp-email |
+
+### [ajmcclary/coolify-manager](https://github.com/ajmcclary/coolify-manager) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| coolify-manager | 89 | coolify-manager |
+
+### [basecamp/omarchy](https://github.com/basecamp/omarchy) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| omarchy | 89 | omarchy |
+
+### [blader/napkin](https://github.com/blader/napkin) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| napkin | 89 | napkin |
+
+### [curiouslearner/devkit](https://github.com/curiouslearner/devkit) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| csv-processor | 89 | csv-processor |
+
+### [fakehank/stock_qualitative_analysis_skills](https://github.com/fakehank/stock_qualitative_analysis_skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| stock-qualitative-analysis | 89 | stock-qualitative-analysis |
+
+### [lostabaddon/headlessknight](https://github.com/lostabaddon/headlessknight) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| reminder | 89 | reminder |
+
+### [mateeb11/weather-forecast](https://github.com/mateeb11/weather-forecast) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| weather-skill | 89 | weather-skill |
+
+### [neondatabase/ai-rules](https://github.com/neondatabase/ai-rules) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| neon-drizzle | 89 | neon-drizzle |
+
+### [asif2bd/openclaw-token-optimizer](https://github.com/asif2bd/openclaw-token-optimizer) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| token-optimizer | 88 | token-optimizer |
+
 ### [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | astro | 88 | astro |
 
-### [d4kooo/openclaw-token-memory-optimizer](https://github.com/d4kooo/openclaw-token-memory-optimizer) (1 plugins)
+### [hookdeck/webhook-skills](https://github.com/hookdeck/webhook-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| token-optimizer | 88 | token-optimizer |
+| stripe-webhooks | 88 | stripe-webhooks |
 
-### [evomap/evolver](https://github.com/evomap/evolver) (1 plugins)
+### [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| kreuzberg | 88 | kreuzberg |
+
+### [merill/msgraph](https://github.com/merill/msgraph) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| msgraph | 88 | msgraph |
+
+### [pluginagentmarketplace/custom-plugin-product-manager](https://github.com/pluginagentmarketplace/custom-plugin-product-manager) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| requirements-specification | 88 | requirements-specification |
+
+### [raintree-technology/claude-starter](https://github.com/raintree-technology/claude-starter) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| toon-formatter | 88 | toon-formatter |
+
+### [shareai-lab/learn-claude-code](https://github.com/shareai-lab/learn-claude-code) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| agent-builder | 88 | agent-builder |
+
+### [skillscatalog/registry](https://github.com/skillscatalog/registry) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| skill-create | 88 | skill-create |
+
+### [thincher/awsome_skills](https://github.com/thincher/awsome_skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| minimax-understand-image | 88 | minimax-understand-image |
+
+### [geekjourneyx/jina-cli](https://github.com/geekjourneyx/jina-cli) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| jina-cli | 87 | jina-cli |
+
+### [jarodise/cninfo2notebookllm](https://github.com/jarodise/cninfo2notebookllm) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| cninfo-to-notebooklm | 87 | cninfo-to-notebooklm |
+
+### [kesslerio/technews-openclaw-skill](https://github.com/kesslerio/technews-openclaw-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| technews | 87 | technews |
+
+### [kirorab/12306-skill](https://github.com/kirorab/12306-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| 12306 | 87 | 12306 |
+
+### [narumiruna/telegram-bot](https://github.com/narumiruna/telegram-bot) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| aiogram-framework | 87 | aiogram-framework |
+
+### [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| feishu-cli-toolkit | 87 | feishu-cli-toolkit |
+
+### [tatat/agents-playground](https://github.com/tatat/agents-playground) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| fitness-coach | 87 | fitness-coach |
+
+### [autogame-17/evolver](https://github.com/autogame-17/evolver) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | capability-evolver | 86 | capability-evolver |
 
-### [kastalien-research/thoughtbox-dot-claude](https://github.com/kastalien-research/thoughtbox-dot-claude) (1 plugins)
+### [bowtiedswan/animejs-skills](https://github.com/bowtiedswan/animejs-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| animejs | 86 | animejs |
+
+### [cacr92/wereply](https://github.com/cacr92/wereply) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| wechat-automation | 86 | wechat-automation |
+
+### [horuz-ai/claude-plugins](https://github.com/horuz-ai/claude-plugins) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| website-cloner | 86 | website-cloner |
+
+### [mgratzer/bloomery](https://github.com/mgratzer/bloomery) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| bloomery | 86 | bloomery |
+
+### [parags/deep-research-pro](https://github.com/parags/deep-research-pro) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| deep-research-pro | 86 | deep-research-pro |
+
+### [rosalynyang/feishu-doc-creator-skill](https://github.com/rosalynyang/feishu-doc-creator-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| feishu-doc-orchestrator | 86 | feishu-doc-orchestrator |
+
+### [tomasonjo/blogs](https://github.com/tomasonjo/blogs) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| neo4j-cypher-guide | 86 | neo4j-cypher-guide |
+
+### [autumnsgrove/groveengine](https://github.com/autumnsgrove/groveengine) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| git-workflows | 85 | git-workflows |
+
+### [bogdanustyak/flutter-expert-skill](https://github.com/bogdanustyak/flutter-expert-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| flutter-dev | 85 | flutter-dev |
+
+### [liangdabiao/claude-data-analysis-ultra-main](https://github.com/liangdabiao/claude-data-analysis-ultra-main) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| data-exploration-visualization | 85 | data-exploration-visualization |
+
+### [liu-wei-ai/douyin-video-summary](https://github.com/liu-wei-ai/douyin-video-summary) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| douyin-video-summary | 85 | douyin-video-summary |
+
+### [openbb-finance/backends-for-openbb](https://github.com/openbb-finance/backends-for-openbb) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| openbb-app-builder | 85 | openbb-app-builder |
+
+### [valyuai/skills](https://github.com/valyuai/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| valyu-best-practices | 85 | valyu-best-practices |
+
+### [fawaz-i/spline-3d-integration](https://github.com/fawaz-i/spline-3d-integration) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| spline-3d-integration | 84 | spline-3d-integration |
+
+### [liuchiawei/agent-skills](https://github.com/liuchiawei/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| next-intl-app-router | 84 | next-intl-app-router |
+
+### [pluginagentmarketplace/custom-plugin-docker](https://github.com/pluginagentmarketplace/custom-plugin-docker) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| docker-compose-setup | 84 | docker-compose-setup |
+
+### [resemble-ai/remotion-resemble-skill](https://github.com/resemble-ai/remotion-resemble-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| remotion-resemble-ai | 84 | remotion-resemble-ai |
+
+### [supabase/supabase](https://github.com/supabase/supabase) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| e2e-studio-tests | 84 | e2e-studio-tests |
+
+### [teeverc/effect-ts-skills](https://github.com/teeverc/effect-ts-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | effect-ts | 84 | effect-ts |
+
+### [the1studio/theone-training-skills](https://github.com/the1studio/theone-training-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| theone-cocos-standards | 84 | theone-cocos-standards |
 
 ### [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | terraform-skill | 83 | terraform-skill |
+
+### [changeflowhq/skills](https://github.com/changeflowhq/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| stealth-browser | 83 | stealth-browser |
+
+### [dmccreary/claude-skills](https://github.com/dmccreary/claude-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| readme-generator | 83 | readme-generator |
+
+### [hanzoskill/youtube-watcher](https://github.com/hanzoskill/youtube-watcher) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| youtube-watcher | 83 | youtube-watcher |
+
+### [hyperpuncher/dotagents](https://github.com/hyperpuncher/dotagents) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| scrapling | 83 | scrapling |
+
+### [miquelalzanillas/odoo-oca-convention-skill](https://github.com/miquelalzanillas/odoo-oca-convention-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| odoo-oca-developer | 83 | odoo-oca-developer |
+
+### [vltansky/debug-skill](https://github.com/vltansky/debug-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| debug | 83 | debug |
+
+### [zhuhongyin/global-ecom-skills](https://github.com/zhuhongyin/global-ecom-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ali1688-sourcing | 83 | ali1688-sourcing |
 
 ### Ulpi (1 plugins)
 
@@ -9859,23 +12258,467 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | analyze | 82 | analyze |
 
+### [balloob/llm-skills](https://github.com/balloob/llm-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| home-assistant | 82 | home-assistant |
+
+### [duck4nh/antigravity-kit](https://github.com/duck4nh/antigravity-kit) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| linux-server-expert | 82 | linux-server-expert |
+
+### [getlate-dev/late-api](https://github.com/getlate-dev/late-api) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| late-api | 82 | late-api |
+
+### [jschulte/claude-plugins](https://github.com/jschulte/claude-plugins) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| reverse-engineer | 82 | reverse-engineer |
+
+### [jup-ag/agent-skills](https://github.com/jup-ag/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| integrating-jupiter | 82 | integrating-jupiter |
+
+### [kcchien/clawpilot](https://github.com/kcchien/clawpilot) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| clawpilot | 82 | clawpilot |
+
+### [komal-skynet/claude-skill-homeassistant](https://github.com/komal-skynet/claude-skill-homeassistant) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| home-assistant-manager | 82 | home-assistant-manager |
+
+### [krishagel/geoffrey](https://github.com/krishagel/geoffrey) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| morning-briefing | 82 | morning-briefing |
+
+### [lngu/openclaw-skill-freeunlimited-websearch](https://github.com/lngu/openclaw-skill-freeunlimited-websearch) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| freeunlimited-websearch | 82 | freeunlimited-websearch |
+
+### [vercel-labs/autoship](https://github.com/vercel-labs/autoship) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| autoship | 82 | autoship |
+
+### [alsk1992/cloddsbot](https://github.com/alsk1992/cloddsbot) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| binance-futures | 81 | binance-futures |
+
+### [linehaul-ai/linehaulai-claude-marketplace](https://github.com/linehaul-ai/linehaulai-claude-marketplace) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| geospatial-postgis-patterns | 81 | geospatial-postgis-patterns |
+
+### [op7418/video-wrapper-skills](https://github.com/op7418/video-wrapper-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| video-wrapper | 81 | video-wrapper |
+
+### [petbrains/mvp-builder](https://github.com/petbrains/mvp-builder) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| frontend-magic-ui | 81 | frontend-magic-ui |
+
+### [pseudoyu/agent-skills](https://github.com/pseudoyu/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| solidity-gas-optimization | 81 | solidity-gas-optimization |
+
+### [shuliuzhenhua-sys/google-serper-search](https://github.com/shuliuzhenhua-sys/google-serper-search) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| google-serper-search | 81 | google-serper-search |
+
+### [thisnick/agent-rdp](https://github.com/thisnick/agent-rdp) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| agent-rdp | 81 | agent-rdp |
+
+### [ahmadabdalla/azure-cost-calculator-skill](https://github.com/ahmadabdalla/azure-cost-calculator-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| azure-cost-calculator | 80 | azure-cost-calculator |
+
+### [antvis/infographic](https://github.com/antvis/infographic) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| infographic-creator | 80 | infographic-creator |
+
+### [daleseo/bun-skills](https://github.com/daleseo/bun-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| bun-test | 80 | bun-test |
+
+### [madappgang/claude-code](https://github.com/madappgang/claude-code) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| openrouter-trending-models | 80 | openrouter-trending-models |
+
+### [modra40/claude-codex-skills-directory](https://github.com/modra40/claude-codex-skills-directory) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| react-tanstack-senior | 80 | react-tanstack-senior |
+
+### [momo2young/humanize-academic-writing](https://github.com/momo2young/humanize-academic-writing) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| humanize-academic-writing | 80 | humanize-academic-writing |
+
+### [tamiror6/shopify-app-skills](https://github.com/tamiror6/shopify-app-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| shopify-polaris-web-components | 80 | shopify-polaris-web-components |
+
+### [tanstack-skills/tanstack-skills](https://github.com/tanstack-skills/tanstack-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tanstack-table | 80 | tanstack-table |
+
+### [teylersf/openclaw-auto-updater](https://github.com/teylersf/openclaw-auto-updater) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| auto-updater | 80 | auto-updater |
+
+### [trevors/dot-claude](https://github.com/trevors/dot-claude) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| jj-workflow | 80 | jj-workflow |
+
+### [yulong-me/skills](https://github.com/yulong-me/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| daily-news-summarizer | 80 | daily-news-summarizer |
+
+### [zed-industries/zed](https://github.com/zed-industries/zed) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| brand-writer | 80 | brand-writer |
+
 ### [anthropics/claude-code](https://github.com/anthropics/claude-code) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | claude-opus-4-5-migration | 79 | claude-opus-4-5-migration |
 
-### [fleurytian/awesome-claude-skills](https://github.com/fleurytian/awesome-claude-skills) (1 plugins)
+### [appwrite/agent-skills](https://github.com/appwrite/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| appwrite-typescript | 79 | appwrite-typescript |
+
+### [badlogic/pi-skills](https://github.com/badlogic/pi-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| brave-search | 79 | brave-search |
+
+### [drillan/speckit-gates](https://github.com/drillan/speckit-gates) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| progress-report | 79 | progress-report |
+
+### [joelhooks/joelclaw](https://github.com/joelhooks/joelclaw) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| cli-design | 79 | cli-design |
+
+### [malue-ai/dazee-small](https://github.com/malue-ai/dazee-small) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| pywinauto | 79 | pywinauto |
+
+### [martinopiaggi/summarize](https://github.com/martinopiaggi/summarize) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| video summarizer | 79 | video summarizer |
+
+### [microsoft/powertoys](https://github.com/microsoft/powertoys) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| release-note-generation | 79 | release-note-generation |
+
+### [mintlify/docs](https://github.com/mintlify/docs) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| mintlify | 79 | mintlify |
+
+### [ratacat/claude-skills](https://github.com/ratacat/claude-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ripgrep | 79 | ripgrep |
+
+### [shareai-lab/shareai-skills](https://github.com/shareai-lab/shareai-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| media-writer | 79 | media-writer |
+
+### [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| seo-aeo-audit | 79 | seo-aeo-audit |
+
+### [agynio/gh-pr-review](https://github.com/agynio/gh-pr-review) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| gh-pr-review | 78 | gh-pr-review |
+
+### [mduongvandinh/skills-java-spring](https://github.com/mduongvandinh/skills-java-spring) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| spring-boot-full-stack | 78 | spring-boot-full-stack |
+
+### [dirien/claude-skills](https://github.com/dirien/claude-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| pulumi-typescript | 77 | pulumi-typescript |
+
+### [opusgamelabs/game-creator](https://github.com/opusgamelabs/game-creator) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| phaser | 77 | phaser |
+
+### [posthog/posthog](https://github.com/posthog/posthog) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| implementing-agent-modes | 77 | implementing-agent-modes |
+
+### [solar-luna/fully-automatic-article-generation-skill](https://github.com/solar-luna/fully-automatic-article-generation-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| xiaohongshu-publisher | 77 | xiaohongshu-publisher |
+
+### [upload-post/upload-post-larry-marketing-skill](https://github.com/upload-post/upload-post-larry-marketing-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tiktok-app-marketing | 77 | tiktok-app-marketing |
+
+### [0xdarkmatter/claude-mods](https://github.com/0xdarkmatter/claude-mods) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| file-search | 76 | file-search |
+
+### [aaaronmiller/create-viral-content](https://github.com/aaaronmiller/create-viral-content) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| create-viral-content | 76 | create-viral-content |
+
+### [bassimeledath/dispatch](https://github.com/bassimeledath/dispatch) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| dispatch | 76 | dispatch |
+
+### [haowjy/creative-writing-skills](https://github.com/haowjy/creative-writing-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| cw-prose-writing | 76 | cw-prose-writing |
+
+### [nangohq/skills](https://github.com/nangohq/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| nango-function-builder | 76 | nango-function-builder |
+
+### [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| d3k | 76 | d3k |
+
+### [vuetifyjs/0](https://github.com/vuetifyjs/0) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| vuetify0 | 76 | vuetify0 |
+
+### [xiaolai/vmark](https://github.com/xiaolai/vmark) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tiptap-editor | 76 | tiptap-editor |
+
+### [yfe404/web-scraper](https://github.com/yfe404/web-scraper) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| web-scraping | 76 | web-scraping |
+
+### [ab300819/skills](https://github.com/ab300819/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| work-report | 75 | work-report |
+
+### [belumume/claude-skills](https://github.com/belumume/claude-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ralph-loop | 75 | ralph-loop |
+
+### [getalby/alby-agent-skill](https://github.com/getalby/alby-agent-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| alby-bitcoin-payments-agent-skill | 75 | alby-bitcoin-payments-agent-skill |
+
+### [gramiojs/documentation](https://github.com/gramiojs/documentation) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| gramio | 75 | gramio |
+
+### [joeseesun/qiaomu-x-article-publisher](https://github.com/joeseesun/qiaomu-x-article-publisher) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| x-article-publisher | 75 | x-article-publisher |
+
+### [onnokh/lighthouse](https://github.com/onnokh/lighthouse) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| lighthouse | 75 | lighthouse |
+
+### [pbnicad/telegram-bot-grammy-skill](https://github.com/pbnicad/telegram-bot-grammy-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| telegram-bot-grammy | 75 | telegram-bot-grammy |
+
+### [raphaelbarbosaqwerty/maestro-dev-skills](https://github.com/raphaelbarbosaqwerty/maestro-dev-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| maestro-e2e | 75 | maestro-e2e |
+
+### [tuesd4y/agent-skills](https://github.com/tuesd4y/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| translate | 75 | translate |
+
+### [1018466411/openclaw-stock-data-skill](https://github.com/1018466411/openclaw-stock-data-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| openclaw-stock-skill | 74 | openclaw-stock-skill |
+
+### [diskd-ai/design-doc](https://github.com/diskd-ai/design-doc) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| design-doc | 74 | design-doc |
+
+### [javalenciacai/qaskills](https://github.com/javalenciacai/qaskills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| senior-qa-engineer | 74 | senior-qa-engineer |
+
+### [mann1988/awesome-claude-skills](https://github.com/mann1988/awesome-claude-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | mckinsey-consultant | 74 | mckinsey-consultant |
 
-### [seojoonkim/prompt-guard](https://github.com/seojoonkim/prompt-guard) (1 plugins)
+### [mikr13/secure-server-setup-skills](https://github.com/mikr13/secure-server-setup-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| prompt-guard | 74 | prompt-guard |
+| ssh-hardening | 74 | ssh-hardening |
+
+### [s-hiraoku/skills-factory](https://github.com/s-hiraoku/skills-factory) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| jotai-expert | 74 | jotai-expert |
+
+### [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| wechat-article-writer | 74 | wechat-article-writer |
+
+### [tomcoolpxl/sugar-splat](https://github.com/tomcoolpxl/sugar-splat) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| writing phaser 3 games | 74 | writing phaser 3 games |
+
+### [wvlvik/toy-skills](https://github.com/wvlvik/toy-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| jimeng-api-image-gen | 74 | jimeng-api-image-gen |
+
+### [xtone/ai_development_tools](https://github.com/xtone/ai_development_tools) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| pr-triage | 74 | pr-triage |
+
+### [zjianru/web-search-pro](https://github.com/zjianru/web-search-pro) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| web-search-pro | 74 | web-search-pro |
 
 ### [benedictking/codex-review](https://github.com/benedictking/codex-review) (1 plugins)
 
@@ -9883,11 +12726,47 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | codex-review | 73 | codex-review |
 
+### [breath57/dingtalk-skills](https://github.com/breath57/dingtalk-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| dingtalk-document | 73 | dingtalk-document |
+
+### [cevatkerim/skills](https://github.com/cevatkerim/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| unsplash | 73 | unsplash |
+
 ### [dpconde/claude-android-skill](https://github.com/dpconde/claude-android-skill) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | android-development | 73 | android-development |
+
+### [emeraldls/mmt-agent-skills](https://github.com/emeraldls/mmt-agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| mmt-tradingview-charts | 73 | mmt-tradingview-charts |
+
+### [huifer/wellally-health](https://github.com/huifer/wellally-health) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| nutrition-analyzer | 73 | nutrition-analyzer |
+
+### [jaredlander/freshbooks-speed](https://github.com/jaredlander/freshbooks-speed) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| css | 73 | css |
+
+### [open-pencil/skills](https://github.com/open-pencil/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| open-pencil | 73 | open-pencil |
 
 ### [rawveg/skillsforge-marketplace](https://github.com/rawveg/skillsforge-marketplace) (1 plugins)
 
@@ -9895,11 +12774,71 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | ollama | 73 | ollama |
 
+### [tencentcloudbase/cloudbase-mcp](https://github.com/tencentcloudbase/cloudbase-mcp) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| miniprogram-development | 73 | miniprogram-development |
+
+### [zenobi-us/dotfiles](https://github.com/zenobi-us/dotfiles) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| leaflet-mapping | 73 | leaflet-mapping |
+
+### [abcfed/claude-marketplace](https://github.com/abcfed/claude-marketplace) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tapd | 72 | tapd |
+
+### [axiomhq/gilfoyle](https://github.com/axiomhq/gilfoyle) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| gilfoyle | 72 | gilfoyle |
+
 ### [composiohq/skills](https://github.com/composiohq/skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | composio | 72 | composio |
+
+### [deletexiumu/agentskills-hub](https://github.com/deletexiumu/agentskills-hub) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ai-news-digest | 72 | ai-news-digest |
+
+### [maartenlouis/remotion-ads](https://github.com/maartenlouis/remotion-ads) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| remotion-ads | 72 | remotion-ads |
+
+### [narumiruna/agent-skills](https://github.com/narumiruna/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| svg-illustration | 72 | svg-illustration |
+
+### [oven-sh/bun](https://github.com/oven-sh/bun) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| zig-system-calls | 72 | zig-system-calls |
+
+### [saifyxpro/ui-ux-design-pro-skill](https://github.com/saifyxpro/ui-ux-design-pro-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ui-ux-design-pro | 72 | ui-ux-design-pro |
+
+### [sean-esk/second-brain-gtd](https://github.com/sean-esk/second-brain-gtd) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| second-brain | 72 | second-brain |
 
 ### [shadcn/ui](https://github.com/shadcn/ui) (1 plugins)
 
@@ -9907,17 +12846,143 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | shadcn | 72 | shadcn |
 
+### [wimolivier/postgresql-best-practices](https://github.com/wimolivier/postgresql-best-practices) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| postgresql-best-practices | 72 | postgresql-best-practices |
+
+### [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| software-security | 71 | software-security |
+
+### [damianwrooby/javascript-clean-code-skills](https://github.com/damianwrooby/javascript-clean-code-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| clean-codejs-functions | 71 | clean-codejs-functions |
+
+### [miroapp/miro-ai](https://github.com/miroapp/miro-ai) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| miro-mcp | 71 | miro-mcp |
+
+### [piekill/xiaohongshu-summarizer-skill](https://github.com/piekill/xiaohongshu-summarizer-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| xiaohongshu-search-summarizer | 71 | xiaohongshu-search-summarizer |
+
+### [sebastiaanwouters/dotagents](https://github.com/sebastiaanwouters/dotagents) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| flyctl | 71 | flyctl |
+
+### [slanycukr/riot-api-project](https://github.com/slanycukr/riot-api-project) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| axios | 71 | axios |
+
+### [alexskuznetsov/claude-skill-telegram](https://github.com/alexskuznetsov/claude-skill-telegram) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| telegram-reminders | 70 | telegram-reminders |
+
+### [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| databricks-python-sdk | 70 | databricks-python-sdk |
+
+### [junsuzuki1973/openclaw-skill-byterover](https://github.com/junsuzuki1973/openclaw-skill-byterover) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| byterover | 70 | byterover |
+
+### [oakoss/agent-skills](https://github.com/oakoss/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| playwright | 70 | playwright |
+
+### [openaec-foundation/erpnext_anthropic_claude_development_skill_package](https://github.com/openaec-foundation/erpnext_anthropic_claude_development_skill_package) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| erpnext-code-interpreter | 70 | erpnext-code-interpreter |
+
+### [skillhq/telegram](https://github.com/skillhq/telegram) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| telegram | 70 | telegram |
+
+### [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| supermemory | 70 | supermemory |
+
+### [x-zero-l/agent-skills](https://github.com/x-zero-l/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| gemini-cli | 70 | gemini-cli |
+
+### [0xdesign/design-plugin](https://github.com/0xdesign/design-plugin) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| design-lab | 69 | design-lab |
+
+### [b-open-io/prompts](https://github.com/b-open-io/prompts) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| x-research | 69 | x-research |
+
+### [basecamp/skills](https://github.com/basecamp/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| basecamp | 69 | basecamp |
+
+### [bitwarden/clients](https://github.com/bitwarden/clients) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| angular-modernization | 69 | angular-modernization |
+
+### [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| skill-developer | 69 | skill-developer |
+
+### [molty-assistant/agent-memory-skill](https://github.com/molty-assistant/agent-memory-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| agent-memory | 69 | agent-memory |
+
+### [nhadaututtheky/neural-memory](https://github.com/nhadaututtheky/neural-memory) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| memory-evolution | 69 | memory-evolution |
+
 ### [notedit/happy-skills](https://github.com/notedit/happy-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | screenshot-analyzer | 69 | screenshot-analyzer |
-
-### [oil-oil/codex](https://github.com/oil-oil/codex) (1 plugins)
-
-| Plugin | Installs | Description |
-|--------|----------|-------------|
-| codex | 69 | codex |
 
 ### [remotion-dev/skills](https://github.com/remotion-dev/skills) (1 plugins)
 
@@ -9925,11 +12990,29 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | remotion-best-practices | 69 | remotion-best-practices |
 
-### [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill) (1 plugins)
+### [ronantakizawa/japanese-webdesign](https://github.com/ronantakizawa/japanese-webdesign) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| x-research | 69 | x-research |
+| japanese-webdesign | 69 | japanese-webdesign |
+
+### [skills-directory/skill-codex](https://github.com/skills-directory/skill-codex) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| codex | 69 | codex |
+
+### [steveclarke/real-world-rails](https://github.com/steveclarke/real-world-rails) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| real-world-rails | 69 | real-world-rails |
+
+### [turixai/turix-cua](https://github.com/turixai/turix-cua) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| turix-mac | 69 | turix-mac |
 
 ### [vercel-labs/skills](https://github.com/vercel-labs/skills) (1 plugins)
 
@@ -9937,23 +13020,335 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | find-skills | 69 | find-skills |
 
+### [banjtheman/travel-companion-skill](https://github.com/banjtheman/travel-companion-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| travel-companion | 68 | travel-companion |
+
+### [brooksy4503/rss-agent-discovery](https://github.com/brooksy4503/rss-agent-discovery) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| rss-agent-discovery | 68 | rss-agent-discovery |
+
 ### [cat-xierluo/legal-skills](https://github.com/cat-xierluo/legal-skills) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | douyin-batch-download | 68 | douyin-batch-download |
 
-### [michalparkola/tapestry-skills-for-claude-code](https://github.com/michalparkola/tapestry-skills-for-claude-code) (1 plugins)
+### [johnlarkin1/claude-code-extensions](https://github.com/johnlarkin1/claude-code-extensions) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| article-extractor | 68 | article-extractor |
+| textual | 68 | textual |
 
-### [useai-pro/openclaw-skills-security](https://github.com/useai-pro/openclaw-skills-security) (1 plugins)
+### [lingfengqaq/webnovel-writer](https://github.com/lingfengqaq/webnovel-writer) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
-| skill-vetter | 68 | skill-vetter |
+| webnovel-write | 68 | webnovel-write |
+
+### [mae616/design-skills](https://github.com/mae616/design-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| usability-psychologist | 68 | usability-psychologist |
+
+### [majesticlabs-dev/majestic-marketplace](https://github.com/majesticlabs-dev/majestic-marketplace) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| google-ads-strategy | 68 | google-ads-strategy |
+
+### [mapbox/mcp-devkit-server](https://github.com/mapbox/mcp-devkit-server) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| mapbox-integration-patterns | 68 | mapbox-integration-patterns |
+
+### [petekp/claude-code-setup](https://github.com/petekp/claude-code-setup) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| code-comments | 68 | code-comments |
+
+### [runpod/skills](https://github.com/runpod/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| runpodctl | 68 | runpodctl |
+
+### [sanctifiedops/solana-skills](https://github.com/sanctifiedops/solana-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| trading-bot-architecture | 68 | trading-bot-architecture |
+
+### [sgcarstrends/sgcarstrends](https://github.com/sgcarstrends/sgcarstrends) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| shadcn-components | 68 | shadcn-components |
+
+### [tencentblueking/bk-ci](https://github.com/tencentblueking/bk-ci) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| frontend-vue-development | 68 | frontend-vue-development |
+
+### [weaviate/agent-skills](https://github.com/weaviate/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| weaviate | 68 | weaviate |
+
+### [yoanbernabeu/slidev-skills](https://github.com/yoanbernabeu/slidev-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| slidev-quick-start | 68 | slidev-quick-start |
+
+### [esramulkpinar/prime-frontend-skills](https://github.com/esramulkpinar/prime-frontend-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| frontend-prime | 67 | frontend-prime |
+
+### [futuregerald/futuregerald-claude-plugin](https://github.com/futuregerald/futuregerald-claude-plugin) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| adonisjs-best-practices | 67 | adonisjs-best-practices |
+
+### [iloveitaly/ai-skills](https://github.com/iloveitaly/ai-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| justfile | 67 | justfile |
+
+### [kimny1143/claude-code-template](https://github.com/kimny1143/claude-code-template) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ux-psychology | 67 | ux-psychology |
+
+### [motion-creative/skills](https://github.com/motion-creative/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ugc-scriptwriter | 67 | ugc-scriptwriter |
+
+### [niracler/skill](https://github.com/niracler/skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| writing-proofreading | 67 | writing-proofreading |
+
+### [olehsvyrydov/ai-development-team](https://github.com/olehsvyrydov/ai-development-team) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| legal-counsel | 67 | legal-counsel |
+
+### [rocket-repos/agent-skills](https://github.com/rocket-repos/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| amazon-associates | 67 | amazon-associates |
+
+### [vercel/flags](https://github.com/vercel/flags) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| flags-sdk | 67 | flags-sdk |
+
+### [vishalsachdev/claude-code-skills](https://github.com/vishalsachdev/claude-code-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| paper-writing | 67 | paper-writing |
+
+### [xer97/fund-assistant](https://github.com/xer97/fund-assistant) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| fund-assistant | 67 | fund-assistant |
+
+### [aiagentskills/skills](https://github.com/aiagentskills/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| landing-page-optimizer | 66 | landing-page-optimizer |
+
+### [ansanabria/skills](https://github.com/ansanabria/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| recharts | 66 | recharts |
+
+### [btc-vision/opnet-skills](https://github.com/btc-vision/opnet-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| opnet-development | 66 | opnet-development |
+
+### [cleydson/flutter-claude-code](https://github.com/cleydson/flutter-claude-code) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| flutter-patterns | 66 | flutter-patterns |
+
+### [dagster-io/erk](https://github.com/dagster-io/erk) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| dignified-code-simplifier | 66 | dignified-code-simplifier |
+
+### [desplega-ai/qa-use](https://github.com/desplega-ai/qa-use) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| qa-use | 66 | qa-use |
+
+### [dreamineering/meme-times](https://github.com/dreamineering/meme-times) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| meme-trader | 66 | meme-trader |
+
+### [jasonjgardner/blockbench-mcp-project](https://github.com/jasonjgardner/blockbench-mcp-project) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| blockbench-modeling | 66 | blockbench-modeling |
+
+### [onekeyhq/app-monorepo](https://github.com/onekeyhq/app-monorepo) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| implementing-figma-designs | 66 | implementing-figma-designs |
+
+### [pspdfkit-labs/nutrient-agent-skill](https://github.com/pspdfkit-labs/nutrient-agent-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| nutrient-document-processing | 66 | nutrient-document-processing |
+
+### [sumelabs/clawra](https://github.com/sumelabs/clawra) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| clawra-selfie | 66 | clawra-selfie |
+
+### [tartinerlabs/skills](https://github.com/tartinerlabs/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| project-structure | 66 | project-structure |
+
+### [wolke/ziwei-doushu](https://github.com/wolke/ziwei-doushu) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ziwei-doushu | 66 | ziwei-doushu |
+
+### [zsyggg/paper-craft-skills](https://github.com/zsyggg/paper-craft-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| paper-analyzer | 66 | paper-analyzer |
+
+### [massgen/massgen](https://github.com/massgen/massgen) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| serena | 65 | serena |
+
+### [pluginagentmarketplace/custom-plugin-php](https://github.com/pluginagentmarketplace/custom-plugin-php) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| php-symfony | 65 | php-symfony |
+
+### [polymarket/agent-skills](https://github.com/polymarket/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| web3-polymarket | 65 | web3-polymarket |
+
+### [proompteng/lab](https://github.com/proompteng/lab) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| temporal | 65 | temporal |
+
+### [quiknode-labs/solana-anchor-claude-skill](https://github.com/quiknode-labs/solana-anchor-claude-skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| solana-anchor-claude-skill | 65 | solana-anchor-claude-skill |
+
+### [thomasholknielsen/claude-code-config](https://github.com/thomasholknielsen/claude-code-config) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| websearch-deep | 65 | websearch-deep |
+
+### [varghq/skills](https://github.com/varghq/skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| media-generation | 65 | media-generation |
+
+### [yrom/arxiv-paper-translator](https://github.com/yrom/arxiv-paper-translator) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| arxiv-paper-translator | 65 | arxiv-paper-translator |
+
+### [zrt-ai-lab/opencode-skills](https://github.com/zrt-ai-lab/opencode-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| videocut-subtitle | 65 | videocut-subtitle |
+
+### [bahayonghang/my-claude-code-settings](https://github.com/bahayonghang/my-claude-code-settings) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| tech-design-doc | 64 | tech-design-doc |
+
+### [chroma-core/agent-skills](https://github.com/chroma-core/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| chroma | 64 | chroma |
+
+### [clidey/whodb](https://github.com/clidey/whodb) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| whodb | 64 | whodb |
+
+### [dcjanus/prompts](https://github.com/dcjanus/prompts) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ticktick-cli | 64 | ticktick-cli |
+
+### [docyrus/agent-skills](https://github.com/docyrus/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| docyrus-api-dev | 64 | docyrus-api-dev |
+
+### [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| ffuf-web-fuzzing | 64 | ffuf-web-fuzzing |
 
 ### [kadajett/agent-nestjs-skills](https://github.com/kadajett/agent-nestjs-skills) (1 plugins)
 
@@ -9961,17 +13356,29 @@ claude plugin install frontend-design@ulpi-marketplace
 |--------|----------|-------------|
 | nestjs-best-practices | 64 | nestjs-best-practices |
 
-### [rtgs2017/nagaagent](https://github.com/rtgs2017/nagaagent) (1 plugins)
+### [open-circle/agent-skills](https://github.com/open-circle/agent-skills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| valibot-usage | 64 | valibot-usage |
+
+### [openakita/openakita](https://github.com/openakita/openakita) (1 plugins)
 
 | Plugin | Installs | Description |
 |--------|----------|-------------|
 | file-manager | 64 | file-manager |
 
+### [vincentkoc/dotskills](https://github.com/vincentkoc/dotskills) (1 plugins)
+
+| Plugin | Installs | Description |
+|--------|----------|-------------|
+| technical-documentation | 64 | technical-documentation |
+
 ## Credits
 
 - **[skills.sh](https://skills.sh)** — The open agent skills directory where all skills are discovered and ranked
 - **All original skill authors** — Each plugin was created by its respective author and sourced from their GitHub repository. See individual plugin directories for original author and repository info
-- **[Ulpi](https://ulpi.io)** — Packaging and marketplace curation
+- **[Ulpi](https://ulpi.io)** & **[The Casual Leader](https://www.thecasualleader.com/)** — Packaging and marketplace curation
 
 This marketplace does not claim ownership of any skills. All credit goes to the original authors.
 

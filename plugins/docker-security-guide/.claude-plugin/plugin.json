@@ -1,0 +1,9 @@
+{
+  "name": "docker-security-guide",
+  "version": "1.0.0",
+  "description": "docker-security-guide skill from josiahsiegel/claude-plugin-marketplace",
+  "author": {
+    "name": "josiahsiegel"
+  },
+  "repository": "https://github.com/josiahsiegel/claude-plugin-marketplace"
+}

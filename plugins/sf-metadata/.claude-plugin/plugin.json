@@ -1,0 +1,9 @@
+{
+  "name": "sf-metadata",
+  "version": "1.0.0",
+  "description": "sf-metadata skill from jaganpro/sf-skills",
+  "author": {
+    "name": "jaganpro"
+  },
+  "repository": "https://github.com/jaganpro/sf-skills"
+}

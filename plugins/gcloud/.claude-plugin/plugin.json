@@ -1,0 +1,9 @@
+{
+  "name": "gcloud",
+  "version": "1.0.0",
+  "description": "gcloud skill from dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations",
+  "author": {
+    "name": "dicklesworthstone"
+  },
+  "repository": "https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations"
+}

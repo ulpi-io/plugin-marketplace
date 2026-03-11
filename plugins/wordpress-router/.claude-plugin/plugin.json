@@ -1,0 +1,9 @@
+{
+  "name": "wordpress-router",
+  "version": "1.0.0",
+  "description": "wordpress-router skill from automattic/agent-skills",
+  "author": {
+    "name": "automattic"
+  },
+  "repository": "https://github.com/automattic/agent-skills"
+}

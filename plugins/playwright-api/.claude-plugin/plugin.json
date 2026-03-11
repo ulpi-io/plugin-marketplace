@@ -1,0 +1,9 @@
+{
+  "name": "playwright-api",
+  "version": "1.0.0",
+  "description": "playwright-api skill from microsoft/playwright",
+  "author": {
+    "name": "microsoft"
+  },
+  "repository": "https://github.com/microsoft/playwright"
+}

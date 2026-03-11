@@ -1,0 +1,9 @@
+{
+  "name": "agentwallet",
+  "version": "1.0.0",
+  "description": "agentwallet skill from frames-engineering/skills",
+  "author": {
+    "name": "frames-engineering"
+  },
+  "repository": "https://github.com/frames-engineering/skills"
+}

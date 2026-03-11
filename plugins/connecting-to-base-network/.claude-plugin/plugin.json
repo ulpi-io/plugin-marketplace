@@ -1,0 +1,9 @@
+{
+  "name": "connecting-to-base-network",
+  "version": "1.0.0",
+  "description": "connecting-to-base-network skill from base/skills",
+  "author": {
+    "name": "base"
+  },
+  "repository": "https://github.com/base/skills"
+}

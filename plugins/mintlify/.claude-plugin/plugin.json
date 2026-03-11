@@ -1,0 +1,9 @@
+{
+  "name": "mintlify",
+  "version": "1.0.0",
+  "description": "mintlify skill from mintlify/docs",
+  "author": {
+    "name": "mintlify"
+  },
+  "repository": "https://github.com/mintlify/docs"
+}

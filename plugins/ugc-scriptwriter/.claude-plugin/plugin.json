@@ -1,0 +1,9 @@
+{
+  "name": "ugc-scriptwriter",
+  "version": "1.0.0",
+  "description": "ugc-scriptwriter skill from motion-creative/skills",
+  "author": {
+    "name": "motion-creative"
+  },
+  "repository": "https://github.com/motion-creative/skills"
+}

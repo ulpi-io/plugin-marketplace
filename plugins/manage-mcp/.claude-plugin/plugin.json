@@ -1,0 +1,9 @@
+{
+  "name": "manage-mcp",
+  "version": "1.0.0",
+  "description": "manage-mcp skill from nuxt-modules/mcp-toolkit",
+  "author": {
+    "name": "nuxt-modules"
+  },
+  "repository": "https://github.com/nuxt-modules/mcp-toolkit"
+}

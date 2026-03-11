@@ -1,0 +1,9 @@
+{
+  "name": "home-assistant-custom-integration",
+  "version": "1.0.0",
+  "description": "home-assistant-custom-integration skill from bradsjm/hassio-addons",
+  "author": {
+    "name": "bradsjm"
+  },
+  "repository": "https://github.com/bradsjm/hassio-addons"
+}

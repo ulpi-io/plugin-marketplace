@@ -1,0 +1,9 @@
+{
+  "name": "toutiao-publisher",
+  "version": "1.0.0",
+  "description": "toutiao-publisher skill from guanyang/super-publisher",
+  "author": {
+    "name": "guanyang"
+  },
+  "repository": "https://github.com/guanyang/super-publisher"
+}

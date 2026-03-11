@@ -1,0 +1,9 @@
+{
+  "name": "plasmo-extension-architect",
+  "version": "1.0.0",
+  "description": "plasmo-extension-architect skill from shipshitdev/library",
+  "author": {
+    "name": "shipshitdev"
+  },
+  "repository": "https://github.com/shipshitdev/library"
+}

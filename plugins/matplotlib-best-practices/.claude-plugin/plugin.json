@@ -1,0 +1,9 @@
+{
+  "name": "matplotlib-best-practices",
+  "version": "1.0.0",
+  "description": "matplotlib-best-practices skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

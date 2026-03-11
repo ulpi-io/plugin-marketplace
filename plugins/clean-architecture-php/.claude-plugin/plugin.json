@@ -1,0 +1,9 @@
+{
+  "name": "clean-architecture-php",
+  "version": "1.0.0",
+  "description": "clean-architecture-php skill from giuseppe-trisciuoglio/developer-kit",
+  "author": {
+    "name": "giuseppe-trisciuoglio"
+  },
+  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
+}

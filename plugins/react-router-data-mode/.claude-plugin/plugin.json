@@ -1,0 +1,9 @@
+{
+  "name": "react-router-data-mode",
+  "version": "1.0.0",
+  "description": "react-router-data-mode skill from remix-run/agent-skills",
+  "author": {
+    "name": "remix-run"
+  },
+  "repository": "https://github.com/remix-run/agent-skills"
+}

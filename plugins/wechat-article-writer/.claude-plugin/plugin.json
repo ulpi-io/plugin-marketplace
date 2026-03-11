@@ -1,0 +1,9 @@
+{
+  "name": "wechat-article-writer",
+  "version": "1.0.0",
+  "description": "wechat-article-writer skill from smallnest/langgraphgo",
+  "author": {
+    "name": "smallnest"
+  },
+  "repository": "https://github.com/smallnest/langgraphgo"
+}

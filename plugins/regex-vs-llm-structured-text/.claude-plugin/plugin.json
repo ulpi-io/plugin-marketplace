@@ -1,0 +1,9 @@
+{
+  "name": "regex-vs-llm-structured-text",
+  "version": "1.0.0",
+  "description": "regex-vs-llm-structured-text skill from affaan-m/everything-claude-code",
+  "author": {
+    "name": "affaan-m"
+  },
+  "repository": "https://github.com/affaan-m/everything-claude-code"
+}

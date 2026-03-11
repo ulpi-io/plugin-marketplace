@@ -1,0 +1,9 @@
+{
+  "name": "multimodal-analysis",
+  "version": "1.0.0",
+  "description": "multimodal-analysis skill from 404kidwiz/claude-supercode-skills",
+  "author": {
+    "name": "404kidwiz"
+  },
+  "repository": "https://github.com/404kidwiz/claude-supercode-skills"
+}

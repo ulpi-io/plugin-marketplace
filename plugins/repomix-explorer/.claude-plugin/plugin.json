@@ -1,0 +1,9 @@
+{
+  "name": "repomix-explorer",
+  "version": "1.0.0",
+  "description": "repomix-explorer skill from yamadashy/repomix",
+  "author": {
+    "name": "yamadashy"
+  },
+  "repository": "https://github.com/yamadashy/repomix"
+}

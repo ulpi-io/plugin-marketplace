@@ -1,0 +1,9 @@
+{
+  "name": "ln-625-dependencies-auditor",
+  "version": "1.0.0",
+  "description": "ln-625-dependencies-auditor skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

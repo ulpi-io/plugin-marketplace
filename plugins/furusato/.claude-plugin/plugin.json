@@ -1,0 +1,9 @@
+{
+  "name": "furusato",
+  "version": "1.0.0",
+  "description": "furusato skill from kazukinagata/shinkoku",
+  "author": {
+    "name": "kazukinagata"
+  },
+  "repository": "https://github.com/kazukinagata/shinkoku"
+}

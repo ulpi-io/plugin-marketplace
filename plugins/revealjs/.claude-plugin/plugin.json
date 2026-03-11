@@ -1,0 +1,9 @@
+{
+  "name": "revealjs",
+  "version": "1.0.0",
+  "description": "revealjs skill from ryanbbrown/revealjs-skill",
+  "author": {
+    "name": "ryanbbrown"
+  },
+  "repository": "https://github.com/ryanbbrown/revealjs-skill"
+}

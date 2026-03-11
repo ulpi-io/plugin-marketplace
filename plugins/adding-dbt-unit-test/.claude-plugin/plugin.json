@@ -1,0 +1,9 @@
+{
+  "name": "adding-dbt-unit-test",
+  "version": "1.0.0",
+  "description": "adding-dbt-unit-test skill from dbt-labs/dbt-agent-skills",
+  "author": {
+    "name": "dbt-labs"
+  },
+  "repository": "https://github.com/dbt-labs/dbt-agent-skills"
+}

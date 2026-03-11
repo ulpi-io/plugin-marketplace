@@ -1,0 +1,9 @@
+{
+  "name": "build-review-interface",
+  "version": "1.0.0",
+  "description": "build-review-interface skill from hamelsmu/evals-skills",
+  "author": {
+    "name": "hamelsmu"
+  },
+  "repository": "https://github.com/hamelsmu/evals-skills"
+}

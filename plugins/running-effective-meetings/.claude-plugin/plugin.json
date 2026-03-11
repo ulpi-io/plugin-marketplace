@@ -1,0 +1,9 @@
+{
+  "name": "running-effective-meetings",
+  "version": "1.0.0",
+  "description": "running-effective-meetings skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

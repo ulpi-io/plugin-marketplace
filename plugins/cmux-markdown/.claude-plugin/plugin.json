@@ -1,0 +1,9 @@
+{
+  "name": "cmux-markdown",
+  "version": "1.0.0",
+  "description": "cmux-markdown skill from manaflow-ai/cmux",
+  "author": {
+    "name": "manaflow-ai"
+  },
+  "repository": "https://github.com/manaflow-ai/cmux"
+}

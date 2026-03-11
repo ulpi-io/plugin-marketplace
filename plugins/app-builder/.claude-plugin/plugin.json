@@ -1,0 +1,9 @@
+{
+  "name": "app-builder",
+  "version": "1.0.0",
+  "description": "app-builder skill from vudovn/antigravity-kit",
+  "author": {
+    "name": "vudovn"
+  },
+  "repository": "https://github.com/vudovn/antigravity-kit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "vibe-check",
+  "version": "1.0.0",
+  "description": "vibe-check skill from vibiumdev/vibium",
+  "author": {
+    "name": "vibiumdev"
+  },
+  "repository": "https://github.com/vibiumdev/vibium"
+}

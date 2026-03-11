@@ -1,0 +1,9 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "init skill from astronomer/agents",
+  "author": {
+    "name": "astronomer"
+  },
+  "repository": "https://github.com/astronomer/agents"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "runpodctl",
+  "version": "1.0.0",
+  "description": "runpodctl skill from runpod/skills",
+  "author": {
+    "name": "runpod"
+  },
+  "repository": "https://github.com/runpod/skills"
+}

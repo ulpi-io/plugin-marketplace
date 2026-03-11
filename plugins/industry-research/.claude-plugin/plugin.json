@@ -1,0 +1,9 @@
+{
+  "name": "industry-research",
+  "version": "1.0.0",
+  "description": "industry-research skill from rkreddyp/investrecipes",
+  "author": {
+    "name": "rkreddyp"
+  },
+  "repository": "https://github.com/rkreddyp/investrecipes"
+}

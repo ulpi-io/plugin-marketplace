@@ -1,0 +1,9 @@
+{
+  "name": "better-result-adopt",
+  "version": "1.0.0",
+  "description": "better-result-adopt skill from dmmulroy/better-result",
+  "author": {
+    "name": "dmmulroy"
+  },
+  "repository": "https://github.com/dmmulroy/better-result"
+}

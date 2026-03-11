@@ -1,0 +1,9 @@
+{
+  "name": "sf-connected-apps",
+  "version": "1.0.0",
+  "description": "sf-connected-apps skill from jaganpro/sf-skills",
+  "author": {
+    "name": "jaganpro"
+  },
+  "repository": "https://github.com/jaganpro/sf-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pitch-deck",
+  "version": "1.0.0",
+  "description": "pitch-deck skill from anthropics/financial-services-plugins",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/financial-services-plugins"
+}

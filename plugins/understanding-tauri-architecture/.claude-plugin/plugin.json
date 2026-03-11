@@ -1,0 +1,9 @@
+{
+  "name": "understanding-tauri-architecture",
+  "version": "1.0.0",
+  "description": "understanding-tauri-architecture skill from dchuk/claude-code-tauri-skills",
+  "author": {
+    "name": "dchuk"
+  },
+  "repository": "https://github.com/dchuk/claude-code-tauri-skills"
+}

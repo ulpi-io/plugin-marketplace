@@ -1,0 +1,9 @@
+{
+  "name": "java-gradle",
+  "version": "1.0.0",
+  "description": "java-gradle skill from pluginagentmarketplace/custom-plugin-java",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-java"
+}

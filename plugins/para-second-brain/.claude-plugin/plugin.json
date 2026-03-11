@@ -1,0 +1,9 @@
+{
+  "name": "para-second-brain",
+  "version": "1.0.0",
+  "description": "para-second-brain skill from robdefeo/agent-skills",
+  "author": {
+    "name": "robdefeo"
+  },
+  "repository": "https://github.com/robdefeo/agent-skills"
+}

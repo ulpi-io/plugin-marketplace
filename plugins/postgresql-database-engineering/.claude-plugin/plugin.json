@@ -1,0 +1,9 @@
+{
+  "name": "postgresql-database-engineering",
+  "version": "1.0.0",
+  "description": "postgresql-database-engineering skill from manutej/luxor-claude-marketplace",
+  "author": {
+    "name": "manutej"
+  },
+  "repository": "https://github.com/manutej/luxor-claude-marketplace"
+}

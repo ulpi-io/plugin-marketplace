@@ -1,0 +1,9 @@
+{
+  "name": "effect-ts",
+  "version": "1.0.0",
+  "description": "effect-ts skill from teeverc/effect-ts-skills",
+  "author": {
+    "name": "teeverc"
+  },
+  "repository": "https://github.com/teeverc/effect-ts-skills"
+}

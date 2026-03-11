@@ -1,0 +1,9 @@
+{
+  "name": "skill-from-github",
+  "version": "1.0.0",
+  "description": "skill-from-github skill from gbsoss/skill-from-masters",
+  "author": {
+    "name": "gbsoss"
+  },
+  "repository": "https://github.com/gbsoss/skill-from-masters"
+}

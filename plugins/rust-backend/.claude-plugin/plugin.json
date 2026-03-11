@@ -1,0 +1,9 @@
+{
+  "name": "rust-backend",
+  "version": "1.0.0",
+  "description": "rust-backend skill from windmill-labs/windmill",
+  "author": {
+    "name": "windmill-labs"
+  },
+  "repository": "https://github.com/windmill-labs/windmill"
+}

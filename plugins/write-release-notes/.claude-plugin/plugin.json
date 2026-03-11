@@ -1,0 +1,9 @@
+{
+  "name": "write-release-notes",
+  "version": "1.0.0",
+  "description": "write-release-notes skill from tldraw/tldraw",
+  "author": {
+    "name": "tldraw"
+  },
+  "repository": "https://github.com/tldraw/tldraw"
+}

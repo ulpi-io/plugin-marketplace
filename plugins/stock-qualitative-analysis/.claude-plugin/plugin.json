@@ -1,0 +1,9 @@
+{
+  "name": "stock-qualitative-analysis",
+  "version": "1.0.0",
+  "description": "stock-qualitative-analysis skill from fakehank/stock_qualitative_analysis_skills",
+  "author": {
+    "name": "fakehank"
+  },
+  "repository": "https://github.com/fakehank/stock_qualitative_analysis_skills"
+}

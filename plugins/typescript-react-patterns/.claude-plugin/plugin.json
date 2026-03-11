@@ -1,0 +1,9 @@
+{
+  "name": "typescript-react-patterns",
+  "version": "1.0.0",
+  "description": "typescript-react-patterns skill from asyrafhussin/agent-skills",
+  "author": {
+    "name": "asyrafhussin"
+  },
+  "repository": "https://github.com/asyrafhussin/agent-skills"
+}

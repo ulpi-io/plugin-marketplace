@@ -1,0 +1,9 @@
+{
+  "name": "product-video",
+  "version": "1.0.0",
+  "description": "product-video skill from sanky369/vibe-building-skills",
+  "author": {
+    "name": "sanky369"
+  },
+  "repository": "https://github.com/sanky369/vibe-building-skills"
+}

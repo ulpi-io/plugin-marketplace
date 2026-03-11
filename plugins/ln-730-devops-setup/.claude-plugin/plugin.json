@@ -1,0 +1,9 @@
+{
+  "name": "ln-730-devops-setup",
+  "version": "1.0.0",
+  "description": "ln-730-devops-setup skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sanity-best-practices",
+  "version": "1.0.0",
+  "description": "sanity-best-practices skill from sanity-io/agent-toolkit",
+  "author": {
+    "name": "sanity-io"
+  },
+  "repository": "https://github.com/sanity-io/agent-toolkit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "docs-write",
+  "version": "1.0.0",
+  "description": "docs-write skill from metabase/metabase",
+  "author": {
+    "name": "metabase"
+  },
+  "repository": "https://github.com/metabase/metabase"
+}

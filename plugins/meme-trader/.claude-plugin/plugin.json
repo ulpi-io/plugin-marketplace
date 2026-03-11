@@ -1,0 +1,9 @@
+{
+  "name": "meme-trader",
+  "version": "1.0.0",
+  "description": "meme-trader skill from dreamineering/meme-times",
+  "author": {
+    "name": "dreamineering"
+  },
+  "repository": "https://github.com/dreamineering/meme-times"
+}

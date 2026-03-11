@@ -1,0 +1,9 @@
+{
+  "name": "gantt-chart-creator",
+  "version": "1.0.0",
+  "description": "gantt-chart-creator skill from dkyazzentwatwa/chatgpt-skills",
+  "author": {
+    "name": "dkyazzentwatwa"
+  },
+  "repository": "https://github.com/dkyazzentwatwa/chatgpt-skills"
+}

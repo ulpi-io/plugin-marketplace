@@ -1,0 +1,9 @@
+{
+  "name": "progress-report",
+  "version": "1.0.0",
+  "description": "progress-report skill from drillan/speckit-gates",
+  "author": {
+    "name": "drillan"
+  },
+  "repository": "https://github.com/drillan/speckit-gates"
+}

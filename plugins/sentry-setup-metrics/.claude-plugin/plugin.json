@@ -1,0 +1,9 @@
+{
+  "name": "sentry-setup-metrics",
+  "version": "1.0.0",
+  "description": "sentry-setup-metrics skill from getsentry/sentry-agent-skills",
+  "author": {
+    "name": "getsentry"
+  },
+  "repository": "https://github.com/getsentry/sentry-agent-skills"
+}

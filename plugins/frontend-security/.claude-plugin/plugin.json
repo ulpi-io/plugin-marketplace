@@ -1,0 +1,9 @@
+{
+  "name": "frontend-security",
+  "version": "1.0.0",
+  "description": "frontend-security skill from schalkneethling/webdev-agent-skills",
+  "author": {
+    "name": "schalkneethling"
+  },
+  "repository": "https://github.com/schalkneethling/webdev-agent-skills"
+}

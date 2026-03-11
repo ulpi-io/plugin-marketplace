@@ -1,0 +1,9 @@
+{
+  "name": "generative-ui",
+  "version": "1.0.0",
+  "description": "generative-ui skill from tambo-ai/tambo",
+  "author": {
+    "name": "tambo-ai"
+  },
+  "repository": "https://github.com/tambo-ai/tambo"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sadd:judge-with-debate",
+  "version": "1.0.0",
+  "description": "sadd:judge-with-debate skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

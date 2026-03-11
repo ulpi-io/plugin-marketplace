@@ -1,0 +1,9 @@
+{
+  "name": "rivetkit-client-javascript",
+  "version": "1.0.0",
+  "description": "rivetkit-client-javascript skill from rivet-dev/skills",
+  "author": {
+    "name": "rivet-dev"
+  },
+  "repository": "https://github.com/rivet-dev/skills"
+}

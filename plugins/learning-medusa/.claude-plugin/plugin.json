@@ -1,0 +1,9 @@
+{
+  "name": "learning-medusa",
+  "version": "1.0.0",
+  "description": "learning-medusa skill from medusajs/medusa-agent-skills",
+  "author": {
+    "name": "medusajs"
+  },
+  "repository": "https://github.com/medusajs/medusa-agent-skills"
+}

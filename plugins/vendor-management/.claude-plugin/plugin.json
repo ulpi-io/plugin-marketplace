@@ -1,0 +1,9 @@
+{
+  "name": "vendor-management",
+  "version": "1.0.0",
+  "description": "vendor-management skill from anthropics/knowledge-work-plugins",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/knowledge-work-plugins"
+}

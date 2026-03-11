@@ -1,0 +1,9 @@
+{
+  "name": "actionbook",
+  "version": "1.0.0",
+  "description": "actionbook skill from actionbook/actionbook",
+  "author": {
+    "name": "actionbook"
+  },
+  "repository": "https://github.com/actionbook/actionbook"
+}

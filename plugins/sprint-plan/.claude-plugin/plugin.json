@@ -1,0 +1,9 @@
+{
+  "name": "sprint-plan",
+  "version": "1.0.0",
+  "description": "sprint-plan skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

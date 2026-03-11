@@ -1,0 +1,9 @@
+{
+  "name": "meta-cognitive-reasoning",
+  "version": "1.0.0",
+  "description": "meta-cognitive-reasoning skill from 89jobrien/steve",
+  "author": {
+    "name": "89jobrien"
+  },
+  "repository": "https://github.com/89jobrien/steve"
+}

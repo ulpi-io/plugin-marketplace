@@ -1,0 +1,9 @@
+{
+  "name": "debug-generated-project",
+  "version": "1.0.0",
+  "description": "debug-generated-project skill from tuist/agent-skills",
+  "author": {
+    "name": "tuist"
+  },
+  "repository": "https://github.com/tuist/agent-skills"
+}

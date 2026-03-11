@@ -1,0 +1,9 @@
+{
+  "name": "prisma-upgrade-v7",
+  "version": "1.0.0",
+  "description": "prisma-upgrade-v7 skill from prisma/skills",
+  "author": {
+    "name": "prisma"
+  },
+  "repository": "https://github.com/prisma/skills"
+}

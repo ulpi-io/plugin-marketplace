@@ -1,0 +1,9 @@
+{
+  "name": "chinese-writing",
+  "version": "1.0.0",
+  "description": "chinese-writing skill from miantiao-me/aigc-weekly",
+  "author": {
+    "name": "miantiao-me"
+  },
+  "repository": "https://github.com/miantiao-me/aigc-weekly"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "document-pdf",
+  "version": "1.0.0",
+  "description": "document-pdf skill from vasilyu1983/ai-agents-public",
+  "author": {
+    "name": "vasilyu1983"
+  },
+  "repository": "https://github.com/vasilyu1983/ai-agents-public"
+}

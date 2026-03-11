@@ -1,0 +1,9 @@
+{
+  "name": "linux-server-expert",
+  "version": "1.0.0",
+  "description": "linux-server-expert skill from duck4nh/antigravity-kit",
+  "author": {
+    "name": "duck4nh"
+  },
+  "repository": "https://github.com/duck4nh/antigravity-kit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "parallel-task",
+  "version": "1.0.0",
+  "description": "parallel-task skill from am-will/swarms",
+  "author": {
+    "name": "am-will"
+  },
+  "repository": "https://github.com/am-will/swarms"
+}

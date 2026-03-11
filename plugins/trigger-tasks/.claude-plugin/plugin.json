@@ -1,0 +1,9 @@
+{
+  "name": "trigger-tasks",
+  "version": "1.0.0",
+  "description": "trigger-tasks skill from triggerdotdev/skills",
+  "author": {
+    "name": "triggerdotdev"
+  },
+  "repository": "https://github.com/triggerdotdev/skills"
+}

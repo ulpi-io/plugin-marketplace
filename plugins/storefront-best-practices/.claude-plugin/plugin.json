@@ -1,0 +1,9 @@
+{
+  "name": "storefront-best-practices",
+  "version": "1.0.0",
+  "description": "storefront-best-practices skill from medusajs/medusa-agent-skills",
+  "author": {
+    "name": "medusajs"
+  },
+  "repository": "https://github.com/medusajs/medusa-agent-skills"
+}

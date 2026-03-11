@@ -1,0 +1,9 @@
+{
+  "name": "desktop control",
+  "version": "1.0.0",
+  "description": "desktop control skill from patrickporto/desktop-agent",
+  "author": {
+    "name": "patrickporto"
+  },
+  "repository": "https://github.com/patrickporto/desktop-agent"
+}

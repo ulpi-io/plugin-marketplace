@@ -1,0 +1,9 @@
+{
+  "name": "video-report",
+  "version": "1.0.0",
+  "description": "video-report skill from remotion-dev/remotion",
+  "author": {
+    "name": "remotion-dev"
+  },
+  "repository": "https://github.com/remotion-dev/remotion"
+}

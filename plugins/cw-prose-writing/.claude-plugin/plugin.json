@@ -1,0 +1,9 @@
+{
+  "name": "cw-prose-writing",
+  "version": "1.0.0",
+  "description": "cw-prose-writing skill from haowjy/creative-writing-skills",
+  "author": {
+    "name": "haowjy"
+  },
+  "repository": "https://github.com/haowjy/creative-writing-skills"
+}

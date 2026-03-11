@@ -1,0 +1,9 @@
+{
+  "name": "terraform-test",
+  "version": "1.0.0",
+  "description": "terraform-test skill from hashicorp/agent-skills",
+  "author": {
+    "name": "hashicorp"
+  },
+  "repository": "https://github.com/hashicorp/agent-skills"
+}

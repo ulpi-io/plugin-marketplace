@@ -1,0 +1,9 @@
+{
+  "name": "playwright-scraper",
+  "version": "1.0.0",
+  "description": "playwright-scraper skill from alphaonedev/openclaw-graph",
+  "author": {
+    "name": "alphaonedev"
+  },
+  "repository": "https://github.com/alphaonedev/openclaw-graph"
+}

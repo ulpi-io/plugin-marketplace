@@ -1,0 +1,9 @@
+{
+  "name": "tam-sam-som-calculator",
+  "version": "1.0.0",
+  "description": "tam-sam-som-calculator skill from deanpeters/product-manager-skills",
+  "author": {
+    "name": "deanpeters"
+  },
+  "repository": "https://github.com/deanpeters/product-manager-skills"
+}

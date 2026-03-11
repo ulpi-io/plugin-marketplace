@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-v16",
+  "version": "1.0.0",
+  "description": "nextjs-v16 skill from bobmatnyc/claude-mpm-skills",
+  "author": {
+    "name": "bobmatnyc"
+  },
+  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
+}

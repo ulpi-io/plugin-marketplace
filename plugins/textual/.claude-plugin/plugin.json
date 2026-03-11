@@ -1,0 +1,9 @@
+{
+  "name": "textual",
+  "version": "1.0.0",
+  "description": "textual skill from johnlarkin1/claude-code-extensions",
+  "author": {
+    "name": "johnlarkin1"
+  },
+  "repository": "https://github.com/johnlarkin1/claude-code-extensions"
+}

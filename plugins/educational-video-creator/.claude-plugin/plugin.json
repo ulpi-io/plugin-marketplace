@@ -1,0 +1,9 @@
+{
+  "name": "educational-video-creator",
+  "version": "1.0.0",
+  "description": "educational-video-creator skill from skindhu/skind-skills",
+  "author": {
+    "name": "skindhu"
+  },
+  "repository": "https://github.com/skindhu/skind-skills"
+}

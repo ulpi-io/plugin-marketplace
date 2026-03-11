@@ -1,0 +1,9 @@
+{
+  "name": "html-visual",
+  "version": "1.0.0",
+  "description": "html-visual skill from 2ykwang/agent-skills",
+  "author": {
+    "name": "2ykwang"
+  },
+  "repository": "https://github.com/2ykwang/agent-skills"
+}

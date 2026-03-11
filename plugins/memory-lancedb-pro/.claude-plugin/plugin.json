@@ -1,0 +1,9 @@
+{
+  "name": "memory-lancedb-pro",
+  "version": "1.0.0",
+  "description": "memory-lancedb-pro skill from win4r/memory-lancedb-pro-skill",
+  "author": {
+    "name": "win4r"
+  },
+  "repository": "https://github.com/win4r/memory-lancedb-pro-skill"
+}

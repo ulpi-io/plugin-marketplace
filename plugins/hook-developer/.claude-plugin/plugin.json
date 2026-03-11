@@ -1,0 +1,9 @@
+{
+  "name": "hook-developer",
+  "version": "1.0.0",
+  "description": "hook-developer skill from parcadei/continuous-claude-v3",
+  "author": {
+    "name": "parcadei"
+  },
+  "repository": "https://github.com/parcadei/continuous-claude-v3"
+}

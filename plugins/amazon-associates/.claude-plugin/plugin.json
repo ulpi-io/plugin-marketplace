@@ -1,0 +1,9 @@
+{
+  "name": "amazon-associates",
+  "version": "1.0.0",
+  "description": "amazon-associates skill from rocket-repos/agent-skills",
+  "author": {
+    "name": "rocket-repos"
+  },
+  "repository": "https://github.com/rocket-repos/agent-skills"
+}

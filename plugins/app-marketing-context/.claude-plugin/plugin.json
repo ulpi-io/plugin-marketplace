@@ -1,0 +1,9 @@
+{
+  "name": "app-marketing-context",
+  "version": "1.0.0",
+  "description": "app-marketing-context skill from eronred/aso-skills",
+  "author": {
+    "name": "eronred"
+  },
+  "repository": "https://github.com/eronred/aso-skills"
+}

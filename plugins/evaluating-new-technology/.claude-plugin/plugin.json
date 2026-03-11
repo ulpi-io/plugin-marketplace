@@ -1,0 +1,9 @@
+{
+  "name": "evaluating-new-technology",
+  "version": "1.0.0",
+  "description": "evaluating-new-technology skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

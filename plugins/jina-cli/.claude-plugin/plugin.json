@@ -1,0 +1,9 @@
+{
+  "name": "jina-cli",
+  "version": "1.0.0",
+  "description": "jina-cli skill from geekjourneyx/jina-cli",
+  "author": {
+    "name": "geekjourneyx"
+  },
+  "repository": "https://github.com/geekjourneyx/jina-cli"
+}

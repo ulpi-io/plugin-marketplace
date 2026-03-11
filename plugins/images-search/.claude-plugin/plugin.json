@@ -1,0 +1,9 @@
+{
+  "name": "images-search",
+  "version": "1.0.0",
+  "description": "images-search skill from brave/brave-search-skills",
+  "author": {
+    "name": "brave"
+  },
+  "repository": "https://github.com/brave/brave-search-skills"
+}

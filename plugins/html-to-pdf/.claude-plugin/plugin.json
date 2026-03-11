@@ -1,0 +1,9 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "description": "html-to-pdf skill from aviz85/claude-skills-library",
+  "author": {
+    "name": "aviz85"
+  },
+  "repository": "https://github.com/aviz85/claude-skills-library"
+}

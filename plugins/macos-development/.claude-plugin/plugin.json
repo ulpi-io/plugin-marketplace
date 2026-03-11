@@ -1,0 +1,9 @@
+{
+  "name": "macos-development",
+  "version": "1.0.0",
+  "description": "macos-development skill from rshankras/claude-code-apple-skills",
+  "author": {
+    "name": "rshankras"
+  },
+  "repository": "https://github.com/rshankras/claude-code-apple-skills"
+}

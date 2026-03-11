@@ -1,0 +1,9 @@
+{
+  "name": "building-with-base-account",
+  "version": "1.0.0",
+  "description": "building-with-base-account skill from base/skills",
+  "author": {
+    "name": "base"
+  },
+  "repository": "https://github.com/base/skills"
+}

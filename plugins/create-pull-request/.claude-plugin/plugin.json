@@ -1,0 +1,9 @@
+{
+  "name": "create-pull-request",
+  "version": "1.0.0",
+  "description": "create-pull-request skill from cline/cline",
+  "author": {
+    "name": "cline"
+  },
+  "repository": "https://github.com/cline/cline"
+}

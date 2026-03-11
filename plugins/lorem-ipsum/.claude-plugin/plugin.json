@@ -1,0 +1,9 @@
+{
+  "name": "lorem-ipsum",
+  "version": "1.0.0",
+  "description": "lorem-ipsum skill from intellectronica/agent-skills",
+  "author": {
+    "name": "intellectronica"
+  },
+  "repository": "https://github.com/intellectronica/agent-skills"
+}

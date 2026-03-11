@@ -1,0 +1,9 @@
+{
+  "name": "github-workflow",
+  "version": "1.0.0",
+  "description": "github-workflow skill from hairyf/skills",
+  "author": {
+    "name": "hairyf"
+  },
+  "repository": "https://github.com/hairyf/skills"
+}

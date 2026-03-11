@@ -1,0 +1,9 @@
+{
+  "name": "aws-rds-spring-boot-integration",
+  "version": "1.0.0",
+  "description": "aws-rds-spring-boot-integration skill from giuseppe-trisciuoglio/developer-kit",
+  "author": {
+    "name": "giuseppe-trisciuoglio"
+  },
+  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
+}

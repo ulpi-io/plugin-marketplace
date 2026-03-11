@@ -1,0 +1,9 @@
+{
+  "name": "rust-learner",
+  "version": "1.0.0",
+  "description": "rust-learner skill from actionbook/actionbook",
+  "author": {
+    "name": "actionbook"
+  },
+  "repository": "https://github.com/actionbook/actionbook"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "provider-actions",
+  "version": "1.0.0",
+  "description": "provider-actions skill from hashicorp/agent-skills",
+  "author": {
+    "name": "hashicorp"
+  },
+  "repository": "https://github.com/hashicorp/agent-skills"
+}

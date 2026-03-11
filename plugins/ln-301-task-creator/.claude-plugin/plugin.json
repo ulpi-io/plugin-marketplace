@@ -1,0 +1,9 @@
+{
+  "name": "ln-301-task-creator",
+  "version": "1.0.0",
+  "description": "ln-301-task-creator skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

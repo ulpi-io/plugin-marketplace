@@ -1,0 +1,9 @@
+{
+  "name": "page-monitoring",
+  "version": "1.0.0",
+  "description": "page-monitoring skill from jamditis/claude-skills-journalism",
+  "author": {
+    "name": "jamditis"
+  },
+  "repository": "https://github.com/jamditis/claude-skills-journalism"
+}

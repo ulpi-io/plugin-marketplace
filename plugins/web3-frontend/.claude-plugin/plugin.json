@@ -1,0 +1,9 @@
+{
+  "name": "web3-frontend",
+  "version": "1.0.0",
+  "description": "web3-frontend skill from pluginagentmarketplace/custom-plugin-blockchain",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-blockchain"
+}

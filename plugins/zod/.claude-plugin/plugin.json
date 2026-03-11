@@ -1,0 +1,9 @@
+{
+  "name": "zod",
+  "version": "1.0.0",
+  "description": "zod skill from secondsky/claude-skills",
+  "author": {
+    "name": "secondsky"
+  },
+  "repository": "https://github.com/secondsky/claude-skills"
+}

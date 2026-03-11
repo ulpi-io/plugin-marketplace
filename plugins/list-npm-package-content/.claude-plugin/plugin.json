@@ -1,0 +1,9 @@
+{
+  "name": "list-npm-package-content",
+  "version": "1.0.0",
+  "description": "list-npm-package-content skill from vercel/ai",
+  "author": {
+    "name": "vercel"
+  },
+  "repository": "https://github.com/vercel/ai"
+}

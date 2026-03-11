@@ -1,0 +1,9 @@
+{
+  "name": "nimble-agents",
+  "version": "1.0.0",
+  "description": "nimble-agents skill from nimbleway/agent-skills",
+  "author": {
+    "name": "nimbleway"
+  },
+  "repository": "https://github.com/nimbleway/agent-skills"
+}

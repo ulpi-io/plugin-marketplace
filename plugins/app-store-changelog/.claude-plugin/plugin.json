@@ -1,0 +1,9 @@
+{
+  "name": "app-store-changelog",
+  "version": "1.0.0",
+  "description": "app-store-changelog skill from dimillian/skills",
+  "author": {
+    "name": "dimillian"
+  },
+  "repository": "https://github.com/dimillian/skills"
+}

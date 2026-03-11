@@ -1,0 +1,9 @@
+{
+  "name": "openapi-specification-v2",
+  "version": "1.0.0",
+  "description": "openapi-specification-v2 skill from hairyf/skills",
+  "author": {
+    "name": "hairyf"
+  },
+  "repository": "https://github.com/hairyf/skills"
+}

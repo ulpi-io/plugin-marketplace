@@ -1,0 +1,9 @@
+{
+  "name": "paid-ads-strategy",
+  "version": "1.0.0",
+  "description": "paid-ads-strategy skill from kostja94/marketing-skills",
+  "author": {
+    "name": "kostja94"
+  },
+  "repository": "https://github.com/kostja94/marketing-skills"
+}

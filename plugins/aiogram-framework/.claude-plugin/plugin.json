@@ -1,0 +1,9 @@
+{
+  "name": "aiogram-framework",
+  "version": "1.0.0",
+  "description": "aiogram-framework skill from narumiruna/telegram-bot",
+  "author": {
+    "name": "narumiruna"
+  },
+  "repository": "https://github.com/narumiruna/telegram-bot"
+}

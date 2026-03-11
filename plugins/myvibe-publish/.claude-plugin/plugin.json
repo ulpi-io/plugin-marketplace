@@ -1,0 +1,9 @@
+{
+  "name": "myvibe-publish",
+  "version": "1.0.0",
+  "description": "myvibe-publish skill from arcblock/myvibe-skills",
+  "author": {
+    "name": "arcblock"
+  },
+  "repository": "https://github.com/arcblock/myvibe-skills"
+}

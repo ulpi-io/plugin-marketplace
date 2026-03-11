@@ -1,0 +1,9 @@
+{
+  "name": "ckm:ui-styling",
+  "version": "1.0.0",
+  "description": "ckm:ui-styling skill from nextlevelbuilder/ui-ux-pro-max-skill",
+  "author": {
+    "name": "nextlevelbuilder"
+  },
+  "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+}

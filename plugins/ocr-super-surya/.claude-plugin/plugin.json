@@ -1,0 +1,9 @@
+{
+  "name": "ocr-super-surya",
+  "version": "1.0.0",
+  "description": "ocr-super-surya skill from aktsmm/agent-skills",
+  "author": {
+    "name": "aktsmm"
+  },
+  "repository": "https://github.com/aktsmm/agent-skills"
+}

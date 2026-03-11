@@ -1,0 +1,9 @@
+{
+  "name": "linear-cli",
+  "version": "1.0.0",
+  "description": "linear-cli skill from schpet/linear-cli",
+  "author": {
+    "name": "schpet"
+  },
+  "repository": "https://github.com/schpet/linear-cli"
+}

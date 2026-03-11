@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap skill from buiducnhat/agent-skills",
+  "author": {
+    "name": "buiducnhat"
+  },
+  "repository": "https://github.com/buiducnhat/agent-skills"
+}

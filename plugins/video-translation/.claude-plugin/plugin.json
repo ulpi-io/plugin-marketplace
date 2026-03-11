@@ -1,0 +1,9 @@
+{
+  "name": "video-translation",
+  "version": "1.0.0",
+  "description": "video-translation skill from noizai/skills",
+  "author": {
+    "name": "noizai"
+  },
+  "repository": "https://github.com/noizai/skills"
+}

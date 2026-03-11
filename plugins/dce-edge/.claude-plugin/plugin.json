@@ -1,0 +1,9 @@
+{
+  "name": "dce-edge",
+  "version": "1.0.0",
+  "description": "dce-edge skill from vercel/next.js",
+  "author": {
+    "name": "vercel"
+  },
+  "repository": "https://github.com/vercel/next.js"
+}

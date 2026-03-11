@@ -1,0 +1,9 @@
+{
+  "name": "tweet-writer",
+  "version": "1.0.0",
+  "description": "tweet-writer skill from sanky369/vibe-building-skills",
+  "author": {
+    "name": "sanky369"
+  },
+  "repository": "https://github.com/sanky369/vibe-building-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "enterprise-agent-ops",
+  "version": "1.0.0",
+  "description": "enterprise-agent-ops skill from affaan-m/everything-claude-code",
+  "author": {
+    "name": "affaan-m"
+  },
+  "repository": "https://github.com/affaan-m/everything-claude-code"
+}

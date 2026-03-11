@@ -1,0 +1,9 @@
+{
+  "name": "flutter-patterns",
+  "version": "1.0.0",
+  "description": "flutter-patterns skill from cleydson/flutter-claude-code",
+  "author": {
+    "name": "cleydson"
+  },
+  "repository": "https://github.com/cleydson/flutter-claude-code"
+}

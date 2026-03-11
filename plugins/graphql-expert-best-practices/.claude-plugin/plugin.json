@@ -1,0 +1,9 @@
+{
+  "name": "graphql-expert-best-practices",
+  "version": "1.0.0",
+  "description": "graphql-expert-best-practices skill from wispbit-ai/skills",
+  "author": {
+    "name": "wispbit-ai"
+  },
+  "repository": "https://github.com/wispbit-ai/skills"
+}

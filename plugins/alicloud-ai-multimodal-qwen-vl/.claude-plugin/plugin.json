@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-ai-multimodal-qwen-vl",
+  "version": "1.0.0",
+  "description": "alicloud-ai-multimodal-qwen-vl skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

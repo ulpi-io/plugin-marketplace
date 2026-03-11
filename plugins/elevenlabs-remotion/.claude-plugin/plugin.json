@@ -1,0 +1,9 @@
+{
+  "name": "elevenlabs-remotion",
+  "version": "1.0.0",
+  "description": "elevenlabs-remotion skill from maartenlouis/elevenlabs-remotion-skill",
+  "author": {
+    "name": "maartenlouis"
+  },
+  "repository": "https://github.com/maartenlouis/elevenlabs-remotion-skill"
+}

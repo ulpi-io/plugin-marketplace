@@ -1,0 +1,9 @@
+{
+  "name": "feature-sliced-design",
+  "version": "1.0.0",
+  "description": "feature-sliced-design skill from aiko-atami/fsd",
+  "author": {
+    "name": "aiko-atami"
+  },
+  "repository": "https://github.com/aiko-atami/fsd"
+}

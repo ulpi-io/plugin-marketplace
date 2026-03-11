@@ -1,0 +1,9 @@
+{
+  "name": "stealth-browser",
+  "version": "1.0.0",
+  "description": "stealth-browser skill from changeflowhq/skills",
+  "author": {
+    "name": "changeflowhq"
+  },
+  "repository": "https://github.com/changeflowhq/skills"
+}

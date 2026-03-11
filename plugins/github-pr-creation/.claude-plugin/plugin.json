@@ -1,0 +1,9 @@
+{
+  "name": "github-pr-creation",
+  "version": "1.0.0",
+  "description": "github-pr-creation skill from fvadicamo/dev-agent-skills",
+  "author": {
+    "name": "fvadicamo"
+  },
+  "repository": "https://github.com/fvadicamo/dev-agent-skills"
+}

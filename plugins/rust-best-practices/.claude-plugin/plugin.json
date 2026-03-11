@@ -1,0 +1,9 @@
+{
+  "name": "rust-best-practices",
+  "version": "1.0.0",
+  "description": "rust-best-practices skill from apollographql/skills",
+  "author": {
+    "name": "apollographql"
+  },
+  "repository": "https://github.com/apollographql/skills"
+}

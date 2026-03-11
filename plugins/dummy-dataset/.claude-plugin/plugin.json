@@ -1,0 +1,9 @@
+{
+  "name": "dummy-dataset",
+  "version": "1.0.0",
+  "description": "dummy-dataset skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

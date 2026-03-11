@@ -1,0 +1,9 @@
+{
+  "name": "widget-generator",
+  "version": "1.0.0",
+  "description": "widget-generator skill from f/prompts.chat",
+  "author": {
+    "name": "f"
+  },
+  "repository": "https://github.com/f/prompts.chat"
+}

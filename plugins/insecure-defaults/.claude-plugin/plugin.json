@@ -1,0 +1,9 @@
+{
+  "name": "insecure-defaults",
+  "version": "1.0.0",
+  "description": "insecure-defaults skill from trailofbits/skills",
+  "author": {
+    "name": "trailofbits"
+  },
+  "repository": "https://github.com/trailofbits/skills"
+}

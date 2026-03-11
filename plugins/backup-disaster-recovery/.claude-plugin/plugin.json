@@ -1,0 +1,9 @@
+{
+  "name": "backup-disaster-recovery",
+  "version": "1.0.0",
+  "description": "backup-disaster-recovery skill from aj-geddes/useful-ai-prompts",
+  "author": {
+    "name": "aj-geddes"
+  },
+  "repository": "https://github.com/aj-geddes/useful-ai-prompts"
+}

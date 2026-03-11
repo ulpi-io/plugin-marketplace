@@ -1,0 +1,9 @@
+{
+  "name": "use-agently",
+  "version": "1.0.0",
+  "description": "use-agently skill from agentlyhq/use-agently",
+  "author": {
+    "name": "agentlyhq"
+  },
+  "repository": "https://github.com/agentlyhq/use-agently"
+}

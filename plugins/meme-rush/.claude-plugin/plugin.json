@@ -1,0 +1,9 @@
+{
+  "name": "meme-rush",
+  "version": "1.0.0",
+  "description": "meme-rush skill from binance/binance-skills-hub",
+  "author": {
+    "name": "binance"
+  },
+  "repository": "https://github.com/binance/binance-skills-hub"
+}

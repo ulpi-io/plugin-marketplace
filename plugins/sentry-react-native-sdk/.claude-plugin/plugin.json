@@ -1,0 +1,9 @@
+{
+  "name": "sentry-react-native-sdk",
+  "version": "1.0.0",
+  "description": "sentry-react-native-sdk skill from getsentry/sentry-for-ai",
+  "author": {
+    "name": "getsentry"
+  },
+  "repository": "https://github.com/getsentry/sentry-for-ai"
+}

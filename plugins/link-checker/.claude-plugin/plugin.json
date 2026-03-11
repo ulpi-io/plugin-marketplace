@@ -1,0 +1,9 @@
+{
+  "name": "link-checker",
+  "version": "1.0.0",
+  "description": "link-checker skill from webflow/webflow-skills",
+  "author": {
+    "name": "webflow"
+  },
+  "repository": "https://github.com/webflow/webflow-skills"
+}

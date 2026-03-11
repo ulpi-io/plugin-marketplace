@@ -1,0 +1,9 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "web-scraping skill from yfe404/web-scraper",
+  "author": {
+    "name": "yfe404"
+  },
+  "repository": "https://github.com/yfe404/web-scraper"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sap-abap",
+  "version": "1.0.0",
+  "description": "sap-abap skill from secondsky/sap-skills",
+  "author": {
+    "name": "secondsky"
+  },
+  "repository": "https://github.com/secondsky/sap-skills"
+}

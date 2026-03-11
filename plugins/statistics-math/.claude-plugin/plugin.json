@@ -1,0 +1,9 @@
+{
+  "name": "statistics-math",
+  "version": "1.0.0",
+  "description": "statistics-math skill from pluginagentmarketplace/custom-plugin-data-engineer",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-data-engineer"
+}

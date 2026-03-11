@@ -1,0 +1,9 @@
+{
+  "name": "octocode-research",
+  "version": "1.0.0",
+  "description": "octocode-research skill from bgauryy/octocode-mcp",
+  "author": {
+    "name": "bgauryy"
+  },
+  "repository": "https://github.com/bgauryy/octocode-mcp"
+}

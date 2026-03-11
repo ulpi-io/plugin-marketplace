@@ -1,0 +1,9 @@
+{
+  "name": "golang-architect",
+  "version": "1.0.0",
+  "description": "golang-architect skill from tomlord1122/tomtom-skill",
+  "author": {
+    "name": "tomlord1122"
+  },
+  "repository": "https://github.com/tomlord1122/tomtom-skill"
+}

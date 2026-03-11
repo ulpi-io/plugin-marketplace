@@ -1,0 +1,9 @@
+{
+  "name": "remove-old-skills-from-workflow",
+  "version": "1.0.0",
+  "description": "remove-old-skills-from-workflow skill from nicepkg/ai-workflow",
+  "author": {
+    "name": "nicepkg"
+  },
+  "repository": "https://github.com/nicepkg/ai-workflow"
+}

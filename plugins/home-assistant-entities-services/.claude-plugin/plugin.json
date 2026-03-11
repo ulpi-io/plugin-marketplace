@@ -1,0 +1,9 @@
+{
+  "name": "home-assistant-entities-services",
+  "version": "1.0.0",
+  "description": "home-assistant-entities-services skill from bradsjm/hassio-addons",
+  "author": {
+    "name": "bradsjm"
+  },
+  "repository": "https://github.com/bradsjm/hassio-addons"
+}

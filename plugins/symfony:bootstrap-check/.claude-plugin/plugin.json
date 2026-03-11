@@ -1,0 +1,9 @@
+{
+  "name": "symfony:bootstrap-check",
+  "version": "1.0.0",
+  "description": "symfony:bootstrap-check skill from makfly/superpowers-symfony",
+  "author": {
+    "name": "makfly"
+  },
+  "repository": "https://github.com/makfly/superpowers-symfony"
+}

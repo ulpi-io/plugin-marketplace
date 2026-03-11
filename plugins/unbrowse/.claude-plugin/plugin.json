@@ -1,0 +1,9 @@
+{
+  "name": "unbrowse",
+  "version": "1.0.0",
+  "description": "unbrowse skill from unbrowse-ai/unbrowse",
+  "author": {
+    "name": "unbrowse-ai"
+  },
+  "repository": "https://github.com/unbrowse-ai/unbrowse"
+}

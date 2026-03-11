@@ -1,0 +1,9 @@
+{
+  "name": "paddleocr-text-recognition",
+  "version": "1.0.0",
+  "description": "paddleocr-text-recognition skill from aidenwu0209/paddleocr-skills",
+  "author": {
+    "name": "aidenwu0209"
+  },
+  "repository": "https://github.com/aidenwu0209/paddleocr-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "symfony:symfony-messenger",
+  "version": "1.0.0",
+  "description": "symfony:symfony-messenger skill from makfly/superpowers-symfony",
+  "author": {
+    "name": "makfly"
+  },
+  "repository": "https://github.com/makfly/superpowers-symfony"
+}

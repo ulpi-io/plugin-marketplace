@@ -1,0 +1,9 @@
+{
+  "name": "metrics",
+  "version": "1.0.0",
+  "description": "metrics skill from railwayapp/railway-skills",
+  "author": {
+    "name": "railwayapp"
+  },
+  "repository": "https://github.com/railwayapp/railway-skills"
+}

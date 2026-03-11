@@ -1,0 +1,9 @@
+{
+  "name": "gpui-async",
+  "version": "1.0.0",
+  "description": "gpui-async skill from longbridge/gpui-component",
+  "author": {
+    "name": "longbridge"
+  },
+  "repository": "https://github.com/longbridge/gpui-component"
+}

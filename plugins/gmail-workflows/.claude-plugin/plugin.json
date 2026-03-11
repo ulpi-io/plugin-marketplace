@@ -1,0 +1,9 @@
+{
+  "name": "gmail-workflows",
+  "version": "1.0.0",
+  "description": "gmail-workflows skill from claude-office-skills/skills",
+  "author": {
+    "name": "claude-office-skills"
+  },
+  "repository": "https://github.com/claude-office-skills/skills"
+}

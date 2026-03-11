@@ -1,0 +1,9 @@
+{
+  "name": "data_analysis",
+  "version": "1.0.0",
+  "description": "data_analysis skill from artificialanalysis/stirrup",
+  "author": {
+    "name": "artificialanalysis"
+  },
+  "repository": "https://github.com/artificialanalysis/stirrup"
+}

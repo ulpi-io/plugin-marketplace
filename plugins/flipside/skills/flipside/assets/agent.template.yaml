@@ -1,0 +1,58 @@
+# Flipside Agent Template
+# Docs: https://docs.flipsidecrypto.xyz/agents
+
+name: my_agent                    # Lowercase, underscores OK
+kind: chat                        # chat (conversational) or sub (structured I/O)
+visibility: personal              # personal, organization, or public
+
+# The flipside/data skill is automatically injected into ALL agents.
+# This provides core SQL query tools. You only need to add skills here for additional capabilities.
+# skills:
+#   - flipside/my_custom_skill    # Add org-scoped skills for extra capabilities
+
+# Agent instructions
+systemPrompt: |
+  You are an expert blockchain data analyst working with Flipside's data warehouse.
+
+  Your capabilities:
+  - Query blockchain data across 40+ chains
+  - Analyze token transfers, DEX swaps, NFT activity
+  - Generate insights from on-chain data
+
+  Guidelines:
+  - Use find_tables to discover relevant tables
+  - Use get_table_schema to understand column definitions
+  - Always filter by date to limit result sizes
+  - Explain your methodology when presenting findings
+
+# Maximum conversation turns (for chat agents)
+maxTurns: 10
+
+# Model and execution settings
+metadata:
+  model: claude-4-5-sonnet           # Model to use (claude-4-5-haiku, claude-4-5-sonnet, opus-4-5)
+  reasoning: false                   # Enable extended thinking (requires sonnet or opus)
+
+# Sub agents this agent can delegate to
+# subAgents:
+#   - flipside/token_analyzer
+#   - flipside/wallet_profiler
+
+# For sub agents only - define input/output schemas
+# inputSchema:
+#   type: object
+#   properties:
+#     chain:
+#       type: string
+#       enum: [ethereum, solana, polygon]
+#     address:
+#       type: string
+#   required: [chain, address]
+#
+# outputSchema:
+#   type: object
+#   properties:
+#     summary:
+#       type: string
+#     data:
+#       type: array

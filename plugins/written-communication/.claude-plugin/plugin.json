@@ -1,0 +1,9 @@
+{
+  "name": "written-communication",
+  "version": "1.0.0",
+  "description": "written-communication skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

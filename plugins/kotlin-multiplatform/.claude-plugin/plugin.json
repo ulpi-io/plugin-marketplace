@@ -1,0 +1,9 @@
+{
+  "name": "kotlin-multiplatform",
+  "version": "1.0.0",
+  "description": "kotlin-multiplatform skill from vitorpamplona/amethyst",
+  "author": {
+    "name": "vitorpamplona"
+  },
+  "repository": "https://github.com/vitorpamplona/amethyst"
+}

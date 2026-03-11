@@ -1,0 +1,9 @@
+{
+  "name": "dify-dsl-generator",
+  "version": "1.0.0",
+  "description": "dify-dsl-generator skill from wwwzhouhui/skills_collection",
+  "author": {
+    "name": "wwwzhouhui"
+  },
+  "repository": "https://github.com/wwwzhouhui/skills_collection"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "clawdstrike",
+  "version": "1.0.0",
+  "description": "clawdstrike skill from cantinaxyz/clawdstrike",
+  "author": {
+    "name": "cantinaxyz"
+  },
+  "repository": "https://github.com/cantinaxyz/clawdstrike"
+}

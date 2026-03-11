@@ -1,0 +1,9 @@
+{
+  "name": "autonomous-agent-gaming",
+  "version": "1.0.0",
+  "description": "autonomous-agent-gaming skill from qodex-ai/ai-agent-skills",
+  "author": {
+    "name": "qodex-ai"
+  },
+  "repository": "https://github.com/qodex-ai/ai-agent-skills"
+}

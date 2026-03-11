@@ -1,0 +1,9 @@
+{
+  "name": "nango-function-builder",
+  "version": "1.0.0",
+  "description": "nango-function-builder skill from nangohq/skills",
+  "author": {
+    "name": "nangohq"
+  },
+  "repository": "https://github.com/nangohq/skills"
+}

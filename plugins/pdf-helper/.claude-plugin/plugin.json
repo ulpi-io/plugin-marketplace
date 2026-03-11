@@ -1,0 +1,9 @@
+{
+  "name": "pdf-helper",
+  "version": "1.0.0",
+  "description": "pdf-helper skill from zackkorman/skills",
+  "author": {
+    "name": "zackkorman"
+  },
+  "repository": "https://github.com/zackkorman/skills"
+}

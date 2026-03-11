@@ -1,0 +1,9 @@
+{
+  "name": "sensei",
+  "version": "1.0.0",
+  "description": "sensei skill from microsoft/github-copilot-for-azure",
+  "author": {
+    "name": "microsoft"
+  },
+  "repository": "https://github.com/microsoft/github-copilot-for-azure"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "release-management",
+  "version": "1.0.0",
+  "description": "release-management skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

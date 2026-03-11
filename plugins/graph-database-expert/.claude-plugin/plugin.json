@@ -1,0 +1,9 @@
+{
+  "name": "graph-database-expert",
+  "version": "1.0.0",
+  "description": "graph-database-expert skill from martinholovsky/claude-skills-generator",
+  "author": {
+    "name": "martinholovsky"
+  },
+  "repository": "https://github.com/martinholovsky/claude-skills-generator"
+}

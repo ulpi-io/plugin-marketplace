@@ -1,0 +1,9 @@
+{
+  "name": "api-testing-patterns",
+  "version": "1.0.0",
+  "description": "api-testing-patterns skill from proffesor-for-testing/agentic-qe",
+  "author": {
+    "name": "proffesor-for-testing"
+  },
+  "repository": "https://github.com/proffesor-for-testing/agentic-qe"
+}

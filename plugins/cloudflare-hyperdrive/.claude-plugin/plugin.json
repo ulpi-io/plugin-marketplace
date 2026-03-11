@@ -1,0 +1,9 @@
+{
+  "name": "cloudflare-hyperdrive",
+  "version": "1.0.0",
+  "description": "cloudflare-hyperdrive skill from jezweb/claude-skills",
+  "author": {
+    "name": "jezweb"
+  },
+  "repository": "https://github.com/jezweb/claude-skills"
+}

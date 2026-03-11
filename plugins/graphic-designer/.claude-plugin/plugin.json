@@ -1,0 +1,9 @@
+{
+  "name": "graphic-designer",
+  "version": "1.0.0",
+  "description": "graphic-designer skill from thepexcel/agent-skills",
+  "author": {
+    "name": "thepexcel"
+  },
+  "repository": "https://github.com/thepexcel/agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "asc-localize-metadata",
+  "version": "1.0.0",
+  "description": "asc-localize-metadata skill from rudrankriyam/asc-skills",
+  "author": {
+    "name": "rudrankriyam"
+  },
+  "repository": "https://github.com/rudrankriyam/asc-skills"
+}

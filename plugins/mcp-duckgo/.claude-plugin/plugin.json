@@ -1,0 +1,9 @@
+{
+  "name": "mcp-duckgo",
+  "version": "1.0.0",
+  "description": "mcp-duckgo skill from aahl/skills",
+  "author": {
+    "name": "aahl"
+  },
+  "repository": "https://github.com/aahl/skills"
+}

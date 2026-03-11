@@ -1,0 +1,9 @@
+{
+  "name": "synapse-reinst",
+  "version": "1.0.0",
+  "description": "synapse-reinst skill from s-hiraoku/synapse-a2a",
+  "author": {
+    "name": "s-hiraoku"
+  },
+  "repository": "https://github.com/s-hiraoku/synapse-a2a"
+}

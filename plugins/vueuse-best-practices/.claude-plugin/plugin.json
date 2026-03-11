@@ -1,0 +1,9 @@
+{
+  "name": "vueuse-best-practices",
+  "version": "1.0.0",
+  "description": "vueuse-best-practices skill from hyf0/vue-skills",
+  "author": {
+    "name": "hyf0"
+  },
+  "repository": "https://github.com/hyf0/vue-skills"
+}

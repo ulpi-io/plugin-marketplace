@@ -1,0 +1,9 @@
+{
+  "name": "enforcing-typescript-standards",
+  "version": "1.0.0",
+  "description": "enforcing-typescript-standards skill from jgeurts/eslint-config-decent",
+  "author": {
+    "name": "jgeurts"
+  },
+  "repository": "https://github.com/jgeurts/eslint-config-decent"
+}

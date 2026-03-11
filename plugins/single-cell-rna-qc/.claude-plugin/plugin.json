@@ -1,0 +1,9 @@
+{
+  "name": "single-cell-rna-qc",
+  "version": "1.0.0",
+  "description": "single-cell-rna-qc skill from anthropics/knowledge-work-plugins",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/knowledge-work-plugins"
+}

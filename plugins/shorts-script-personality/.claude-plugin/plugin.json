@@ -1,0 +1,9 @@
+{
+  "name": "shorts-script-personality",
+  "version": "1.0.0",
+  "description": "shorts-script-personality skill from outscal/video-generator",
+  "author": {
+    "name": "outscal"
+  },
+  "repository": "https://github.com/outscal/video-generator"
+}

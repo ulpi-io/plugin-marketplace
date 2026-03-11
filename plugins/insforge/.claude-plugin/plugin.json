@@ -1,0 +1,9 @@
+{
+  "name": "insforge",
+  "version": "1.0.0",
+  "description": "insforge skill from insforge/agent-skills",
+  "author": {
+    "name": "insforge"
+  },
+  "repository": "https://github.com/insforge/agent-skills"
+}

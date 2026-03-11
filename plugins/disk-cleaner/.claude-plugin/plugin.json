@@ -1,0 +1,9 @@
+{
+  "name": "disk-cleaner",
+  "version": "1.0.0",
+  "description": "disk-cleaner skill from gccszs/disk-cleaner",
+  "author": {
+    "name": "gccszs"
+  },
+  "repository": "https://github.com/gccszs/disk-cleaner"
+}

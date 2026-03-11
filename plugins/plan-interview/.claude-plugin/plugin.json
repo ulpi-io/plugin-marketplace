@@ -1,0 +1,9 @@
+{
+  "name": "plan-interview",
+  "version": "1.0.0",
+  "description": "plan-interview skill from pskoett/pskoett-ai-skills",
+  "author": {
+    "name": "pskoett"
+  },
+  "repository": "https://github.com/pskoett/pskoett-ai-skills"
+}

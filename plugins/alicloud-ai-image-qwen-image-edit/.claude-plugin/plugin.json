@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-ai-image-qwen-image-edit",
+  "version": "1.0.0",
+  "description": "alicloud-ai-image-qwen-image-edit skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

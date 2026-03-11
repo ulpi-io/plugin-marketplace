@@ -1,0 +1,9 @@
+{
+  "name": "text-to-sql",
+  "version": "1.0.0",
+  "description": "text-to-sql skill from oimiragieo/agent-studio",
+  "author": {
+    "name": "oimiragieo"
+  },
+  "repository": "https://github.com/oimiragieo/agent-studio"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "frontend-testing-best-practices",
+  "version": "1.0.0",
+  "description": "frontend-testing-best-practices skill from sergiodxa/agent-skills",
+  "author": {
+    "name": "sergiodxa"
+  },
+  "repository": "https://github.com/sergiodxa/agent-skills"
+}

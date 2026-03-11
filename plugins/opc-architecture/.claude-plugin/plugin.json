@@ -1,0 +1,9 @@
+{
+  "name": "opc-architecture",
+  "version": "1.0.0",
+  "description": "opc-architecture skill from parcadei/continuous-claude-v3",
+  "author": {
+    "name": "parcadei"
+  },
+  "repository": "https://github.com/parcadei/continuous-claude-v3"
+}

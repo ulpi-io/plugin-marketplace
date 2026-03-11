@@ -1,0 +1,9 @@
+{
+  "name": "video-transcript-downloader",
+  "version": "1.0.0",
+  "description": "video-transcript-downloader skill from steipete/agent-scripts",
+  "author": {
+    "name": "steipete"
+  },
+  "repository": "https://github.com/steipete/agent-scripts"
+}

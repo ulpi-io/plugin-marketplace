@@ -1,0 +1,9 @@
+{
+  "name": "self-learning",
+  "version": "1.0.0",
+  "description": "self-learning skill from philschmid/self-learning-skill",
+  "author": {
+    "name": "philschmid"
+  },
+  "repository": "https://github.com/philschmid/self-learning-skill"
+}

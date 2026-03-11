@@ -1,0 +1,9 @@
+{
+  "name": "posthog-instrumentation",
+  "version": "1.0.0",
+  "description": "posthog-instrumentation skill from posthog/posthog-for-claude",
+  "author": {
+    "name": "posthog"
+  },
+  "repository": "https://github.com/posthog/posthog-for-claude"
+}

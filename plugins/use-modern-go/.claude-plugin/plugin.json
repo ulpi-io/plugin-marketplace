@@ -1,0 +1,9 @@
+{
+  "name": "use-modern-go",
+  "version": "1.0.0",
+  "description": "use-modern-go skill from jetbrains/go-modern-guidelines",
+  "author": {
+    "name": "jetbrains"
+  },
+  "repository": "https://github.com/jetbrains/go-modern-guidelines"
+}

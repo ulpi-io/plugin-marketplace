@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-ai-pai-aiworkspace",
+  "version": "1.0.0",
+  "description": "alicloud-ai-pai-aiworkspace skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

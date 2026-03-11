@@ -1,0 +1,9 @@
+{
+  "name": "data-jupyter-python",
+  "version": "1.0.0",
+  "description": "data-jupyter-python skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

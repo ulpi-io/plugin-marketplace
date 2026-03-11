@@ -1,0 +1,9 @@
+{
+  "name": "building-storefronts",
+  "version": "1.0.0",
+  "description": "building-storefronts skill from medusajs/medusa-claude-plugins",
+  "author": {
+    "name": "medusajs"
+  },
+  "repository": "https://github.com/medusajs/medusa-claude-plugins"
+}

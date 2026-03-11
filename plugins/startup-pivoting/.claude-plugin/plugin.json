@@ -1,0 +1,9 @@
+{
+  "name": "startup-pivoting",
+  "version": "1.0.0",
+  "description": "startup-pivoting skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

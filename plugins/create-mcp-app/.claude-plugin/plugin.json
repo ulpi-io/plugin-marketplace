@@ -1,0 +1,9 @@
+{
+  "name": "create-mcp-app",
+  "version": "1.0.0",
+  "description": "create-mcp-app skill from modelcontextprotocol/ext-apps",
+  "author": {
+    "name": "modelcontextprotocol"
+  },
+  "repository": "https://github.com/modelcontextprotocol/ext-apps"
+}

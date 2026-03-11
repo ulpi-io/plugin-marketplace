@@ -1,0 +1,9 @@
+{
+  "name": "canghe-comic",
+  "version": "1.0.0",
+  "description": "canghe-comic skill from freestylefly/canghe-skills",
+  "author": {
+    "name": "freestylefly"
+  },
+  "repository": "https://github.com/freestylefly/canghe-skills"
+}

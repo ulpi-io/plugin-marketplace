@@ -1,0 +1,9 @@
+{
+  "name": "concept-workflow",
+  "version": "1.0.0",
+  "description": "concept-workflow skill from leonardomso/33-js-concepts",
+  "author": {
+    "name": "leonardomso"
+  },
+  "repository": "https://github.com/leonardomso/33-js-concepts"
+}

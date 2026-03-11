@@ -1,0 +1,9 @@
+{
+  "name": "svelte-core-bestpractices",
+  "version": "1.0.0",
+  "description": "svelte-core-bestpractices skill from sveltejs/mcp",
+  "author": {
+    "name": "sveltejs"
+  },
+  "repository": "https://github.com/sveltejs/mcp"
+}

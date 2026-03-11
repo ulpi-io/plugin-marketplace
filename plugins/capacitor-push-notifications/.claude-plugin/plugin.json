@@ -1,0 +1,9 @@
+{
+  "name": "capacitor-push-notifications",
+  "version": "1.0.0",
+  "description": "capacitor-push-notifications skill from cap-go/capgo-skills",
+  "author": {
+    "name": "cap-go"
+  },
+  "repository": "https://github.com/cap-go/capgo-skills"
+}

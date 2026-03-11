@@ -1,0 +1,9 @@
+{
+  "name": "tech-design-doc",
+  "version": "1.0.0",
+  "description": "tech-design-doc skill from bahayonghang/my-claude-code-settings",
+  "author": {
+    "name": "bahayonghang"
+  },
+  "repository": "https://github.com/bahayonghang/my-claude-code-settings"
+}

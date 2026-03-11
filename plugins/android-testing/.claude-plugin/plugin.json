@@ -1,0 +1,9 @@
+{
+  "name": "android-testing",
+  "version": "1.0.0",
+  "description": "android-testing skill from new-silvermoon/awesome-android-agent-skills",
+  "author": {
+    "name": "new-silvermoon"
+  },
+  "repository": "https://github.com/new-silvermoon/awesome-android-agent-skills"
+}

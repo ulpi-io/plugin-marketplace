@@ -1,0 +1,9 @@
+{
+  "name": "figma-implement-design",
+  "version": "1.0.0",
+  "description": "figma-implement-design skill from openai/skills",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "storage-format",
+  "version": "1.0.0",
+  "description": "storage-format skill from tursodatabase/turso",
+  "author": {
+    "name": "tursodatabase"
+  },
+  "repository": "https://github.com/tursodatabase/turso"
+}

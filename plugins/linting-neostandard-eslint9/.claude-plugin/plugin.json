@@ -1,0 +1,9 @@
+{
+  "name": "linting-neostandard-eslint9",
+  "version": "1.0.0",
+  "description": "linting-neostandard-eslint9 skill from mcollina/skills",
+  "author": {
+    "name": "mcollina"
+  },
+  "repository": "https://github.com/mcollina/skills"
+}

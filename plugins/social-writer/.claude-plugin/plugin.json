@@ -1,0 +1,9 @@
+{
+  "name": "social-writer",
+  "version": "1.0.0",
+  "description": "social-writer skill from itechmeat/llm-code",
+  "author": {
+    "name": "itechmeat"
+  },
+  "repository": "https://github.com/itechmeat/llm-code"
+}

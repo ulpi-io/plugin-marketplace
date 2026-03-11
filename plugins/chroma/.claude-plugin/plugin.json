@@ -1,0 +1,9 @@
+{
+  "name": "chroma",
+  "version": "1.0.0",
+  "description": "chroma skill from chroma-core/agent-skills",
+  "author": {
+    "name": "chroma-core"
+  },
+  "repository": "https://github.com/chroma-core/agent-skills"
+}

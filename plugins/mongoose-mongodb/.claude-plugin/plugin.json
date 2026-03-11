@@ -1,0 +1,9 @@
+{
+  "name": "mongoose-mongodb",
+  "version": "1.0.0",
+  "description": "mongoose-mongodb skill from pluginagentmarketplace/custom-plugin-nodejs",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-nodejs"
+}

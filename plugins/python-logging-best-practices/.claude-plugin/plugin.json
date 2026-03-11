@@ -1,0 +1,9 @@
+{
+  "name": "python-logging-best-practices",
+  "version": "1.0.0",
+  "description": "python-logging-best-practices skill from terrylica/cc-skills",
+  "author": {
+    "name": "terrylica"
+  },
+  "repository": "https://github.com/terrylica/cc-skills"
+}

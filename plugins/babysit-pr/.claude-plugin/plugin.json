@@ -1,0 +1,9 @@
+{
+  "name": "babysit-pr",
+  "version": "1.0.0",
+  "description": "babysit-pr skill from openai/codex",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/codex"
+}

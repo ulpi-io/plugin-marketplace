@@ -1,0 +1,9 @@
+{
+  "name": "omnicaptions-download",
+  "version": "1.0.0",
+  "description": "omnicaptions-download skill from lattifai/omni-captions-skills",
+  "author": {
+    "name": "lattifai"
+  },
+  "repository": "https://github.com/lattifai/omni-captions-skills"
+}

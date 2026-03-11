@@ -1,0 +1,9 @@
+{
+  "name": "git-worktrees",
+  "version": "1.0.0",
+  "description": "git-worktrees skill from bobmatnyc/claude-mpm-skills",
+  "author": {
+    "name": "bobmatnyc"
+  },
+  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
+}

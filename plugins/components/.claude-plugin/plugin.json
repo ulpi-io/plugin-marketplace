@@ -1,0 +1,9 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "components skill from tambo-ai/tambo",
+  "author": {
+    "name": "tambo-ai"
+  },
+  "repository": "https://github.com/tambo-ai/tambo"
+}

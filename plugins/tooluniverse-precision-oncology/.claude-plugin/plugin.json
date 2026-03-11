@@ -1,0 +1,9 @@
+{
+  "name": "tooluniverse-precision-oncology",
+  "version": "1.0.0",
+  "description": "tooluniverse-precision-oncology skill from mims-harvard/tooluniverse",
+  "author": {
+    "name": "mims-harvard"
+  },
+  "repository": "https://github.com/mims-harvard/tooluniverse"
+}

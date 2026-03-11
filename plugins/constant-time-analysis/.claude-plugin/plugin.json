@@ -1,0 +1,9 @@
+{
+  "name": "constant-time-analysis",
+  "version": "1.0.0",
+  "description": "constant-time-analysis skill from trailofbits/skills",
+  "author": {
+    "name": "trailofbits"
+  },
+  "repository": "https://github.com/trailofbits/skills"
+}

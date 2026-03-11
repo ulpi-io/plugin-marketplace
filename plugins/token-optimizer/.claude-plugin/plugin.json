@@ -1,0 +1,9 @@
+{
+  "name": "token-optimizer",
+  "version": "1.0.0",
+  "description": "token-optimizer skill from asif2bd/openclaw-token-optimizer",
+  "author": {
+    "name": "asif2bd"
+  },
+  "repository": "https://github.com/asif2bd/openclaw-token-optimizer"
+}

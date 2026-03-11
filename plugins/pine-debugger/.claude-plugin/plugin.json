@@ -1,0 +1,9 @@
+{
+  "name": "pine-debugger",
+  "version": "1.0.0",
+  "description": "pine-debugger skill from traderspost/pinescript-agents",
+  "author": {
+    "name": "traderspost"
+  },
+  "repository": "https://github.com/traderspost/pinescript-agents"
+}

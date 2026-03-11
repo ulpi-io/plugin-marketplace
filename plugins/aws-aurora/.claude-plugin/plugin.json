@@ -1,0 +1,9 @@
+{
+  "name": "aws-aurora",
+  "version": "1.0.0",
+  "description": "aws-aurora skill from alinaqi/claude-bootstrap",
+  "author": {
+    "name": "alinaqi"
+  },
+  "repository": "https://github.com/alinaqi/claude-bootstrap"
+}

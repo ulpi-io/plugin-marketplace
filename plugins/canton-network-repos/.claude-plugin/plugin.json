@@ -1,0 +1,9 @@
+{
+  "name": "canton-network-repos",
+  "version": "1.0.0",
+  "description": "canton-network-repos skill from 0xbigboss/claude-code",
+  "author": {
+    "name": "0xbigboss"
+  },
+  "repository": "https://github.com/0xbigboss/claude-code"
+}

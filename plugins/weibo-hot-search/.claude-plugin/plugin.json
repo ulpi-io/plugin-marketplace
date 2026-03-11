@@ -1,0 +1,9 @@
+{
+  "name": "weibo-hot-search",
+  "version": "1.0.0",
+  "description": "weibo-hot-search skill from agentbay-ai/agentbay-skills",
+  "author": {
+    "name": "agentbay-ai"
+  },
+  "repository": "https://github.com/agentbay-ai/agentbay-skills"
+}

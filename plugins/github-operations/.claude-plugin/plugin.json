@@ -1,0 +1,9 @@
+{
+  "name": "github-operations",
+  "version": "1.0.0",
+  "description": "github-operations skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

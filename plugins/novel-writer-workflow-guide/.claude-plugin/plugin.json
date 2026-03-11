@@ -1,0 +1,9 @@
+{
+  "name": "novel-writer-workflow-guide",
+  "version": "1.0.0",
+  "description": "novel-writer-workflow-guide skill from wordflowlab/novel-writer-skills",
+  "author": {
+    "name": "wordflowlab"
+  },
+  "repository": "https://github.com/wordflowlab/novel-writer-skills"
+}

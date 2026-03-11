@@ -1,0 +1,9 @@
+{
+  "name": "pixel-art-sprites",
+  "version": "1.0.0",
+  "description": "pixel-art-sprites skill from omer-metin/skills-for-antigravity",
+  "author": {
+    "name": "omer-metin"
+  },
+  "repository": "https://github.com/omer-metin/skills-for-antigravity"
+}

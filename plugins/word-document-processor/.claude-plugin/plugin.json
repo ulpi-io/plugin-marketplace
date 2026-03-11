@@ -1,0 +1,9 @@
+{
+  "name": "word-document-processor",
+  "version": "1.0.0",
+  "description": "word-document-processor skill from qodex-ai/ai-agent-skills",
+  "author": {
+    "name": "qodex-ai"
+  },
+  "repository": "https://github.com/qodex-ai/ai-agent-skills"
+}

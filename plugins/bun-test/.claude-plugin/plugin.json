@@ -1,0 +1,9 @@
+{
+  "name": "bun-test",
+  "version": "1.0.0",
+  "description": "bun-test skill from daleseo/bun-skills",
+  "author": {
+    "name": "daleseo"
+  },
+  "repository": "https://github.com/daleseo/bun-skills"
+}

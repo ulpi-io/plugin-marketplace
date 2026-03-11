@@ -1,0 +1,9 @@
+{
+  "name": "jadx",
+  "version": "1.0.0",
+  "description": "jadx skill from brownfinesecurity/iothackbot",
+  "author": {
+    "name": "brownfinesecurity"
+  },
+  "repository": "https://github.com/brownfinesecurity/iothackbot"
+}

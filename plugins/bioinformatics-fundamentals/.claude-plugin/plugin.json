@@ -1,0 +1,9 @@
+{
+  "name": "bioinformatics-fundamentals",
+  "version": "1.0.0",
+  "description": "bioinformatics-fundamentals skill from delphine-l/claude_global",
+  "author": {
+    "name": "delphine-l"
+  },
+  "repository": "https://github.com/delphine-l/claude_global"
+}

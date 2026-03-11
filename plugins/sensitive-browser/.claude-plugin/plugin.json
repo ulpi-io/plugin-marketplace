@@ -1,0 +1,9 @@
+{
+  "name": "sensitive-browser",
+  "version": "1.0.0",
+  "description": "sensitive-browser skill from napoleond/sensitive-browser",
+  "author": {
+    "name": "napoleond"
+  },
+  "repository": "https://github.com/napoleond/sensitive-browser"
+}

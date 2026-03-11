@@ -1,0 +1,9 @@
+{
+  "name": "tailwind-ui-patterns",
+  "version": "1.0.0",
+  "description": "tailwind-ui-patterns skill from autohandai/community-skills",
+  "author": {
+    "name": "autohandai"
+  },
+  "repository": "https://github.com/autohandai/community-skills"
+}

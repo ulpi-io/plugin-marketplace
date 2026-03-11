@@ -1,0 +1,9 @@
+{
+  "name": "nia-docs",
+  "version": "1.0.0",
+  "description": "nia-docs skill from parcadei/continuous-claude-v3",
+  "author": {
+    "name": "parcadei"
+  },
+  "repository": "https://github.com/parcadei/continuous-claude-v3"
+}

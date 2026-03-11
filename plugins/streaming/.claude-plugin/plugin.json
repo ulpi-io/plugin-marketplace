@@ -1,0 +1,9 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "description": "streaming skill from assistant-ui/skills",
+  "author": {
+    "name": "assistant-ui"
+  },
+  "repository": "https://github.com/assistant-ui/skills"
+}

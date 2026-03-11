@@ -1,0 +1,9 @@
+{
+  "name": "azure-pipelines",
+  "version": "1.0.0",
+  "description": "azure-pipelines skill from microsoft/vscode",
+  "author": {
+    "name": "microsoft"
+  },
+  "repository": "https://github.com/microsoft/vscode"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pr-quality-checklist",
+  "version": "1.0.0",
+  "description": "pr-quality-checklist skill from bobmatnyc/claude-mpm-skills",
+  "author": {
+    "name": "bobmatnyc"
+  },
+  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
+}

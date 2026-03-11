@@ -1,0 +1,9 @@
+{
+  "name": "responsive-patterns",
+  "version": "1.0.0",
+  "description": "responsive-patterns skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

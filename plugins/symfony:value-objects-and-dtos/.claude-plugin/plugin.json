@@ -1,0 +1,9 @@
+{
+  "name": "symfony:value-objects-and-dtos",
+  "version": "1.0.0",
+  "description": "symfony:value-objects-and-dtos skill from makfly/superpowers-symfony",
+  "author": {
+    "name": "makfly"
+  },
+  "repository": "https://github.com/makfly/superpowers-symfony"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "agentic-development",
+  "version": "1.0.0",
+  "description": "agentic-development skill from alinaqi/claude-bootstrap",
+  "author": {
+    "name": "alinaqi"
+  },
+  "repository": "https://github.com/alinaqi/claude-bootstrap"
+}

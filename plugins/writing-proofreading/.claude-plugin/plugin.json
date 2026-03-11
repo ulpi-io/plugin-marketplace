@@ -1,0 +1,9 @@
+{
+  "name": "writing-proofreading",
+  "version": "1.0.0",
+  "description": "writing-proofreading skill from niracler/skill",
+  "author": {
+    "name": "niracler"
+  },
+  "repository": "https://github.com/niracler/skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "openclaw-stock-skill",
+  "version": "1.0.0",
+  "description": "openclaw-stock-skill skill from 1018466411/openclaw-stock-data-skill",
+  "author": {
+    "name": "1018466411"
+  },
+  "repository": "https://github.com/1018466411/openclaw-stock-data-skill"
+}

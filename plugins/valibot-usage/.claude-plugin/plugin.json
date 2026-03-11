@@ -1,0 +1,9 @@
+{
+  "name": "valibot-usage",
+  "version": "1.0.0",
+  "description": "valibot-usage skill from open-circle/agent-skills",
+  "author": {
+    "name": "open-circle"
+  },
+  "repository": "https://github.com/open-circle/agent-skills"
+}

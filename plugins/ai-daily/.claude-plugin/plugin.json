@@ -1,0 +1,9 @@
+{
+  "name": "ai-daily",
+  "version": "1.0.0",
+  "description": "ai-daily skill from geekjourneyx/mind-skills",
+  "author": {
+    "name": "geekjourneyx"
+  },
+  "repository": "https://github.com/geekjourneyx/mind-skills"
+}

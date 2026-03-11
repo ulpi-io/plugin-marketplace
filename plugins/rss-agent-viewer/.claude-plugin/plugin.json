@@ -1,0 +1,9 @@
+{
+  "name": "rss-agent-viewer",
+  "version": "1.0.0",
+  "description": "rss-agent-viewer skill from brooksy4503/rss-agent-viewer",
+  "author": {
+    "name": "brooksy4503"
+  },
+  "repository": "https://github.com/brooksy4503/rss-agent-viewer"
+}

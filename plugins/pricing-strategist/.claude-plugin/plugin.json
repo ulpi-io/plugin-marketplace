@@ -1,0 +1,9 @@
+{
+  "name": "pricing-strategist",
+  "version": "1.0.0",
+  "description": "pricing-strategist skill from ognjengt/founder-skills",
+  "author": {
+    "name": "ognjengt"
+  },
+  "repository": "https://github.com/ognjengt/founder-skills"
+}

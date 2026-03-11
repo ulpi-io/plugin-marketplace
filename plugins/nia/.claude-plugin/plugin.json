@@ -1,0 +1,9 @@
+{
+  "name": "nia",
+  "version": "1.0.0",
+  "description": "nia skill from nozomio-labs/nia-skill",
+  "author": {
+    "name": "nozomio-labs"
+  },
+  "repository": "https://github.com/nozomio-labs/nia-skill"
+}

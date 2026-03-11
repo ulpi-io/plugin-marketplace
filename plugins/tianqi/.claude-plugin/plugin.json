@@ -1,0 +1,9 @@
+{
+  "name": "tianqi",
+  "version": "1.0.0",
+  "description": "tianqi skill from aahl/skills",
+  "author": {
+    "name": "aahl"
+  },
+  "repository": "https://github.com/aahl/skills"
+}

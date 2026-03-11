@@ -1,0 +1,9 @@
+{
+  "name": "svg-logo-designer",
+  "version": "1.0.0",
+  "description": "svg-logo-designer skill from rknall/claude-skills",
+  "author": {
+    "name": "rknall"
+  },
+  "repository": "https://github.com/rknall/claude-skills"
+}

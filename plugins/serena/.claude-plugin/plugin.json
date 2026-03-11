@@ -1,0 +1,9 @@
+{
+  "name": "serena",
+  "version": "1.0.0",
+  "description": "serena skill from massgen/massgen",
+  "author": {
+    "name": "massgen"
+  },
+  "repository": "https://github.com/massgen/massgen"
+}

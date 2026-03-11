@@ -1,0 +1,9 @@
+{
+  "name": "asc-build-lifecycle",
+  "version": "1.0.0",
+  "description": "asc-build-lifecycle skill from rudrankriyam/asc-skills",
+  "author": {
+    "name": "rudrankriyam"
+  },
+  "repository": "https://github.com/rudrankriyam/asc-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-database-analyticdb-mysql",
+  "version": "1.0.0",
+  "description": "alicloud-database-analyticdb-mysql skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

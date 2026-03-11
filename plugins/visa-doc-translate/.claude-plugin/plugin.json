@@ -1,0 +1,9 @@
+{
+  "name": "visa-doc-translate",
+  "version": "1.0.0",
+  "description": "visa-doc-translate skill from affaan-m/everything-claude-code",
+  "author": {
+    "name": "affaan-m"
+  },
+  "repository": "https://github.com/affaan-m/everything-claude-code"
+}

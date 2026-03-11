@@ -1,0 +1,9 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "description": "express-rest-api skill from pluginagentmarketplace/custom-plugin-nodejs",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-nodejs"
+}

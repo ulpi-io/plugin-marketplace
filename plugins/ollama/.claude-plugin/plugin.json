@@ -1,0 +1,9 @@
+{
+  "name": "ollama",
+  "version": "1.0.0",
+  "description": "ollama skill from rawveg/skillsforge-marketplace",
+  "author": {
+    "name": "rawveg"
+  },
+  "repository": "https://github.com/rawveg/skillsforge-marketplace"
+}

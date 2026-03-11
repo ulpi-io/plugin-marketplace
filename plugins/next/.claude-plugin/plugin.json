@@ -1,0 +1,9 @@
+{
+  "name": "next",
+  "version": "1.0.0",
+  "description": "next skill from hairyf/skills",
+  "author": {
+    "name": "hairyf"
+  },
+  "repository": "https://github.com/hairyf/skills"
+}

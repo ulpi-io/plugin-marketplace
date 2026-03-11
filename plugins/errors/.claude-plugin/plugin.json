@@ -1,0 +1,9 @@
+{
+  "name": "errors",
+  "version": "1.0.0",
+  "description": "errors skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ant-design-react",
+  "version": "1.0.0",
+  "description": "ant-design-react skill from teachingai/full-stack-skills",
+  "author": {
+    "name": "teachingai"
+  },
+  "repository": "https://github.com/teachingai/full-stack-skills"
+}

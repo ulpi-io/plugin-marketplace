@@ -1,0 +1,9 @@
+{
+  "name": "news-summary",
+  "version": "1.0.0",
+  "description": "news-summary skill from zjfls/zhoujie-claude-skills",
+  "author": {
+    "name": "zjfls"
+  },
+  "repository": "https://github.com/zjfls/zhoujie-claude-skills"
+}

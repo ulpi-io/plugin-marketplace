@@ -1,0 +1,9 @@
+{
+  "name": "stm32-freertos-developer",
+  "version": "1.0.0",
+  "description": "stm32-freertos-developer skill from 2939387245/agent-skill_stm32-freertos",
+  "author": {
+    "name": "2939387245"
+  },
+  "repository": "https://github.com/2939387245/agent-skill_stm32-freertos"
+}

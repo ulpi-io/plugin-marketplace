@@ -1,0 +1,9 @@
+{
+  "name": "symfony:symfony-scheduler",
+  "version": "1.0.0",
+  "description": "symfony:symfony-scheduler skill from makfly/superpowers-symfony",
+  "author": {
+    "name": "makfly"
+  },
+  "repository": "https://github.com/makfly/superpowers-symfony"
+}

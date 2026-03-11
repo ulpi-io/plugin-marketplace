@@ -1,0 +1,9 @@
+{
+  "name": "terraform-skill",
+  "version": "1.0.0",
+  "description": "terraform-skill skill from antonbabenko/terraform-skill",
+  "author": {
+    "name": "antonbabenko"
+  },
+  "repository": "https://github.com/antonbabenko/terraform-skill"
+}

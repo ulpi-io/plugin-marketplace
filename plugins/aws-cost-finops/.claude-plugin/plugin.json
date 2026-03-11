@@ -1,0 +1,9 @@
+{
+  "name": "aws-cost-finops",
+  "version": "1.0.0",
+  "description": "aws-cost-finops skill from ahmedasmar/devops-claude-skills",
+  "author": {
+    "name": "ahmedasmar"
+  },
+  "repository": "https://github.com/ahmedasmar/devops-claude-skills"
+}

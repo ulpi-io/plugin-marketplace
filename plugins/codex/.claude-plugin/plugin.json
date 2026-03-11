@@ -1,0 +1,9 @@
+{
+  "name": "codex",
+  "version": "1.0.0",
+  "description": "codex skill from skills-directory/skill-codex",
+  "author": {
+    "name": "skills-directory"
+  },
+  "repository": "https://github.com/skills-directory/skill-codex"
+}

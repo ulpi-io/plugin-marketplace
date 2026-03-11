@@ -1,0 +1,9 @@
+{
+  "name": "flutter-concurrency",
+  "version": "1.0.0",
+  "description": "flutter-concurrency skill from flutter/skills",
+  "author": {
+    "name": "flutter"
+  },
+  "repository": "https://github.com/flutter/skills"
+}

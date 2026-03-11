@@ -1,0 +1,9 @@
+{
+  "name": "golang-backend-development",
+  "version": "1.0.0",
+  "description": "golang-backend-development skill from manutej/luxor-claude-marketplace",
+  "author": {
+    "name": "manutej"
+  },
+  "repository": "https://github.com/manutej/luxor-claude-marketplace"
+}

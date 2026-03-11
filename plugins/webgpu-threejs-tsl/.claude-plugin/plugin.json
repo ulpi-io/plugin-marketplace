@@ -1,0 +1,9 @@
+{
+  "name": "webgpu-threejs-tsl",
+  "version": "1.0.0",
+  "description": "webgpu-threejs-tsl skill from dgreenheck/webgpu-claude-skill",
+  "author": {
+    "name": "dgreenheck"
+  },
+  "repository": "https://github.com/dgreenheck/webgpu-claude-skill"
+}

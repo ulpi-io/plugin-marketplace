@@ -1,0 +1,9 @@
+{
+  "name": "tmux-processes",
+  "version": "1.0.0",
+  "description": "tmux-processes skill from 0xbigboss/claude-code",
+  "author": {
+    "name": "0xbigboss"
+  },
+  "repository": "https://github.com/0xbigboss/claude-code"
+}

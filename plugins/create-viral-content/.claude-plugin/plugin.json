@@ -1,0 +1,9 @@
+{
+  "name": "create-viral-content",
+  "version": "1.0.0",
+  "description": "create-viral-content skill from aaaronmiller/create-viral-content",
+  "author": {
+    "name": "aaaronmiller"
+  },
+  "repository": "https://github.com/aaaronmiller/create-viral-content"
+}

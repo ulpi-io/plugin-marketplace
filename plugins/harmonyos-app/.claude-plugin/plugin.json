@@ -1,0 +1,9 @@
+{
+  "name": "harmonyos-app",
+  "version": "1.0.0",
+  "description": "harmonyos-app skill from majiayu000/claude-arsenal",
+  "author": {
+    "name": "majiayu000"
+  },
+  "repository": "https://github.com/majiayu000/claude-arsenal"
+}

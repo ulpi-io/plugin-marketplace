@@ -1,0 +1,9 @@
+{
+  "name": "spec-receiving-code-review",
+  "version": "1.0.0",
+  "description": "spec-receiving-code-review skill from zixun-github/aisdlc",
+  "author": {
+    "name": "zixun-github"
+  },
+  "repository": "https://github.com/zixun-github/aisdlc"
+}

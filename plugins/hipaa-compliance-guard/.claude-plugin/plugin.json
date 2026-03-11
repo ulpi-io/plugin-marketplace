@@ -1,0 +1,9 @@
+{
+  "name": "hipaa-compliance-guard",
+  "version": "1.0.0",
+  "description": "hipaa-compliance-guard skill from jorgealves/agent_skills",
+  "author": {
+    "name": "jorgealves"
+  },
+  "repository": "https://github.com/jorgealves/agent_skills"
+}

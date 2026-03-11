@@ -1,0 +1,9 @@
+{
+  "name": "macos-native",
+  "version": "1.0.0",
+  "description": "macos-native skill from travisjneuman/.claude",
+  "author": {
+    "name": "travisjneuman"
+  },
+  "repository": "https://github.com/travisjneuman/.claude"
+}

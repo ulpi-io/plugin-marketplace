@@ -1,0 +1,9 @@
+{
+  "name": "lp-agent",
+  "version": "1.0.0",
+  "description": "lp-agent skill from hummingbot/skills",
+  "author": {
+    "name": "hummingbot"
+  },
+  "repository": "https://github.com/hummingbot/skills"
+}

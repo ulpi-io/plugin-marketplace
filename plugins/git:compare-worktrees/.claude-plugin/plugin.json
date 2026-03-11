@@ -1,0 +1,9 @@
+{
+  "name": "git:compare-worktrees",
+  "version": "1.0.0",
+  "description": "git:compare-worktrees skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

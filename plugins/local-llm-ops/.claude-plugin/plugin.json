@@ -1,0 +1,9 @@
+{
+  "name": "local-llm-ops",
+  "version": "1.0.0",
+  "description": "local-llm-ops skill from bobmatnyc/claude-mpm-skills",
+  "author": {
+    "name": "bobmatnyc"
+  },
+  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
+}

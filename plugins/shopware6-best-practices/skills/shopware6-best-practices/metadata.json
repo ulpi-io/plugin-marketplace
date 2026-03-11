@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Benedikt Grimm",
+  "date": "January 2026",
+  "abstract": "Comprehensive best practices guide for Shopware 6.6+ backend development, designed for AI agents and LLMs. Covers plugin architecture, DAL patterns, API development, performance optimization, security, and testing. Each rule includes detailed explanations, real-world examples comparing incorrect vs. correct implementations, and specific impact metrics to guide automated refactoring and code generation.",
+  "references": [
+    "https://developer.shopware.com/docs/",
+    "https://developer.shopware.com/docs/guides/plugins/plugins/plugin-base-guide.html",
+    "https://developer.shopware.com/docs/concepts/framework/data-abstraction-layer.html",
+    "https://developer.shopware.com/docs/concepts/api/",
+    "https://developer.shopware.com/docs/guides/hosting/performance/caches.html"
+  ]
+}

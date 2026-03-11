@@ -1,0 +1,9 @@
+{
+  "name": "apollo-federation",
+  "version": "1.0.0",
+  "description": "apollo-federation skill from apollographql/skills",
+  "author": {
+    "name": "apollographql"
+  },
+  "repository": "https://github.com/apollographql/skills"
+}

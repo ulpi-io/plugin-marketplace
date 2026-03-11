@@ -1,0 +1,9 @@
+{
+  "name": "typst",
+  "version": "1.0.0",
+  "description": "typst skill from lucifer1004/claude-skill-typst",
+  "author": {
+    "name": "lucifer1004"
+  },
+  "repository": "https://github.com/lucifer1004/claude-skill-typst"
+}

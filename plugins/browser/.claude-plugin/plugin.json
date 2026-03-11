@@ -1,0 +1,9 @@
+{
+  "name": "browser",
+  "version": "1.0.0",
+  "description": "browser skill from browserbase/skills",
+  "author": {
+    "name": "browserbase"
+  },
+  "repository": "https://github.com/browserbase/skills"
+}

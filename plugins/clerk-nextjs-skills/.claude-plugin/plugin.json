@@ -1,0 +1,9 @@
+{
+  "name": "clerk-nextjs-skills",
+  "version": "1.0.0",
+  "description": "clerk-nextjs-skills skill from gocallum/nextjs16-agent-skills",
+  "author": {
+    "name": "gocallum"
+  },
+  "repository": "https://github.com/gocallum/nextjs16-agent-skills"
+}

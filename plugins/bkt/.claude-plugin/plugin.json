@@ -1,0 +1,9 @@
+{
+  "name": "bkt",
+  "version": "1.0.0",
+  "description": "bkt skill from avivsinai/bitbucket-cli",
+  "author": {
+    "name": "avivsinai"
+  },
+  "repository": "https://github.com/avivsinai/bitbucket-cli"
+}

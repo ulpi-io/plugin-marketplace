@@ -1,0 +1,9 @@
+{
+  "name": "tech-stack-evaluator",
+  "version": "1.0.0",
+  "description": "tech-stack-evaluator skill from alirezarezvani/claude-skills",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "repository": "https://github.com/alirezarezvani/claude-skills"
+}

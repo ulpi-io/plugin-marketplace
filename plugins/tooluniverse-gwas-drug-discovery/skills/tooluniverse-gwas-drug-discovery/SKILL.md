@@ -1,0 +1,157 @@
+---
+name: tooluniverse-gwas-drug-discovery
+description: Transform GWAS signals into actionable drug targets and repurposing opportunities. Performs locus-to-gene mapping, target druggability assessment, existing drug identification, safety profile evaluation, and clinical trial matching. Use when discovering drug targets from GWAS data, finding drug repurposing opportunities from genetic associations, or translating GWAS findings into therapeutic leads.
+---
+
+# GWAS-to-Drug Target Discovery
+
+Transform genome-wide association studies (GWAS) into actionable drug targets and repurposing opportunities.
+
+**IMPORTANT**: Always use English terms in tool calls. Respond in the user's language.
+
+---
+
+## Overview
+
+This skill bridges genetic discoveries from GWAS with drug development by:
+
+1. **Identifying genetic risk factors** - Finding genes associated with diseases
+2. **Assessing druggability** - Evaluating which genes can be targeted by drugs
+3. **Prioritizing targets** - Ranking candidates by genetic evidence strength
+4. **Finding existing drugs** - Discovering approved/investigational compounds
+5. **Identifying repurposing opportunities** - Matching drugs to new indications
+
+**Key insight**: Targets with genetic support have 2x higher probability of clinical approval (Nelson et al., Nature Genetics 2015).
+
+---
+
+## Workflow Steps
+
+### Step 1: GWAS Gene Discovery
+
+**Input**: Disease/trait name (e.g., "type 2 diabetes", "Alzheimer disease")
+
+**Process**: Query GWAS Catalog for associations, filter by significance (p < 5x10^-8), map variants to genes, aggregate evidence.
+
+**Tools**:
+- `gwas_get_associations_for_trait` - Get associations by disease
+- `gwas_search_associations` - Flexible search
+- `gwas_get_associations_for_snp` - SNP-specific associations
+- `OpenTargets_search_gwas_studies_by_disease` - Curated GWAS data
+- `OpenTargets_get_variant_credible_sets` - Fine-mapped loci with L2G predictions
+
+### Step 2: Druggability Assessment
+
+**Input**: Gene list from Step 1
+
+**Process**: Check target class, assess tractability, evaluate safety, check for tool compounds or structures.
+
+**Tools**:
+- `OpenTargets_get_target_tractability_by_ensemblID` - Druggability assessment
+- `OpenTargets_get_target_classes_by_ensemblID` - Target classification
+- `OpenTargets_get_target_safety_profile_by_ensemblID` - Safety data
+- `OpenTargets_get_target_genomic_location_by_ensemblID` - Genomic context
+
+### Step 3: Target Prioritization
+
+**Scoring Formula**:
+```
+Target Score = (GWAS Score x 0.4) + (Druggability x 0.3) + (Clinical Evidence x 0.2) + (Novelty x 0.1)
+```
+
+Rank targets by composite score. Generate target dossiers.
+
+### Step 4: Existing Drug Search
+
+**Process**: Search drug-target associations, find approved drugs and clinical candidates, get MOA and indication data.
+
+**Tools**:
+- `OpenTargets_get_associated_drugs_by_disease_efoId` - Known drugs for disease
+- `OpenTargets_get_drug_mechanisms_of_action_by_chemblId` - Drug MOA
+- `ChEMBL_get_target_activities` - Bioactivity data
+- `ChEMBL_get_drug_mechanisms` / `ChEMBL_search_drugs` - Drug data
+
+### Step 5: Clinical Evidence & Safety
+
+**Tools**:
+- `FDA_get_adverse_reactions_by_drug_name` - Safety data
+- `FDA_get_active_ingredient_info_by_drug_name` - Drug composition
+- `OpenTargets_get_drug_warnings_by_chemblId` - Drug warnings
+
+### Step 6: Repurposing Opportunities
+
+Match drug targets to new disease genes, assess mechanistic fit, check contraindications, estimate repurposing probability.
+
+---
+
+## Quick Start
+
+```python
+from tooluniverse import ToolUniverse
+tu = ToolUniverse(use_cache=True)
+tu.load_tools()
+
+# Step 1: Get GWAS associations
+associations = tu.tools.gwas_get_associations_for_trait(trait="type 2 diabetes")
+
+# Step 2: Assess druggability
+tractability = tu.tools.OpenTargets_get_target_tractability_by_ensemblID(ensemblID="ENSG00000148737")
+
+# Step 3: Find existing drugs
+drugs = tu.tools.OpenTargets_get_associated_drugs_by_disease_efoId(efoId="EFO_0001360")
+```
+
+---
+
+## All Tools by Category
+
+**GWAS & Genetics**:
+- `gwas_get_associations_for_trait` / `gwas_search_associations` / `gwas_get_associations_for_snp`
+- `OpenTargets_search_gwas_studies_by_disease` / `OpenTargets_get_variant_credible_sets`
+
+**Target Assessment**:
+- `OpenTargets_get_target_tractability_by_ensemblID` / `OpenTargets_get_target_classes_by_ensemblID`
+- `OpenTargets_get_target_safety_profile_by_ensemblID` / `OpenTargets_get_target_genomic_location_by_ensemblID`
+
+**Drug Discovery**:
+- `OpenTargets_get_associated_drugs_by_disease_efoId` / `OpenTargets_get_drug_mechanisms_of_action_by_chemblId`
+- `ChEMBL_get_target_activities` / `ChEMBL_get_drug_mechanisms` / `ChEMBL_search_drugs`
+
+**Safety & Clinical**:
+- `FDA_get_adverse_reactions_by_drug_name` / `FDA_get_active_ingredient_info_by_drug_name`
+- `OpenTargets_get_drug_warnings_by_chemblId`
+
+**Literature**:
+- `PubMed_search_articles` / `EuropePMC_search_articles` / `ClinicalTrials_search`
+
+---
+
+## Best Practices
+
+1. **Multi-ancestry GWAS**: Include trans-ethnic meta-analyses for robust signals
+2. **Functional validation**: Confirm with eQTL, pQTL, colocalization analysis
+3. **Network analysis**: Group GWAS hits by pathway (KEGG, Reactome)
+4. **Safety assessment**: Check gnomAD pLI, GTEx expression, PharmaGKB
+5. **Batch operations**: Use `tu.run_batch()` for parallel queries across targets
+
+---
+
+## Troubleshooting
+
+| Problem | Solution |
+|---------|----------|
+| No GWAS hits for disease | Try broader trait name, check synonyms, use OpenTargets |
+| Gene not in druggable class | Consider antibody/antisense modalities, check pathway neighbors |
+| No existing drugs for target | Target may be novel - check tool compounds in ChEMBL |
+| Low L2G score | Variants may be regulatory - check eQTL/pQTL evidence |
+
+---
+
+## Reference Files
+
+- **REFERENCE.md** - Detailed concepts, druggability tiers, clinical translation, limitations, ethics
+- **EXAMPLES.md** - Use cases (Huntington's, Alzheimer's, diabetes) with success stories
+- **REPORT_TEMPLATE.md** - Output report template with scoring criteria
+- **PROCEDURES.md** - Step-by-step implementation procedures
+- **QUICK_START.md** - Quick start guide
+- Related skills: tooluniverse-drug-repurposing, disease-intelligence-gatherer, tooluniverse-sdk

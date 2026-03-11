@@ -1,0 +1,9 @@
+{
+  "name": "axum-web-framework",
+  "version": "1.0.0",
+  "description": "axum-web-framework skill from manutej/luxor-claude-marketplace",
+  "author": {
+    "name": "manutej"
+  },
+  "repository": "https://github.com/manutej/luxor-claude-marketplace"
+}

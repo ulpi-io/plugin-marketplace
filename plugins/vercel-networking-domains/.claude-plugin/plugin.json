@@ -1,0 +1,9 @@
+{
+  "name": "vercel-networking-domains",
+  "version": "1.0.0",
+  "description": "vercel-networking-domains skill from bobmatnyc/claude-mpm-skills",
+  "author": {
+    "name": "bobmatnyc"
+  },
+  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
+}

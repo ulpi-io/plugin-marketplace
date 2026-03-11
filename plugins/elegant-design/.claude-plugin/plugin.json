@@ -1,0 +1,9 @@
+{
+  "name": "elegant-design",
+  "version": "1.0.0",
+  "description": "elegant-design skill from rand/cc-polymath",
+  "author": {
+    "name": "rand"
+  },
+  "repository": "https://github.com/rand/cc-polymath"
+}

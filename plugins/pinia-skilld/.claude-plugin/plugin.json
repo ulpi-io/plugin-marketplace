@@ -1,0 +1,9 @@
+{
+  "name": "pinia-skilld",
+  "version": "1.0.0",
+  "description": "pinia-skilld skill from harlan-zw/vue-ecosystem-skills",
+  "author": {
+    "name": "harlan-zw"
+  },
+  "repository": "https://github.com/harlan-zw/vue-ecosystem-skills"
+}

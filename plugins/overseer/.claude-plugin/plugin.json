@@ -1,0 +1,9 @@
+{
+  "name": "overseer",
+  "version": "1.0.0",
+  "description": "overseer skill from dmmulroy/overseer",
+  "author": {
+    "name": "dmmulroy"
+  },
+  "repository": "https://github.com/dmmulroy/overseer"
+}

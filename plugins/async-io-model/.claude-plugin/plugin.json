@@ -1,0 +1,9 @@
+{
+  "name": "async-io-model",
+  "version": "1.0.0",
+  "description": "async-io-model skill from tursodatabase/turso",
+  "author": {
+    "name": "tursodatabase"
+  },
+  "repository": "https://github.com/tursodatabase/turso"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "do-work",
+  "version": "1.0.0",
+  "description": "do-work skill from bladnman/do-work",
+  "author": {
+    "name": "bladnman"
+  },
+  "repository": "https://github.com/bladnman/do-work"
+}

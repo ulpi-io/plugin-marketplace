@@ -1,0 +1,9 @@
+{
+  "name": "sdd:add-task",
+  "version": "1.0.0",
+  "description": "sdd:add-task skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

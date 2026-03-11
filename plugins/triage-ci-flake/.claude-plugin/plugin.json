@@ -1,0 +1,9 @@
+{
+  "name": "triage-ci-flake",
+  "version": "1.0.0",
+  "description": "triage-ci-flake skill from payloadcms/payload",
+  "author": {
+    "name": "payloadcms"
+  },
+  "repository": "https://github.com/payloadcms/payload"
+}

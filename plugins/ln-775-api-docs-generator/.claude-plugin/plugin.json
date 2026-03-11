@@ -1,0 +1,9 @@
+{
+  "name": "ln-775-api-docs-generator",
+  "version": "1.0.0",
+  "description": "ln-775-api-docs-generator skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

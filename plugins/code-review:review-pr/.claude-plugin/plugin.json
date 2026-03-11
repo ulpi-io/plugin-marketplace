@@ -1,0 +1,9 @@
+{
+  "name": "code-review:review-pr",
+  "version": "1.0.0",
+  "description": "code-review:review-pr skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "interpreting-culture-index",
+  "version": "1.0.0",
+  "description": "interpreting-culture-index skill from trailofbits/skills",
+  "author": {
+    "name": "trailofbits"
+  },
+  "repository": "https://github.com/trailofbits/skills"
+}

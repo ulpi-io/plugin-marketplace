@@ -1,0 +1,9 @@
+{
+  "name": "beachhead-segment",
+  "version": "1.0.0",
+  "description": "beachhead-segment skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

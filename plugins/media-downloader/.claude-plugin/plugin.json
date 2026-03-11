@@ -1,0 +1,9 @@
+{
+  "name": "media-downloader",
+  "version": "1.0.0",
+  "description": "media-downloader skill from yizhiyanhua-ai/media-downloader",
+  "author": {
+    "name": "yizhiyanhua-ai"
+  },
+  "repository": "https://github.com/yizhiyanhua-ai/media-downloader"
+}

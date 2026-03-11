@@ -1,0 +1,9 @@
+{
+  "name": "transcriptapi",
+  "version": "1.0.0",
+  "description": "transcriptapi skill from zeropointrepo/youtube-skills",
+  "author": {
+    "name": "zeropointrepo"
+  },
+  "repository": "https://github.com/zeropointrepo/youtube-skills"
+}

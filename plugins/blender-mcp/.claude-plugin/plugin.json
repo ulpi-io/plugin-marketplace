@@ -1,0 +1,9 @@
+{
+  "name": "blender-mcp",
+  "version": "1.0.0",
+  "description": "blender-mcp skill from vladmdgolam/agent-skills",
+  "author": {
+    "name": "vladmdgolam"
+  },
+  "repository": "https://github.com/vladmdgolam/agent-skills"
+}

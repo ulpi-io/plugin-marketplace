@@ -1,0 +1,9 @@
+{
+  "name": "asc-submission-health",
+  "version": "1.0.0",
+  "description": "asc-submission-health skill from rudrankriyam/asc-skills",
+  "author": {
+    "name": "rudrankriyam"
+  },
+  "repository": "https://github.com/rudrankriyam/asc-skills"
+}

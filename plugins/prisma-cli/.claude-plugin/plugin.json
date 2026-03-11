@@ -1,0 +1,9 @@
+{
+  "name": "prisma-cli",
+  "version": "1.0.0",
+  "description": "prisma-cli skill from prisma/skills",
+  "author": {
+    "name": "prisma"
+  },
+  "repository": "https://github.com/prisma/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "atlas-best-practices",
+  "version": "1.0.0",
+  "description": "atlas-best-practices skill from 0xbigboss/claude-code",
+  "author": {
+    "name": "0xbigboss"
+  },
+  "repository": "https://github.com/0xbigboss/claude-code"
+}

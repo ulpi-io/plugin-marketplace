@@ -1,0 +1,9 @@
+{
+  "name": "swagger-doc-creator",
+  "version": "1.0.0",
+  "description": "swagger-doc-creator skill from jeremylongshore/claude-code-plugins-plus-skills",
+  "author": {
+    "name": "jeremylongshore"
+  },
+  "repository": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+}

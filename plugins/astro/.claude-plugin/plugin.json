@@ -1,0 +1,9 @@
+{
+  "name": "astro",
+  "version": "1.0.0",
+  "description": "astro skill from astrolicious/agent-skills",
+  "author": {
+    "name": "astrolicious"
+  },
+  "repository": "https://github.com/astrolicious/agent-skills"
+}

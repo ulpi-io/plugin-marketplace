@@ -1,0 +1,9 @@
+{
+  "name": "ionic-design",
+  "version": "1.0.0",
+  "description": "ionic-design skill from cap-go/capacitor-skills",
+  "author": {
+    "name": "cap-go"
+  },
+  "repository": "https://github.com/cap-go/capacitor-skills"
+}

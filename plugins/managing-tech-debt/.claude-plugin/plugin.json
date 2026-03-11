@@ -1,0 +1,9 @@
+{
+  "name": "managing-tech-debt",
+  "version": "1.0.0",
+  "description": "managing-tech-debt skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

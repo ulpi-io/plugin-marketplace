@@ -1,0 +1,9 @@
+{
+  "name": "artifacts-builder",
+  "version": "1.0.0",
+  "description": "artifacts-builder skill from shajith003/awesome-claude-skills",
+  "author": {
+    "name": "shajith003"
+  },
+  "repository": "https://github.com/shajith003/awesome-claude-skills"
+}

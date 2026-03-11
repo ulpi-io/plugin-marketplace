@@ -1,0 +1,9 @@
+{
+  "name": "authenticate-wallet",
+  "version": "1.0.0",
+  "description": "authenticate-wallet skill from coinbase/agentic-wallet-skills",
+  "author": {
+    "name": "coinbase"
+  },
+  "repository": "https://github.com/coinbase/agentic-wallet-skills"
+}

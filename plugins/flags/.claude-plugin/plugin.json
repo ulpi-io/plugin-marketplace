@@ -1,0 +1,9 @@
+{
+  "name": "flags",
+  "version": "1.0.0",
+  "description": "flags skill from facebook/react",
+  "author": {
+    "name": "facebook"
+  },
+  "repository": "https://github.com/facebook/react"
+}

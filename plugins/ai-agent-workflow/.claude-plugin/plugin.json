@@ -1,0 +1,9 @@
+{
+  "name": "ai-agent-workflow",
+  "version": "1.0.0",
+  "description": "ai-agent-workflow skill from andrelandgraf/fullstackrecipes",
+  "author": {
+    "name": "andrelandgraf"
+  },
+  "repository": "https://github.com/andrelandgraf/fullstackrecipes"
+}

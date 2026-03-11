@@ -1,0 +1,9 @@
+{
+  "name": "yuque-personal-style-extract",
+  "version": "1.0.0",
+  "description": "yuque-personal-style-extract skill from yuque/yuque-plugin",
+  "author": {
+    "name": "yuque"
+  },
+  "repository": "https://github.com/yuque/yuque-plugin"
+}

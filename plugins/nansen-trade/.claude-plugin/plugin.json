@@ -1,0 +1,9 @@
+{
+  "name": "nansen-trade",
+  "version": "1.0.0",
+  "description": "nansen-trade skill from nansen-ai/nansen-cli",
+  "author": {
+    "name": "nansen-ai"
+  },
+  "repository": "https://github.com/nansen-ai/nansen-cli"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "spring-boot-rest-api-standards",
+  "version": "1.0.0",
+  "description": "spring-boot-rest-api-standards skill from giuseppe-trisciuoglio/developer-kit",
+  "author": {
+    "name": "giuseppe-trisciuoglio"
+  },
+  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
+}

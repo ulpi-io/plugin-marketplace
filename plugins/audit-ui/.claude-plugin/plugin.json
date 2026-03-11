@@ -1,0 +1,9 @@
+{
+  "name": "audit-ui",
+  "version": "1.0.0",
+  "description": "audit-ui skill from mblode/agent-skills",
+  "author": {
+    "name": "mblode"
+  },
+  "repository": "https://github.com/mblode/agent-skills"
+}

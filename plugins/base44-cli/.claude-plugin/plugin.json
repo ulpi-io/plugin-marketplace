@@ -1,0 +1,9 @@
+{
+  "name": "base44-cli",
+  "version": "1.0.0",
+  "description": "base44-cli skill from base44/skills",
+  "author": {
+    "name": "base44"
+  },
+  "repository": "https://github.com/base44/skills"
+}

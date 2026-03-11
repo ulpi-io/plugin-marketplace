@@ -1,0 +1,9 @@
+{
+  "name": "cal-com-automation",
+  "version": "1.0.0",
+  "description": "cal-com-automation skill from composiohq/awesome-claude-skills",
+  "author": {
+    "name": "composiohq"
+  },
+  "repository": "https://github.com/composiohq/awesome-claude-skills"
+}

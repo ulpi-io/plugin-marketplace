@@ -1,0 +1,9 @@
+{
+  "name": "akshare-stock",
+  "version": "1.0.0",
+  "description": "akshare-stock skill from molezzz/openclaw-stock-skill",
+  "author": {
+    "name": "molezzz"
+  },
+  "repository": "https://github.com/molezzz/openclaw-stock-skill"
+}

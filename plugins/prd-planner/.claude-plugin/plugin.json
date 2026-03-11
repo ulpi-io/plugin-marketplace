@@ -1,0 +1,9 @@
+{
+  "name": "prd-planner",
+  "version": "1.0.0",
+  "description": "prd-planner skill from charon-fan/agent-playbook",
+  "author": {
+    "name": "charon-fan"
+  },
+  "repository": "https://github.com/charon-fan/agent-playbook"
+}

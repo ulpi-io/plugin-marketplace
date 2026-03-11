@@ -1,0 +1,9 @@
+{
+  "name": "zustand",
+  "version": "1.0.0",
+  "description": "zustand skill from lobehub/lobe-chat",
+  "author": {
+    "name": "lobehub"
+  },
+  "repository": "https://github.com/lobehub/lobe-chat"
+}

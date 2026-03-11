@@ -1,0 +1,9 @@
+{
+  "name": "radical-candor",
+  "version": "1.0.0",
+  "description": "radical-candor skill from pmprompt/claude-plugin-product-management",
+  "author": {
+    "name": "pmprompt"
+  },
+  "repository": "https://github.com/pmprompt/claude-plugin-product-management"
+}

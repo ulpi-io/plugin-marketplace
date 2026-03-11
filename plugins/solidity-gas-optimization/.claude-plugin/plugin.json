@@ -1,0 +1,9 @@
+{
+  "name": "solidity-gas-optimization",
+  "version": "1.0.0",
+  "description": "solidity-gas-optimization skill from pseudoyu/agent-skills",
+  "author": {
+    "name": "pseudoyu"
+  },
+  "repository": "https://github.com/pseudoyu/agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "react-server-components-framework",
+  "version": "1.0.0",
+  "description": "react-server-components-framework skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "instrument-data-to-allotrope",
+  "version": "1.0.0",
+  "description": "instrument-data-to-allotrope skill from anthropics/knowledge-work-plugins",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/knowledge-work-plugins"
+}

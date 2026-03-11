@@ -1,0 +1,9 @@
+{
+  "name": "performance-expert",
+  "version": "1.0.0",
+  "description": "performance-expert skill from shipshitdev/library",
+  "author": {
+    "name": "shipshitdev"
+  },
+  "repository": "https://github.com/shipshitdev/library"
+}

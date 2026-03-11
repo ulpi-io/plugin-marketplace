@@ -1,0 +1,9 @@
+{
+  "name": "langsmith-dataset",
+  "version": "1.0.0",
+  "description": "langsmith-dataset skill from langchain-ai/langsmith-skills",
+  "author": {
+    "name": "langchain-ai"
+  },
+  "repository": "https://github.com/langchain-ai/langsmith-skills"
+}

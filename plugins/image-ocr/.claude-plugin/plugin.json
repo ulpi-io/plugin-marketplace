@@ -1,0 +1,9 @@
+{
+  "name": "image-ocr",
+  "version": "1.0.0",
+  "description": "image-ocr skill from fearovex/claude-config",
+  "author": {
+    "name": "fearovex"
+  },
+  "repository": "https://github.com/fearovex/claude-config"
+}

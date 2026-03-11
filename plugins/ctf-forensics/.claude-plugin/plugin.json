@@ -1,0 +1,9 @@
+{
+  "name": "ctf-forensics",
+  "version": "1.0.0",
+  "description": "ctf-forensics skill from ljagiello/ctf-skills",
+  "author": {
+    "name": "ljagiello"
+  },
+  "repository": "https://github.com/ljagiello/ctf-skills"
+}

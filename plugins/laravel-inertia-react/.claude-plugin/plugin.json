@@ -1,0 +1,9 @@
+{
+  "name": "laravel-inertia-react",
+  "version": "1.0.0",
+  "description": "laravel-inertia-react skill from asyrafhussin/agent-skills",
+  "author": {
+    "name": "asyrafhussin"
+  },
+  "repository": "https://github.com/asyrafhussin/agent-skills"
+}

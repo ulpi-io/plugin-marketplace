@@ -1,0 +1,9 @@
+{
+  "name": "rust-daily",
+  "version": "1.0.0",
+  "description": "rust-daily skill from zhanghandong/rust-skills",
+  "author": {
+    "name": "zhanghandong"
+  },
+  "repository": "https://github.com/zhanghandong/rust-skills"
+}

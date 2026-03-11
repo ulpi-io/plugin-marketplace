@@ -1,0 +1,9 @@
+{
+  "name": "vercel-cli",
+  "version": "1.0.0",
+  "description": "vercel-cli skill from vercel/vercel",
+  "author": {
+    "name": "vercel"
+  },
+  "repository": "https://github.com/vercel/vercel"
+}

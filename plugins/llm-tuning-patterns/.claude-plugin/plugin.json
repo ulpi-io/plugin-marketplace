@@ -1,0 +1,9 @@
+{
+  "name": "llm-tuning-patterns",
+  "version": "1.0.0",
+  "description": "llm-tuning-patterns skill from parcadei/continuous-claude-v3",
+  "author": {
+    "name": "parcadei"
+  },
+  "repository": "https://github.com/parcadei/continuous-claude-v3"
+}

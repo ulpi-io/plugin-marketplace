@@ -1,0 +1,9 @@
+{
+  "name": "patents-search",
+  "version": "1.0.0",
+  "description": "patents-search skill from yorkeccak/scientific-skills",
+  "author": {
+    "name": "yorkeccak"
+  },
+  "repository": "https://github.com/yorkeccak/scientific-skills"
+}

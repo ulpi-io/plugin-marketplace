@@ -1,0 +1,9 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "axios skill from slanycukr/riot-api-project",
+  "author": {
+    "name": "slanycukr"
+  },
+  "repository": "https://github.com/slanycukr/riot-api-project"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "botchan",
+  "version": "1.0.0",
+  "description": "botchan skill from bankrbot/openclaw-skills",
+  "author": {
+    "name": "bankrbot"
+  },
+  "repository": "https://github.com/bankrbot/openclaw-skills"
+}

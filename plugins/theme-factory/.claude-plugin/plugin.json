@@ -1,0 +1,9 @@
+{
+  "name": "theme-factory",
+  "version": "1.0.0",
+  "description": "theme-factory skill from aiskillstore/marketplace",
+  "author": {
+    "name": "aiskillstore"
+  },
+  "repository": "https://github.com/aiskillstore/marketplace"
+}

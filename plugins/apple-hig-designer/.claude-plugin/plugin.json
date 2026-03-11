@@ -1,0 +1,9 @@
+{
+  "name": "apple-hig-designer",
+  "version": "1.0.0",
+  "description": "apple-hig-designer skill from jamesrochabrun/skills",
+  "author": {
+    "name": "jamesrochabrun"
+  },
+  "repository": "https://github.com/jamesrochabrun/skills"
+}

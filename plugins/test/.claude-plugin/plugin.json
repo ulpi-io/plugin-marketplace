@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test skill from facebook/react",
+  "author": {
+    "name": "facebook"
+  },
+  "repository": "https://github.com/facebook/react"
+}

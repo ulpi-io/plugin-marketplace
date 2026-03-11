@@ -1,0 +1,9 @@
+{
+  "name": "canghe-danger-gemini-web",
+  "version": "1.0.0",
+  "description": "canghe-danger-gemini-web skill from freestylefly/canghe-skills",
+  "author": {
+    "name": "freestylefly"
+  },
+  "repository": "https://github.com/freestylefly/canghe-skills"
+}

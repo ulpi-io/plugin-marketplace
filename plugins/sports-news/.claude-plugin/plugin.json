@@ -1,0 +1,9 @@
+{
+  "name": "sports-news",
+  "version": "1.0.0",
+  "description": "sports-news skill from machina-sports/sports-skills",
+  "author": {
+    "name": "machina-sports"
+  },
+  "repository": "https://github.com/machina-sports/sports-skills"
+}

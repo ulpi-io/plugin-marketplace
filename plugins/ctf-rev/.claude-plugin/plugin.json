@@ -1,0 +1,9 @@
+{
+  "name": "ctf-rev",
+  "version": "1.0.0",
+  "description": "ctf-rev skill from cyberkaida/reverse-engineering-assistant",
+  "author": {
+    "name": "cyberkaida"
+  },
+  "repository": "https://github.com/cyberkaida/reverse-engineering-assistant"
+}

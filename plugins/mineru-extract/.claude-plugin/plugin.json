@@ -1,0 +1,9 @@
+{
+  "name": "mineru-extract",
+  "version": "1.0.0",
+  "description": "mineru-extract skill from blessonism/openclaw-search-skills",
+  "author": {
+    "name": "blessonism"
+  },
+  "repository": "https://github.com/blessonism/openclaw-search-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "setup-solidity-contracts",
+  "version": "1.0.0",
+  "description": "setup-solidity-contracts skill from openzeppelin/openzeppelin-skills",
+  "author": {
+    "name": "openzeppelin"
+  },
+  "repository": "https://github.com/openzeppelin/openzeppelin-skills"
+}

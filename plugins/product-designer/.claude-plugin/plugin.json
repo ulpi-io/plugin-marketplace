@@ -1,0 +1,9 @@
+{
+  "name": "product-designer",
+  "version": "1.0.0",
+  "description": "product-designer skill from borghei/claude-skills",
+  "author": {
+    "name": "borghei"
+  },
+  "repository": "https://github.com/borghei/claude-skills"
+}

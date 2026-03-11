@@ -1,0 +1,9 @@
+{
+  "name": "android-emulator-skill",
+  "version": "1.0.0",
+  "description": "android-emulator-skill skill from new-silvermoon/awesome-android-agent-skills",
+  "author": {
+    "name": "new-silvermoon"
+  },
+  "repository": "https://github.com/new-silvermoon/awesome-android-agent-skills"
+}

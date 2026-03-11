@@ -1,0 +1,9 @@
+{
+  "name": "ux-principles",
+  "version": "1.0.0",
+  "description": "ux-principles skill from manutej/luxor-claude-marketplace",
+  "author": {
+    "name": "manutej"
+  },
+  "repository": "https://github.com/manutej/luxor-claude-marketplace"
+}

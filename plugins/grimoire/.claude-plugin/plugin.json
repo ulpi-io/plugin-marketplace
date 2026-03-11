@@ -1,0 +1,9 @@
+{
+  "name": "grimoire",
+  "version": "1.0.0",
+  "description": "grimoire skill from franalgaba/grimoire",
+  "author": {
+    "name": "franalgaba"
+  },
+  "repository": "https://github.com/franalgaba/grimoire"
+}

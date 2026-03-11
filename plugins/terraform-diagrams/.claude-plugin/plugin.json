@@ -1,0 +1,9 @@
+{
+  "name": "terraform-diagrams",
+  "version": "1.0.0",
+  "description": "terraform-diagrams skill from eraserlabs/eraser-io",
+  "author": {
+    "name": "eraserlabs"
+  },
+  "repository": "https://github.com/eraserlabs/eraser-io"
+}

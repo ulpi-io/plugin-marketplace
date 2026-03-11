@@ -1,0 +1,9 @@
+{
+  "name": "last30days",
+  "version": "1.0.0",
+  "description": "last30days skill from mvanhorn/last30days-skill",
+  "author": {
+    "name": "mvanhorn"
+  },
+  "repository": "https://github.com/mvanhorn/last30days-skill"
+}

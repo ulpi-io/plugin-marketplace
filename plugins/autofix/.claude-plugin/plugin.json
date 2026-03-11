@@ -1,0 +1,9 @@
+{
+  "name": "autofix",
+  "version": "1.0.0",
+  "description": "autofix skill from coderabbitai/skills",
+  "author": {
+    "name": "coderabbitai"
+  },
+  "repository": "https://github.com/coderabbitai/skills"
+}

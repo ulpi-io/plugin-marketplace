@@ -1,0 +1,9 @@
+{
+  "name": "executive-onboarding-playbook",
+  "version": "1.0.0",
+  "description": "executive-onboarding-playbook skill from deanpeters/product-manager-skills",
+  "author": {
+    "name": "deanpeters"
+  },
+  "repository": "https://github.com/deanpeters/product-manager-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "bond-relative-value",
+  "version": "1.0.0",
+  "description": "bond-relative-value skill from anthropics/financial-services-plugins",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/financial-services-plugins"
+}

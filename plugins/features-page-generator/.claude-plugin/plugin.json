@@ -1,0 +1,9 @@
+{
+  "name": "features-page-generator",
+  "version": "1.0.0",
+  "description": "features-page-generator skill from kostja94/marketing-skills",
+  "author": {
+    "name": "kostja94"
+  },
+  "repository": "https://github.com/kostja94/marketing-skills"
+}

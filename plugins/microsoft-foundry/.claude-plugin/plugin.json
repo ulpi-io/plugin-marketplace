@@ -1,0 +1,9 @@
+{
+  "name": "microsoft-foundry",
+  "version": "1.0.0",
+  "description": "microsoft-foundry skill from microsoft/azure-skills",
+  "author": {
+    "name": "microsoft"
+  },
+  "repository": "https://github.com/microsoft/azure-skills"
+}

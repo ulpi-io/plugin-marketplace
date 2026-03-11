@@ -1,0 +1,9 @@
+{
+  "name": "warehouse-init",
+  "version": "1.0.0",
+  "description": "warehouse-init skill from astronomer/agents",
+  "author": {
+    "name": "astronomer"
+  },
+  "repository": "https://github.com/astronomer/agents"
+}

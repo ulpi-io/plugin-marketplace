@@ -1,0 +1,9 @@
+{
+  "name": "neo4j-cypher-guide",
+  "version": "1.0.0",
+  "description": "neo4j-cypher-guide skill from tomasonjo/blogs",
+  "author": {
+    "name": "tomasonjo"
+  },
+  "repository": "https://github.com/tomasonjo/blogs"
+}

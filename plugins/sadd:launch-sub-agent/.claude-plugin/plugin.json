@@ -1,0 +1,9 @@
+{
+  "name": "sadd:launch-sub-agent",
+  "version": "1.0.0",
+  "description": "sadd:launch-sub-agent skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ecommerce-seo-audit",
+  "version": "1.0.0",
+  "description": "ecommerce-seo-audit skill from affilino/ecommerce-seo-audit-skill",
+  "author": {
+    "name": "affilino"
+  },
+  "repository": "https://github.com/affilino/ecommerce-seo-audit-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pino-logging-setup",
+  "version": "1.0.0",
+  "description": "pino-logging-setup skill from andrelandgraf/fullstackrecipes",
+  "author": {
+    "name": "andrelandgraf"
+  },
+  "repository": "https://github.com/andrelandgraf/fullstackrecipes"
+}

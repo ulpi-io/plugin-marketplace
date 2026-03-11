@@ -1,0 +1,9 @@
+{
+  "name": "saga-orchestration",
+  "version": "1.0.0",
+  "description": "saga-orchestration skill from sickn33/antigravity-awesome-skills",
+  "author": {
+    "name": "sickn33"
+  },
+  "repository": "https://github.com/sickn33/antigravity-awesome-skills"
+}

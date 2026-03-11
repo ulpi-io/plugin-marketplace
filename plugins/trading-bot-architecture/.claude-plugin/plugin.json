@@ -1,0 +1,9 @@
+{
+  "name": "trading-bot-architecture",
+  "version": "1.0.0",
+  "description": "trading-bot-architecture skill from sanctifiedops/solana-skills",
+  "author": {
+    "name": "sanctifiedops"
+  },
+  "repository": "https://github.com/sanctifiedops/solana-skills"
+}

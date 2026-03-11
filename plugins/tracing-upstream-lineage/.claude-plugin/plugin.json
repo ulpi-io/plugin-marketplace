@@ -1,0 +1,9 @@
+{
+  "name": "tracing-upstream-lineage",
+  "version": "1.0.0",
+  "description": "tracing-upstream-lineage skill from astronomer/agents",
+  "author": {
+    "name": "astronomer"
+  },
+  "repository": "https://github.com/astronomer/agents"
+}

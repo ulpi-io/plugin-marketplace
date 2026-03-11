@@ -1,0 +1,9 @@
+{
+  "name": "sadd:do-competitively",
+  "version": "1.0.0",
+  "description": "sadd:do-competitively skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

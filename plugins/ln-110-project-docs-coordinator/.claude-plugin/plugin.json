@@ -1,0 +1,9 @@
+{
+  "name": "ln-110-project-docs-coordinator",
+  "version": "1.0.0",
+  "description": "ln-110-project-docs-coordinator skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "minimax-web-search",
+  "version": "1.0.0",
+  "description": "minimax-web-search skill from imsus/pi-extension-minimax-coding-plan-mcp",
+  "author": {
+    "name": "imsus"
+  },
+  "repository": "https://github.com/imsus/pi-extension-minimax-coding-plan-mcp"
+}

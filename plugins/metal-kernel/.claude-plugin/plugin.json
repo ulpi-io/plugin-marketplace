@@ -1,0 +1,9 @@
+{
+  "name": "metal-kernel",
+  "version": "1.0.0",
+  "description": "metal-kernel skill from pytorch/pytorch",
+  "author": {
+    "name": "pytorch"
+  },
+  "repository": "https://github.com/pytorch/pytorch"
+}

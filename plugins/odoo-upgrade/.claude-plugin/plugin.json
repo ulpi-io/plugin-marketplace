@@ -1,0 +1,9 @@
+{
+  "name": "odoo-upgrade",
+  "version": "1.0.0",
+  "description": "odoo-upgrade skill from ahmed-lakosha/odoo-upgrade-skill",
+  "author": {
+    "name": "ahmed-lakosha"
+  },
+  "repository": "https://github.com/ahmed-lakosha/odoo-upgrade-skill"
+}

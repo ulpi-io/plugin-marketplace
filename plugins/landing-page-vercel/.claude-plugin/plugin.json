@@ -1,0 +1,9 @@
+{
+  "name": "landing-page-vercel",
+  "version": "1.0.0",
+  "description": "landing-page-vercel skill from shipshitdev/library",
+  "author": {
+    "name": "shipshitdev"
+  },
+  "repository": "https://github.com/shipshitdev/library"
+}

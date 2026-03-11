@@ -1,0 +1,9 @@
+{
+  "name": "connectors-available",
+  "version": "1.0.0",
+  "description": "connectors-available skill from hummingbot/skills",
+  "author": {
+    "name": "hummingbot"
+  },
+  "repository": "https://github.com/hummingbot/skills"
+}

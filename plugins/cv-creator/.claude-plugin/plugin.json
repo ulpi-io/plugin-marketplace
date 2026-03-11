@@ -1,0 +1,9 @@
+{
+  "name": "cv-creator",
+  "version": "1.0.0",
+  "description": "cv-creator skill from erichowens/some_claude_skills",
+  "author": {
+    "name": "erichowens"
+  },
+  "repository": "https://github.com/erichowens/some_claude_skills"
+}

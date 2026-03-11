@@ -1,0 +1,9 @@
+{
+  "name": "wix-cli-data-collection",
+  "version": "1.0.0",
+  "description": "wix-cli-data-collection skill from wix/skills",
+  "author": {
+    "name": "wix"
+  },
+  "repository": "https://github.com/wix/skills"
+}

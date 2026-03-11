@@ -1,0 +1,9 @@
+{
+  "name": "fixed-income-portfolio",
+  "version": "1.0.0",
+  "description": "fixed-income-portfolio skill from anthropics/financial-services-plugins",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/financial-services-plugins"
+}

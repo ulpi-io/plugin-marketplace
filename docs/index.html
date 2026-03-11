@@ -56,6 +56,15 @@ body {
   background: radial-gradient(circle, var(--accent-glow) 0%, transparent 70%);
   pointer-events: none;
 }
+.hero-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 28px;
+  position: relative;
+}
+.hero-logo { height: 56px; border-radius: 10px; }
 .hero h1 {
   font-size: clamp(2rem, 5vw, 3.5rem);
   font-weight: 700;
@@ -333,6 +342,15 @@ body {
 .credits p { color: var(--text-dim); font-size: 0.9rem; max-width: 600px; margin: 0 auto 8px; }
 .credits a { color: var(--accent); text-decoration: none; }
 .credits a:hover { text-decoration: underline; }
+.collab-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 24px;
+}
+.collab-logo { height: 48px; border-radius: 8px; }
+.collab-x { color: var(--text-muted); font-size: 1.2rem; }
 
 footer {
   padding: 32px 0;
@@ -367,6 +385,11 @@ footer a:hover { color: var(--accent); }
 
 <div class="container">
   <header class="hero">
+    <div class="hero-logos">
+      <a href="https://ulpi.io" target="_blank"><img src="https://www.ulpi.io/media/ulpi-icon-512x512.png" alt="Ulpi" class="hero-logo"></a>
+      <span class="collab-x">&times;</span>
+      <a href="https://www.thecasualleader.com/" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/678a556b961d7f407a170440/e9bbb79f-6115-41b5-abac-a4a124d4c071/fulllogo.png?format=1500w" alt="The Casual Leader" class="hero-logo hero-logo"></a>
+    </div>
     <h1>Ulpi Plugin <span>Marketplace</span></h1>
     <p class="tagline">A curated collection of agent skills for Claude Desktop, sourced from the open skills ecosystem.</p>
     <div class="stats">
@@ -421,7 +444,11 @@ footer a:hover { color: var(--accent); }
     <h2>Credits</h2>
     <p>All skills sourced from <a href="https://skills.sh" target="_blank">skills.sh</a> — the open agent skills directory.</p>
     <p>Each skill was created by its original author. We re-package them for easy installation in Claude Desktop.</p>
-    <p>Curated by <a href="https://ulpi.io" target="_blank">Ulpi</a>.</p>
+    <div class="collab-logos">
+      <a href="https://ulpi.io" target="_blank"><img src="https://www.ulpi.io/media/ulpi-icon-512x512.png" alt="Ulpi" class="collab-logo"></a>
+      <span class="collab-x">&times;</span>
+      <a href="https://www.thecasualleader.com/" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/678a556b961d7f407a170440/e9bbb79f-6115-41b5-abac-a4a124d4c071/fulllogo.png?format=1500w" alt="The Casual Leader" class="collab-logo collab-logo"></a>
+    </div>
   </section>
 </div>
 
@@ -431,6 +458,8 @@ footer a:hover { color: var(--accent); }
   <a href="https://skills.sh" target="_blank">skills.sh</a>
   &nbsp;&middot;&nbsp;
   <a href="https://ulpi.io" target="_blank">Ulpi</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.thecasualleader.com/" target="_blank">The Casual Leader</a>
 </div></footer>
 
 <script>

@@ -1,0 +1,9 @@
+{
+  "name": "ucp",
+  "version": "1.0.0",
+  "description": "ucp skill from vercel-labs/agentic-commerce-skills",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/agentic-commerce-skills"
+}

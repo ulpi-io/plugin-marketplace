@@ -1,0 +1,9 @@
+{
+  "name": "solana-dev",
+  "version": "1.0.0",
+  "description": "solana-dev skill from guibibeau/solana-dev-skill",
+  "author": {
+    "name": "guibibeau"
+  },
+  "repository": "https://github.com/guibibeau/solana-dev-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "security-threat-model",
+  "version": "1.0.0",
+  "description": "security-threat-model skill from openai/skills",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/skills"
+}

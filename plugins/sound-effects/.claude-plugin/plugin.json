@@ -1,0 +1,9 @@
+{
+  "name": "sound-effects",
+  "version": "1.0.0",
+  "description": "sound-effects skill from elevenlabs/skills",
+  "author": {
+    "name": "elevenlabs"
+  },
+  "repository": "https://github.com/elevenlabs/skills"
+}

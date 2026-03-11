@@ -1,0 +1,9 @@
+{
+  "name": "ml-paper-writing",
+  "version": "1.0.0",
+  "description": "ml-paper-writing skill from orchestra-research/ai-research-skills",
+  "author": {
+    "name": "orchestra-research"
+  },
+  "repository": "https://github.com/orchestra-research/ai-research-skills"
+}

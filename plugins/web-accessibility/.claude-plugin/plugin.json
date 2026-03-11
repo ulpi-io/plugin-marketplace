@@ -1,0 +1,9 @@
+{
+  "name": "web-accessibility",
+  "version": "1.0.0",
+  "description": "web-accessibility skill from hoodini/ai-agents-skills",
+  "author": {
+    "name": "hoodini"
+  },
+  "repository": "https://github.com/hoodini/ai-agents-skills"
+}

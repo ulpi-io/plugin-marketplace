@@ -1,0 +1,9 @@
+{
+  "name": "filament-pro",
+  "version": "1.0.0",
+  "description": "filament-pro skill from marcelorodrigo/agent-skills",
+  "author": {
+    "name": "marcelorodrigo"
+  },
+  "repository": "https://github.com/marcelorodrigo/agent-skills"
+}

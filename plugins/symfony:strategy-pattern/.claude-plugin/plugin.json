@@ -1,0 +1,9 @@
+{
+  "name": "symfony:strategy-pattern",
+  "version": "1.0.0",
+  "description": "symfony:strategy-pattern skill from makfly/superpowers-symfony",
+  "author": {
+    "name": "makfly"
+  },
+  "repository": "https://github.com/makfly/superpowers-symfony"
+}

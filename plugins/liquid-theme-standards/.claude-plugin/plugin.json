@@ -1,0 +1,9 @@
+{
+  "name": "liquid-theme-standards",
+  "version": "1.0.0",
+  "description": "liquid-theme-standards skill from benjaminsehl/liquid-skills",
+  "author": {
+    "name": "benjaminsehl"
+  },
+  "repository": "https://github.com/benjaminsehl/liquid-skills"
+}

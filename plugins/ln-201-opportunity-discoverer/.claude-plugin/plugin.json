@@ -1,0 +1,9 @@
+{
+  "name": "ln-201-opportunity-discoverer",
+  "version": "1.0.0",
+  "description": "ln-201-opportunity-discoverer skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

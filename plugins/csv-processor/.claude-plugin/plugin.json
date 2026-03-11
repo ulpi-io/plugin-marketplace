@@ -1,0 +1,9 @@
+{
+  "name": "csv-processor",
+  "version": "1.0.0",
+  "description": "csv-processor skill from curiouslearner/devkit",
+  "author": {
+    "name": "curiouslearner"
+  },
+  "repository": "https://github.com/curiouslearner/devkit"
+}

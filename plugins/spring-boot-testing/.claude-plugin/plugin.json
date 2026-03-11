@@ -1,0 +1,9 @@
+{
+  "name": "spring-boot-testing",
+  "version": "1.0.0",
+  "description": "spring-boot-testing skill from marcelorodrigo/agent-skills",
+  "author": {
+    "name": "marcelorodrigo"
+  },
+  "repository": "https://github.com/marcelorodrigo/agent-skills"
+}

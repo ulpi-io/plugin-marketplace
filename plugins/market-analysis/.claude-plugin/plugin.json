@@ -1,0 +1,9 @@
+{
+  "name": "market-analysis",
+  "version": "1.0.0",
+  "description": "market-analysis skill from xbklairith/kisune",
+  "author": {
+    "name": "xbklairith"
+  },
+  "repository": "https://github.com/xbklairith/kisune"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "uni-helper",
+  "version": "1.0.0",
+  "description": "uni-helper skill from uni-helper/skills",
+  "author": {
+    "name": "uni-helper"
+  },
+  "repository": "https://github.com/uni-helper/skills"
+}

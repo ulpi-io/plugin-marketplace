@@ -1,0 +1,9 @@
+{
+  "name": "test-tui",
+  "version": "1.0.0",
+  "description": "test-tui skill from openai/codex",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/codex"
+}

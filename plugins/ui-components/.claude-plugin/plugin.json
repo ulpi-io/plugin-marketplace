@@ -1,0 +1,9 @@
+{
+  "name": "ui-components",
+  "version": "1.0.0",
+  "description": "ui-components skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "technology-impact",
+  "version": "1.0.0",
+  "description": "technology-impact skill from jwynia/agent-skills",
+  "author": {
+    "name": "jwynia"
+  },
+  "repository": "https://github.com/jwynia/agent-skills"
+}

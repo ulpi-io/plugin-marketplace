@@ -1,0 +1,9 @@
+{
+  "name": "docling",
+  "version": "1.0.0",
+  "description": "docling skill from existential-birds/beagle",
+  "author": {
+    "name": "existential-birds"
+  },
+  "repository": "https://github.com/existential-birds/beagle"
+}

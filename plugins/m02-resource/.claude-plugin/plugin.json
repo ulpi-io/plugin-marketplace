@@ -1,0 +1,9 @@
+{
+  "name": "m02-resource",
+  "version": "1.0.0",
+  "description": "m02-resource skill from zhanghandong/rust-skills",
+  "author": {
+    "name": "zhanghandong"
+  },
+  "repository": "https://github.com/zhanghandong/rust-skills"
+}

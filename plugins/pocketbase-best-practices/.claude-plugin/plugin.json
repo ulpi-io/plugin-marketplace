@@ -1,0 +1,9 @@
+{
+  "name": "pocketbase-best-practices",
+  "version": "1.0.0",
+  "description": "pocketbase-best-practices skill from greendesertsnow/pocketbase-skills",
+  "author": {
+    "name": "greendesertsnow"
+  },
+  "repository": "https://github.com/greendesertsnow/pocketbase-skills"
+}

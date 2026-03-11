@@ -1,0 +1,9 @@
+{
+  "name": "billing-sdk",
+  "version": "1.0.0",
+  "description": "billing-sdk skill from dodopayments/skills",
+  "author": {
+    "name": "dodopayments"
+  },
+  "repository": "https://github.com/dodopayments/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "scientific-manuscript-review",
+  "version": "1.0.0",
+  "description": "scientific-manuscript-review skill from lyndonkl/claude",
+  "author": {
+    "name": "lyndonkl"
+  },
+  "repository": "https://github.com/lyndonkl/claude"
+}

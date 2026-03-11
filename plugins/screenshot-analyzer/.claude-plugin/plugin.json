@@ -1,0 +1,9 @@
+{
+  "name": "screenshot-analyzer",
+  "version": "1.0.0",
+  "description": "screenshot-analyzer skill from notedit/happy-skills",
+  "author": {
+    "name": "notedit"
+  },
+  "repository": "https://github.com/notedit/happy-skills"
+}

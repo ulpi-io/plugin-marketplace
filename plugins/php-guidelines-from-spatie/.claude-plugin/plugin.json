@@ -1,0 +1,9 @@
+{
+  "name": "php-guidelines-from-spatie",
+  "version": "1.0.0",
+  "description": "php-guidelines-from-spatie skill from freekmurze/dotfiles",
+  "author": {
+    "name": "freekmurze"
+  },
+  "repository": "https://github.com/freekmurze/dotfiles"
+}

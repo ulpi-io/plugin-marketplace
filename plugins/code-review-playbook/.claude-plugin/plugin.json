@@ -1,0 +1,9 @@
+{
+  "name": "code-review-playbook",
+  "version": "1.0.0",
+  "description": "code-review-playbook skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

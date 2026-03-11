@@ -1,0 +1,9 @@
+{
+  "name": "ab-test-store-listing",
+  "version": "1.0.0",
+  "description": "ab-test-store-listing skill from eronred/aso-skills",
+  "author": {
+    "name": "eronred"
+  },
+  "repository": "https://github.com/eronred/aso-skills"
+}

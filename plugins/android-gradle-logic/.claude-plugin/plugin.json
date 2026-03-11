@@ -1,0 +1,9 @@
+{
+  "name": "android-gradle-logic",
+  "version": "1.0.0",
+  "description": "android-gradle-logic skill from new-silvermoon/awesome-android-agent-skills",
+  "author": {
+    "name": "new-silvermoon"
+  },
+  "repository": "https://github.com/new-silvermoon/awesome-android-agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "django-orm-patterns",
+  "version": "1.0.0",
+  "description": "django-orm-patterns skill from thebushidocollective/han",
+  "author": {
+    "name": "thebushidocollective"
+  },
+  "repository": "https://github.com/thebushidocollective/han"
+}

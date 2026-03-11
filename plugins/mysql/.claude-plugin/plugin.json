@@ -1,0 +1,9 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "mysql skill from pluginagentmarketplace/custom-plugin-sql",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-sql"
+}

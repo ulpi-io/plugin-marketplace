@@ -1,0 +1,9 @@
+{
+  "name": "adk-eval-guide",
+  "version": "1.0.0",
+  "description": "adk-eval-guide skill from google/adk-docs",
+  "author": {
+    "name": "google"
+  },
+  "repository": "https://github.com/google/adk-docs"
+}

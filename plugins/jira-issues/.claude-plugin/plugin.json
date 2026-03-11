@@ -1,0 +1,9 @@
+{
+  "name": "jira-issues",
+  "version": "1.0.0",
+  "description": "jira-issues skill from skillcreatorai/ai-agent-skills",
+  "author": {
+    "name": "skillcreatorai"
+  },
+  "repository": "https://github.com/skillcreatorai/ai-agent-skills"
+}

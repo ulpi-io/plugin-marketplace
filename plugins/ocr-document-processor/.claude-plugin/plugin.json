@@ -1,0 +1,9 @@
+{
+  "name": "ocr-document-processor",
+  "version": "1.0.0",
+  "description": "ocr-document-processor skill from dkyazzentwatwa/chatgpt-skills",
+  "author": {
+    "name": "dkyazzentwatwa"
+  },
+  "repository": "https://github.com/dkyazzentwatwa/chatgpt-skills"
+}

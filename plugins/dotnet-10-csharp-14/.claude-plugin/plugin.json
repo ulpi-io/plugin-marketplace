@@ -1,0 +1,9 @@
+{
+  "name": "dotnet-10-csharp-14",
+  "version": "1.0.0",
+  "description": "dotnet-10-csharp-14 skill from mhagrelius/dotfiles",
+  "author": {
+    "name": "mhagrelius"
+  },
+  "repository": "https://github.com/mhagrelius/dotfiles"
+}

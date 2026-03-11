@@ -1,0 +1,9 @@
+{
+  "name": "gpui-layout-and-style",
+  "version": "1.0.0",
+  "description": "gpui-layout-and-style skill from longbridge/gpui-component",
+  "author": {
+    "name": "longbridge"
+  },
+  "repository": "https://github.com/longbridge/gpui-component"
+}

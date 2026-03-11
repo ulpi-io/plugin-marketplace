@@ -1,0 +1,9 @@
+{
+  "name": "lottie-bodymovin",
+  "version": "1.0.0",
+  "description": "lottie-bodymovin skill from dylantarre/animation-principles",
+  "author": {
+    "name": "dylantarre"
+  },
+  "repository": "https://github.com/dylantarre/animation-principles"
+}

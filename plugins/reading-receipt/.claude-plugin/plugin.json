@@ -1,0 +1,9 @@
+{
+  "name": "reading-receipt",
+  "version": "1.0.0",
+  "description": "reading-receipt skill from kazukinagata/shinkoku",
+  "author": {
+    "name": "kazukinagata"
+  },
+  "repository": "https://github.com/kazukinagata/shinkoku"
+}

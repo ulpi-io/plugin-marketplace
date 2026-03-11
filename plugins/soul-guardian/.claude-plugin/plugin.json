@@ -1,0 +1,9 @@
+{
+  "name": "soul-guardian",
+  "version": "1.0.0",
+  "description": "soul-guardian skill from prompt-security/clawsec",
+  "author": {
+    "name": "prompt-security"
+  },
+  "repository": "https://github.com/prompt-security/clawsec"
+}

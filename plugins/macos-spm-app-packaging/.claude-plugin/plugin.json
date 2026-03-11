@@ -1,0 +1,9 @@
+{
+  "name": "macos-spm-app-packaging",
+  "version": "1.0.0",
+  "description": "macos-spm-app-packaging skill from dimillian/skills",
+  "author": {
+    "name": "dimillian"
+  },
+  "repository": "https://github.com/dimillian/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-compute-fc-serverless-devs",
+  "version": "1.0.0",
+  "description": "alicloud-compute-fc-serverless-devs skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

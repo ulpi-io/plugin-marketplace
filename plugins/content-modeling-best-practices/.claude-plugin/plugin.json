@@ -1,0 +1,9 @@
+{
+  "name": "content-modeling-best-practices",
+  "version": "1.0.0",
+  "description": "content-modeling-best-practices skill from sanity-io/agent-toolkit",
+  "author": {
+    "name": "sanity-io"
+  },
+  "repository": "https://github.com/sanity-io/agent-toolkit"
+}

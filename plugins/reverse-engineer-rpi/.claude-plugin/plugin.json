@@ -1,0 +1,9 @@
+{
+  "name": "reverse-engineer-rpi",
+  "version": "1.0.0",
+  "description": "reverse-engineer-rpi skill from boshu2/agentops",
+  "author": {
+    "name": "boshu2"
+  },
+  "repository": "https://github.com/boshu2/agentops"
+}

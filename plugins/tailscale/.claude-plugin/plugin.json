@@ -1,0 +1,9 @@
+{
+  "name": "tailscale",
+  "version": "1.0.0",
+  "description": "tailscale skill from el-feo/ai-context",
+  "author": {
+    "name": "el-feo"
+  },
+  "repository": "https://github.com/el-feo/ai-context"
+}

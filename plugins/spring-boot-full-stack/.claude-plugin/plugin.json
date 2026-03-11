@@ -1,0 +1,9 @@
+{
+  "name": "spring-boot-full-stack",
+  "version": "1.0.0",
+  "description": "spring-boot-full-stack skill from mduongvandinh/skills-java-spring",
+  "author": {
+    "name": "mduongvandinh"
+  },
+  "repository": "https://github.com/mduongvandinh/skills-java-spring"
+}

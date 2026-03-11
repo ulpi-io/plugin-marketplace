@@ -1,0 +1,9 @@
+{
+  "name": "python-security-scanner",
+  "version": "1.0.0",
+  "description": "python-security-scanner skill from jorgealves/agent_skills",
+  "author": {
+    "name": "jorgealves"
+  },
+  "repository": "https://github.com/jorgealves/agent_skills"
+}

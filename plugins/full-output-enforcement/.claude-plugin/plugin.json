@@ -1,0 +1,9 @@
+{
+  "name": "full-output-enforcement",
+  "version": "1.0.0",
+  "description": "full-output-enforcement skill from leonxlnx/taste-skill",
+  "author": {
+    "name": "leonxlnx"
+  },
+  "repository": "https://github.com/leonxlnx/taste-skill"
+}

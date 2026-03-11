@@ -1,0 +1,9 @@
+{
+  "name": "sentry",
+  "version": "1.0.0",
+  "description": "sentry skill from openai/skills",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/skills"
+}

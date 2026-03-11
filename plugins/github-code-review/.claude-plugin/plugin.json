@@ -1,0 +1,9 @@
+{
+  "name": "github-code-review",
+  "version": "1.0.0",
+  "description": "github-code-review skill from ruvnet/claude-flow",
+  "author": {
+    "name": "ruvnet"
+  },
+  "repository": "https://github.com/ruvnet/claude-flow"
+}

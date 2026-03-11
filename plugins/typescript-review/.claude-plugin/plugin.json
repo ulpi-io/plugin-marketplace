@@ -1,0 +1,9 @@
+{
+  "name": "typescript-review",
+  "version": "1.0.0",
+  "description": "typescript-review skill from metabase/metabase",
+  "author": {
+    "name": "metabase"
+  },
+  "repository": "https://github.com/metabase/metabase"
+}

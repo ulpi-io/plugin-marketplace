@@ -1,0 +1,9 @@
+{
+  "name": "distributed-systems",
+  "version": "1.0.0",
+  "description": "distributed-systems skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

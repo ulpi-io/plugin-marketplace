@@ -1,0 +1,9 @@
+{
+  "name": "bilibili-downloader",
+  "version": "1.0.0",
+  "description": "bilibili-downloader skill from 958877748/skills",
+  "author": {
+    "name": "958877748"
+  },
+  "repository": "https://github.com/958877748/skills"
+}

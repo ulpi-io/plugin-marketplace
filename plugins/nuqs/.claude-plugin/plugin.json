@@ -1,0 +1,9 @@
+{
+  "name": "nuqs",
+  "version": "1.0.0",
+  "description": "nuqs skill from pproenca/dot-skills",
+  "author": {
+    "name": "pproenca"
+  },
+  "repository": "https://github.com/pproenca/dot-skills"
+}

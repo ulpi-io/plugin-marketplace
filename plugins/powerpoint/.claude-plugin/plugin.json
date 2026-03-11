@@ -1,0 +1,9 @@
+{
+  "name": "powerpoint",
+  "version": "1.0.0",
+  "description": "powerpoint skill from igorwarzocha/opencode-workflows",
+  "author": {
+    "name": "igorwarzocha"
+  },
+  "repository": "https://github.com/igorwarzocha/opencode-workflows"
+}

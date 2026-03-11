@@ -1,0 +1,9 @@
+{
+  "name": "godot-development",
+  "version": "1.0.0",
+  "description": "godot-development skill from zate/cc-godot",
+  "author": {
+    "name": "zate"
+  },
+  "repository": "https://github.com/zate/cc-godot"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pulumi-typescript",
+  "version": "1.0.0",
+  "description": "pulumi-typescript skill from dirien/claude-skills",
+  "author": {
+    "name": "dirien"
+  },
+  "repository": "https://github.com/dirien/claude-skills"
+}

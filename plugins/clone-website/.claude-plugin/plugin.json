@@ -1,0 +1,9 @@
+{
+  "name": "clone-website",
+  "version": "1.0.0",
+  "description": "clone-website skill from julianromli/ai-skills",
+  "author": {
+    "name": "julianromli"
+  },
+  "repository": "https://github.com/julianromli/ai-skills"
+}

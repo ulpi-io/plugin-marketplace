@@ -1,0 +1,9 @@
+{
+  "name": "feature-arch",
+  "version": "1.0.0",
+  "description": "feature-arch skill from pproenca/dot-skills",
+  "author": {
+    "name": "pproenca"
+  },
+  "repository": "https://github.com/pproenca/dot-skills"
+}

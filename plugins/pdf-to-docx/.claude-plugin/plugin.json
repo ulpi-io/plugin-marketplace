@@ -1,0 +1,9 @@
+{
+  "name": "pdf-to-docx",
+  "version": "1.0.0",
+  "description": "pdf-to-docx skill from claude-office-skills/skills",
+  "author": {
+    "name": "claude-office-skills"
+  },
+  "repository": "https://github.com/claude-office-skills/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "mongodb-schema-design",
+  "version": "1.0.0",
+  "description": "mongodb-schema-design skill from romiluz13/mongodb-agent-skills",
+  "author": {
+    "name": "romiluz13"
+  },
+  "repository": "https://github.com/romiluz13/mongodb-agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "migrating-airflow-2-to-3",
+  "version": "1.0.0",
+  "description": "migrating-airflow-2-to-3 skill from astronomer/agents",
+  "author": {
+    "name": "astronomer"
+  },
+  "repository": "https://github.com/astronomer/agents"
+}

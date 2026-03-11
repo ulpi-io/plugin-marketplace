@@ -1,0 +1,9 @@
+{
+  "name": "wp-block-development",
+  "version": "1.0.0",
+  "description": "wp-block-development skill from automattic/agent-skills",
+  "author": {
+    "name": "automattic"
+  },
+  "repository": "https://github.com/automattic/agent-skills"
+}

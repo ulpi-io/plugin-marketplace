@@ -1,0 +1,9 @@
+{
+  "name": "slidev-quick-start",
+  "version": "1.0.0",
+  "description": "slidev-quick-start skill from yoanbernabeu/slidev-skills",
+  "author": {
+    "name": "yoanbernabeu"
+  },
+  "repository": "https://github.com/yoanbernabeu/slidev-skills"
+}

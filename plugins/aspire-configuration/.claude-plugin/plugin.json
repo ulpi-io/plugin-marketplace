@@ -1,0 +1,9 @@
+{
+  "name": "aspire-configuration",
+  "version": "1.0.0",
+  "description": "aspire-configuration skill from aaronontheweb/dotnet-skills",
+  "author": {
+    "name": "aaronontheweb"
+  },
+  "repository": "https://github.com/aaronontheweb/dotnet-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "creating-skills",
+  "version": "1.0.0",
+  "description": "creating-skills skill from fvadicamo/dev-agent-skills",
+  "author": {
+    "name": "fvadicamo"
+  },
+  "repository": "https://github.com/fvadicamo/dev-agent-skills"
+}

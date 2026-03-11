@@ -1,0 +1,9 @@
+{
+  "name": "coverage",
+  "version": "1.0.0",
+  "description": "coverage skill from alirezarezvani/claude-skills",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "repository": "https://github.com/alirezarezvani/claude-skills"
+}

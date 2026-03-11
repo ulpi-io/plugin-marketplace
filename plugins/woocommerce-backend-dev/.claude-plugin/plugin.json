@@ -1,0 +1,9 @@
+{
+  "name": "woocommerce-backend-dev",
+  "version": "1.0.0",
+  "description": "woocommerce-backend-dev skill from woocommerce/woocommerce",
+  "author": {
+    "name": "woocommerce"
+  },
+  "repository": "https://github.com/woocommerce/woocommerce"
+}

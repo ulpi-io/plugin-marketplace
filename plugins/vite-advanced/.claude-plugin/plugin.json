@@ -1,0 +1,9 @@
+{
+  "name": "vite-advanced",
+  "version": "1.0.0",
+  "description": "vite-advanced skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

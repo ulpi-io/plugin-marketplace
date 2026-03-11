@@ -1,0 +1,9 @@
+{
+  "name": "game-design-core",
+  "version": "1.0.0",
+  "description": "game-design-core skill from omer-metin/skills-for-antigravity",
+  "author": {
+    "name": "omer-metin"
+  },
+  "repository": "https://github.com/omer-metin/skills-for-antigravity"
+}

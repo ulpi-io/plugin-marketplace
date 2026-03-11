@@ -1,0 +1,9 @@
+{
+  "name": "landing-page-copywriter",
+  "version": "1.0.0",
+  "description": "landing-page-copywriter skill from onewave-ai/claude-skills",
+  "author": {
+    "name": "onewave-ai"
+  },
+  "repository": "https://github.com/onewave-ai/claude-skills"
+}

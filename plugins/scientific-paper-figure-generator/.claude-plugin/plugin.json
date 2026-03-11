@@ -1,0 +1,9 @@
+{
+  "name": "scientific-paper-figure-generator",
+  "version": "1.0.0",
+  "description": "scientific-paper-figure-generator skill from dkyazzentwatwa/chatgpt-skills",
+  "author": {
+    "name": "dkyazzentwatwa"
+  },
+  "repository": "https://github.com/dkyazzentwatwa/chatgpt-skills"
+}

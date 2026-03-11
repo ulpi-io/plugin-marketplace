@@ -1,0 +1,9 @@
+{
+  "name": "githuman",
+  "version": "1.0.0",
+  "description": "githuman skill from mcollina/githuman-skills",
+  "author": {
+    "name": "mcollina"
+  },
+  "repository": "https://github.com/mcollina/githuman-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "verify-email-snapshots",
+  "version": "1.0.0",
+  "description": "verify-email-snapshots skill from aaronontheweb/dotnet-skills",
+  "author": {
+    "name": "aaronontheweb"
+  },
+  "repository": "https://github.com/aaronontheweb/dotnet-skills"
+}

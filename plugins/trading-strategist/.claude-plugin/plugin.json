@@ -1,0 +1,9 @@
+{
+  "name": "trading-strategist",
+  "version": "1.0.0",
+  "description": "trading-strategist skill from kukapay/crypto-skills",
+  "author": {
+    "name": "kukapay"
+  },
+  "repository": "https://github.com/kukapay/crypto-skills"
+}

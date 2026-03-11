@@ -1,0 +1,9 @@
+{
+  "name": "solana-payments-wallets-trading",
+  "version": "1.0.0",
+  "description": "solana-payments-wallets-trading skill from solanaguide/solana-cli",
+  "author": {
+    "name": "solanaguide"
+  },
+  "repository": "https://github.com/solanaguide/solana-cli"
+}

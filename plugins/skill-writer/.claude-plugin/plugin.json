@@ -1,0 +1,9 @@
+{
+  "name": "skill-writer",
+  "version": "1.0.0",
+  "description": "skill-writer skill from pytorch/pytorch",
+  "author": {
+    "name": "pytorch"
+  },
+  "repository": "https://github.com/pytorch/pytorch"
+}

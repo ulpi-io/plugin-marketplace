@@ -1,0 +1,9 @@
+{
+  "name": "asc-xcode-build",
+  "version": "1.0.0",
+  "description": "asc-xcode-build skill from rudrankriyam/asc-skills",
+  "author": {
+    "name": "rudrankriyam"
+  },
+  "repository": "https://github.com/rudrankriyam/asc-skills"
+}

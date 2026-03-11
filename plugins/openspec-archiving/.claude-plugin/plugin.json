@@ -1,0 +1,9 @@
+{
+  "name": "openspec-archiving",
+  "version": "1.0.0",
+  "description": "openspec-archiving skill from forztf/open-skilled-sdd",
+  "author": {
+    "name": "forztf"
+  },
+  "repository": "https://github.com/forztf/open-skilled-sdd"
+}

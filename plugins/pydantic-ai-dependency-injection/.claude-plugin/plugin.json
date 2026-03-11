@@ -1,0 +1,9 @@
+{
+  "name": "pydantic-ai-dependency-injection",
+  "version": "1.0.0",
+  "description": "pydantic-ai-dependency-injection skill from existential-birds/beagle",
+  "author": {
+    "name": "existential-birds"
+  },
+  "repository": "https://github.com/existential-birds/beagle"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "golang-database-patterns",
+  "version": "1.0.0",
+  "description": "golang-database-patterns skill from bobmatnyc/claude-mpm-skills",
+  "author": {
+    "name": "bobmatnyc"
+  },
+  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
+}

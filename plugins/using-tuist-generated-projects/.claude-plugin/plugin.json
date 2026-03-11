@@ -1,0 +1,9 @@
+{
+  "name": "using-tuist-generated-projects",
+  "version": "1.0.0",
+  "description": "using-tuist-generated-projects skill from tuist/agent-skills",
+  "author": {
+    "name": "tuist"
+  },
+  "repository": "https://github.com/tuist/agent-skills"
+}

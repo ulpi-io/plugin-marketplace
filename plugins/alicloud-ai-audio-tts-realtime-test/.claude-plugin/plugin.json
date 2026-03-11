@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-ai-audio-tts-realtime-test",
+  "version": "1.0.0",
+  "description": "alicloud-ai-audio-tts-realtime-test skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

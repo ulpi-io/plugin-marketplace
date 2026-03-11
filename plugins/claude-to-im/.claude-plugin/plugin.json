@@ -1,0 +1,9 @@
+{
+  "name": "claude-to-im",
+  "version": "1.0.0",
+  "description": "claude-to-im skill from op7418/claude-to-im-skill",
+  "author": {
+    "name": "op7418"
+  },
+  "repository": "https://github.com/op7418/claude-to-im-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "tiptap-editor",
+  "version": "1.0.0",
+  "description": "tiptap-editor skill from xiaolai/vmark",
+  "author": {
+    "name": "xiaolai"
+  },
+  "repository": "https://github.com/xiaolai/vmark"
+}

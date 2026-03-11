@@ -1,0 +1,9 @@
+{
+  "name": "hono-rpc",
+  "version": "1.0.0",
+  "description": "hono-rpc skill from bobmatnyc/claude-mpm-skills",
+  "author": {
+    "name": "bobmatnyc"
+  },
+  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
+}

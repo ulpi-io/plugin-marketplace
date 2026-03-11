@@ -1,0 +1,9 @@
+{
+  "name": "erc-8004",
+  "version": "1.0.0",
+  "description": "erc-8004 skill from bankrbot/openclaw-skills",
+  "author": {
+    "name": "bankrbot"
+  },
+  "repository": "https://github.com/bankrbot/openclaw-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "arkts-syntax-assistant",
+  "version": "1.0.0",
+  "description": "arkts-syntax-assistant skill from summerkaze/skill-arkts-syntax-assistant",
+  "author": {
+    "name": "summerkaze"
+  },
+  "repository": "https://github.com/summerkaze/skill-arkts-syntax-assistant"
+}

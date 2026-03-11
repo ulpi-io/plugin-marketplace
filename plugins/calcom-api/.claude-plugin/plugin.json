@@ -1,0 +1,9 @@
+{
+  "name": "calcom-api",
+  "version": "1.0.0",
+  "description": "calcom-api skill from calcom/cal.com",
+  "author": {
+    "name": "calcom"
+  },
+  "repository": "https://github.com/calcom/cal.com"
+}

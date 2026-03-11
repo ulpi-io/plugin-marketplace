@@ -1,0 +1,9 @@
+{
+  "name": "firecrawl-crawl",
+  "version": "1.0.0",
+  "description": "firecrawl-crawl skill from firecrawl/cli",
+  "author": {
+    "name": "firecrawl"
+  },
+  "repository": "https://github.com/firecrawl/cli"
+}

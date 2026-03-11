@@ -1,0 +1,9 @@
+{
+  "name": "elevenlabs",
+  "version": "1.0.0",
+  "description": "elevenlabs skill from digitalsamba/claude-code-video-toolkit",
+  "author": {
+    "name": "digitalsamba"
+  },
+  "repository": "https://github.com/digitalsamba/claude-code-video-toolkit"
+}

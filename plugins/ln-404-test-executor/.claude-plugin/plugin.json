@@ -1,0 +1,9 @@
+{
+  "name": "ln-404-test-executor",
+  "version": "1.0.0",
+  "description": "ln-404-test-executor skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

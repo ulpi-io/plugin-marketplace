@@ -1,0 +1,9 @@
+{
+  "name": "bubbletea",
+  "version": "1.0.0",
+  "description": "bubbletea skill from ggprompts/tfe",
+  "author": {
+    "name": "ggprompts"
+  },
+  "repository": "https://github.com/ggprompts/tfe"
+}

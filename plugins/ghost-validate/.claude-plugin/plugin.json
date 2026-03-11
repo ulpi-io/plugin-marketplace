@@ -1,0 +1,9 @@
+{
+  "name": "ghost-validate",
+  "version": "1.0.0",
+  "description": "ghost-validate skill from ghostsecurity/skills",
+  "author": {
+    "name": "ghostsecurity"
+  },
+  "repository": "https://github.com/ghostsecurity/skills"
+}

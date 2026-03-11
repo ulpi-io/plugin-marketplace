@@ -1,0 +1,9 @@
+{
+  "name": "dalle",
+  "version": "1.0.0",
+  "description": "dalle skill from teachingai/full-stack-skills",
+  "author": {
+    "name": "teachingai"
+  },
+  "repository": "https://github.com/teachingai/full-stack-skills"
+}

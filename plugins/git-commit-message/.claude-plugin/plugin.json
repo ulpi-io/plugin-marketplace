@@ -1,0 +1,9 @@
+{
+  "name": "git-commit-message",
+  "version": "1.0.0",
+  "description": "git-commit-message skill from vasilyu1983/ai-agents-public",
+  "author": {
+    "name": "vasilyu1983"
+  },
+  "repository": "https://github.com/vasilyu1983/ai-agents-public"
+}

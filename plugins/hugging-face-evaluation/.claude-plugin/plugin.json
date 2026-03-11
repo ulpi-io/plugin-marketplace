@@ -1,0 +1,9 @@
+{
+  "name": "hugging-face-evaluation",
+  "version": "1.0.0",
+  "description": "hugging-face-evaluation skill from huggingface/skills",
+  "author": {
+    "name": "huggingface"
+  },
+  "repository": "https://github.com/huggingface/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "description": "apollo-server skill from apollographql/skills",
+  "author": {
+    "name": "apollographql"
+  },
+  "repository": "https://github.com/apollographql/skills"
+}

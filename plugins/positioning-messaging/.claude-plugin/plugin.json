@@ -1,0 +1,9 @@
+{
+  "name": "positioning-messaging",
+  "version": "1.0.0",
+  "description": "positioning-messaging skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

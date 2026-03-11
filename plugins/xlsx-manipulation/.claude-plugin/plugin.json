@@ -1,0 +1,9 @@
+{
+  "name": "xlsx-manipulation",
+  "version": "1.0.0",
+  "description": "xlsx-manipulation skill from claude-office-skills/skills",
+  "author": {
+    "name": "claude-office-skills"
+  },
+  "repository": "https://github.com/claude-office-skills/skills"
+}

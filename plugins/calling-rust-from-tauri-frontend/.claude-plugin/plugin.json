@@ -1,0 +1,9 @@
+{
+  "name": "calling-rust-from-tauri-frontend",
+  "version": "1.0.0",
+  "description": "calling-rust-from-tauri-frontend skill from dchuk/claude-code-tauri-skills",
+  "author": {
+    "name": "dchuk"
+  },
+  "repository": "https://github.com/dchuk/claude-code-tauri-skills"
+}

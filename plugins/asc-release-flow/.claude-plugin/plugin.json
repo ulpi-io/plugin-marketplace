@@ -1,0 +1,9 @@
+{
+  "name": "asc-release-flow",
+  "version": "1.0.0",
+  "description": "asc-release-flow skill from rudrankriyam/asc-skills",
+  "author": {
+    "name": "rudrankriyam"
+  },
+  "repository": "https://github.com/rudrankriyam/asc-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "qqbot-media",
+  "version": "1.0.0",
+  "description": "qqbot-media skill from sliverp/qqbot",
+  "author": {
+    "name": "sliverp"
+  },
+  "repository": "https://github.com/sliverp/qqbot"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "web-content",
+  "version": "1.0.0",
+  "description": "web-content skill from alinaqi/claude-bootstrap",
+  "author": {
+    "name": "alinaqi"
+  },
+  "repository": "https://github.com/alinaqi/claude-bootstrap"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "turix-mac",
+  "version": "1.0.0",
+  "description": "turix-mac skill from turixai/turix-cua",
+  "author": {
+    "name": "turixai"
+  },
+  "repository": "https://github.com/turixai/turix-cua"
+}

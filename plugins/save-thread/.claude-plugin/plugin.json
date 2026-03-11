@@ -1,0 +1,9 @@
+{
+  "name": "save-thread",
+  "version": "1.0.0",
+  "description": "save-thread skill from nowledge-co/community",
+  "author": {
+    "name": "nowledge-co"
+  },
+  "repository": "https://github.com/nowledge-co/community"
+}

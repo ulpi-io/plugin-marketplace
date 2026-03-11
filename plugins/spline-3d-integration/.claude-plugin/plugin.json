@@ -1,0 +1,9 @@
+{
+  "name": "spline-3d-integration",
+  "version": "1.0.0",
+  "description": "spline-3d-integration skill from fawaz-i/spline-3d-integration",
+  "author": {
+    "name": "fawaz-i"
+  },
+  "repository": "https://github.com/fawaz-i/spline-3d-integration"
+}

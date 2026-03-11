@@ -1,0 +1,9 @@
+{
+  "name": "convex realtime",
+  "version": "1.0.0",
+  "description": "convex realtime skill from waynesutton/convexskills",
+  "author": {
+    "name": "waynesutton"
+  },
+  "repository": "https://github.com/waynesutton/convexskills"
+}

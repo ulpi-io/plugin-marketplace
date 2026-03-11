@@ -1,0 +1,9 @@
+{
+  "name": "react-web",
+  "version": "1.0.0",
+  "description": "react-web skill from alinaqi/claude-bootstrap",
+  "author": {
+    "name": "alinaqi"
+  },
+  "repository": "https://github.com/alinaqi/claude-bootstrap"
+}

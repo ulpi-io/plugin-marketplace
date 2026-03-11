@@ -1,0 +1,9 @@
+{
+  "name": "gemini-interactions-api",
+  "version": "1.0.0",
+  "description": "gemini-interactions-api skill from google-gemini/gemini-skills",
+  "author": {
+    "name": "google-gemini"
+  },
+  "repository": "https://github.com/google-gemini/gemini-skills"
+}

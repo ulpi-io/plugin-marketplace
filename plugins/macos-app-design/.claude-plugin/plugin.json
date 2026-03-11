@@ -1,0 +1,9 @@
+{
+  "name": "macos-app-design",
+  "version": "1.0.0",
+  "description": "macos-app-design skill from petekp/agent-skills",
+  "author": {
+    "name": "petekp"
+  },
+  "repository": "https://github.com/petekp/agent-skills"
+}

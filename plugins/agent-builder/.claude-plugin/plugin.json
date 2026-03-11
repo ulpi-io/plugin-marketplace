@@ -1,0 +1,9 @@
+{
+  "name": "agent-builder",
+  "version": "1.0.0",
+  "description": "agent-builder skill from shareai-lab/learn-claude-code",
+  "author": {
+    "name": "shareai-lab"
+  },
+  "repository": "https://github.com/shareai-lab/learn-claude-code"
+}

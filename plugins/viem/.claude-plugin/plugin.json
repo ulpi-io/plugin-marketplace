@@ -1,0 +1,9 @@
+{
+  "name": "viem",
+  "version": "1.0.0",
+  "description": "viem skill from 0xsardius/onchain-typescript-skills",
+  "author": {
+    "name": "0xsardius"
+  },
+  "repository": "https://github.com/0xsardius/onchain-typescript-skills"
+}

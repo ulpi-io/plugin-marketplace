@@ -1,0 +1,9 @@
+{
+  "name": "git-guardrails-claude-code",
+  "version": "1.0.0",
+  "description": "git-guardrails-claude-code skill from mattpocock/skills",
+  "author": {
+    "name": "mattpocock"
+  },
+  "repository": "https://github.com/mattpocock/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "develop-ai-functions-example",
+  "version": "1.0.0",
+  "description": "develop-ai-functions-example skill from vercel/ai",
+  "author": {
+    "name": "vercel"
+  },
+  "repository": "https://github.com/vercel/ai"
+}

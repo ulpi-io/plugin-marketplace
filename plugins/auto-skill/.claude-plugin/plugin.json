@@ -1,0 +1,9 @@
+{
+  "name": "auto-skill",
+  "version": "1.0.0",
+  "description": "auto-skill skill from toolsai/auto-skill",
+  "author": {
+    "name": "toolsai"
+  },
+  "repository": "https://github.com/toolsai/auto-skill"
+}

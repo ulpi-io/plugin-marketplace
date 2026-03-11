@@ -1,0 +1,145 @@
+---
+name: tooluniverse-immune-repertoire-analysis
+description: Comprehensive immune repertoire analysis for T-cell and B-cell receptor sequencing data. Analyze TCR/BCR repertoires to assess clonality, diversity, V(D)J gene usage, CDR3 characteristics, convergence, and predict epitope specificity. Integrate with single-cell data for clonotype-phenotype associations. Use for adaptive immune response profiling, cancer immunotherapy research, vaccine response assessment, autoimmune disease studies, or repertoire diversity analysis in immunology research.
+---
+
+# ToolUniverse Immune Repertoire Analysis
+
+Comprehensive skill for analyzing T-cell receptor (TCR) and B-cell receptor (BCR) repertoire sequencing data to characterize adaptive immune responses, clonal expansion, and antigen specificity.
+
+## Overview
+
+Adaptive immune receptor repertoire sequencing (AIRR-seq) enables comprehensive profiling of T-cell and B-cell populations through high-throughput sequencing of TCR and BCR variable regions. This skill provides an 8-phase workflow for:
+- Clonotype identification and tracking
+- Diversity and clonality assessment
+- V(D)J gene usage analysis
+- CDR3 sequence characterization
+- Clonal expansion and convergence detection
+- Epitope specificity prediction
+- Integration with single-cell phenotyping
+- Longitudinal repertoire tracking
+
+---
+
+## Core Workflow
+
+### Phase 1: Data Import & Clonotype Definition
+
+Load AIRR-seq data from common formats (MiXCR, ImmunoSEQ, AIRR standard, 10x Genomics VDJ). Standardize columns to: `cloneId`, `count`, `frequency`, `cdr3aa`, `cdr3nt`, `v_gene`, `j_gene`, `chain`. Define clonotypes using one of three methods:
+- **cdr3aa**: Amino acid CDR3 sequence only
+- **cdr3nt**: Nucleotide CDR3 sequence
+- **vj_cdr3**: V gene + J gene + CDR3aa (most common, recommended)
+
+Aggregate by clonotype, sort by count, assign ranks.
+
+### Phase 2: Diversity & Clonality Analysis
+
+Calculate diversity metrics for the repertoire:
+- **Shannon entropy**: Overall diversity (higher = more diverse)
+- **Simpson index**: Probability two random clones are same
+- **Inverse Simpson**: Effective number of clonotypes
+- **Gini coefficient**: Inequality in clonotype distribution
+- **Clonality**: 1 - Pielou's evenness (higher = more clonal)
+- **Richness**: Number of unique clonotypes
+
+Generate rarefaction curves to assess whether sequencing depth is sufficient.
+
+### Phase 3: V(D)J Gene Usage Analysis
+
+Analyze V and J gene usage patterns weighted by clonotype count:
+- V gene family usage frequencies
+- J gene family usage frequencies
+- V-J pairing frequencies
+- Statistical testing for biased usage (chi-square test vs. uniform expectation)
+
+### Phase 4: CDR3 Sequence Analysis
+
+Characterize CDR3 sequences:
+- **Length distribution**: Typical TCR CDR3 = 12-18 aa; BCR CDR3 = 10-20 aa
+- **Amino acid composition**: Weighted by clonotype frequency
+- Flag unusual length distributions (may indicate PCR bias)
+
+### Phase 5: Clonal Expansion Detection
+
+Identify expanded clonotypes above a frequency threshold (default: 95th percentile). Track clonotypes longitudinally across multiple timepoints to measure persistence, mean/max frequency, and fold changes.
+
+### Phase 6: Convergence & Public Clonotypes
+
+- **Convergent recombination**: Same CDR3 amino acid from different nucleotide sequences (evidence of antigen-driven selection)
+- **Public clonotypes**: Shared across multiple samples/individuals (may indicate common antigen responses)
+
+### Phase 7: Epitope Prediction & Specificity
+
+Query epitope databases for known TCR-epitope associations:
+- **IEDB** (`IEDB_search_tcells`): Search by CDR3 receptor sequence
+- **VDJdb** (manual): https://vdjdb.cdr3.net/search
+- **PubMed literature** (`PubMed_search`): Search for CDR3 + epitope/antigen/specificity
+
+### Phase 8: Integration with Single-Cell Data
+
+Link TCR/BCR clonotypes to cell phenotypes from paired single-cell RNA-seq:
+- Map clonotypes to cell barcodes
+- Identify expanded clonotype phenotypes on UMAP
+- Analyze clonotype-cluster associations (cross-tabulation)
+- Find cluster-specific clonotypes (>80% cells in one cluster)
+- Differential gene expression: expanded vs. non-expanded cells
+
+---
+
+## ToolUniverse Tool Integration
+
+**Key Tools Used**:
+- `IEDB_search_tcells` - Known T-cell epitopes
+- `IEDB_search_bcells` - Known B-cell epitopes
+- `PubMed_search` - Literature on TCR/BCR specificity
+- `UniProt_get_protein` - Antigen protein information
+
+**Integration with Other Skills**:
+- `tooluniverse-single-cell` - Single-cell transcriptomics
+- `tooluniverse-rnaseq-deseq2` - Bulk RNA-seq analysis
+- `tooluniverse-variant-analysis` - Somatic hypermutation analysis (BCR)
+
+---
+
+## Quick Start
+
+```python
+from tooluniverse import ToolUniverse
+
+# 1. Load data
+tcr_data = load_airr_data("clonotypes.txt", format='mixcr')
+
+# 2. Define clonotypes
+clonotypes = define_clonotypes(tcr_data, method='vj_cdr3')
+
+# 3. Calculate diversity
+diversity = calculate_diversity(clonotypes['count'])
+print(f"Shannon entropy: {diversity['shannon_entropy']:.2f}")
+
+# 4. Detect expanded clones
+expansion = detect_expanded_clones(clonotypes)
+print(f"Expanded clonotypes: {expansion['n_expanded']}")
+
+# 5. Analyze V(D)J usage
+vdj_usage = analyze_vdj_usage(tcr_data)
+
+# 6. Query epitope databases
+top_clones = expansion['expanded_clonotypes']['clonotype'].head(10)
+epitopes = query_epitope_database(top_clones)
+```
+
+---
+
+## References
+
+- Dash P, et al. (2017) Quantifiable predictive features define epitope-specific T cell receptor repertoires. Nature
+- Glanville J, et al. (2017) Identifying specificity groups in the T cell receptor repertoire. Nature
+- Stubbington MJT, et al. (2016) T cell fate and clonality inference from single-cell transcriptomes. Nature Methods
+- Vander Heiden JA, et al. (2014) pRESTO: a toolkit for processing high-throughput sequencing raw reads of lymphocyte receptor repertoires. Bioinformatics
+
+---
+
+## See Also
+
+- `ANALYSIS_DETAILS.md` - Detailed code snippets for all 8 phases
+- `USE_CASES.md` - Complete use cases (immunotherapy, vaccine, autoimmune, single-cell integration) and best practices

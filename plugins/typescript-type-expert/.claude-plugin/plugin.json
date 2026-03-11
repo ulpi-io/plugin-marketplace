@@ -1,0 +1,9 @@
+{
+  "name": "typescript-type-expert",
+  "version": "1.0.0",
+  "description": "typescript-type-expert skill from gracefullight/stock-checker",
+  "author": {
+    "name": "gracefullight"
+  },
+  "repository": "https://github.com/gracefullight/stock-checker"
+}

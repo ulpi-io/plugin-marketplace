@@ -1,0 +1,9 @@
+{
+  "name": "tracking-crypto-prices",
+  "version": "1.0.0",
+  "description": "tracking-crypto-prices skill from jeremylongshore/claude-code-plugins-plus-skills",
+  "author": {
+    "name": "jeremylongshore"
+  },
+  "repository": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+}

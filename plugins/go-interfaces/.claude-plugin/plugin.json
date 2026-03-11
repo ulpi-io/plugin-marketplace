@@ -1,0 +1,9 @@
+{
+  "name": "go-interfaces",
+  "version": "1.0.0",
+  "description": "go-interfaces skill from cxuu/golang-skills",
+  "author": {
+    "name": "cxuu"
+  },
+  "repository": "https://github.com/cxuu/golang-skills"
+}

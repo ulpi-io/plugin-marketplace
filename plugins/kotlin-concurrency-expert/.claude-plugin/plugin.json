@@ -1,0 +1,9 @@
+{
+  "name": "kotlin-concurrency-expert",
+  "version": "1.0.0",
+  "description": "kotlin-concurrency-expert skill from new-silvermoon/awesome-android-agent-skills",
+  "author": {
+    "name": "new-silvermoon"
+  },
+  "repository": "https://github.com/new-silvermoon/awesome-android-agent-skills"
+}

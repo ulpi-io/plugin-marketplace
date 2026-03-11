@@ -1,0 +1,9 @@
+{
+  "name": "reddit-posts",
+  "version": "1.0.0",
+  "description": "reddit-posts skill from kostja94/marketing-skills",
+  "author": {
+    "name": "kostja94"
+  },
+  "repository": "https://github.com/kostja94/marketing-skills"
+}

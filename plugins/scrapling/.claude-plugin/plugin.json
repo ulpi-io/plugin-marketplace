@@ -1,0 +1,9 @@
+{
+  "name": "scrapling",
+  "version": "1.0.0",
+  "description": "scrapling skill from hyperpuncher/dotagents",
+  "author": {
+    "name": "hyperpuncher"
+  },
+  "repository": "https://github.com/hyperpuncher/dotagents"
+}

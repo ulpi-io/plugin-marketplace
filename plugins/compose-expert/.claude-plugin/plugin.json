@@ -1,0 +1,9 @@
+{
+  "name": "compose-expert",
+  "version": "1.0.0",
+  "description": "compose-expert skill from vitorpamplona/amethyst",
+  "author": {
+    "name": "vitorpamplona"
+  },
+  "repository": "https://github.com/vitorpamplona/amethyst"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "home-assistant-manager",
+  "version": "1.0.0",
+  "description": "home-assistant-manager skill from komal-skynet/claude-skill-homeassistant",
+  "author": {
+    "name": "komal-skynet"
+  },
+  "repository": "https://github.com/komal-skynet/claude-skill-homeassistant"
+}

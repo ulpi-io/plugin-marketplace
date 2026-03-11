@@ -1,0 +1,9 @@
+{
+  "name": "csv-data-summarizer",
+  "version": "1.0.0",
+  "description": "csv-data-summarizer skill from coffeefuelbump/csv-data-summarizer-claude-skill",
+  "author": {
+    "name": "coffeefuelbump"
+  },
+  "repository": "https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill"
+}

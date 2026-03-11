@@ -1,0 +1,9 @@
+{
+  "name": "qmd",
+  "version": "1.0.0",
+  "description": "qmd skill from tobi/qmd",
+  "author": {
+    "name": "tobi"
+  },
+  "repository": "https://github.com/tobi/qmd"
+}

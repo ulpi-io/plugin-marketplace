@@ -1,0 +1,9 @@
+{
+  "name": "vertex-ai-api-dev",
+  "version": "1.0.0",
+  "description": "vertex-ai-api-dev skill from google-gemini/gemini-skills",
+  "author": {
+    "name": "google-gemini"
+  },
+  "repository": "https://github.com/google-gemini/gemini-skills"
+}

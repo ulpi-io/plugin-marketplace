@@ -1,0 +1,9 @@
+{
+  "name": "ab-test-analysis",
+  "version": "1.0.0",
+  "description": "ab-test-analysis skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

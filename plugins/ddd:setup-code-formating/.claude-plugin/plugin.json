@@ -1,0 +1,9 @@
+{
+  "name": "ddd:setup-code-formating",
+  "version": "1.0.0",
+  "description": "ddd:setup-code-formating skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

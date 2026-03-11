@@ -1,0 +1,9 @@
+{
+  "name": "wix-cli-backend-api",
+  "version": "1.0.0",
+  "description": "wix-cli-backend-api skill from wix/skills",
+  "author": {
+    "name": "wix"
+  },
+  "repository": "https://github.com/wix/skills"
+}

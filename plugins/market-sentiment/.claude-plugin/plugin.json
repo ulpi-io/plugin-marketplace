@@ -1,0 +1,9 @@
+{
+  "name": "market-sentiment",
+  "version": "1.0.0",
+  "description": "market-sentiment skill from kukapay/crypto-skills",
+  "author": {
+    "name": "kukapay"
+  },
+  "repository": "https://github.com/kukapay/crypto-skills"
+}

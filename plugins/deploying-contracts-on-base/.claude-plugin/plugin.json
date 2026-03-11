@@ -1,0 +1,9 @@
+{
+  "name": "deploying-contracts-on-base",
+  "version": "1.0.0",
+  "description": "deploying-contracts-on-base skill from base/skills",
+  "author": {
+    "name": "base"
+  },
+  "repository": "https://github.com/base/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "tdd:test-driven-development",
+  "version": "1.0.0",
+  "description": "tdd:test-driven-development skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

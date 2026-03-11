@@ -1,0 +1,9 @@
+{
+  "name": "handoff",
+  "version": "1.0.0",
+  "description": "handoff skill from steveyegge/beads",
+  "author": {
+    "name": "steveyegge"
+  },
+  "repository": "https://github.com/steveyegge/beads"
+}

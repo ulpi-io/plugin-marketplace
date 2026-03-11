@@ -1,0 +1,9 @@
+{
+  "name": "atomic-design",
+  "version": "1.0.0",
+  "description": "atomic-design skill from jwilger/agent-skills",
+  "author": {
+    "name": "jwilger"
+  },
+  "repository": "https://github.com/jwilger/agent-skills"
+}

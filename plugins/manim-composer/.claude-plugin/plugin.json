@@ -1,0 +1,9 @@
+{
+  "name": "manim-composer",
+  "version": "1.0.0",
+  "description": "manim-composer skill from adithya-s-k/manim_skill",
+  "author": {
+    "name": "adithya-s-k"
+  },
+  "repository": "https://github.com/adithya-s-k/manim_skill"
+}

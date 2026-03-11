@@ -1,0 +1,9 @@
+{
+  "name": "ddgr",
+  "version": "1.0.0",
+  "description": "ddgr skill from ysm-dev/ddgr-skill",
+  "author": {
+    "name": "ysm-dev"
+  },
+  "repository": "https://github.com/ysm-dev/ddgr-skill"
+}

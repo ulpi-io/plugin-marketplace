@@ -1,0 +1,9 @@
+{
+  "name": "svelte-runes",
+  "version": "1.0.0",
+  "description": "svelte-runes skill from spences10/svelte-skills-kit",
+  "author": {
+    "name": "spences10"
+  },
+  "repository": "https://github.com/spences10/svelte-skills-kit"
+}

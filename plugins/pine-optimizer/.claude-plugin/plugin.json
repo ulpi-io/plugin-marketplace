@@ -1,0 +1,9 @@
+{
+  "name": "pine-optimizer",
+  "version": "1.0.0",
+  "description": "pine-optimizer skill from traderspost/pinescript-agents",
+  "author": {
+    "name": "traderspost"
+  },
+  "repository": "https://github.com/traderspost/pinescript-agents"
+}

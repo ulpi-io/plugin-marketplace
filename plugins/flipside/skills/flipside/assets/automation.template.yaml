@@ -1,0 +1,76 @@
+# Flipside Automation Template
+# Docs: https://docs.flipsidecrypto.xyz/automations
+
+name: My Automation
+description: What this automation does
+visibility: personal              # personal or organization
+
+# Input parameters (available as {{param}} in queries)
+inputSchema:
+  type: object
+  properties:
+    wallet_address:
+      type: string
+      title: Wallet Address
+      description: The wallet to analyze
+    days_back:
+      type: integer
+      title: Days Back
+      default: 7
+  required:
+    - wallet_address
+
+# Workflow steps
+steps:
+  # Step 1: Query blockchain data
+  - id: query_data
+    name: Query Token Transfers
+    type: sql_statement
+    config:
+      query: |
+        SELECT
+          block_timestamp,
+          tx_hash,
+          from_address,
+          to_address,
+          symbol,
+          amount,
+          amount_usd
+        FROM ethereum.core.ez_token_transfers
+        WHERE (from_address = LOWER({{wallet_address}})
+           OR to_address = LOWER({{wallet_address}}))
+          AND block_timestamp >= CURRENT_DATE - {{days_back}}
+        ORDER BY block_timestamp DESC
+        LIMIT 1000
+
+  # Step 2: Analyze with AI
+  - id: analyze
+    name: Analyze Results
+    type: llm_transform
+    config:
+      prompt: |
+        Analyze this wallet's token transfer activity and provide:
+        1. Summary of activity patterns
+        2. Top tokens by volume
+        3. Notable transactions
+        4. Any potential concerns or interesting findings
+      outputFormat: markdown
+
+  # Step 3: (Optional) Send notification
+  # - id: notify
+  #   name: Send Slack Alert
+  #   type: slack
+  #   config:
+  #     channel: "#alerts"
+  #     message: "Wallet analysis complete for {{wallet_address}}"
+
+# Data flow between steps
+edges:
+  - from: query_data
+    to: analyze
+  # - from: analyze
+  #   to: notify
+
+# Scheduling (optional)
+# schedule:
+#   cron: "0 9 * * *"  # Daily at 9am UTC

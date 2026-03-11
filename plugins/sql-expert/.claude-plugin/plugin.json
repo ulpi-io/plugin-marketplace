@@ -1,0 +1,9 @@
+{
+  "name": "sql-expert",
+  "version": "1.0.0",
+  "description": "sql-expert skill from questfortech-investments/claude-code-skills",
+  "author": {
+    "name": "questfortech-investments"
+  },
+  "repository": "https://github.com/questfortech-investments/claude-code-skills"
+}

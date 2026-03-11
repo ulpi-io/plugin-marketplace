@@ -1,0 +1,9 @@
+{
+  "name": "recipe-share-event-materials",
+  "version": "1.0.0",
+  "description": "recipe-share-event-materials skill from googleworkspace/cli",
+  "author": {
+    "name": "googleworkspace"
+  },
+  "repository": "https://github.com/googleworkspace/cli"
+}

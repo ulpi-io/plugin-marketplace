@@ -1,0 +1,9 @@
+{
+  "name": "google-serper-search",
+  "version": "1.0.0",
+  "description": "google-serper-search skill from shuliuzhenhua-sys/google-serper-search",
+  "author": {
+    "name": "shuliuzhenhua-sys"
+  },
+  "repository": "https://github.com/shuliuzhenhua-sys/google-serper-search"
+}

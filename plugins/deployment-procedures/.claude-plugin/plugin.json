@@ -1,0 +1,9 @@
+{
+  "name": "deployment-procedures",
+  "version": "1.0.0",
+  "description": "deployment-procedures skill from vudovn/antigravity-kit",
+  "author": {
+    "name": "vudovn"
+  },
+  "repository": "https://github.com/vudovn/antigravity-kit"
+}

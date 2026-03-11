@@ -1,0 +1,9 @@
+{
+  "name": "github-trending",
+  "version": "1.0.0",
+  "description": "github-trending skill from majiayu000/claude-arsenal",
+  "author": {
+    "name": "majiayu000"
+  },
+  "repository": "https://github.com/majiayu000/claude-arsenal"
+}

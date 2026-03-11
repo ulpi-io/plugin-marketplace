@@ -1,0 +1,9 @@
+{
+  "name": "permissionkit",
+  "version": "1.0.0",
+  "description": "permissionkit skill from dpearson2699/swift-ios-skills",
+  "author": {
+    "name": "dpearson2699"
+  },
+  "repository": "https://github.com/dpearson2699/swift-ios-skills"
+}

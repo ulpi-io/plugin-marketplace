@@ -1,0 +1,9 @@
+{
+  "name": "argocd-expert",
+  "version": "1.0.0",
+  "description": "argocd-expert skill from personamanagmentlayer/pcl",
+  "author": {
+    "name": "personamanagmentlayer"
+  },
+  "repository": "https://github.com/personamanagmentlayer/pcl"
+}

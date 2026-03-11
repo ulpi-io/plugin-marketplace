@@ -1,0 +1,9 @@
+{
+  "name": "streamlit-to-marimo",
+  "version": "1.0.0",
+  "description": "streamlit-to-marimo skill from marimo-team/skills",
+  "author": {
+    "name": "marimo-team"
+  },
+  "repository": "https://github.com/marimo-team/skills"
+}

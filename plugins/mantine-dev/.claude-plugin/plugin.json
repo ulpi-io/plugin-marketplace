@@ -1,0 +1,9 @@
+{
+  "name": "mantine-dev",
+  "version": "1.0.0",
+  "description": "mantine-dev skill from itechmeat/llm-code",
+  "author": {
+    "name": "itechmeat"
+  },
+  "repository": "https://github.com/itechmeat/llm-code"
+}

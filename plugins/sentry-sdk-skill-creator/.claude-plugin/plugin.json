@@ -1,0 +1,9 @@
+{
+  "name": "sentry-sdk-skill-creator",
+  "version": "1.0.0",
+  "description": "sentry-sdk-skill-creator skill from getsentry/sentry-for-ai",
+  "author": {
+    "name": "getsentry"
+  },
+  "repository": "https://github.com/getsentry/sentry-for-ai"
+}

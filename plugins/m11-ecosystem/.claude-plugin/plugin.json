@@ -1,0 +1,9 @@
+{
+  "name": "m11-ecosystem",
+  "version": "1.0.0",
+  "description": "m11-ecosystem skill from zhanghandong/rust-skills",
+  "author": {
+    "name": "zhanghandong"
+  },
+  "repository": "https://github.com/zhanghandong/rust-skills"
+}

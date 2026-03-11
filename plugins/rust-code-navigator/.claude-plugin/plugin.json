@@ -1,0 +1,9 @@
+{
+  "name": "rust-code-navigator",
+  "version": "1.0.0",
+  "description": "rust-code-navigator skill from zhanghandong/rust-skills",
+  "author": {
+    "name": "zhanghandong"
+  },
+  "repository": "https://github.com/zhanghandong/rust-skills"
+}

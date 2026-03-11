@@ -1,0 +1,9 @@
+{
+  "name": "worktrunk",
+  "version": "1.0.0",
+  "description": "worktrunk skill from max-sixty/worktrunk",
+  "author": {
+    "name": "max-sixty"
+  },
+  "repository": "https://github.com/max-sixty/worktrunk"
+}

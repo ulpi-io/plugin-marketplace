@@ -1,0 +1,9 @@
+{
+  "name": "breadth-chart-analyst",
+  "version": "1.0.0",
+  "description": "breadth-chart-analyst skill from tradermonty/claude-trading-skills",
+  "author": {
+    "name": "tradermonty"
+  },
+  "repository": "https://github.com/tradermonty/claude-trading-skills"
+}

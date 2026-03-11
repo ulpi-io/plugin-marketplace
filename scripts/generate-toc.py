@@ -101,6 +101,12 @@ def generate_readme(plugins):
     groups = group_by_publisher(plugins)
 
     lines = []
+    lines.append('<p align="center">')
+    lines.append('  <a href="https://ulpi.io"><img src="https://www.ulpi.io/media/ulpi-icon-512x512.png" alt="Ulpi" height="56"></a>')
+    lines.append('  &nbsp;&nbsp;&times;&nbsp;&nbsp;')
+    lines.append('  <a href="https://www.thecasualleader.com/"><img src="https://images.squarespace-cdn.com/content/v1/678a556b961d7f407a170440/e9bbb79f-6115-41b5-abac-a4a124d4c071/fulllogo.png?format=1500w" alt="The Casual Leader" height="56"></a>')
+    lines.append('</p>')
+    lines.append("")
     lines.append("# Ulpi Plugin Marketplace")
     lines.append("")
     lines.append(f"A curated collection of {len(plugins)}+ agent skills, packaged as plugins for easy installation in the Claude Desktop app.")
@@ -162,7 +168,7 @@ def generate_readme(plugins):
     lines.append("")
     lines.append("- **[skills.sh](https://skills.sh)** — The open agent skills directory where all skills are discovered and ranked")
     lines.append("- **All original skill authors** — Each plugin was created by its respective author and sourced from their GitHub repository. See individual plugin directories for original author and repository info")
-    lines.append("- **[Ulpi](https://ulpi.io)** — Packaging and marketplace curation")
+    lines.append("- **[Ulpi](https://ulpi.io)** & **[The Casual Leader](https://www.thecasualleader.com/)** — Packaging and marketplace curation")
     lines.append("")
     lines.append("This marketplace does not claim ownership of any skills. All credit goes to the original authors.")
     lines.append("")

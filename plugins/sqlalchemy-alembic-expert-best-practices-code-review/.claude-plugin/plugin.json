@@ -1,0 +1,9 @@
+{
+  "name": "sqlalchemy-alembic-expert-best-practices-code-review",
+  "version": "1.0.0",
+  "description": "sqlalchemy-alembic-expert-best-practices-code-review skill from wispbit-ai/skills",
+  "author": {
+    "name": "wispbit-ai"
+  },
+  "repository": "https://github.com/wispbit-ai/skills"
+}

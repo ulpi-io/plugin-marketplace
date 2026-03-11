@@ -1,0 +1,9 @@
+{
+  "name": "customaize-agent:create-hook",
+  "version": "1.0.0",
+  "description": "customaize-agent:create-hook skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

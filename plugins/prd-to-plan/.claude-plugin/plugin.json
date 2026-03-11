@@ -1,0 +1,9 @@
+{
+  "name": "prd-to-plan",
+  "version": "1.0.0",
+  "description": "prd-to-plan skill from mattpocock/skills",
+  "author": {
+    "name": "mattpocock"
+  },
+  "repository": "https://github.com/mattpocock/skills"
+}

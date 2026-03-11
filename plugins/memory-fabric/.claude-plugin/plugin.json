@@ -1,0 +1,9 @@
+{
+  "name": "memory-fabric",
+  "version": "1.0.0",
+  "description": "memory-fabric skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

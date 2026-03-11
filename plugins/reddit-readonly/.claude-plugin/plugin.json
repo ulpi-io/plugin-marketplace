@@ -1,0 +1,9 @@
+{
+  "name": "reddit-readonly",
+  "version": "1.0.0",
+  "description": "reddit-readonly skill from tristanmanchester/agent-skills",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "repository": "https://github.com/tristanmanchester/agent-skills"
+}

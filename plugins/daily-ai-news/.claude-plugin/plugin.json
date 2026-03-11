@@ -1,0 +1,9 @@
+{
+  "name": "daily-ai-news",
+  "version": "1.0.0",
+  "description": "daily-ai-news skill from yyh211/claude-meta-skill",
+  "author": {
+    "name": "yyh211"
+  },
+  "repository": "https://github.com/yyh211/claude-meta-skill"
+}

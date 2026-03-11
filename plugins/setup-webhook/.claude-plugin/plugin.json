@@ -1,0 +1,9 @@
+{
+  "name": "setup-webhook",
+  "version": "1.0.0",
+  "description": "setup-webhook skill from vapiai/skills",
+  "author": {
+    "name": "vapiai"
+  },
+  "repository": "https://github.com/vapiai/skills"
+}

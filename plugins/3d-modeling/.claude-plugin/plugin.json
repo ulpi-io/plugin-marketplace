@@ -1,0 +1,9 @@
+{
+  "name": "3d-modeling",
+  "version": "1.0.0",
+  "description": "3d-modeling skill from omer-metin/skills-for-antigravity",
+  "author": {
+    "name": "omer-metin"
+  },
+  "repository": "https://github.com/omer-metin/skills-for-antigravity"
+}

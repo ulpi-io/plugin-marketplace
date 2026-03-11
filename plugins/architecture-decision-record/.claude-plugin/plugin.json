@@ -1,0 +1,9 @@
+{
+  "name": "architecture-decision-record",
+  "version": "1.0.0",
+  "description": "architecture-decision-record skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

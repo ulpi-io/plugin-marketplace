@@ -1,0 +1,9 @@
+{
+  "name": "livewire-development",
+  "version": "1.0.0",
+  "description": "livewire-development skill from spatie/freek.dev",
+  "author": {
+    "name": "spatie"
+  },
+  "repository": "https://github.com/spatie/freek.dev"
+}

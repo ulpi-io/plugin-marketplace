@@ -1,0 +1,9 @@
+{
+  "name": "intent-framed-agent",
+  "version": "1.0.0",
+  "description": "intent-framed-agent skill from pskoett/pskoett-ai-skills",
+  "author": {
+    "name": "pskoett"
+  },
+  "repository": "https://github.com/pskoett/pskoett-ai-skills"
+}

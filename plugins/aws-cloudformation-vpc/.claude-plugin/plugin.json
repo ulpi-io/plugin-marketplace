@@ -1,0 +1,9 @@
+{
+  "name": "aws-cloudformation-vpc",
+  "version": "1.0.0",
+  "description": "aws-cloudformation-vpc skill from giuseppe-trisciuoglio/developer-kit",
+  "author": {
+    "name": "giuseppe-trisciuoglio"
+  },
+  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
+}

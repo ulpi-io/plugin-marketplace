@@ -1,0 +1,9 @@
+{
+  "name": "fastapi-async-patterns",
+  "version": "1.0.0",
+  "description": "fastapi-async-patterns skill from thebushidocollective/han",
+  "author": {
+    "name": "thebushidocollective"
+  },
+  "repository": "https://github.com/thebushidocollective/han"
+}

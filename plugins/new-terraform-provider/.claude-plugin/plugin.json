@@ -1,0 +1,9 @@
+{
+  "name": "new-terraform-provider",
+  "version": "1.0.0",
+  "description": "new-terraform-provider skill from hashicorp/agent-skills",
+  "author": {
+    "name": "hashicorp"
+  },
+  "repository": "https://github.com/hashicorp/agent-skills"
+}

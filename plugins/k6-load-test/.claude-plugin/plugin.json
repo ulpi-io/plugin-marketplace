@@ -1,0 +1,9 @@
+{
+  "name": "k6-load-test",
+  "version": "1.0.0",
+  "description": "k6-load-test skill from dengineproblem/agents-monorepo",
+  "author": {
+    "name": "dengineproblem"
+  },
+  "repository": "https://github.com/dengineproblem/agents-monorepo"
+}

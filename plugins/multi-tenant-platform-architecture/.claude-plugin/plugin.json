@@ -1,0 +1,9 @@
+{
+  "name": "multi-tenant-platform-architecture",
+  "version": "1.0.0",
+  "description": "multi-tenant-platform-architecture skill from mblode/agent-skills",
+  "author": {
+    "name": "mblode"
+  },
+  "repository": "https://github.com/mblode/agent-skills"
+}

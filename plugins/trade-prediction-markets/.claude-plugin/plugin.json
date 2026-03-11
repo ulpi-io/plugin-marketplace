@@ -1,0 +1,9 @@
+{
+  "name": "trade-prediction-markets",
+  "version": "1.0.0",
+  "description": "trade-prediction-markets skill from robonet-tech/skills",
+  "author": {
+    "name": "robonet-tech"
+  },
+  "repository": "https://github.com/robonet-tech/skills"
+}

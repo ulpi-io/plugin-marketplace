@@ -1,0 +1,9 @@
+{
+  "name": "flutter-native-interop",
+  "version": "1.0.0",
+  "description": "flutter-native-interop skill from flutter/skills",
+  "author": {
+    "name": "flutter"
+  },
+  "repository": "https://github.com/flutter/skills"
+}

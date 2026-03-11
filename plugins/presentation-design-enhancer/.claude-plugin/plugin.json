@@ -1,0 +1,9 @@
+{
+  "name": "presentation-design-enhancer",
+  "version": "1.0.0",
+  "description": "presentation-design-enhancer skill from onewave-ai/claude-skills",
+  "author": {
+    "name": "onewave-ai"
+  },
+  "repository": "https://github.com/onewave-ai/claude-skills"
+}

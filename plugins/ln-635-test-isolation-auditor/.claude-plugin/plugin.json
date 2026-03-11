@@ -1,0 +1,9 @@
+{
+  "name": "ln-635-test-isolation-auditor",
+  "version": "1.0.0",
+  "description": "ln-635-test-isolation-auditor skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

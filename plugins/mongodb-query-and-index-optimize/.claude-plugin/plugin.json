@@ -1,0 +1,9 @@
+{
+  "name": "mongodb-query-and-index-optimize",
+  "version": "1.0.0",
+  "description": "mongodb-query-and-index-optimize skill from romiluz13/mongodb-agent-skills",
+  "author": {
+    "name": "romiluz13"
+  },
+  "repository": "https://github.com/romiluz13/mongodb-agent-skills"
+}

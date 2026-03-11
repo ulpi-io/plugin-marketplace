@@ -1,0 +1,9 @@
+{
+  "name": "azure-verified-modules",
+  "version": "1.0.0",
+  "description": "azure-verified-modules skill from hashicorp/agent-skills",
+  "author": {
+    "name": "hashicorp"
+  },
+  "repository": "https://github.com/hashicorp/agent-skills"
+}

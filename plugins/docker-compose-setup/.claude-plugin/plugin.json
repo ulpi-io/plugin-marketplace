@@ -1,0 +1,9 @@
+{
+  "name": "docker-compose-setup",
+  "version": "1.0.0",
+  "description": "docker-compose-setup skill from pluginagentmarketplace/custom-plugin-docker",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-docker"
+}

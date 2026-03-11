@@ -1,0 +1,9 @@
+{
+  "name": "make-pr",
+  "version": "1.0.0",
+  "description": "make-pr skill from remotion-dev/remotion",
+  "author": {
+    "name": "remotion-dev"
+  },
+  "repository": "https://github.com/remotion-dev/remotion"
+}

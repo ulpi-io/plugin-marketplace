@@ -1,0 +1,9 @@
+{
+  "name": "toutiao-news-trends",
+  "version": "1.0.0",
+  "description": "toutiao-news-trends skill from wuchubuzai2018/expert-skills-hub",
+  "author": {
+    "name": "wuchubuzai2018"
+  },
+  "repository": "https://github.com/wuchubuzai2018/expert-skills-hub"
+}

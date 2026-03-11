@@ -1,0 +1,9 @@
+{
+  "name": "stripe-implementer",
+  "version": "1.0.0",
+  "description": "stripe-implementer skill from shipshitdev/library",
+  "author": {
+    "name": "shipshitdev"
+  },
+  "repository": "https://github.com/shipshitdev/library"
+}

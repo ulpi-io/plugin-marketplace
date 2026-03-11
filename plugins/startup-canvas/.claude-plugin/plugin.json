@@ -1,0 +1,9 @@
+{
+  "name": "startup-canvas",
+  "version": "1.0.0",
+  "description": "startup-canvas skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

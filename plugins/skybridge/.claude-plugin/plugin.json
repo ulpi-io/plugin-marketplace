@@ -1,0 +1,9 @@
+{
+  "name": "skybridge",
+  "version": "1.0.0",
+  "description": "skybridge skill from alpic-ai/skybridge",
+  "author": {
+    "name": "alpic-ai"
+  },
+  "repository": "https://github.com/alpic-ai/skybridge"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "user-story-splitting",
+  "version": "1.0.0",
+  "description": "user-story-splitting skill from deanpeters/product-manager-skills",
+  "author": {
+    "name": "deanpeters"
+  },
+  "repository": "https://github.com/deanpeters/product-manager-skills"
+}

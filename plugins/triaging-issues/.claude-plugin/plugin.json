@@ -1,0 +1,9 @@
+{
+  "name": "triaging-issues",
+  "version": "1.0.0",
+  "description": "triaging-issues skill from pytorch/pytorch",
+  "author": {
+    "name": "pytorch"
+  },
+  "repository": "https://github.com/pytorch/pytorch"
+}

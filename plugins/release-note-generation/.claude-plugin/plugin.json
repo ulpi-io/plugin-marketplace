@@ -1,0 +1,9 @@
+{
+  "name": "release-note-generation",
+  "version": "1.0.0",
+  "description": "release-note-generation skill from microsoft/powertoys",
+  "author": {
+    "name": "microsoft"
+  },
+  "repository": "https://github.com/microsoft/powertoys"
+}

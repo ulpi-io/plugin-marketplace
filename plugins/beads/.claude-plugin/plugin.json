@@ -1,0 +1,9 @@
+{
+  "name": "beads",
+  "version": "1.0.0",
+  "description": "beads skill from steveyegge/beads",
+  "author": {
+    "name": "steveyegge"
+  },
+  "repository": "https://github.com/steveyegge/beads"
+}

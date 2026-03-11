@@ -1,0 +1,9 @@
+{
+  "name": "minimax-understand-image",
+  "version": "1.0.0",
+  "description": "minimax-understand-image skill from thincher/awsome_skills",
+  "author": {
+    "name": "thincher"
+  },
+  "repository": "https://github.com/thincher/awsome_skills"
+}

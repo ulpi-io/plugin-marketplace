@@ -1,0 +1,9 @@
+{
+  "name": "okx-dex-market",
+  "version": "1.0.0",
+  "description": "okx-dex-market skill from okx/onchainos-skills",
+  "author": {
+    "name": "okx"
+  },
+  "repository": "https://github.com/okx/onchainos-skills"
+}

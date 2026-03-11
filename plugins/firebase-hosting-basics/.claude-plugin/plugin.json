@@ -1,0 +1,9 @@
+{
+  "name": "firebase-hosting-basics",
+  "version": "1.0.0",
+  "description": "firebase-hosting-basics skill from firebase/skills",
+  "author": {
+    "name": "firebase"
+  },
+  "repository": "https://github.com/firebase/skills"
+}

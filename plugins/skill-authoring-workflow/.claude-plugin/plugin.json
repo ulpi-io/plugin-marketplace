@@ -1,0 +1,9 @@
+{
+  "name": "skill-authoring-workflow",
+  "version": "1.0.0",
+  "description": "skill-authoring-workflow skill from deanpeters/product-manager-skills",
+  "author": {
+    "name": "deanpeters"
+  },
+  "repository": "https://github.com/deanpeters/product-manager-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "setting-up-tauri-projects",
+  "version": "1.0.0",
+  "description": "setting-up-tauri-projects skill from dchuk/claude-code-tauri-skills",
+  "author": {
+    "name": "dchuk"
+  },
+  "repository": "https://github.com/dchuk/claude-code-tauri-skills"
+}

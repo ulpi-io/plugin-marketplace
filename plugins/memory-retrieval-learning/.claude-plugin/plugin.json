@@ -1,0 +1,9 @@
+{
+  "name": "memory-retrieval-learning",
+  "version": "1.0.0",
+  "description": "memory-retrieval-learning skill from lyndonkl/claude",
+  "author": {
+    "name": "lyndonkl"
+  },
+  "repository": "https://github.com/lyndonkl/claude"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-database-rds-supabase-test",
+  "version": "1.0.0",
+  "description": "alicloud-database-rds-supabase-test skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "team-assemble",
+  "version": "1.0.0",
+  "description": "team-assemble skill from ai-native-camp/camp-2",
+  "author": {
+    "name": "ai-native-camp"
+  },
+  "repository": "https://github.com/ai-native-camp/camp-2"
+}

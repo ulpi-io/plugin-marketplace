@@ -1,0 +1,9 @@
+{
+  "name": "sentiment-analysis-trading",
+  "version": "1.0.0",
+  "description": "sentiment-analysis-trading skill from omer-metin/skills-for-antigravity",
+  "author": {
+    "name": "omer-metin"
+  },
+  "repository": "https://github.com/omer-metin/skills-for-antigravity"
+}

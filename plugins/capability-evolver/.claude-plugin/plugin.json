@@ -1,0 +1,9 @@
+{
+  "name": "capability-evolver",
+  "version": "1.0.0",
+  "description": "capability-evolver skill from autogame-17/evolver",
+  "author": {
+    "name": "autogame-17"
+  },
+  "repository": "https://github.com/autogame-17/evolver"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sveltekit-structure",
+  "version": "1.0.0",
+  "description": "sveltekit-structure skill from spences10/svelte-skills-kit",
+  "author": {
+    "name": "spences10"
+  },
+  "repository": "https://github.com/spences10/svelte-skills-kit"
+}

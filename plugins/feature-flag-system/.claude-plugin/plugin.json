@@ -1,0 +1,9 @@
+{
+  "name": "feature-flag-system",
+  "version": "1.0.0",
+  "description": "feature-flag-system skill from aj-geddes/useful-ai-prompts",
+  "author": {
+    "name": "aj-geddes"
+  },
+  "repository": "https://github.com/aj-geddes/useful-ai-prompts"
+}

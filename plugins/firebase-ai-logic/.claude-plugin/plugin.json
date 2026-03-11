@@ -1,0 +1,9 @@
+{
+  "name": "firebase-ai-logic",
+  "version": "1.0.0",
+  "description": "firebase-ai-logic skill from firebase/skills",
+  "author": {
+    "name": "firebase"
+  },
+  "repository": "https://github.com/firebase/skills"
+}

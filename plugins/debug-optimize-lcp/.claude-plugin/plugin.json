@@ -1,0 +1,9 @@
+{
+  "name": "debug-optimize-lcp",
+  "version": "1.0.0",
+  "description": "debug-optimize-lcp skill from chromedevtools/chrome-devtools-mcp",
+  "author": {
+    "name": "chromedevtools"
+  },
+  "repository": "https://github.com/chromedevtools/chrome-devtools-mcp"
+}

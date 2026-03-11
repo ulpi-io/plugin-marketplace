@@ -1,0 +1,9 @@
+{
+  "name": "quality-documentation-manager",
+  "version": "1.0.0",
+  "description": "quality-documentation-manager skill from alirezarezvani/claude-skills",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "repository": "https://github.com/alirezarezvani/claude-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "searxng-search",
+  "version": "1.0.0",
+  "description": "searxng-search skill from ypares/agent-skills",
+  "author": {
+    "name": "ypares"
+  },
+  "repository": "https://github.com/ypares/agent-skills"
+}

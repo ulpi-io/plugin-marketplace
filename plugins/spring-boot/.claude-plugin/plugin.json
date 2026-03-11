@@ -1,0 +1,9 @@
+{
+  "name": "spring-boot",
+  "version": "1.0.0",
+  "description": "spring-boot skill from teachingai/full-stack-skills",
+  "author": {
+    "name": "teachingai"
+  },
+  "repository": "https://github.com/teachingai/full-stack-skills"
+}

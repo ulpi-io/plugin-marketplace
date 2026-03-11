@@ -1,0 +1,9 @@
+{
+  "name": "frontend-to-backend-requirements",
+  "version": "1.0.0",
+  "description": "frontend-to-backend-requirements skill from davila7/claude-code-templates",
+  "author": {
+    "name": "davila7"
+  },
+  "repository": "https://github.com/davila7/claude-code-templates"
+}

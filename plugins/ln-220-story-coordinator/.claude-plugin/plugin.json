@@ -1,0 +1,9 @@
+{
+  "name": "ln-220-story-coordinator",
+  "version": "1.0.0",
+  "description": "ln-220-story-coordinator skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

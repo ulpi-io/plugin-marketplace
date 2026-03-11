@@ -1,0 +1,9 @@
+{
+  "name": "sandbox-guard",
+  "version": "1.0.0",
+  "description": "sandbox-guard skill from useai-pro/openclaw-skills-security",
+  "author": {
+    "name": "useai-pro"
+  },
+  "repository": "https://github.com/useai-pro/openclaw-skills-security"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "stripe-best-practices",
+  "version": "1.0.0",
+  "description": "stripe-best-practices skill from exceptionless/exceptionless",
+  "author": {
+    "name": "exceptionless"
+  },
+  "repository": "https://github.com/exceptionless/exceptionless"
+}

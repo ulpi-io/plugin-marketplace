@@ -1,0 +1,9 @@
+{
+  "name": "react-native-expo",
+  "version": "1.0.0",
+  "description": "react-native-expo skill from ovachiever/droid-tings",
+  "author": {
+    "name": "ovachiever"
+  },
+  "repository": "https://github.com/ovachiever/droid-tings"
+}

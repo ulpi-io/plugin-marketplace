@@ -1,0 +1,9 @@
+{
+  "name": "test-cases",
+  "version": "1.0.0",
+  "description": "test-cases skill from cexll/myclaude",
+  "author": {
+    "name": "cexll"
+  },
+  "repository": "https://github.com/cexll/myclaude"
+}

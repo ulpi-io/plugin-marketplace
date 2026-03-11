@@ -1,0 +1,9 @@
+{
+  "name": "ui-design-review",
+  "version": "1.0.0",
+  "description": "ui-design-review skill from mastepanoski/claude-skills",
+  "author": {
+    "name": "mastepanoski"
+  },
+  "repository": "https://github.com/mastepanoski/claude-skills"
+}

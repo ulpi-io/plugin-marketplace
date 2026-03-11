@@ -1,0 +1,9 @@
+{
+  "name": "book-illustrator",
+  "version": "1.0.0",
+  "description": "book-illustrator skill from jamesrochabrun/skills",
+  "author": {
+    "name": "jamesrochabrun"
+  },
+  "repository": "https://github.com/jamesrochabrun/skills"
+}

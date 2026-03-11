@@ -1,0 +1,9 @@
+{
+  "name": "freeunlimited-websearch",
+  "version": "1.0.0",
+  "description": "freeunlimited-websearch skill from lngu/openclaw-skill-freeunlimited-websearch",
+  "author": {
+    "name": "lngu"
+  },
+  "repository": "https://github.com/lngu/openclaw-skill-freeunlimited-websearch"
+}

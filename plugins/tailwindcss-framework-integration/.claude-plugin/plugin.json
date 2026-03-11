@@ -1,0 +1,9 @@
+{
+  "name": "tailwindcss-framework-integration",
+  "version": "1.0.0",
+  "description": "tailwindcss-framework-integration skill from josiahsiegel/claude-plugin-marketplace",
+  "author": {
+    "name": "josiahsiegel"
+  },
+  "repository": "https://github.com/josiahsiegel/claude-plugin-marketplace"
+}

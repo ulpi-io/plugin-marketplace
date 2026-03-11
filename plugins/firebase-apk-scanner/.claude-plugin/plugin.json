@@ -1,0 +1,9 @@
+{
+  "name": "firebase-apk-scanner",
+  "version": "1.0.0",
+  "description": "firebase-apk-scanner skill from trailofbits/skills",
+  "author": {
+    "name": "trailofbits"
+  },
+  "repository": "https://github.com/trailofbits/skills"
+}

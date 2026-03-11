@@ -1,0 +1,9 @@
+{
+  "name": "btca-cli",
+  "version": "1.0.0",
+  "description": "btca-cli skill from davis7dotsh/better-context",
+  "author": {
+    "name": "davis7dotsh"
+  },
+  "repository": "https://github.com/davis7dotsh/better-context"
+}

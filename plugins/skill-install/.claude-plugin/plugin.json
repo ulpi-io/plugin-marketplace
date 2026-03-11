@@ -1,0 +1,9 @@
+{
+  "name": "skill-install",
+  "version": "1.0.0",
+  "description": "skill-install skill from cexll/myclaude",
+  "author": {
+    "name": "cexll"
+  },
+  "repository": "https://github.com/cexll/myclaude"
+}

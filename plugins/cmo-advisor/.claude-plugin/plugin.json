@@ -1,0 +1,9 @@
+{
+  "name": "cmo-advisor",
+  "version": "1.0.0",
+  "description": "cmo-advisor skill from borghei/claude-skills",
+  "author": {
+    "name": "borghei"
+  },
+  "repository": "https://github.com/borghei/claude-skills"
+}

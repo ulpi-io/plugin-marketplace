@@ -1,0 +1,9 @@
+{
+  "name": "invoice-system",
+  "version": "1.0.0",
+  "description": "invoice-system skill from kazukinagata/shinkoku",
+  "author": {
+    "name": "kazukinagata"
+  },
+  "repository": "https://github.com/kazukinagata/shinkoku"
+}

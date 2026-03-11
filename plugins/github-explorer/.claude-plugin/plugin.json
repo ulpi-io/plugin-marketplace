@@ -1,0 +1,9 @@
+{
+  "name": "github-explorer",
+  "version": "1.0.0",
+  "description": "github-explorer skill from blessonism/github-explorer-skill",
+  "author": {
+    "name": "blessonism"
+  },
+  "repository": "https://github.com/blessonism/github-explorer-skill"
+}

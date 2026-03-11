@@ -1,0 +1,9 @@
+{
+  "name": "trigger-config",
+  "version": "1.0.0",
+  "description": "trigger-config skill from triggerdotdev/skills",
+  "author": {
+    "name": "triggerdotdev"
+  },
+  "repository": "https://github.com/triggerdotdev/skills"
+}

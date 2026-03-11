@@ -1,0 +1,9 @@
+{
+  "name": "mcp",
+  "version": "1.0.0",
+  "description": "mcp skill from vercel-labs/json-render",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/json-render"
+}

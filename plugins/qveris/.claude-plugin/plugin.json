@@ -1,0 +1,9 @@
+{
+  "name": "qveris",
+  "version": "1.0.0",
+  "description": "qveris skill from hqman/qveris",
+  "author": {
+    "name": "hqman"
+  },
+  "repository": "https://github.com/hqman/qveris"
+}

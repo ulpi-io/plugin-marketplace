@@ -1,0 +1,9 @@
+{
+  "name": "douyin-video",
+  "version": "1.0.0",
+  "description": "douyin-video skill from yzfly/douyin-mcp-server",
+  "author": {
+    "name": "yzfly"
+  },
+  "repository": "https://github.com/yzfly/douyin-mcp-server"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "backport-pr-assistant",
+  "version": "1.0.0",
+  "description": "backport-pr-assistant skill from cockroachdb/cockroach",
+  "author": {
+    "name": "cockroachdb"
+  },
+  "repository": "https://github.com/cockroachdb/cockroach"
+}

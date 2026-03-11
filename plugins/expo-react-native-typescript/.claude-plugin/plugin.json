@@ -1,0 +1,9 @@
+{
+  "name": "expo-react-native-typescript",
+  "version": "1.0.0",
+  "description": "expo-react-native-typescript skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

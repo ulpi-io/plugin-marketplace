@@ -1,0 +1,9 @@
+{
+  "name": "okx-cex-market",
+  "version": "1.0.0",
+  "description": "okx-cex-market skill from okx/agent-skills",
+  "author": {
+    "name": "okx"
+  },
+  "repository": "https://github.com/okx/agent-skills"
+}

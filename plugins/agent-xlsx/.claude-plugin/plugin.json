@@ -1,0 +1,9 @@
+{
+  "name": "agent-xlsx",
+  "version": "1.0.0",
+  "description": "agent-xlsx skill from apetta/agent-xlsx",
+  "author": {
+    "name": "apetta"
+  },
+  "repository": "https://github.com/apetta/agent-xlsx"
+}

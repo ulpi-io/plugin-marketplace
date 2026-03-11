@@ -1,0 +1,9 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "description": "lesson skill from win4r/memory-lancedb-pro",
+  "author": {
+    "name": "win4r"
+  },
+  "repository": "https://github.com/win4r/memory-lancedb-pro"
+}

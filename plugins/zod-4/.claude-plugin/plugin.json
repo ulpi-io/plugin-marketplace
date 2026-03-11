@@ -1,0 +1,9 @@
+{
+  "name": "zod-4",
+  "version": "1.0.0",
+  "description": "zod-4 skill from prowler-cloud/prowler",
+  "author": {
+    "name": "prowler-cloud"
+  },
+  "repository": "https://github.com/prowler-cloud/prowler"
+}

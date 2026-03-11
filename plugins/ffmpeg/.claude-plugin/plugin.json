@@ -1,0 +1,9 @@
+{
+  "name": "ffmpeg",
+  "version": "1.0.0",
+  "description": "ffmpeg skill from digitalsamba/claude-code-video-toolkit",
+  "author": {
+    "name": "digitalsamba"
+  },
+  "repository": "https://github.com/digitalsamba/claude-code-video-toolkit"
+}

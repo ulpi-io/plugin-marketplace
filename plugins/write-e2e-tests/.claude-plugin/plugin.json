@@ -1,0 +1,9 @@
+{
+  "name": "write-e2e-tests",
+  "version": "1.0.0",
+  "description": "write-e2e-tests skill from tldraw/tldraw",
+  "author": {
+    "name": "tldraw"
+  },
+  "repository": "https://github.com/tldraw/tldraw"
+}

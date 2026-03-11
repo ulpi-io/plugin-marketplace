@@ -1,0 +1,9 @@
+{
+  "name": "morning-briefing",
+  "version": "1.0.0",
+  "description": "morning-briefing skill from krishagel/geoffrey",
+  "author": {
+    "name": "krishagel"
+  },
+  "repository": "https://github.com/krishagel/geoffrey"
+}

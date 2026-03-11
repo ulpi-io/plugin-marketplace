@@ -1,0 +1,9 @@
+{
+  "name": "jwt-security",
+  "version": "1.0.0",
+  "description": "jwt-security skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

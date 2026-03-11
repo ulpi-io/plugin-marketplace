@@ -1,0 +1,9 @@
+{
+  "name": "tailwind-v4",
+  "version": "1.0.0",
+  "description": "tailwind-v4 skill from existential-birds/beagle",
+  "author": {
+    "name": "existential-birds"
+  },
+  "repository": "https://github.com/existential-birds/beagle"
+}

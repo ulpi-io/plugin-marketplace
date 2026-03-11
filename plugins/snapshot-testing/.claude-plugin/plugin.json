@@ -1,0 +1,9 @@
+{
+  "name": "snapshot-testing",
+  "version": "1.0.0",
+  "description": "snapshot-testing skill from aaronontheweb/dotnet-skills",
+  "author": {
+    "name": "aaronontheweb"
+  },
+  "repository": "https://github.com/aaronontheweb/dotnet-skills"
+}

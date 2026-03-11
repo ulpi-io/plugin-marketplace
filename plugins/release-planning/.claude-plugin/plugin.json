@@ -1,0 +1,9 @@
+{
+  "name": "release-planning",
+  "version": "1.0.0",
+  "description": "release-planning skill from aj-geddes/useful-ai-prompts",
+  "author": {
+    "name": "aj-geddes"
+  },
+  "repository": "https://github.com/aj-geddes/useful-ai-prompts"
+}

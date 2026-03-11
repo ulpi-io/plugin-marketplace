@@ -1,0 +1,9 @@
+{
+  "name": "bitrix",
+  "version": "1.0.0",
+  "description": "bitrix skill from vm0-ai/vm0-skills",
+  "author": {
+    "name": "vm0-ai"
+  },
+  "repository": "https://github.com/vm0-ai/vm0-skills"
+}

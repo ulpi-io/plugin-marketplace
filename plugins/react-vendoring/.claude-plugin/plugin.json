@@ -1,0 +1,9 @@
+{
+  "name": "react-vendoring",
+  "version": "1.0.0",
+  "description": "react-vendoring skill from vercel/next.js",
+  "author": {
+    "name": "vercel"
+  },
+  "repository": "https://github.com/vercel/next.js"
+}

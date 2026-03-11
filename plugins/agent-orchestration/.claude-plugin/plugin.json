@@ -1,0 +1,9 @@
+{
+  "name": "agent-orchestration",
+  "version": "1.0.0",
+  "description": "agent-orchestration skill from yonatangross/orchestkit",
+  "author": {
+    "name": "yonatangross"
+  },
+  "repository": "https://github.com/yonatangross/orchestkit"
+}

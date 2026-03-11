@@ -1,0 +1,9 @@
+{
+  "name": "infographic-creator",
+  "version": "1.0.0",
+  "description": "infographic-creator skill from antvis/infographic",
+  "author": {
+    "name": "antvis"
+  },
+  "repository": "https://github.com/antvis/infographic"
+}

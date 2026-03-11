@@ -1,0 +1,9 @@
+{
+  "name": "design-taste-frontend",
+  "version": "1.0.0",
+  "description": "design-taste-frontend skill from bnd-1/taste-skill",
+  "author": {
+    "name": "bnd-1"
+  },
+  "repository": "https://github.com/bnd-1/taste-skill"
+}

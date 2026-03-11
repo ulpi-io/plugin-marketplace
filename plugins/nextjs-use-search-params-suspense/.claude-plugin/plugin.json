@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-use-search-params-suspense",
+  "version": "1.0.0",
+  "description": "nextjs-use-search-params-suspense skill from wsimmonds/claude-nextjs-skills",
+  "author": {
+    "name": "wsimmonds"
+  },
+  "repository": "https://github.com/wsimmonds/claude-nextjs-skills"
+}

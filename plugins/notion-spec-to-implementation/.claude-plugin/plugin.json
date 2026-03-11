@@ -1,0 +1,9 @@
+{
+  "name": "notion-spec-to-implementation",
+  "version": "1.0.0",
+  "description": "notion-spec-to-implementation skill from openai/skills",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/skills"
+}

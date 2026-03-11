@@ -1,0 +1,9 @@
+{
+  "name": "a11y-debugging",
+  "version": "1.0.0",
+  "description": "a11y-debugging skill from chromedevtools/chrome-devtools-mcp",
+  "author": {
+    "name": "chromedevtools"
+  },
+  "repository": "https://github.com/chromedevtools/chrome-devtools-mcp"
+}

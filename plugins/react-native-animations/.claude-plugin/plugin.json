@@ -1,0 +1,9 @@
+{
+  "name": "react-native-animations",
+  "version": "1.0.0",
+  "description": "react-native-animations skill from pluginagentmarketplace/custom-plugin-react-native",
+  "author": {
+    "name": "pluginagentmarketplace"
+  },
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-react-native"
+}

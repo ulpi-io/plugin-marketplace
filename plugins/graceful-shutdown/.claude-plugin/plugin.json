@@ -1,0 +1,9 @@
+{
+  "name": "graceful-shutdown",
+  "version": "1.0.0",
+  "description": "graceful-shutdown skill from aj-geddes/useful-ai-prompts",
+  "author": {
+    "name": "aj-geddes"
+  },
+  "repository": "https://github.com/aj-geddes/useful-ai-prompts"
+}

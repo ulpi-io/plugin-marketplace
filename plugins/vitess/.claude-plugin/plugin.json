@@ -1,0 +1,9 @@
+{
+  "name": "vitess",
+  "version": "1.0.0",
+  "description": "vitess skill from planetscale/database-skills",
+  "author": {
+    "name": "planetscale"
+  },
+  "repository": "https://github.com/planetscale/database-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sound-engineer",
+  "version": "1.0.0",
+  "description": "sound-engineer skill from erichowens/some_claude_skills",
+  "author": {
+    "name": "erichowens"
+  },
+  "repository": "https://github.com/erichowens/some_claude_skills"
+}

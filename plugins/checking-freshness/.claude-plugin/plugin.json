@@ -1,0 +1,9 @@
+{
+  "name": "checking-freshness",
+  "version": "1.0.0",
+  "description": "checking-freshness skill from astronomer/agents",
+  "author": {
+    "name": "astronomer"
+  },
+  "repository": "https://github.com/astronomer/agents"
+}

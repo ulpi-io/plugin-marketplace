@@ -1,0 +1,9 @@
+{
+  "name": "x-twitter-scraper",
+  "version": "1.0.0",
+  "description": "x-twitter-scraper skill from xquik-dev/x-twitter-scraper",
+  "author": {
+    "name": "xquik-dev"
+  },
+  "repository": "https://github.com/xquik-dev/x-twitter-scraper"
+}

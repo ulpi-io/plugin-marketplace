@@ -1,0 +1,9 @@
+{
+  "name": "voice-interface-builder",
+  "version": "1.0.0",
+  "description": "voice-interface-builder skill from daffy0208/ai-dev-standards",
+  "author": {
+    "name": "daffy0208"
+  },
+  "repository": "https://github.com/daffy0208/ai-dev-standards"
+}

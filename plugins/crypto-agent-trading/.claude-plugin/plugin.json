@@ -1,0 +1,9 @@
+{
+  "name": "crypto-agent-trading",
+  "version": "1.0.0",
+  "description": "crypto-agent-trading skill from crypto-com/crypto-agent-trading",
+  "author": {
+    "name": "crypto-com"
+  },
+  "repository": "https://github.com/crypto-com/crypto-agent-trading"
+}

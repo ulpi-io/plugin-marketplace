@@ -1,0 +1,9 @@
+{
+  "name": "dokie-ai-ppt",
+  "version": "1.0.0",
+  "description": "dokie-ai-ppt skill from myzy-ai/dokie-ai-ppt",
+  "author": {
+    "name": "myzy-ai"
+  },
+  "repository": "https://github.com/myzy-ai/dokie-ai-ppt"
+}

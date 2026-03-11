@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-typescript-tailwindcss-supabase",
+  "version": "1.0.0",
+  "description": "nextjs-typescript-tailwindcss-supabase skill from mindrally/skills",
+  "author": {
+    "name": "mindrally"
+  },
+  "repository": "https://github.com/mindrally/skills"
+}

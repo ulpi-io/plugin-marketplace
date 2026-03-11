@@ -1,0 +1,9 @@
+{
+  "name": "pr-review",
+  "version": "1.0.0",
+  "description": "pr-review skill from pytorch/pytorch",
+  "author": {
+    "name": "pytorch"
+  },
+  "repository": "https://github.com/pytorch/pytorch"
+}

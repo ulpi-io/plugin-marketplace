@@ -1,0 +1,9 @@
+{
+  "name": "rust-skills",
+  "version": "1.0.0",
+  "description": "rust-skills skill from leonardomso/rust-skills",
+  "author": {
+    "name": "leonardomso"
+  },
+  "repository": "https://github.com/leonardomso/rust-skills"
+}

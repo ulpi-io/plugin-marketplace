@@ -1,0 +1,9 @@
+{
+  "name": "xiaohongshu-mcp",
+  "version": "1.0.0",
+  "description": "xiaohongshu-mcp skill from tclawde/xiaohongshu-mcp-skill",
+  "author": {
+    "name": "tclawde"
+  },
+  "repository": "https://github.com/tclawde/xiaohongshu-mcp-skill"
+}

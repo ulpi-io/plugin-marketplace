@@ -1,0 +1,9 @@
+{
+  "name": "domain-embedded",
+  "version": "1.0.0",
+  "description": "domain-embedded skill from zhanghandong/rust-skills",
+  "author": {
+    "name": "zhanghandong"
+  },
+  "repository": "https://github.com/zhanghandong/rust-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-ai-search-milvus",
+  "version": "1.0.0",
+  "description": "alicloud-ai-search-milvus skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

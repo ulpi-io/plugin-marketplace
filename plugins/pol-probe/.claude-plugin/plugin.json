@@ -1,0 +1,9 @@
+{
+  "name": "pol-probe",
+  "version": "1.0.0",
+  "description": "pol-probe skill from deanpeters/product-manager-skills",
+  "author": {
+    "name": "deanpeters"
+  },
+  "repository": "https://github.com/deanpeters/product-manager-skills"
+}

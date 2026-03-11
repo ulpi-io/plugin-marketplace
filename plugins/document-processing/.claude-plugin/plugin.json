@@ -1,0 +1,9 @@
+{
+  "name": "document-processing",
+  "version": "1.0.0",
+  "description": "document-processing skill from dirnbauer/webconsulting-skills",
+  "author": {
+    "name": "dirnbauer"
+  },
+  "repository": "https://github.com/dirnbauer/webconsulting-skills"
+}

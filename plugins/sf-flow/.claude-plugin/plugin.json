@@ -1,0 +1,9 @@
+{
+  "name": "sf-flow",
+  "version": "1.0.0",
+  "description": "sf-flow skill from jaganpro/sf-skills",
+  "author": {
+    "name": "jaganpro"
+  },
+  "repository": "https://github.com/jaganpro/sf-skills"
+}

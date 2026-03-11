@@ -1,0 +1,9 @@
+{
+  "name": "secondme-prd",
+  "version": "1.0.0",
+  "description": "secondme-prd skill from mindverse/second-me-skills",
+  "author": {
+    "name": "mindverse"
+  },
+  "repository": "https://github.com/mindverse/second-me-skills"
+}

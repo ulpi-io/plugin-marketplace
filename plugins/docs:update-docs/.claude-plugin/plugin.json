@@ -1,0 +1,9 @@
+{
+  "name": "docs:update-docs",
+  "version": "1.0.0",
+  "description": "docs:update-docs skill from neolabhq/context-engineering-kit",
+  "author": {
+    "name": "neolabhq"
+  },
+  "repository": "https://github.com/neolabhq/context-engineering-kit"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "monitor-ci",
+  "version": "1.0.0",
+  "description": "monitor-ci skill from nrwl/nx-ai-agents-config",
+  "author": {
+    "name": "nrwl"
+  },
+  "repository": "https://github.com/nrwl/nx-ai-agents-config"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "analyze",
+  "version": "1.0.0",
+  "description": "analyze skill from allenai2014/ai-investment-advisor",
+  "author": {
+    "name": "allenai2014"
+  },
+  "repository": "https://github.com/allenai2014/ai-investment-advisor"
+}

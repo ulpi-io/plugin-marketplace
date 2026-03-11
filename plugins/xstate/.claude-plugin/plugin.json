@@ -1,0 +1,9 @@
+{
+  "name": "xstate",
+  "version": "1.0.0",
+  "description": "xstate skill from seed-hypermedia/seed",
+  "author": {
+    "name": "seed-hypermedia"
+  },
+  "repository": "https://github.com/seed-hypermedia/seed"
+}

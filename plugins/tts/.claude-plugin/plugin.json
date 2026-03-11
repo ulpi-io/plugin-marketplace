@@ -1,0 +1,9 @@
+{
+  "name": "tts",
+  "version": "1.0.0",
+  "description": "tts skill from noizai/skills",
+  "author": {
+    "name": "noizai"
+  },
+  "repository": "https://github.com/noizai/skills"
+}

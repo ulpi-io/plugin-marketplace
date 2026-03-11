@@ -1,0 +1,9 @@
+{
+  "name": "ui-audit",
+  "version": "1.0.0",
+  "description": "ui-audit skill from tommygeoco/ui-audit",
+  "author": {
+    "name": "tommygeoco"
+  },
+  "repository": "https://github.com/tommygeoco/ui-audit"
+}

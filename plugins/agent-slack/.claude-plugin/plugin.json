@@ -1,0 +1,9 @@
+{
+  "name": "agent-slack",
+  "version": "1.0.0",
+  "description": "agent-slack skill from stablyai/agent-slack",
+  "author": {
+    "name": "stablyai"
+  },
+  "repository": "https://github.com/stablyai/agent-slack"
+}

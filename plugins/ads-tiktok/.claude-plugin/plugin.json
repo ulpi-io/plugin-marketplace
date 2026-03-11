@@ -1,0 +1,9 @@
+{
+  "name": "ads-tiktok",
+  "version": "1.0.0",
+  "description": "ads-tiktok skill from agricidaniel/claude-ads",
+  "author": {
+    "name": "agricidaniel"
+  },
+  "repository": "https://github.com/agricidaniel/claude-ads"
+}

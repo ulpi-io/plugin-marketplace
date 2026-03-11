@@ -1,0 +1,9 @@
+{
+  "name": "firebase-auth-basics",
+  "version": "1.0.0",
+  "description": "firebase-auth-basics skill from firebase/skills",
+  "author": {
+    "name": "firebase"
+  },
+  "repository": "https://github.com/firebase/skills"
+}

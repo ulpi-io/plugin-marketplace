@@ -1,0 +1,9 @@
+{
+  "name": "e2e-tests-studio",
+  "version": "1.0.0",
+  "description": "e2e-tests-studio skill from mastra-ai/mastra",
+  "author": {
+    "name": "mastra-ai"
+  },
+  "repository": "https://github.com/mastra-ai/mastra"
+}

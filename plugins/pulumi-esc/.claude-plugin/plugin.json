@@ -1,0 +1,9 @@
+{
+  "name": "pulumi-esc",
+  "version": "1.0.0",
+  "description": "pulumi-esc skill from pulumi/agent-skills",
+  "author": {
+    "name": "pulumi"
+  },
+  "repository": "https://github.com/pulumi/agent-skills"
+}

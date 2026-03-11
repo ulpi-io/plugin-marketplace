@@ -1,0 +1,9 @@
+{
+  "name": "codereview-roasted",
+  "version": "1.0.0",
+  "description": "codereview-roasted skill from openhands/skills",
+  "author": {
+    "name": "openhands"
+  },
+  "repository": "https://github.com/openhands/skills"
+}

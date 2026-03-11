@@ -1,0 +1,9 @@
+{
+  "name": "js-google",
+  "version": "1.0.0",
+  "description": "js-google skill from pproenca/dot-skills",
+  "author": {
+    "name": "pproenca"
+  },
+  "repository": "https://github.com/pproenca/dot-skills"
+}

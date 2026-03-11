@@ -1,0 +1,9 @@
+{
+  "name": "annotating-task-lineage",
+  "version": "1.0.0",
+  "description": "annotating-task-lineage skill from astronomer/agents",
+  "author": {
+    "name": "astronomer"
+  },
+  "repository": "https://github.com/astronomer/agents"
+}

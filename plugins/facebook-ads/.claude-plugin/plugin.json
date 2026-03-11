@@ -1,0 +1,9 @@
+{
+  "name": "facebook-ads",
+  "version": "1.0.0",
+  "description": "facebook-ads skill from openclaudia/openclaudia-skills",
+  "author": {
+    "name": "openclaudia"
+  },
+  "repository": "https://github.com/openclaudia/openclaudia-skills"
+}

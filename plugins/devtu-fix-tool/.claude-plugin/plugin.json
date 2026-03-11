@@ -1,0 +1,9 @@
+{
+  "name": "devtu-fix-tool",
+  "version": "1.0.0",
+  "description": "devtu-fix-tool skill from mims-harvard/tooluniverse",
+  "author": {
+    "name": "mims-harvard"
+  },
+  "repository": "https://github.com/mims-harvard/tooluniverse"
+}

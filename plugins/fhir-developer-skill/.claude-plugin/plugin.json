@@ -1,0 +1,9 @@
+{
+  "name": "fhir-developer-skill",
+  "version": "1.0.0",
+  "description": "fhir-developer-skill skill from anthropics/healthcare",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/healthcare"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "email-imap-fetch",
+  "version": "1.0.0",
+  "description": "email-imap-fetch skill from tiangong-ai/skills",
+  "author": {
+    "name": "tiangong-ai"
+  },
+  "repository": "https://github.com/tiangong-ai/skills"
+}

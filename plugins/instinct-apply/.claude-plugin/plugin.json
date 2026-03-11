@@ -1,0 +1,9 @@
+{
+  "name": "instinct-apply",
+  "version": "1.0.0",
+  "description": "instinct-apply skill from humanplane/homunculus",
+  "author": {
+    "name": "humanplane"
+  },
+  "repository": "https://github.com/humanplane/homunculus"
+}

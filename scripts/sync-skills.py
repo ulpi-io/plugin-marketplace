@@ -199,6 +199,11 @@ def create_plugin(skill_name, skill_source_dir, repo_name):
             # Skip files/dirs that fail to copy (broken symlinks, permissions)
             print(f"    WARN: skipped {item.name}: {e}")
 
+    # Remove any embedded .git directories
+    for git_dir in plugin_dir.rglob(".git"):
+        if git_dir.is_dir():
+            shutil.rmtree(git_dir)
+
     # Create plugin.json
     plugin_json = {
         "name": skill_name,
@@ -266,6 +271,8 @@ def main():
                         help="Re-sync all skills (default: only new ones)")
     parser.add_argument("--limit", type=int,
                         help="Only process first N skills from the list")
+    parser.add_argument("--from", type=int, dest="from_rank",
+                        help="Start from this rank number (skip earlier skills)")
     parser.add_argument("--dry-run", action="store_true",
                         help="Show what would be done without making changes")
     args = parser.parse_args()
@@ -275,6 +282,8 @@ def main():
         sys.exit(1)
 
     skills = parse_tracked_skills(limit=args.limit)
+    if args.from_rank:
+        skills = [s for s in skills if s["rank"] >= args.from_rank]
     existing = get_existing_plugins()
     print(f"Found {len(skills)} skills in tracked list, {len(existing)} already synced")
 
@@ -340,10 +349,14 @@ def main():
             synced += 1
             print(f"  [{idx}/{total_tracked}] OK {s['name']} <- {skill_dir.relative_to(repo_path)}")
 
+        # Clean up cloned repo immediately to save disk space
+        if repo_path and repo_path.exists():
+            shutil.rmtree(repo_path, ignore_errors=True)
+
     # Update marketplace.json (always uses full skills list, not just to_sync)
     total_plugins = update_marketplace(skills)
 
-    # Cleanup
+    # Cleanup temp directory
     shutil.rmtree(clone_dir, ignore_errors=True)
 
     print(f"\nDone: {synced} synced, {len(failed)} failed, {total_plugins} total plugins in marketplace")

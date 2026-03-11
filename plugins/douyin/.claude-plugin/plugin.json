@@ -1,0 +1,9 @@
+{
+  "name": "douyin",
+  "version": "1.0.0",
+  "description": "douyin skill from xiaoyiv/douyin-skill",
+  "author": {
+    "name": "xiaoyiv"
+  },
+  "repository": "https://github.com/xiaoyiv/douyin-skill"
+}

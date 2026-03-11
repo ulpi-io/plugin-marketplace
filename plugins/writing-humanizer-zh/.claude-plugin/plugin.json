@@ -1,0 +1,9 @@
+{
+  "name": "writing-humanizer-zh",
+  "version": "1.0.0",
+  "description": "writing-humanizer-zh skill from hairyf/skills",
+  "author": {
+    "name": "hairyf"
+  },
+  "repository": "https://github.com/hairyf/skills"
+}

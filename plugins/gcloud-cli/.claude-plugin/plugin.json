@@ -1,0 +1,9 @@
+{
+  "name": "gcloud-cli",
+  "version": "1.0.0",
+  "description": "gcloud-cli skill from oimiragieo/agent-studio",
+  "author": {
+    "name": "oimiragieo"
+  },
+  "repository": "https://github.com/oimiragieo/agent-studio"
+}

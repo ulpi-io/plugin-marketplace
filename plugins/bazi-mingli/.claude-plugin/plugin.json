@@ -1,0 +1,9 @@
+{
+  "name": "bazi-mingli",
+  "version": "1.0.0",
+  "description": "bazi-mingli skill from wolke/bazi-mingli",
+  "author": {
+    "name": "wolke"
+  },
+  "repository": "https://github.com/wolke/bazi-mingli"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "gadget-best-practices",
+  "version": "1.0.0",
+  "description": "gadget-best-practices skill from gadget-inc/skills",
+  "author": {
+    "name": "gadget-inc"
+  },
+  "repository": "https://github.com/gadget-inc/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "universal-pptx-generator",
+  "version": "1.0.0",
+  "description": "universal-pptx-generator skill from ajaxhe/universal-pptx-generator-skill",
+  "author": {
+    "name": "ajaxhe"
+  },
+  "repository": "https://github.com/ajaxhe/universal-pptx-generator-skill"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "timescaledb",
+  "version": "1.0.0",
+  "description": "timescaledb skill from 2025emma/vibe-coding-cn",
+  "author": {
+    "name": "2025emma"
+  },
+  "repository": "https://github.com/2025emma/vibe-coding-cn"
+}

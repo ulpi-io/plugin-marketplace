@@ -1,0 +1,68 @@
+# 每日新闻摘要生成器配置文件模板
+#
+# 复制此文件到 ~/.daily-news-config.yaml 并根据需要修改
+
+# 新闻源配置
+news_sources:
+  - name: "新浪新闻"
+    url: "https://news.sina.com.cn"
+    enabled: true
+    language: "zh"
+    category: "综合"
+
+  - name: "网易新闻"
+    url: "https://news.163.com"
+    enabled: true
+    language: "zh"
+    category: "综合"
+
+  - name: "腾讯新闻"
+    url: "https://news.qq.com"
+    enabled: false
+    language: "zh"
+    category: "综合"
+
+  - name: "BBC News"
+    url: "https://www.bbc.com/news"
+    enabled: true
+    language: "en"
+    category: "International"
+
+  - name: "Reuters"
+    url: "https://www.reuters.com"
+    enabled: false
+    language: "en"
+    category: "World"
+
+# 输出配置
+output:
+  # 输出目录
+  directory: "~/Daily-News-Summary"
+
+  # 输出格式: markdown, txt
+  format: "markdown"
+
+  # 文件名模式，{date} 会被替换为实际日期
+  filename_pattern: "news-summary-{date}.md"
+
+# 摘要配置
+summary:
+  # 最大文章数量
+  max_articles: 20
+
+  # 每篇文章的摘要句子数
+  sentences_per_article: 5
+
+  # 摘要风格: brief, detailed
+  style: "detailed"
+
+# 调度配置
+schedule:
+  # 是否启用定时任务
+  enabled: false
+
+  # 每天执行时间 (HH:MM格式)
+  time: "08:00"
+
+  # 时区
+  timezone: "Asia/Shanghai"

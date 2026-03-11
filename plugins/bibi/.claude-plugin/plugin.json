@@ -1,0 +1,9 @@
+{
+  "name": "bibi",
+  "version": "1.0.0",
+  "description": "bibi skill from jimmylv/bibigpt-skill",
+  "author": {
+    "name": "jimmylv"
+  },
+  "repository": "https://github.com/jimmylv/bibigpt-skill"
+}

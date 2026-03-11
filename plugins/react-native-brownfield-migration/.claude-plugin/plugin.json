@@ -1,0 +1,9 @@
+{
+  "name": "react-native-brownfield-migration",
+  "version": "1.0.0",
+  "description": "react-native-brownfield-migration skill from callstackincubator/agent-skills",
+  "author": {
+    "name": "callstackincubator"
+  },
+  "repository": "https://github.com/callstackincubator/agent-skills"
+}

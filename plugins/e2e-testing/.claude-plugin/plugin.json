@@ -1,0 +1,9 @@
+{
+  "name": "e2e-testing",
+  "version": "1.0.0",
+  "description": "e2e-testing skill from hieutrtr/ai1-skills",
+  "author": {
+    "name": "hieutrtr"
+  },
+  "repository": "https://github.com/hieutrtr/ai1-skills"
+}

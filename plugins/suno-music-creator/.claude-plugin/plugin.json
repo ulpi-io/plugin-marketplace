@@ -1,0 +1,9 @@
+{
+  "name": "suno-music-creator",
+  "version": "1.0.0",
+  "description": "suno-music-creator skill from schwepps/skills",
+  "author": {
+    "name": "schwepps"
+  },
+  "repository": "https://github.com/schwepps/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sentry-pr-code-review",
+  "version": "1.0.0",
+  "description": "sentry-pr-code-review skill from getsentry/sentry-for-ai",
+  "author": {
+    "name": "getsentry"
+  },
+  "repository": "https://github.com/getsentry/sentry-for-ai"
+}

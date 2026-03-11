@@ -1,0 +1,9 @@
+{
+  "name": "grimoire-hyperliquid",
+  "version": "1.0.0",
+  "description": "grimoire-hyperliquid skill from franalgaba/grimoire",
+  "author": {
+    "name": "franalgaba"
+  },
+  "repository": "https://github.com/franalgaba/grimoire"
+}

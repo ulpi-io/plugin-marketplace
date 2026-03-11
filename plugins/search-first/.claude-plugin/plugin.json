@@ -1,0 +1,9 @@
+{
+  "name": "search-first",
+  "version": "1.0.0",
+  "description": "search-first skill from affaan-m/everything-claude-code",
+  "author": {
+    "name": "affaan-m"
+  },
+  "repository": "https://github.com/affaan-m/everything-claude-code"
+}

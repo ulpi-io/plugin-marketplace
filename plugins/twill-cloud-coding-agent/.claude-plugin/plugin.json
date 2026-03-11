@@ -1,0 +1,9 @@
+{
+  "name": "twill-cloud-coding-agent",
+  "version": "1.0.0",
+  "description": "twill-cloud-coding-agent skill from twillai/skills",
+  "author": {
+    "name": "twillai"
+  },
+  "repository": "https://github.com/twillai/skills"
+}

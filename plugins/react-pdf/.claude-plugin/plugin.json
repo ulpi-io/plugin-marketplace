@@ -1,0 +1,9 @@
+{
+  "name": "react-pdf",
+  "version": "1.0.0",
+  "description": "react-pdf skill from molefrog/skills",
+  "author": {
+    "name": "molefrog"
+  },
+  "repository": "https://github.com/molefrog/skills"
+}

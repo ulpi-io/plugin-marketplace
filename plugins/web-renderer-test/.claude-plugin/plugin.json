@@ -1,0 +1,9 @@
+{
+  "name": "web-renderer-test",
+  "version": "1.0.0",
+  "description": "web-renderer-test skill from remotion-dev/remotion",
+  "author": {
+    "name": "remotion-dev"
+  },
+  "repository": "https://github.com/remotion-dev/remotion"
+}

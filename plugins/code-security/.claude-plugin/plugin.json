@@ -1,0 +1,9 @@
+{
+  "name": "code-security",
+  "version": "1.0.0",
+  "description": "code-security skill from semgrep/skills",
+  "author": {
+    "name": "semgrep"
+  },
+  "repository": "https://github.com/semgrep/skills"
+}

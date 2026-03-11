@@ -1,0 +1,9 @@
+{
+  "name": "frontend-enhancer",
+  "version": "1.0.0",
+  "description": "frontend-enhancer skill from ailabs-393/ai-labs-claude-skills",
+  "author": {
+    "name": "ailabs-393"
+  },
+  "repository": "https://github.com/ailabs-393/ai-labs-claude-skills"
+}

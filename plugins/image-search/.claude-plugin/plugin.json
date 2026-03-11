@@ -1,0 +1,9 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "image-search skill from z0gsh1u/oh-my-writing-skill",
+  "author": {
+    "name": "z0gsh1u"
+  },
+  "repository": "https://github.com/z0gsh1u/oh-my-writing-skill"
+}

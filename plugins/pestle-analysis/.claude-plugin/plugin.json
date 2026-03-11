@@ -1,0 +1,9 @@
+{
+  "name": "pestle-analysis",
+  "version": "1.0.0",
+  "description": "pestle-analysis skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "grepai-ignore-patterns",
+  "version": "1.0.0",
+  "description": "grepai-ignore-patterns skill from yoanbernabeu/grepai-skills",
+  "author": {
+    "name": "yoanbernabeu"
+  },
+  "repository": "https://github.com/yoanbernabeu/grepai-skills"
+}

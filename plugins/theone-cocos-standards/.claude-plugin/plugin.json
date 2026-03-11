@@ -1,0 +1,9 @@
+{
+  "name": "theone-cocos-standards",
+  "version": "1.0.0",
+  "description": "theone-cocos-standards skill from the1studio/theone-training-skills",
+  "author": {
+    "name": "the1studio"
+  },
+  "repository": "https://github.com/the1studio/theone-training-skills"
+}

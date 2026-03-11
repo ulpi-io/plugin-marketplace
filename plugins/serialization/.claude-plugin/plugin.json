@@ -1,0 +1,9 @@
+{
+  "name": "serialization",
+  "version": "1.0.0",
+  "description": "serialization skill from aaronontheweb/dotnet-skills",
+  "author": {
+    "name": "aaronontheweb"
+  },
+  "repository": "https://github.com/aaronontheweb/dotnet-skills"
+}

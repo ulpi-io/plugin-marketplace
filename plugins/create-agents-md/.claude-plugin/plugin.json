@@ -1,0 +1,9 @@
+{
+  "name": "create-agents-md",
+  "version": "1.0.0",
+  "description": "create-agents-md skill from siviter-xyz/dot-agent",
+  "author": {
+    "name": "siviter-xyz"
+  },
+  "repository": "https://github.com/siviter-xyz/dot-agent"
+}

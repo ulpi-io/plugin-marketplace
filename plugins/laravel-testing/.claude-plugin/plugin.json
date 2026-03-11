@@ -1,0 +1,9 @@
+{
+  "name": "laravel-testing",
+  "version": "1.0.0",
+  "description": "laravel-testing skill from leeovery/claude-laravel",
+  "author": {
+    "name": "leeovery"
+  },
+  "repository": "https://github.com/leeovery/claude-laravel"
+}

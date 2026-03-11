@@ -1,0 +1,9 @@
+{
+  "name": "mviz",
+  "version": "1.0.0",
+  "description": "mviz skill from matsonj/mviz",
+  "author": {
+    "name": "matsonj"
+  },
+  "repository": "https://github.com/matsonj/mviz"
+}

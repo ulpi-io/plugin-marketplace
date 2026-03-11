@@ -1,0 +1,9 @@
+{
+  "name": "akka-net-best-practices",
+  "version": "1.0.0",
+  "description": "akka-net-best-practices skill from aaronontheweb/dotnet-skills",
+  "author": {
+    "name": "aaronontheweb"
+  },
+  "repository": "https://github.com/aaronontheweb/dotnet-skills"
+}

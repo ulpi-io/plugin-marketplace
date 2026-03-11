@@ -1,0 +1,9 @@
+{
+  "name": "modern-css",
+  "version": "1.0.0",
+  "description": "modern-css skill from paulirish/dotfiles",
+  "author": {
+    "name": "paulirish"
+  },
+  "repository": "https://github.com/paulirish/dotfiles"
+}

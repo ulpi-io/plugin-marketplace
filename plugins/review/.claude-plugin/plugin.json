@@ -1,0 +1,9 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "review skill from buiducnhat/agent-skills",
+  "author": {
+    "name": "buiducnhat"
+  },
+  "repository": "https://github.com/buiducnhat/agent-skills"
+}

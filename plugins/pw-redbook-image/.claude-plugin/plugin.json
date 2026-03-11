@@ -1,0 +1,9 @@
+{
+  "name": "pw-redbook-image",
+  "version": "1.0.0",
+  "description": "pw-redbook-image skill from plugins-world/pw-skills",
+  "author": {
+    "name": "plugins-world"
+  },
+  "repository": "https://github.com/plugins-world/pw-skills"
+}

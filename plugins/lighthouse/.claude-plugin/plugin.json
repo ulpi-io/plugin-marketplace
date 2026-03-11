@@ -1,0 +1,9 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "description": "lighthouse skill from onnokh/lighthouse",
+  "author": {
+    "name": "onnokh"
+  },
+  "repository": "https://github.com/onnokh/lighthouse"
+}

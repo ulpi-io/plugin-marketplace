@@ -1,0 +1,9 @@
+{
+  "name": "website-copy-specialist",
+  "version": "1.0.0",
+  "description": "website-copy-specialist skill from ncklrs/startup-os-skills",
+  "author": {
+    "name": "ncklrs"
+  },
+  "repository": "https://github.com/ncklrs/startup-os-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "claimable-postgres",
+  "version": "1.0.0",
+  "description": "claimable-postgres skill from neondatabase/agent-skills",
+  "author": {
+    "name": "neondatabase"
+  },
+  "repository": "https://github.com/neondatabase/agent-skills"
+}

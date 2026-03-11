@@ -1,0 +1,9 @@
+{
+  "name": "wechat-article-fetcher",
+  "version": "1.0.0",
+  "description": "wechat-article-fetcher skill from ppx123-web/claude-config",
+  "author": {
+    "name": "ppx123-web"
+  },
+  "repository": "https://github.com/ppx123-web/claude-config"
+}

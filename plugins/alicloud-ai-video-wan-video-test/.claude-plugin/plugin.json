@@ -1,0 +1,9 @@
+{
+  "name": "alicloud-ai-video-wan-video-test",
+  "version": "1.0.0",
+  "description": "alicloud-ai-video-wan-video-test skill from cinience/alicloud-skills",
+  "author": {
+    "name": "cinience"
+  },
+  "repository": "https://github.com/cinience/alicloud-skills"
+}

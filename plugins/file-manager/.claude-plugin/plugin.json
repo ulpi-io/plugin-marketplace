@@ -1,0 +1,9 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "file-manager skill from openakita/openakita",
+  "author": {
+    "name": "openakita"
+  },
+  "repository": "https://github.com/openakita/openakita"
+}

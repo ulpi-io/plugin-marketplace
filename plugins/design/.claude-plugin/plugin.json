@@ -1,0 +1,9 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "design skill from rshankras/claude-code-apple-skills",
+  "author": {
+    "name": "rshankras"
+  },
+  "repository": "https://github.com/rshankras/claude-code-apple-skills"
+}

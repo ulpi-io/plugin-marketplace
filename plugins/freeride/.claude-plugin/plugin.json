@@ -1,0 +1,9 @@
+{
+  "name": "freeride",
+  "version": "1.0.0",
+  "description": "freeride skill from shaivpidadi/freeride",
+  "author": {
+    "name": "shaivpidadi"
+  },
+  "repository": "https://github.com/shaivpidadi/freeride"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "openspec-context-loading",
+  "version": "1.0.0",
+  "description": "openspec-context-loading skill from forztf/open-skilled-sdd",
+  "author": {
+    "name": "forztf"
+  },
+  "repository": "https://github.com/forztf/open-skilled-sdd"
+}

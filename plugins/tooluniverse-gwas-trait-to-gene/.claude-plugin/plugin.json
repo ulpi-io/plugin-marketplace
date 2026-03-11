@@ -1,0 +1,9 @@
+{
+  "name": "tooluniverse-gwas-trait-to-gene",
+  "version": "1.0.0",
+  "description": "tooluniverse-gwas-trait-to-gene skill from mims-harvard/tooluniverse",
+  "author": {
+    "name": "mims-harvard"
+  },
+  "repository": "https://github.com/mims-harvard/tooluniverse"
+}

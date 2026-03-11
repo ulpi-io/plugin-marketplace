@@ -1,0 +1,9 @@
+{
+  "name": "search-skill",
+  "version": "1.0.0",
+  "description": "search-skill skill from gbsoss/skill-from-masters",
+  "author": {
+    "name": "gbsoss"
+  },
+  "repository": "https://github.com/gbsoss/skill-from-masters"
+}

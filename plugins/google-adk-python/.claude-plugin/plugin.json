@@ -1,0 +1,9 @@
+{
+  "name": "google-adk-python",
+  "version": "1.0.0",
+  "description": "google-adk-python skill from cnemri/google-genai-skills",
+  "author": {
+    "name": "cnemri"
+  },
+  "repository": "https://github.com/cnemri/google-genai-skills"
+}

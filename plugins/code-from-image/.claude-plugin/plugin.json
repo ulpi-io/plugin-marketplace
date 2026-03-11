@@ -1,0 +1,9 @@
+{
+  "name": "code-from-image",
+  "version": "1.0.0",
+  "description": "code-from-image skill from letta-ai/skills",
+  "author": {
+    "name": "letta-ai"
+  },
+  "repository": "https://github.com/letta-ai/skills"
+}

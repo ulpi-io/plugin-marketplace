@@ -1,0 +1,9 @@
+{
+  "name": "trading212-api",
+  "version": "1.0.0",
+  "description": "trading212-api skill from trading212-labs/agent-skills",
+  "author": {
+    "name": "trading212-labs"
+  },
+  "repository": "https://github.com/trading212-labs/agent-skills"
+}

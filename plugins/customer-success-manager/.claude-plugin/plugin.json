@@ -1,0 +1,9 @@
+{
+  "name": "customer-success-manager",
+  "version": "1.0.0",
+  "description": "customer-success-manager skill from alirezarezvani/claude-skills",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "repository": "https://github.com/alirezarezvani/claude-skills"
+}

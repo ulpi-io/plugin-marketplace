@@ -1,0 +1,9 @@
+{
+  "name": "angular-best-practices-ngrx",
+  "version": "1.0.0",
+  "description": "angular-best-practices-ngrx skill from alfredoperez/angular-best-practices",
+  "author": {
+    "name": "alfredoperez"
+  },
+  "repository": "https://github.com/alfredoperez/angular-best-practices"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "agent-native-architecture",
+  "version": "1.0.0",
+  "description": "agent-native-architecture skill from everyinc/compound-engineering-plugin",
+  "author": {
+    "name": "everyinc"
+  },
+  "repository": "https://github.com/everyinc/compound-engineering-plugin"
+}

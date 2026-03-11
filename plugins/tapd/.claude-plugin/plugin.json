@@ -1,0 +1,9 @@
+{
+  "name": "tapd",
+  "version": "1.0.0",
+  "description": "tapd skill from abcfed/claude-marketplace",
+  "author": {
+    "name": "abcfed"
+  },
+  "repository": "https://github.com/abcfed/claude-marketplace"
+}

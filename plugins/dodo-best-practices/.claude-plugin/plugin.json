@@ -1,0 +1,9 @@
+{
+  "name": "dodo-best-practices",
+  "version": "1.0.0",
+  "description": "dodo-best-practices skill from dodopayments/skills",
+  "author": {
+    "name": "dodopayments"
+  },
+  "repository": "https://github.com/dodopayments/skills"
+}

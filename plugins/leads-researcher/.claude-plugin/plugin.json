@@ -1,0 +1,9 @@
+{
+  "name": "leads-researcher",
+  "version": "1.0.0",
+  "description": "leads-researcher skill from shipshitdev/library",
+  "author": {
+    "name": "shipshitdev"
+  },
+  "repository": "https://github.com/shipshitdev/library"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "omarchy",
+  "version": "1.0.0",
+  "description": "omarchy skill from basecamp/omarchy",
+  "author": {
+    "name": "basecamp"
+  },
+  "repository": "https://github.com/basecamp/omarchy"
+}

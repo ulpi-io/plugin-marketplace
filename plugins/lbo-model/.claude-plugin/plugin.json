@@ -1,0 +1,9 @@
+{
+  "name": "lbo-model",
+  "version": "1.0.0",
+  "description": "lbo-model skill from anthropics/financial-services-plugins",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/financial-services-plugins"
+}

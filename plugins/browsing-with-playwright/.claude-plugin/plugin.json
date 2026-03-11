@@ -1,0 +1,9 @@
+{
+  "name": "browsing-with-playwright",
+  "version": "1.0.0",
+  "description": "browsing-with-playwright skill from bilalmk/todo_correct",
+  "author": {
+    "name": "bilalmk"
+  },
+  "repository": "https://github.com/bilalmk/todo_correct"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "wolf-strategy",
+  "version": "1.0.0",
+  "description": "wolf-strategy skill from senpi-ai/senpi-skills",
+  "author": {
+    "name": "senpi-ai"
+  },
+  "repository": "https://github.com/senpi-ai/senpi-skills"
+}

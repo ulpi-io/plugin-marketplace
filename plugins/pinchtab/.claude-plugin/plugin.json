@@ -1,0 +1,9 @@
+{
+  "name": "pinchtab",
+  "version": "1.0.0",
+  "description": "pinchtab skill from pinchtab/pinchtab",
+  "author": {
+    "name": "pinchtab"
+  },
+  "repository": "https://github.com/pinchtab/pinchtab"
+}

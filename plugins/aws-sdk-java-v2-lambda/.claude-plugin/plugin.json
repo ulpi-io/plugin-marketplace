@@ -1,0 +1,9 @@
+{
+  "name": "aws-sdk-java-v2-lambda",
+  "version": "1.0.0",
+  "description": "aws-sdk-java-v2-lambda skill from giuseppe-trisciuoglio/developer-kit",
+  "author": {
+    "name": "giuseppe-trisciuoglio"
+  },
+  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
+}

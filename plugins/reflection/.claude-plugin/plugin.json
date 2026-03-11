@@ -1,0 +1,9 @@
+{
+  "name": "reflection",
+  "version": "1.0.0",
+  "description": "reflection skill from davidkiss/smart-ai-skills",
+  "author": {
+    "name": "davidkiss"
+  },
+  "repository": "https://github.com/davidkiss/smart-ai-skills"
+}

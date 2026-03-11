@@ -1,0 +1,9 @@
+{
+  "name": "xhs-note-creator",
+  "version": "1.0.0",
+  "description": "xhs-note-creator skill from comeonzhj/auto-redbook-skills",
+  "author": {
+    "name": "comeonzhj"
+  },
+  "repository": "https://github.com/comeonzhj/auto-redbook-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "erpnext-code-interpreter",
+  "version": "1.0.0",
+  "description": "erpnext-code-interpreter skill from openaec-foundation/erpnext_anthropic_claude_development_skill_package",
+  "author": {
+    "name": "openaec-foundation"
+  },
+  "repository": "https://github.com/openaec-foundation/erpnext_anthropic_claude_development_skill_package"
+}

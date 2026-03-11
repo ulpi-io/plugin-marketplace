@@ -1,0 +1,9 @@
+{
+  "name": "tiktok-captions",
+  "version": "1.0.0",
+  "description": "tiktok-captions skill from kostja94/marketing-skills",
+  "author": {
+    "name": "kostja94"
+  },
+  "repository": "https://github.com/kostja94/marketing-skills"
+}

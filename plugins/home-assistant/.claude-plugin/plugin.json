@@ -1,0 +1,9 @@
+{
+  "name": "home-assistant",
+  "version": "1.0.0",
+  "description": "home-assistant skill from balloob/llm-skills",
+  "author": {
+    "name": "balloob"
+  },
+  "repository": "https://github.com/balloob/llm-skills"
+}

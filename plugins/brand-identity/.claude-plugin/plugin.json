@@ -1,0 +1,9 @@
+{
+  "name": "brand-identity",
+  "version": "1.0.0",
+  "description": "brand-identity skill from travisjneuman/.claude",
+  "author": {
+    "name": "travisjneuman"
+  },
+  "repository": "https://github.com/travisjneuman/.claude"
+}

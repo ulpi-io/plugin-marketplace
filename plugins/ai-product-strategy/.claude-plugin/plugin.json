@@ -1,0 +1,9 @@
+{
+  "name": "ai-product-strategy",
+  "version": "1.0.0",
+  "description": "ai-product-strategy skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

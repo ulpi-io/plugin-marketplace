@@ -1,0 +1,9 @@
+{
+  "name": "media-writer",
+  "version": "1.0.0",
+  "description": "media-writer skill from shareai-lab/shareai-skills",
+  "author": {
+    "name": "shareai-lab"
+  },
+  "repository": "https://github.com/shareai-lab/shareai-skills"
+}

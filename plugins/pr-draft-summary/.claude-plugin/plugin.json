@@ -1,0 +1,9 @@
+{
+  "name": "pr-draft-summary",
+  "version": "1.0.0",
+  "description": "pr-draft-summary skill from openai/openai-agents-python",
+  "author": {
+    "name": "openai"
+  },
+  "repository": "https://github.com/openai/openai-agents-python"
+}

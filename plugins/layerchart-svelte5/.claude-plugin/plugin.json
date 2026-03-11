@@ -1,0 +1,9 @@
+{
+  "name": "layerchart-svelte5",
+  "version": "1.0.0",
+  "description": "layerchart-svelte5 skill from spences10/svelte-skills-kit",
+  "author": {
+    "name": "spences10"
+  },
+  "repository": "https://github.com/spences10/svelte-skills-kit"
+}

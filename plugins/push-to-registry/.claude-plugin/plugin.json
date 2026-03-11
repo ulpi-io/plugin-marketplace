@@ -1,0 +1,9 @@
+{
+  "name": "push-to-registry",
+  "version": "1.0.0",
+  "description": "push-to-registry skill from hashicorp/agent-skills",
+  "author": {
+    "name": "hashicorp"
+  },
+  "repository": "https://github.com/hashicorp/agent-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "1password",
+  "version": "1.0.0",
+  "description": "1password skill from steipete/agent-scripts",
+  "author": {
+    "name": "steipete"
+  },
+  "repository": "https://github.com/steipete/agent-scripts"
+}

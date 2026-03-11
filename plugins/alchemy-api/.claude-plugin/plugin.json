@@ -1,0 +1,9 @@
+{
+  "name": "alchemy-api",
+  "version": "1.0.0",
+  "description": "alchemy-api skill from alchemyplatform/skills",
+  "author": {
+    "name": "alchemyplatform"
+  },
+  "repository": "https://github.com/alchemyplatform/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ticktick-cli",
+  "version": "1.0.0",
+  "description": "ticktick-cli skill from dcjanus/prompts",
+  "author": {
+    "name": "dcjanus"
+  },
+  "repository": "https://github.com/dcjanus/prompts"
+}

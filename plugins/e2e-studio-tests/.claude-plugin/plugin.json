@@ -1,0 +1,9 @@
+{
+  "name": "e2e-studio-tests",
+  "version": "1.0.0",
+  "description": "e2e-studio-tests skill from supabase/supabase",
+  "author": {
+    "name": "supabase"
+  },
+  "repository": "https://github.com/supabase/supabase"
+}

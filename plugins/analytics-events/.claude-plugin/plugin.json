@@ -1,0 +1,9 @@
+{
+  "name": "analytics-events",
+  "version": "1.0.0",
+  "description": "analytics-events skill from metabase/metabase",
+  "author": {
+    "name": "metabase"
+  },
+  "repository": "https://github.com/metabase/metabase"
+}

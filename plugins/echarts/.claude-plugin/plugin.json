@@ -1,0 +1,9 @@
+{
+  "name": "echarts",
+  "version": "1.0.0",
+  "description": "echarts skill from vamseeachanta/workspace-hub",
+  "author": {
+    "name": "vamseeachanta"
+  },
+  "repository": "https://github.com/vamseeachanta/workspace-hub"
+}

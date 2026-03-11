@@ -1,0 +1,9 @@
+{
+  "name": "skill-generator",
+  "version": "1.0.0",
+  "description": "skill-generator skill from catlog22/claude-code-workflow",
+  "author": {
+    "name": "catlog22"
+  },
+  "repository": "https://github.com/catlog22/claude-code-workflow"
+}

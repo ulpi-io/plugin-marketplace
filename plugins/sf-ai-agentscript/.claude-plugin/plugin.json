@@ -1,0 +1,9 @@
+{
+  "name": "sf-ai-agentscript",
+  "version": "1.0.0",
+  "description": "sf-ai-agentscript skill from jaganpro/sf-skills",
+  "author": {
+    "name": "jaganpro"
+  },
+  "repository": "https://github.com/jaganpro/sf-skills"
+}

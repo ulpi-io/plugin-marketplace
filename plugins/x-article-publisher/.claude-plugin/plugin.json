@@ -1,0 +1,9 @@
+{
+  "name": "x-article-publisher",
+  "version": "1.0.0",
+  "description": "x-article-publisher skill from joeseesun/qiaomu-x-article-publisher",
+  "author": {
+    "name": "joeseesun"
+  },
+  "repository": "https://github.com/joeseesun/qiaomu-x-article-publisher"
+}

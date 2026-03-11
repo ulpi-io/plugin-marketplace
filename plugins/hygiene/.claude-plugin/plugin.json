@@ -1,0 +1,9 @@
+{
+  "name": "hygiene",
+  "version": "1.0.0",
+  "description": "hygiene skill from microsoft/vscode",
+  "author": {
+    "name": "microsoft"
+  },
+  "repository": "https://github.com/microsoft/vscode"
+}

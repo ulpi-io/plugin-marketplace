@@ -1,0 +1,9 @@
+{
+  "name": "ray",
+  "version": "1.0.0",
+  "description": "ray skill from spatie/ray-skills",
+  "author": {
+    "name": "spatie"
+  },
+  "repository": "https://github.com/spatie/ray-skills"
+}

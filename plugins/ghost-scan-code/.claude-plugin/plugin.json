@@ -1,0 +1,9 @@
+{
+  "name": "ghost-scan-code",
+  "version": "1.0.0",
+  "description": "ghost-scan-code skill from ghostsecurity/skills",
+  "author": {
+    "name": "ghostsecurity"
+  },
+  "repository": "https://github.com/ghostsecurity/skills"
+}

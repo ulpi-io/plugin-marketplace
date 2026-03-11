@@ -1,0 +1,9 @@
+{
+  "name": "google-app-engine",
+  "version": "1.0.0",
+  "description": "google-app-engine skill from jezweb/claude-skills",
+  "author": {
+    "name": "jezweb"
+  },
+  "repository": "https://github.com/jezweb/claude-skills"
+}

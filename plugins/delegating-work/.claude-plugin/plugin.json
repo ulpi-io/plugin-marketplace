@@ -1,0 +1,9 @@
+{
+  "name": "delegating-work",
+  "version": "1.0.0",
+  "description": "delegating-work skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

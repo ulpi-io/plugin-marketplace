@@ -1,0 +1,9 @@
+{
+  "name": "shopware6-best-practices",
+  "version": "1.0.0",
+  "description": "shopware6-best-practices skill from bartundmett/skills",
+  "author": {
+    "name": "bartundmett"
+  },
+  "repository": "https://github.com/bartundmett/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "devtu-github",
+  "version": "1.0.0",
+  "description": "devtu-github skill from mims-harvard/tooluniverse",
+  "author": {
+    "name": "mims-harvard"
+  },
+  "repository": "https://github.com/mims-harvard/tooluniverse"
+}

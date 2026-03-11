@@ -1,0 +1,9 @@
+{
+  "name": "strapi-expert",
+  "version": "1.0.0",
+  "description": "strapi-expert skill from mkshahzad77/claude-skill-strapi-expert",
+  "author": {
+    "name": "mkshahzad77"
+  },
+  "repository": "https://github.com/mkshahzad77/claude-skill-strapi-expert"
+}

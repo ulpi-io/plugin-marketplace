@@ -1,0 +1,9 @@
+{
+  "name": "recharts",
+  "version": "1.0.0",
+  "description": "recharts skill from ansanabria/skills",
+  "author": {
+    "name": "ansanabria"
+  },
+  "repository": "https://github.com/ansanabria/skills"
+}

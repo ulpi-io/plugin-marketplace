@@ -1,0 +1,9 @@
+{
+  "name": "aoti-debug",
+  "version": "1.0.0",
+  "description": "aoti-debug skill from pytorch/pytorch",
+  "author": {
+    "name": "pytorch"
+  },
+  "repository": "https://github.com/pytorch/pytorch"
+}

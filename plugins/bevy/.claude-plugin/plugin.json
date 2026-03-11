@@ -1,0 +1,9 @@
+{
+  "name": "bevy",
+  "version": "1.0.0",
+  "description": "bevy skill from bfollington/terma",
+  "author": {
+    "name": "bfollington"
+  },
+  "repository": "https://github.com/bfollington/terma"
+}

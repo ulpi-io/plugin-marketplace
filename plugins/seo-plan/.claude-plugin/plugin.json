@@ -1,0 +1,9 @@
+{
+  "name": "seo-plan",
+  "version": "1.0.0",
+  "description": "seo-plan skill from agricidaniel/claude-seo",
+  "author": {
+    "name": "agricidaniel"
+  },
+  "repository": "https://github.com/agricidaniel/claude-seo"
+}

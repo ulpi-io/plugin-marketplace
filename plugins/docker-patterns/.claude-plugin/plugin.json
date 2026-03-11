@@ -1,0 +1,9 @@
+{
+  "name": "docker-patterns",
+  "version": "1.0.0",
+  "description": "docker-patterns skill from affaan-m/everything-claude-code",
+  "author": {
+    "name": "affaan-m"
+  },
+  "repository": "https://github.com/affaan-m/everything-claude-code"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "three-best-practices",
+  "version": "1.0.0",
+  "description": "three-best-practices skill from emalorenzo/three-agent-skills",
+  "author": {
+    "name": "emalorenzo"
+  },
+  "repository": "https://github.com/emalorenzo/three-agent-skills"
+}

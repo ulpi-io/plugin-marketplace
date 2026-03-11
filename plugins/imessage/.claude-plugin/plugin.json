@@ -1,0 +1,9 @@
+{
+  "name": "imessage",
+  "version": "1.0.0",
+  "description": "imessage skill from letta-ai/skills",
+  "author": {
+    "name": "letta-ai"
+  },
+  "repository": "https://github.com/letta-ai/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "components-guide",
+  "version": "1.0.0",
+  "description": "components-guide skill from get-convex/agent-skills",
+  "author": {
+    "name": "get-convex"
+  },
+  "repository": "https://github.com/get-convex/agent-skills"
+}

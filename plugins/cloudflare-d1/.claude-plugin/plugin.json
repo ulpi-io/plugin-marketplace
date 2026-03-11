@@ -1,0 +1,9 @@
+{
+  "name": "cloudflare-d1",
+  "version": "1.0.0",
+  "description": "cloudflare-d1 skill from alinaqi/claude-bootstrap",
+  "author": {
+    "name": "alinaqi"
+  },
+  "repository": "https://github.com/alinaqi/claude-bootstrap"
+}

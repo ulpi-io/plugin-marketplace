@@ -1,0 +1,9 @@
+{
+  "name": "neki",
+  "version": "1.0.0",
+  "description": "neki skill from planetscale/database-skills",
+  "author": {
+    "name": "planetscale"
+  },
+  "repository": "https://github.com/planetscale/database-skills"
+}

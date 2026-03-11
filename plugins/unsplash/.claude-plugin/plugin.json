@@ -1,0 +1,9 @@
+{
+  "name": "unsplash",
+  "version": "1.0.0",
+  "description": "unsplash skill from cevatkerim/skills",
+  "author": {
+    "name": "cevatkerim"
+  },
+  "repository": "https://github.com/cevatkerim/skills"
+}

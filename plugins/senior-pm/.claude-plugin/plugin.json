@@ -1,0 +1,9 @@
+{
+  "name": "senior-pm",
+  "version": "1.0.0",
+  "description": "senior-pm skill from alirezarezvani/claude-skills",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "repository": "https://github.com/alirezarezvani/claude-skills"
+}

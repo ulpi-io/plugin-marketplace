@@ -1,0 +1,9 @@
+{
+  "name": "axe-ios-simulator",
+  "version": "1.0.0",
+  "description": "axe-ios-simulator skill from 0xbigboss/claude-code",
+  "author": {
+    "name": "0xbigboss"
+  },
+  "repository": "https://github.com/0xbigboss/claude-code"
+}

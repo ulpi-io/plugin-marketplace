@@ -1,0 +1,9 @@
+{
+  "name": "n8n-workflow-testing-fundamentals",
+  "version": "1.0.0",
+  "description": "n8n-workflow-testing-fundamentals skill from proffesor-for-testing/agentic-qe",
+  "author": {
+    "name": "proffesor-for-testing"
+  },
+  "repository": "https://github.com/proffesor-for-testing/agentic-qe"
+}

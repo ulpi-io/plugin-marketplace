@@ -1,0 +1,9 @@
+{
+  "name": "startup-ideation",
+  "version": "1.0.0",
+  "description": "startup-ideation skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

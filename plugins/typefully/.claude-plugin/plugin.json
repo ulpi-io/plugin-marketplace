@@ -1,0 +1,9 @@
+{
+  "name": "typefully",
+  "version": "1.0.0",
+  "description": "typefully skill from typefully/agent-skills",
+  "author": {
+    "name": "typefully"
+  },
+  "repository": "https://github.com/typefully/agent-skills"
+}

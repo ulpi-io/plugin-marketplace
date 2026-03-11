@@ -1,0 +1,9 @@
+{
+  "name": "gsap-scrolltrigger",
+  "version": "1.0.0",
+  "description": "gsap-scrolltrigger skill from bbeierle12/skill-mcp-claude",
+  "author": {
+    "name": "bbeierle12"
+  },
+  "repository": "https://github.com/bbeierle12/skill-mcp-claude"
+}

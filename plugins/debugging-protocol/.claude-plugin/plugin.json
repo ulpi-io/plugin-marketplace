@@ -1,0 +1,9 @@
+{
+  "name": "debugging-protocol",
+  "version": "1.0.0",
+  "description": "debugging-protocol skill from jwilger/agent-skills",
+  "author": {
+    "name": "jwilger"
+  },
+  "repository": "https://github.com/jwilger/agent-skills"
+}

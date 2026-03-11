@@ -1,0 +1,9 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "description": "status skill from parallel-web/parallel-agent-skills",
+  "author": {
+    "name": "parallel-web"
+  },
+  "repository": "https://github.com/parallel-web/parallel-agent-skills"
+}

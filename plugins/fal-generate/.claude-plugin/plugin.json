@@ -1,0 +1,9 @@
+{
+  "name": "fal-generate",
+  "version": "1.0.0",
+  "description": "fal-generate skill from fal-ai-community/skills",
+  "author": {
+    "name": "fal-ai-community"
+  },
+  "repository": "https://github.com/fal-ai-community/skills"
+}

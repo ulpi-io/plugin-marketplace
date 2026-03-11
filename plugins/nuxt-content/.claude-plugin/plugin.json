@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-content",
+  "version": "1.0.0",
+  "description": "nuxt-content skill from nuxt-content/nuxt-studio",
+  "author": {
+    "name": "nuxt-content"
+  },
+  "repository": "https://github.com/nuxt-content/nuxt-studio"
+}

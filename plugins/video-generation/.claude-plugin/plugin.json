@@ -1,0 +1,9 @@
+{
+  "name": "video-generation",
+  "version": "1.0.0",
+  "description": "video-generation skill from cleanexpo/ato",
+  "author": {
+    "name": "cleanexpo"
+  },
+  "repository": "https://github.com/cleanexpo/ato"
+}

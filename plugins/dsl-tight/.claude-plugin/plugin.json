@@ -1,0 +1,9 @@
+{
+  "name": "dsl-tight",
+  "version": "1.0.0",
+  "description": "dsl-tight skill from senpi-ai/senpi-skills",
+  "author": {
+    "name": "senpi-ai"
+  },
+  "repository": "https://github.com/senpi-ai/senpi-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "reference-core",
+  "version": "1.0.0",
+  "description": "reference-core skill from angular/angular",
+  "author": {
+    "name": "angular"
+  },
+  "repository": "https://github.com/angular/angular"
+}

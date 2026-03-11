@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+work/
+
+*.ogg
+*.wav
+*.mp3
+
+
+.qwen-voice/.env

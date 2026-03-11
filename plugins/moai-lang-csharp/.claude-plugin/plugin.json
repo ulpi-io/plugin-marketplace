@@ -1,0 +1,9 @@
+{
+  "name": "moai-lang-csharp",
+  "version": "1.0.0",
+  "description": "moai-lang-csharp skill from modu-ai/moai-adk",
+  "author": {
+    "name": "modu-ai"
+  },
+  "repository": "https://github.com/modu-ai/moai-adk"
+}

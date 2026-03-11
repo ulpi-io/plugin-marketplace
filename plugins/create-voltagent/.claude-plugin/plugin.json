@@ -1,0 +1,9 @@
+{
+  "name": "create-voltagent",
+  "version": "1.0.0",
+  "description": "create-voltagent skill from voltagent/skills",
+  "author": {
+    "name": "voltagent"
+  },
+  "repository": "https://github.com/voltagent/skills"
+}

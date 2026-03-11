@@ -1,0 +1,9 @@
+{
+  "name": "jira-expert",
+  "version": "1.0.0",
+  "description": "jira-expert skill from alirezarezvani/claude-skills",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "repository": "https://github.com/alirezarezvani/claude-skills"
+}

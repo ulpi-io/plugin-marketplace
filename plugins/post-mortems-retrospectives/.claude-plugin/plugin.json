@@ -1,0 +1,9 @@
+{
+  "name": "post-mortems-retrospectives",
+  "version": "1.0.0",
+  "description": "post-mortems-retrospectives skill from refoundai/lenny-skills",
+  "author": {
+    "name": "refoundai"
+  },
+  "repository": "https://github.com/refoundai/lenny-skills"
+}

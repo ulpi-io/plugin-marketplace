@@ -1,0 +1,9 @@
+{
+  "name": "reddit-thread-analyzer",
+  "version": "1.0.0",
+  "description": "reddit-thread-analyzer skill from onewave-ai/claude-skills",
+  "author": {
+    "name": "onewave-ai"
+  },
+  "repository": "https://github.com/onewave-ai/claude-skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "claude-automation-recommender",
+  "version": "1.0.0",
+  "description": "claude-automation-recommender skill from anthropics/claude-plugins-official",
+  "author": {
+    "name": "anthropics"
+  },
+  "repository": "https://github.com/anthropics/claude-plugins-official"
+}

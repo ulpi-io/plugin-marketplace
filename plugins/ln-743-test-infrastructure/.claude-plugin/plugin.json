@@ -1,0 +1,9 @@
+{
+  "name": "ln-743-test-infrastructure",
+  "version": "1.0.0",
+  "description": "ln-743-test-infrastructure skill from levnikolaevich/claude-code-skills",
+  "author": {
+    "name": "levnikolaevich"
+  },
+  "repository": "https://github.com/levnikolaevich/claude-code-skills"
+}

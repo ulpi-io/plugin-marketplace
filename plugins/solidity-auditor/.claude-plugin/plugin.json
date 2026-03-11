@@ -1,0 +1,9 @@
+{
+  "name": "solidity-auditor",
+  "version": "1.0.0",
+  "description": "solidity-auditor skill from schwepps/skills",
+  "author": {
+    "name": "schwepps"
+  },
+  "repository": "https://github.com/schwepps/skills"
+}

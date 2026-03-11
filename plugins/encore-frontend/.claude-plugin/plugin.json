@@ -1,0 +1,9 @@
+{
+  "name": "encore-frontend",
+  "version": "1.0.0",
+  "description": "encore-frontend skill from encoredev/skills",
+  "author": {
+    "name": "encoredev"
+  },
+  "repository": "https://github.com/encoredev/skills"
+}

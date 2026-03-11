@@ -1,0 +1,9 @@
+{
+  "name": "video summarizer",
+  "version": "1.0.0",
+  "description": "video summarizer skill from martinopiaggi/summarize",
+  "author": {
+    "name": "martinopiaggi"
+  },
+  "repository": "https://github.com/martinopiaggi/summarize"
+}

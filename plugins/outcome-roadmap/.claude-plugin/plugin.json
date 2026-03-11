@@ -1,0 +1,9 @@
+{
+  "name": "outcome-roadmap",
+  "version": "1.0.0",
+  "description": "outcome-roadmap skill from phuryn/pm-skills",
+  "author": {
+    "name": "phuryn"
+  },
+  "repository": "https://github.com/phuryn/pm-skills"
+}

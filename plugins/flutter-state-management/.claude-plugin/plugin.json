@@ -1,0 +1,9 @@
+{
+  "name": "flutter-state-management",
+  "version": "1.0.0",
+  "description": "flutter-state-management skill from flutter/skills",
+  "author": {
+    "name": "flutter"
+  },
+  "repository": "https://github.com/flutter/skills"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "paper-audit",
+  "version": "1.0.0",
+  "description": "paper-audit skill from bahayonghang/academic-writing-skills",
+  "author": {
+    "name": "bahayonghang"
+  },
+  "repository": "https://github.com/bahayonghang/academic-writing-skills"
+}

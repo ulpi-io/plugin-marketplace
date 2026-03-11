@@ -1,0 +1,9 @@
+{
+  "name": "workflow-orchestration",
+  "version": "1.0.0",
+  "description": "workflow-orchestration skill from vxcozy/workflow-orchestration",
+  "author": {
+    "name": "vxcozy"
+  },
+  "repository": "https://github.com/vxcozy/workflow-orchestration"
+}

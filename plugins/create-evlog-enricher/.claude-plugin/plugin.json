@@ -1,0 +1,9 @@
+{
+  "name": "create-evlog-enricher",
+  "version": "1.0.0",
+  "description": "create-evlog-enricher skill from hugorcd/evlog",
+  "author": {
+    "name": "hugorcd"
+  },
+  "repository": "https://github.com/hugorcd/evlog"
+}

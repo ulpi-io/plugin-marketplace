@@ -1,0 +1,9 @@
+{
+  "name": "implement-plan",
+  "version": "1.0.0",
+  "description": "implement-plan skill from casper-studios/casper-marketplace",
+  "author": {
+    "name": "casper-studios"
+  },
+  "repository": "https://github.com/casper-studios/casper-marketplace"
+}

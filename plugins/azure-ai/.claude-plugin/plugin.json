@@ -1,0 +1,10 @@
+{
+  "name": "azure-ai",
+  "version": "1.0.0",
+  "description": "Azure AI services integration",
+  "author": {
+    "name": "microsoft"
+  },
+  "repository": "https://github.com/microsoft/github-copilot-for-azure",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sleek-design-mobile-apps",
+  "version": "1.0.0",
+  "description": "Sleek mobile app design guidelines",
+  "author": {
+    "name": "sleekdotdesign"
+  },
+  "repository": "https://github.com/sleekdotdesign/agent-skills",
+  "license": "MIT"
+}

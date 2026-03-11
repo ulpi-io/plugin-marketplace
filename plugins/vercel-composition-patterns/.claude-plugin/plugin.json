@@ -1,0 +1,10 @@
+{
+  "name": "vercel-composition-patterns",
+  "version": "1.0.0",
+  "description": "React composition patterns for Vercel",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/agent-skills",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "web-design-guidelines",
+  "version": "1.0.0",
+  "description": "Web design guidelines and principles",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/agent-skills",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "find-skills",
+  "version": "1.0.0",
+  "description": "Helps discover and install agent skills",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "repository": "https://github.com/vercel-labs/skills",
+  "license": "MIT"
+}

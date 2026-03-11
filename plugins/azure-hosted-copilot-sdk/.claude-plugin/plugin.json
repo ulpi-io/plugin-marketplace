@@ -1,0 +1,10 @@
+{
+  "name": "azure-hosted-copilot-sdk",
+  "version": "1.0.0",
+  "description": "Azure hosted Copilot SDK integration",
+  "author": {
+    "name": "microsoft"
+  },
+  "repository": "https://github.com/microsoft/github-copilot-for-azure",
+  "license": "MIT"
+}

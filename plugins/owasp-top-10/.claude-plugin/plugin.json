@@ -1,9 +1,0 @@
-{
-  "name": "owasp-top-10",
-  "version": "1.0.0",
-  "description": "owasp-top-10 skill from nickcrew/claude-ctx-plugin",
-  "author": {
-    "name": "nickcrew"
-  },
-  "repository": "https://github.com/nickcrew/claude-ctx-plugin"
-}

@@ -1,9 +1,14 @@
 {
   "name": "open-pencil",
   "version": "1.0.0",
-  "description": "open-pencil skill from open-pencil/skills",
+  "description": "1 skills from open-pencil/skills: open-pencil",
   "author": {
     "name": "open-pencil"
   },
-  "repository": "https://github.com/open-pencil/skills"
+  "repositories": [
+    "https://github.com/open-pencil/skills"
+  ],
+  "skills": [
+    "open-pencil"
+  ]
 }

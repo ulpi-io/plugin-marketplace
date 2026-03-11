@@ -1,0 +1,14 @@
+{
+  "name": "sumelabs",
+  "version": "1.0.0",
+  "description": "1 skills from sumelabs/clawra: clawra-selfie",
+  "author": {
+    "name": "sumelabs"
+  },
+  "repositories": [
+    "https://github.com/sumelabs/clawra"
+  ],
+  "skills": [
+    "clawra-selfie"
+  ]
+}

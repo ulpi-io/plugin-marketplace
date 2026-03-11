@@ -1,9 +1,0 @@
-{
-  "name": "specstory-organize",
-  "version": "1.0.0",
-  "description": "specstory-organize skill from specstoryai/agent-skills",
-  "author": {
-    "name": "specstoryai"
-  },
-  "repository": "https://github.com/specstoryai/agent-skills"
-}

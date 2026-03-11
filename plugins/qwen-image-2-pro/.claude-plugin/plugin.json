@@ -1,9 +1,0 @@
-{
-  "name": "qwen-image-2-pro",
-  "version": "1.0.0",
-  "description": "qwen-image-2-pro skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

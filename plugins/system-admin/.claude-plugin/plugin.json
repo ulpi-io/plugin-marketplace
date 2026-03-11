@@ -1,9 +1,0 @@
-{
-  "name": "system-admin",
-  "version": "1.0.0",
-  "description": "system-admin skill from chaterm/terminal-skills",
-  "author": {
-    "name": "chaterm"
-  },
-  "repository": "https://github.com/chaterm/terminal-skills"
-}

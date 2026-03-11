@@ -1,0 +1,22 @@
+{
+  "name": "senpi-ai",
+  "version": "1.0.0",
+  "description": "9 skills from senpi-ai/senpi-skills: wolf-strategy, dsl-dynamic-stop-loss, emerging-movers, wolf-howl, autonomous-trading, whale-index, senpi-entrypoint, opportunity-scanner, dsl-tight",
+  "author": {
+    "name": "senpi-ai"
+  },
+  "repositories": [
+    "https://github.com/senpi-ai/senpi-skills"
+  ],
+  "skills": [
+    "wolf-strategy",
+    "dsl-dynamic-stop-loss",
+    "emerging-movers",
+    "wolf-howl",
+    "autonomous-trading",
+    "whale-index",
+    "senpi-entrypoint",
+    "opportunity-scanner",
+    "dsl-tight"
+  ]
+}

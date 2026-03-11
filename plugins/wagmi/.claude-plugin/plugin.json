@@ -1,9 +1,0 @@
-{
-  "name": "wagmi",
-  "version": "1.0.0",
-  "description": "wagmi skill from 0xsardius/onchain-typescript-skills",
-  "author": {
-    "name": "0xsardius"
-  },
-  "repository": "https://github.com/0xsardius/onchain-typescript-skills"
-}

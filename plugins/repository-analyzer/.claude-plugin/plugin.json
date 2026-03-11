@@ -1,9 +1,0 @@
-{
-  "name": "repository-analyzer",
-  "version": "1.0.0",
-  "description": "repository-analyzer skill from jackspace/claudeskillz",
-  "author": {
-    "name": "jackspace"
-  },
-  "repository": "https://github.com/jackspace/claudeskillz"
-}

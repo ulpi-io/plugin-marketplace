@@ -1,0 +1,14 @@
+{
+  "name": "piekill",
+  "version": "1.0.0",
+  "description": "1 skills from piekill/xiaohongshu-summarizer-skill: xiaohongshu-search-summarizer",
+  "author": {
+    "name": "piekill"
+  },
+  "repositories": [
+    "https://github.com/piekill/xiaohongshu-summarizer-skill"
+  ],
+  "skills": [
+    "xiaohongshu-search-summarizer"
+  ]
+}

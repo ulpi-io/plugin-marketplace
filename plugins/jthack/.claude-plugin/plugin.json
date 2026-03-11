@@ -1,0 +1,14 @@
+{
+  "name": "jthack",
+  "version": "1.0.0",
+  "description": "1 skills from jthack/ffuf_claude_skill: ffuf-web-fuzzing",
+  "author": {
+    "name": "jthack"
+  },
+  "repositories": [
+    "https://github.com/jthack/ffuf_claude_skill"
+  ],
+  "skills": [
+    "ffuf-web-fuzzing"
+  ]
+}

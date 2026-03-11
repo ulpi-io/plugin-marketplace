@@ -1,0 +1,15 @@
+{
+  "name": "dbos-inc",
+  "version": "1.0.0",
+  "description": "2 skills from dbos-inc/agent-skills: dbos-python, dbos-typescript",
+  "author": {
+    "name": "dbos-inc"
+  },
+  "repositories": [
+    "https://github.com/dbos-inc/agent-skills"
+  ],
+  "skills": [
+    "dbos-python",
+    "dbos-typescript"
+  ]
+}

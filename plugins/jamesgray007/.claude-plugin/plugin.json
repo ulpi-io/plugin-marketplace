@@ -1,0 +1,16 @@
+{
+  "name": "jamesgray007",
+  "version": "1.0.0",
+  "description": "3 skills from jamesgray007/hoai-course: writing-linkedin-posts, writing-linkedin-posts, writing-x-posts",
+  "author": {
+    "name": "jamesgray007"
+  },
+  "repositories": [
+    "https://github.com/jamesgray007/hoai-course"
+  ],
+  "skills": [
+    "writing-linkedin-posts",
+    "writing-linkedin-posts",
+    "writing-x-posts"
+  ]
+}

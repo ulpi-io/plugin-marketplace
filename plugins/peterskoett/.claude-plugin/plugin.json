@@ -1,0 +1,15 @@
+{
+  "name": "peterskoett",
+  "version": "1.0.0",
+  "description": "2 skills from peterskoett/self-improving-agent: self-improvement, self-improvement",
+  "author": {
+    "name": "peterskoett"
+  },
+  "repositories": [
+    "https://github.com/peterskoett/self-improving-agent"
+  ],
+  "skills": [
+    "self-improvement",
+    "self-improvement"
+  ]
+}

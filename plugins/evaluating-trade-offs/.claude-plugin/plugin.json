@@ -1,9 +1,0 @@
-{
-  "name": "evaluating-trade-offs",
-  "version": "1.0.0",
-  "description": "evaluating-trade-offs skill from refoundai/lenny-skills",
-  "author": {
-    "name": "refoundai"
-  },
-  "repository": "https://github.com/refoundai/lenny-skills"
-}

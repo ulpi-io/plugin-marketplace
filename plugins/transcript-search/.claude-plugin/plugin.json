@@ -1,9 +1,0 @@
-{
-  "name": "transcript-search",
-  "version": "1.0.0",
-  "description": "transcript-search skill from casper-studios/casper-marketplace",
-  "author": {
-    "name": "casper-studios"
-  },
-  "repository": "https://github.com/casper-studios/casper-marketplace"
-}

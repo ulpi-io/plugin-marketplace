@@ -1,9 +1,0 @@
-{
-  "name": "speech",
-  "version": "1.0.0",
-  "description": "speech skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

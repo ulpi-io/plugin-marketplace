@@ -1,9 +1,0 @@
-{
-  "name": "hotkey",
-  "version": "1.0.0",
-  "description": "hotkey skill from lobehub/lobe-chat",
-  "author": {
-    "name": "lobehub"
-  },
-  "repository": "https://github.com/lobehub/lobe-chat"
-}

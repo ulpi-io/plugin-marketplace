@@ -1,0 +1,19 @@
+{
+  "name": "scientiacapital",
+  "version": "1.0.0",
+  "description": "6 skills from scientiacapital/skills: business-model-canvas, business-model-canvas, trading-signals, trading-signals, content-marketing, crm-integration",
+  "author": {
+    "name": "scientiacapital"
+  },
+  "repositories": [
+    "https://github.com/scientiacapital/skills"
+  ],
+  "skills": [
+    "business-model-canvas",
+    "business-model-canvas",
+    "trading-signals",
+    "trading-signals",
+    "content-marketing",
+    "crm-integration"
+  ]
+}

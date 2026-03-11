@@ -1,0 +1,17 @@
+{
+  "name": "kylezantos",
+  "version": "1.0.0",
+  "description": "3 skills from kylezantos/design-motion-principles, kylezantos/design-engineer-auditor-package: design-motion-principles, design-motion-principles, design-motion-principles",
+  "author": {
+    "name": "kylezantos"
+  },
+  "repositories": [
+    "https://github.com/kylezantos/design-motion-principles",
+    "https://github.com/kylezantos/design-engineer-auditor-package"
+  ],
+  "skills": [
+    "design-motion-principles",
+    "design-motion-principles",
+    "design-motion-principles"
+  ]
+}

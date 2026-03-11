@@ -1,0 +1,16 @@
+{
+  "name": "coderabbitai",
+  "version": "1.0.0",
+  "description": "3 skills from coderabbitai/skills: code-review, code-review, autofix",
+  "author": {
+    "name": "coderabbitai"
+  },
+  "repositories": [
+    "https://github.com/coderabbitai/skills"
+  ],
+  "skills": [
+    "code-review",
+    "code-review",
+    "autofix"
+  ]
+}

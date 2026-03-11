@@ -1,0 +1,41 @@
+{
+  "name": "vudovn",
+  "version": "1.0.0",
+  "description": "28 skills from vudovn/antigravity-kit: frontend-design, code-review-checklist, code-review-checklist, mobile-design, clean-code, webapp-testing, nodejs-best-practices, architecture, systematic-debugging, database-design, game-development, api-patterns, vulnerability-scanner, testing-patterns, deployment-procedures, tailwind-patterns, mcp-builder, app-builder, brainstorming, plan-writing, parallel-agents, i18n-localization, intelligent-routing, tdd-workflow, server-management, seo-fundamentals, powershell-windows, performance-profiling",
+  "author": {
+    "name": "vudovn"
+  },
+  "repositories": [
+    "https://github.com/vudovn/antigravity-kit"
+  ],
+  "skills": [
+    "frontend-design",
+    "code-review-checklist",
+    "code-review-checklist",
+    "mobile-design",
+    "clean-code",
+    "webapp-testing",
+    "nodejs-best-practices",
+    "architecture",
+    "systematic-debugging",
+    "database-design",
+    "game-development",
+    "api-patterns",
+    "vulnerability-scanner",
+    "testing-patterns",
+    "deployment-procedures",
+    "tailwind-patterns",
+    "mcp-builder",
+    "app-builder",
+    "brainstorming",
+    "plan-writing",
+    "parallel-agents",
+    "i18n-localization",
+    "intelligent-routing",
+    "tdd-workflow",
+    "server-management",
+    "seo-fundamentals",
+    "powershell-windows",
+    "performance-profiling"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "iamzifei",
+  "version": "1.0.0",
+  "description": "3 skills from iamzifei/xiaohongshu-images-skill, iamzifei/wechat-article-publisher-skill: xiaohongshu-images, xiaohongshu-images, wechat-article-publisher",
+  "author": {
+    "name": "iamzifei"
+  },
+  "repositories": [
+    "https://github.com/iamzifei/xiaohongshu-images-skill",
+    "https://github.com/iamzifei/wechat-article-publisher-skill"
+  ],
+  "skills": [
+    "xiaohongshu-images",
+    "xiaohongshu-images",
+    "wechat-article-publisher"
+  ]
+}

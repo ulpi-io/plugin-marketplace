@@ -1,9 +1,15 @@
 {
   "name": "vueuse",
   "version": "1.0.0",
-  "description": "vueuse skill from onmax/nuxt-skills",
+  "description": "2 skills from vueuse/skills: vueuse-functions, vueuse-functions",
   "author": {
-    "name": "onmax"
+    "name": "vueuse"
   },
-  "repository": "https://github.com/onmax/nuxt-skills"
+  "repositories": [
+    "https://github.com/vueuse/skills"
+  ],
+  "skills": [
+    "vueuse-functions",
+    "vueuse-functions"
+  ]
 }

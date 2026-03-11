@@ -1,9 +1,0 @@
-{
-  "name": "inspira-ui",
-  "version": "1.0.0",
-  "description": "inspira-ui skill from secondsky/claude-skills",
-  "author": {
-    "name": "secondsky"
-  },
-  "repository": "https://github.com/secondsky/claude-skills"
-}

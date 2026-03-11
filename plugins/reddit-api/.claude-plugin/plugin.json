@@ -1,9 +1,0 @@
-{
-  "name": "reddit-api",
-  "version": "1.0.0",
-  "description": "reddit-api skill from alinaqi/claude-bootstrap",
-  "author": {
-    "name": "alinaqi"
-  },
-  "repository": "https://github.com/alinaqi/claude-bootstrap"
-}

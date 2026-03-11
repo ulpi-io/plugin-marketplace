@@ -1,9 +1,0 @@
-{
-  "name": "code-review",
-  "version": "1.0.0",
-  "description": "code-review skill from supercent-io/skills-template",
-  "author": {
-    "name": "supercent-io"
-  },
-  "repository": "https://github.com/supercent-io/skills-template"
-}

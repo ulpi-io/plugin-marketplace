@@ -1,9 +1,0 @@
-{
-  "name": "deep-agents-core",
-  "version": "1.0.0",
-  "description": "deep-agents-core skill from langchain-ai/langchain-skills",
-  "author": {
-    "name": "langchain-ai"
-  },
-  "repository": "https://github.com/langchain-ai/langchain-skills"
-}

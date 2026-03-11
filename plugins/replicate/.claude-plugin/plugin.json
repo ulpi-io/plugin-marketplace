@@ -1,9 +1,14 @@
 {
   "name": "replicate",
   "version": "1.0.0",
-  "description": "replicate skill from replicate/skills",
+  "description": "1 skills from replicate/skills: replicate",
   "author": {
     "name": "replicate"
   },
-  "repository": "https://github.com/replicate/skills"
+  "repositories": [
+    "https://github.com/replicate/skills"
+  ],
+  "skills": [
+    "replicate"
+  ]
 }

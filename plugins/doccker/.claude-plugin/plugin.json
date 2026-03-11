@@ -1,0 +1,14 @@
+{
+  "name": "doccker",
+  "version": "1.0.0",
+  "description": "1 skills from doccker/cc-use-exp: java-dev",
+  "author": {
+    "name": "doccker"
+  },
+  "repositories": [
+    "https://github.com/doccker/cc-use-exp"
+  ],
+  "skills": [
+    "java-dev"
+  ]
+}

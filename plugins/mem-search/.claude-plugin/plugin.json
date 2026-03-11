@@ -1,9 +1,0 @@
-{
-  "name": "mem-search",
-  "version": "1.0.0",
-  "description": "mem-search skill from thedotmack/claude-mem",
-  "author": {
-    "name": "thedotmack"
-  },
-  "repository": "https://github.com/thedotmack/claude-mem"
-}

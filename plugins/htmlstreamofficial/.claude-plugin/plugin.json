@@ -1,0 +1,15 @@
+{
+  "name": "htmlstreamofficial",
+  "version": "1.0.0",
+  "description": "2 skills from htmlstreamofficial/preline: preline-theme-generator, preline-theme-generator",
+  "author": {
+    "name": "htmlstreamofficial"
+  },
+  "repositories": [
+    "https://github.com/htmlstreamofficial/preline"
+  ],
+  "skills": [
+    "preline-theme-generator",
+    "preline-theme-generator"
+  ]
+}

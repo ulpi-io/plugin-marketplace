@@ -1,9 +1,0 @@
-{
-  "name": "ios-android-logs",
-  "version": "1.0.0",
-  "description": "ios-android-logs skill from cap-go/capacitor-skills",
-  "author": {
-    "name": "cap-go"
-  },
-  "repository": "https://github.com/cap-go/capacitor-skills"
-}

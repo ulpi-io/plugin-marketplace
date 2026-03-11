@@ -1,9 +1,0 @@
-{
-  "name": "memory-recall",
-  "version": "1.0.0",
-  "description": "memory-recall skill from volcengine/openviking",
-  "author": {
-    "name": "volcengine"
-  },
-  "repository": "https://github.com/volcengine/openviking"
-}

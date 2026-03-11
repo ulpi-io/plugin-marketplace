@@ -1,9 +1,0 @@
-{
-  "name": "compound-docs",
-  "version": "1.0.0",
-  "description": "compound-docs skill from everyinc/compound-engineering-plugin",
-  "author": {
-    "name": "everyinc"
-  },
-  "repository": "https://github.com/everyinc/compound-engineering-plugin"
-}

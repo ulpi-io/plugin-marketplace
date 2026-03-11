@@ -1,9 +1,0 @@
-{
-  "name": "two-factor-authentication-best-practices",
-  "version": "1.0.0",
-  "description": "two-factor-authentication-best-practices skill from better-auth/skills",
-  "author": {
-    "name": "better-auth"
-  },
-  "repository": "https://github.com/better-auth/skills"
-}

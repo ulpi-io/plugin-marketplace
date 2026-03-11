@@ -1,0 +1,18 @@
+{
+  "name": "mindverse",
+  "version": "1.0.0",
+  "description": "5 skills from mindverse/second-me-skills: secondme-nextjs, secondme-prd, secondme-init, secondme, secondme-reference",
+  "author": {
+    "name": "mindverse"
+  },
+  "repositories": [
+    "https://github.com/mindverse/second-me-skills"
+  ],
+  "skills": [
+    "secondme-nextjs",
+    "secondme-prd",
+    "secondme-init",
+    "secondme",
+    "secondme-reference"
+  ]
+}

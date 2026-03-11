@@ -1,9 +1,0 @@
-{
-  "name": "website-cloner",
-  "version": "1.0.0",
-  "description": "website-cloner skill from horuz-ai/claude-plugins",
-  "author": {
-    "name": "horuz-ai"
-  },
-  "repository": "https://github.com/horuz-ai/claude-plugins"
-}

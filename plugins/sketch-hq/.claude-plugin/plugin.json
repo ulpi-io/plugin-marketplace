@@ -1,0 +1,14 @@
+{
+  "name": "sketch-hq",
+  "version": "1.0.0",
+  "description": "1 skills from sketch-hq/skills: sketch-implement-design",
+  "author": {
+    "name": "sketch-hq"
+  },
+  "repositories": [
+    "https://github.com/sketch-hq/skills"
+  ],
+  "skills": [
+    "sketch-implement-design"
+  ]
+}

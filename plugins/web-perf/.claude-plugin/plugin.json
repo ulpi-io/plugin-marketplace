@@ -1,9 +1,0 @@
-{
-  "name": "web-perf",
-  "version": "1.0.0",
-  "description": "web-perf skill from cloudflare/skills",
-  "author": {
-    "name": "cloudflare"
-  },
-  "repository": "https://github.com/cloudflare/skills"
-}

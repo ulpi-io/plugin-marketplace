@@ -1,9 +1,0 @@
-{
-  "name": "blog-post",
-  "version": "1.0.0",
-  "description": "blog-post skill from langchain-ai/deepagents",
-  "author": {
-    "name": "langchain-ai"
-  },
-  "repository": "https://github.com/langchain-ai/deepagents"
-}

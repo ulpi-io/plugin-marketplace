@@ -1,0 +1,14 @@
+{
+  "name": "vincentkoc",
+  "version": "1.0.0",
+  "description": "1 skills from vincentkoc/dotskills: technical-documentation",
+  "author": {
+    "name": "vincentkoc"
+  },
+  "repositories": [
+    "https://github.com/vincentkoc/dotskills"
+  ],
+  "skills": [
+    "technical-documentation"
+  ]
+}

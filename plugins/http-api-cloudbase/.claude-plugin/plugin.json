@@ -1,9 +1,0 @@
-{
-  "name": "http-api-cloudbase",
-  "version": "1.0.0",
-  "description": "http-api-cloudbase skill from tencentcloudbase/skills",
-  "author": {
-    "name": "tencentcloudbase"
-  },
-  "repository": "https://github.com/tencentcloudbase/skills"
-}

@@ -1,0 +1,15 @@
+{
+  "name": "fuzhiyu",
+  "version": "1.0.0",
+  "description": "2 skills from fuzhiyu/researchprojecttemplate: zotero-paper-reader, zotero-paper-reader",
+  "author": {
+    "name": "fuzhiyu"
+  },
+  "repositories": [
+    "https://github.com/fuzhiyu/researchprojecttemplate"
+  ],
+  "skills": [
+    "zotero-paper-reader",
+    "zotero-paper-reader"
+  ]
+}

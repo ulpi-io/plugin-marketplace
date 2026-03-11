@@ -1,0 +1,14 @@
+{
+  "name": "ythx-101",
+  "version": "1.0.0",
+  "description": "1 skills from ythx-101/x-tweet-fetcher: x-tweet-fetcher",
+  "author": {
+    "name": "ythx-101"
+  },
+  "repositories": [
+    "https://github.com/ythx-101/x-tweet-fetcher"
+  ],
+  "skills": [
+    "x-tweet-fetcher"
+  ]
+}

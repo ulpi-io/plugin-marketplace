@@ -1,0 +1,14 @@
+{
+  "name": "nohumanera",
+  "version": "1.0.0",
+  "description": "1 skills from nohumanera/cn-stock-price: cn-stock-price",
+  "author": {
+    "name": "nohumanera"
+  },
+  "repositories": [
+    "https://github.com/nohumanera/cn-stock-price"
+  ],
+  "skills": [
+    "cn-stock-price"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "zephyrwang6",
+  "version": "1.0.0",
+  "description": "2 skills from zephyrwang6/myskill: web-scraper, rss-aggregator",
+  "author": {
+    "name": "zephyrwang6"
+  },
+  "repositories": [
+    "https://github.com/zephyrwang6/myskill"
+  ],
+  "skills": [
+    "web-scraper",
+    "rss-aggregator"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "arcaneorion",
+  "version": "1.0.0",
+  "description": "1 skills from arcaneorion/alice-single: akshare",
+  "author": {
+    "name": "arcaneorion"
+  },
+  "repositories": [
+    "https://github.com/arcaneorion/alice-single"
+  ],
+  "skills": [
+    "akshare"
+  ]
+}

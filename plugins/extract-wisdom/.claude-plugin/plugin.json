@@ -1,9 +1,0 @@
-{
-  "name": "extract-wisdom",
-  "version": "1.0.0",
-  "description": "extract-wisdom skill from sammcj/agentic-coding",
-  "author": {
-    "name": "sammcj"
-  },
-  "repository": "https://github.com/sammcj/agentic-coding"
-}

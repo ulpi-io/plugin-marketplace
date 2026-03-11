@@ -1,9 +1,0 @@
-{
-  "name": "wps-excel",
-  "version": "1.0.0",
-  "description": "wps-excel skill from lc2panda/wps-skills",
-  "author": {
-    "name": "lc2panda"
-  },
-  "repository": "https://github.com/lc2panda/wps-skills"
-}

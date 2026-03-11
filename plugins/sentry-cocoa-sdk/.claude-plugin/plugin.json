@@ -1,9 +1,0 @@
-{
-  "name": "sentry-cocoa-sdk",
-  "version": "1.0.0",
-  "description": "sentry-cocoa-sdk skill from getsentry/sentry-for-ai",
-  "author": {
-    "name": "getsentry"
-  },
-  "repository": "https://github.com/getsentry/sentry-for-ai"
-}

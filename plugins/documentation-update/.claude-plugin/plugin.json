@@ -1,9 +1,0 @@
-{
-  "name": "documentation-update",
-  "version": "1.0.0",
-  "description": "documentation-update skill from geoffjay/claude-plugins",
-  "author": {
-    "name": "geoffjay"
-  },
-  "repository": "https://github.com/geoffjay/claude-plugins"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "october-academy",
+  "version": "1.0.0",
+  "description": "1 skills from october-academy/agent-plugins: sync",
+  "author": {
+    "name": "october-academy"
+  },
+  "repositories": [
+    "https://github.com/october-academy/agent-plugins"
+  ],
+  "skills": [
+    "sync"
+  ]
+}

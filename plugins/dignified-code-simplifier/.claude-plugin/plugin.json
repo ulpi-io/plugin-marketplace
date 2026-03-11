@@ -1,9 +1,0 @@
-{
-  "name": "dignified-code-simplifier",
-  "version": "1.0.0",
-  "description": "dignified-code-simplifier skill from dagster-io/erk",
-  "author": {
-    "name": "dagster-io"
-  },
-  "repository": "https://github.com/dagster-io/erk"
-}

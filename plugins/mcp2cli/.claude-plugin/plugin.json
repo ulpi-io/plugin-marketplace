@@ -1,9 +1,0 @@
-{
-  "name": "mcp2cli",
-  "version": "1.0.0",
-  "description": "mcp2cli skill from knowsuchagency/mcp2cli",
-  "author": {
-    "name": "knowsuchagency"
-  },
-  "repository": "https://github.com/knowsuchagency/mcp2cli"
-}

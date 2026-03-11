@@ -1,0 +1,41 @@
+{
+  "name": "ai-native-camp",
+  "version": "1.0.0",
+  "description": "27 skills from ai-native-camp/camp-1, ai-native-camp/camp-2: day1-onboarding, day2-create-context-sync-skill, day2-create-context-sync-skill, day2-supplement-mcp, day4-wrap-and-analyze, day5-fetch-and-digest, day5-fetch-and-digest, day6-prd-submit, day1-onboarding, day1-test-skill, day3-clarify, day2-mcp-and-context-sync, day4-wrap-and-analyze, my-fetch-tweet, history-insight, history-insight, session-wrap, team-assemble, session-wrap, team-assemble, content-digest, fetch-tweet, content-digest, session-analyzer, session-analyzer, compound, day1-test-skill",
+  "author": {
+    "name": "ai-native-camp"
+  },
+  "repositories": [
+    "https://github.com/ai-native-camp/camp-1",
+    "https://github.com/ai-native-camp/camp-2"
+  ],
+  "skills": [
+    "day1-onboarding",
+    "day2-create-context-sync-skill",
+    "day2-create-context-sync-skill",
+    "day2-supplement-mcp",
+    "day4-wrap-and-analyze",
+    "day5-fetch-and-digest",
+    "day5-fetch-and-digest",
+    "day6-prd-submit",
+    "day1-onboarding",
+    "day1-test-skill",
+    "day3-clarify",
+    "day2-mcp-and-context-sync",
+    "day4-wrap-and-analyze",
+    "my-fetch-tweet",
+    "history-insight",
+    "history-insight",
+    "session-wrap",
+    "team-assemble",
+    "session-wrap",
+    "team-assemble",
+    "content-digest",
+    "fetch-tweet",
+    "content-digest",
+    "session-analyzer",
+    "session-analyzer",
+    "compound",
+    "day1-test-skill"
+  ]
+}

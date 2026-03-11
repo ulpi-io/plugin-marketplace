@@ -1,0 +1,14 @@
+{
+  "name": "yfe404",
+  "version": "1.0.0",
+  "description": "1 skills from yfe404/web-scraper: web-scraping",
+  "author": {
+    "name": "yfe404"
+  },
+  "repositories": [
+    "https://github.com/yfe404/web-scraper"
+  ],
+  "skills": [
+    "web-scraping"
+  ]
+}

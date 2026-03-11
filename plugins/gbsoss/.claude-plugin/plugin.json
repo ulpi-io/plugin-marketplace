@@ -1,0 +1,19 @@
+{
+  "name": "gbsoss",
+  "version": "1.0.0",
+  "description": "6 skills from gbsoss/skill-from-masters: skill-from-masters, skill-from-github, search-skill, search-skill, skill-from-notebook, skill-from-notebook",
+  "author": {
+    "name": "gbsoss"
+  },
+  "repositories": [
+    "https://github.com/gbsoss/skill-from-masters"
+  ],
+  "skills": [
+    "skill-from-masters",
+    "skill-from-github",
+    "search-skill",
+    "search-skill",
+    "skill-from-notebook",
+    "skill-from-notebook"
+  ]
+}

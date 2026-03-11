@@ -1,9 +1,0 @@
-{
-  "name": "gpui-event",
-  "version": "1.0.0",
-  "description": "gpui-event skill from longbridge/gpui-component",
-  "author": {
-    "name": "longbridge"
-  },
-  "repository": "https://github.com/longbridge/gpui-component"
-}

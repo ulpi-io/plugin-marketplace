@@ -1,9 +1,0 @@
-{
-  "name": "code-auditor",
-  "version": "1.0.0",
-  "description": "code-auditor skill from mhattingpete/claude-skills-marketplace",
-  "author": {
-    "name": "mhattingpete"
-  },
-  "repository": "https://github.com/mhattingpete/claude-skills-marketplace"
-}

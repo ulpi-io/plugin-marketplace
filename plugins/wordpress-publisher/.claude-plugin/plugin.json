@@ -1,9 +1,0 @@
-{
-  "name": "wordpress-publisher",
-  "version": "1.0.0",
-  "description": "wordpress-publisher skill from aviz85/claude-skills-library",
-  "author": {
-    "name": "aviz85"
-  },
-  "repository": "https://github.com/aviz85/claude-skills-library"
-}

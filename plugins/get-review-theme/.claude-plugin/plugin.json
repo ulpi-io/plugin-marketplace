@@ -1,9 +1,0 @@
-{
-  "name": "get-review-theme",
-  "version": "1.0.0",
-  "description": "get-review-theme skill from huangwb8/chineseresearchlatex",
-  "author": {
-    "name": "huangwb8"
-  },
-  "repository": "https://github.com/huangwb8/chineseresearchlatex"
-}

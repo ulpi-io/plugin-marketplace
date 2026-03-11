@@ -1,0 +1,14 @@
+{
+  "name": "francyjglisboa",
+  "version": "1.0.0",
+  "description": "1 skills from francyjglisboa/agent-skill-creator: agent-skill-creator",
+  "author": {
+    "name": "francyjglisboa"
+  },
+  "repositories": [
+    "https://github.com/francyjglisboa/agent-skill-creator"
+  ],
+  "skills": [
+    "agent-skill-creator"
+  ]
+}

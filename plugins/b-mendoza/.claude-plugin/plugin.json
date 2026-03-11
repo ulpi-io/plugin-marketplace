@@ -1,0 +1,15 @@
+{
+  "name": "b-mendoza",
+  "version": "1.0.0",
+  "description": "2 skills from b-mendoza/agent-skills: validate-implementation-plan, validate-implementation-plan",
+  "author": {
+    "name": "b-mendoza"
+  },
+  "repositories": [
+    "https://github.com/b-mendoza/agent-skills"
+  ],
+  "skills": [
+    "validate-implementation-plan",
+    "validate-implementation-plan"
+  ]
+}

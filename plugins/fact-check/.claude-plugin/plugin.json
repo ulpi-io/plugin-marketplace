@@ -1,9 +1,0 @@
-{
-  "name": "fact-check",
-  "version": "1.0.0",
-  "description": "fact-check skill from leonardomso/33-js-concepts",
-  "author": {
-    "name": "leonardomso"
-  },
-  "repository": "https://github.com/leonardomso/33-js-concepts"
-}

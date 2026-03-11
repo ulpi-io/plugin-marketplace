@@ -1,0 +1,15 @@
+{
+  "name": "kkkkhazix",
+  "version": "1.0.0",
+  "description": "2 skills from kkkkhazix/khazix-skills: skill-manager, github-to-skills",
+  "author": {
+    "name": "kkkkhazix"
+  },
+  "repositories": [
+    "https://github.com/kkkkhazix/khazix-skills"
+  ],
+  "skills": [
+    "skill-manager",
+    "github-to-skills"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "modra40",
+  "version": "1.0.0",
+  "description": "1 skills from modra40/claude-codex-skills-directory: react-tanstack-senior",
+  "author": {
+    "name": "modra40"
+  },
+  "repositories": [
+    "https://github.com/modra40/claude-codex-skills-directory"
+  ],
+  "skills": [
+    "react-tanstack-senior"
+  ]
+}

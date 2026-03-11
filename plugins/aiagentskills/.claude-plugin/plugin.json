@@ -1,0 +1,14 @@
+{
+  "name": "aiagentskills",
+  "version": "1.0.0",
+  "description": "1 skills from aiagentskills/skills: landing-page-optimizer",
+  "author": {
+    "name": "aiagentskills"
+  },
+  "repositories": [
+    "https://github.com/aiagentskills/skills"
+  ],
+  "skills": [
+    "landing-page-optimizer"
+  ]
+}

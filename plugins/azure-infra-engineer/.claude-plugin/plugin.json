@@ -1,9 +1,0 @@
-{
-  "name": "azure-infra-engineer",
-  "version": "1.0.0",
-  "description": "azure-infra-engineer skill from 404kidwiz/claude-supercode-skills",
-  "author": {
-    "name": "404kidwiz"
-  },
-  "repository": "https://github.com/404kidwiz/claude-supercode-skills"
-}

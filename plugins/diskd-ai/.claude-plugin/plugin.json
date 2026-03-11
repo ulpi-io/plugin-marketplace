@@ -1,0 +1,14 @@
+{
+  "name": "diskd-ai",
+  "version": "1.0.0",
+  "description": "1 skills from diskd-ai/design-doc: design-doc",
+  "author": {
+    "name": "diskd-ai"
+  },
+  "repositories": [
+    "https://github.com/diskd-ai/design-doc"
+  ],
+  "skills": [
+    "design-doc"
+  ]
+}

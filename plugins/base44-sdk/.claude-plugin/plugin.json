@@ -1,9 +1,0 @@
-{
-  "name": "base44-sdk",
-  "version": "1.0.0",
-  "description": "base44-sdk skill from base44/skills",
-  "author": {
-    "name": "base44"
-  },
-  "repository": "https://github.com/base44/skills"
-}

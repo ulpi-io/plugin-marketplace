@@ -1,0 +1,20 @@
+{
+  "name": "gracefullight",
+  "version": "1.0.0",
+  "description": "7 skills from gracefullight/stock-checker: stock-analysis, yahoo-finance, trading-analysis, backtesting-trading-strategies, typescript-type-expert, typescript-expert, biome-validator",
+  "author": {
+    "name": "gracefullight"
+  },
+  "repositories": [
+    "https://github.com/gracefullight/stock-checker"
+  ],
+  "skills": [
+    "stock-analysis",
+    "yahoo-finance",
+    "trading-analysis",
+    "backtesting-trading-strategies",
+    "typescript-type-expert",
+    "typescript-expert",
+    "biome-validator"
+  ]
+}

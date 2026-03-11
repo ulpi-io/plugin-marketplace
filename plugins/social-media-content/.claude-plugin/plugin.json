@@ -1,9 +1,0 @@
-{
-  "name": "social-media-content",
-  "version": "1.0.0",
-  "description": "social-media-content skill from svenja-dev/claude-code-skills",
-  "author": {
-    "name": "svenja-dev"
-  },
-  "repository": "https://github.com/svenja-dev/claude-code-skills"
-}

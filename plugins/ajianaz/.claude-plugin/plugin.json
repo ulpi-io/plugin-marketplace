@@ -1,0 +1,14 @@
+{
+  "name": "ajianaz",
+  "version": "1.0.0",
+  "description": "1 skills from ajianaz/skills-collection: flutter-ui-ux",
+  "author": {
+    "name": "ajianaz"
+  },
+  "repositories": [
+    "https://github.com/ajianaz/skills-collection"
+  ],
+  "skills": [
+    "flutter-ui-ux"
+  ]
+}

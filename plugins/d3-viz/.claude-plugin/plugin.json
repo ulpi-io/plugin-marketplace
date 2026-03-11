@@ -1,9 +1,0 @@
-{
-  "name": "d3-viz",
-  "version": "1.0.0",
-  "description": "d3-viz skill from chrisvoncsefalvay/claude-d3js-skill",
-  "author": {
-    "name": "chrisvoncsefalvay"
-  },
-  "repository": "https://github.com/chrisvoncsefalvay/claude-d3js-skill"
-}

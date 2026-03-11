@@ -1,0 +1,14 @@
+{
+  "name": "zarazhangrui",
+  "version": "1.0.0",
+  "description": "1 skills from zarazhangrui/frontend-slides: frontend-slides",
+  "author": {
+    "name": "zarazhangrui"
+  },
+  "repositories": [
+    "https://github.com/zarazhangrui/frontend-slides"
+  ],
+  "skills": [
+    "frontend-slides"
+  ]
+}

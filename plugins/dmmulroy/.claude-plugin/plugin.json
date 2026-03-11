@@ -1,0 +1,19 @@
+{
+  "name": "dmmulroy",
+  "version": "1.0.0",
+  "description": "4 skills from dmmulroy/cloudflare-skill, dmmulroy/better-result, dmmulroy/overseer: cloudflare, better-result-adopt, overseer, overseer-plan",
+  "author": {
+    "name": "dmmulroy"
+  },
+  "repositories": [
+    "https://github.com/dmmulroy/cloudflare-skill",
+    "https://github.com/dmmulroy/better-result",
+    "https://github.com/dmmulroy/overseer"
+  ],
+  "skills": [
+    "cloudflare",
+    "better-result-adopt",
+    "overseer",
+    "overseer-plan"
+  ]
+}

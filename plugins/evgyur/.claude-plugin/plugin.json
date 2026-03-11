@@ -1,0 +1,14 @@
+{
+  "name": "evgyur",
+  "version": "1.0.0",
+  "description": "1 skills from evgyur/find-skills: find-skills",
+  "author": {
+    "name": "evgyur"
+  },
+  "repositories": [
+    "https://github.com/evgyur/find-skills"
+  ],
+  "skills": [
+    "find-skills"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "antinomyhq",
+  "version": "1.0.0",
+  "description": "1 skills from antinomyhq/forge: resolve-conflicts",
+  "author": {
+    "name": "antinomyhq"
+  },
+  "repositories": [
+    "https://github.com/antinomyhq/forge"
+  ],
+  "skills": [
+    "resolve-conflicts"
+  ]
+}

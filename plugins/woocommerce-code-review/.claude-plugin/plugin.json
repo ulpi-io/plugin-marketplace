@@ -1,9 +1,0 @@
-{
-  "name": "woocommerce-code-review",
-  "version": "1.0.0",
-  "description": "woocommerce-code-review skill from woocommerce/woocommerce",
-  "author": {
-    "name": "woocommerce"
-  },
-  "repository": "https://github.com/woocommerce/woocommerce"
-}

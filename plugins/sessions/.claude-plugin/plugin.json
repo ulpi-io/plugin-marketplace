@@ -1,9 +1,0 @@
-{
-  "name": "sessions",
-  "version": "1.0.0",
-  "description": "sessions skill from microsoft/vscode",
-  "author": {
-    "name": "microsoft"
-  },
-  "repository": "https://github.com/microsoft/vscode"
-}

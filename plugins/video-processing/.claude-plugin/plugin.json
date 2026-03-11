@@ -1,9 +1,0 @@
-{
-  "name": "video-processing",
-  "version": "1.0.0",
-  "description": "video-processing skill from letta-ai/skills",
-  "author": {
-    "name": "letta-ai"
-  },
-  "repository": "https://github.com/letta-ai/skills"
-}

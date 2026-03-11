@@ -1,9 +1,0 @@
-{
-  "name": "create-an-asset",
-  "version": "1.0.0",
-  "description": "create-an-asset skill from anthropics/knowledge-work-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/knowledge-work-plugins"
-}

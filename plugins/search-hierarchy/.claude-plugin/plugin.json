@@ -1,9 +1,0 @@
-{
-  "name": "search-hierarchy",
-  "version": "1.0.0",
-  "description": "search-hierarchy skill from parcadei/continuous-claude-v3",
-  "author": {
-    "name": "parcadei"
-  },
-  "repository": "https://github.com/parcadei/continuous-claude-v3"
-}

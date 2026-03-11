@@ -1,0 +1,14 @@
+{
+  "name": "mineru98",
+  "version": "1.0.0",
+  "description": "1 skills from mineru98/skills-store: excel-data-analyzer",
+  "author": {
+    "name": "mineru98"
+  },
+  "repositories": [
+    "https://github.com/mineru98/skills-store"
+  ],
+  "skills": [
+    "excel-data-analyzer"
+  ]
+}

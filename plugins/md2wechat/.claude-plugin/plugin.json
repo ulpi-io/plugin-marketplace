@@ -1,9 +1,0 @@
-{
-  "name": "md2wechat",
-  "version": "1.0.0",
-  "description": "md2wechat skill from geekjourneyx/md2wechat-skill",
-  "author": {
-    "name": "geekjourneyx"
-  },
-  "repository": "https://github.com/geekjourneyx/md2wechat-skill"
-}

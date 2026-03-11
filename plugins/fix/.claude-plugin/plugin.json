@@ -1,9 +1,0 @@
-{
-  "name": "fix",
-  "version": "1.0.0",
-  "description": "fix skill from buiducnhat/agent-skills",
-  "author": {
-    "name": "buiducnhat"
-  },
-  "repository": "https://github.com/buiducnhat/agent-skills"
-}

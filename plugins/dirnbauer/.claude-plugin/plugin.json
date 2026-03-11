@@ -1,0 +1,15 @@
+{
+  "name": "dirnbauer",
+  "version": "1.0.0",
+  "description": "2 skills from dirnbauer/webconsulting-skills: ai-search-optimization, document-processing",
+  "author": {
+    "name": "dirnbauer"
+  },
+  "repositories": [
+    "https://github.com/dirnbauer/webconsulting-skills"
+  ],
+  "skills": [
+    "ai-search-optimization",
+    "document-processing"
+  ]
+}

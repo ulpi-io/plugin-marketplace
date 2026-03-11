@@ -1,9 +1,0 @@
-{
-  "name": "tooluniverse-image-analysis",
-  "version": "1.0.0",
-  "description": "tooluniverse-image-analysis skill from mims-harvard/tooluniverse",
-  "author": {
-    "name": "mims-harvard"
-  },
-  "repository": "https://github.com/mims-harvard/tooluniverse"
-}

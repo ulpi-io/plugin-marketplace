@@ -1,9 +1,0 @@
-{
-  "name": "project-workflow",
-  "version": "1.0.0",
-  "description": "project-workflow skill from jezweb/claude-skills",
-  "author": {
-    "name": "jezweb"
-  },
-  "repository": "https://github.com/jezweb/claude-skills"
-}

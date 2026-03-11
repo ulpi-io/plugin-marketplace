@@ -1,0 +1,23 @@
+{
+  "name": "triggerdotdev",
+  "version": "1.0.0",
+  "description": "9 skills from triggerdotdev/skills, triggerdotdev/trigger.dev: trigger-tasks, trigger-config, trigger-agents, trigger-setup, trigger-setup, trigger-realtime, trigger-realtime, trigger-cost-savings, trigger-dev-tasks",
+  "author": {
+    "name": "triggerdotdev"
+  },
+  "repositories": [
+    "https://github.com/triggerdotdev/skills",
+    "https://github.com/triggerdotdev/trigger.dev"
+  ],
+  "skills": [
+    "trigger-tasks",
+    "trigger-config",
+    "trigger-agents",
+    "trigger-setup",
+    "trigger-setup",
+    "trigger-realtime",
+    "trigger-realtime",
+    "trigger-cost-savings",
+    "trigger-dev-tasks"
+  ]
+}

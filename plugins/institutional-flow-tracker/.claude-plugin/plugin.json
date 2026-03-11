@@ -1,9 +1,0 @@
-{
-  "name": "institutional-flow-tracker",
-  "version": "1.0.0",
-  "description": "institutional-flow-tracker skill from tradermonty/claude-trading-skills",
-  "author": {
-    "name": "tradermonty"
-  },
-  "repository": "https://github.com/tradermonty/claude-trading-skills"
-}

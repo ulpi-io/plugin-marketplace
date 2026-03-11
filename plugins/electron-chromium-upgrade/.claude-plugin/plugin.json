@@ -1,9 +1,0 @@
-{
-  "name": "electron-chromium-upgrade",
-  "version": "1.0.0",
-  "description": "electron-chromium-upgrade skill from electron/electron",
-  "author": {
-    "name": "electron"
-  },
-  "repository": "https://github.com/electron/electron"
-}

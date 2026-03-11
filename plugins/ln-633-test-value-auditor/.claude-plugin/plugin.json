@@ -1,9 +1,0 @@
-{
-  "name": "ln-633-test-value-auditor",
-  "version": "1.0.0",
-  "description": "ln-633-test-value-auditor skill from levnikolaevich/claude-code-skills",
-  "author": {
-    "name": "levnikolaevich"
-  },
-  "repository": "https://github.com/levnikolaevich/claude-code-skills"
-}

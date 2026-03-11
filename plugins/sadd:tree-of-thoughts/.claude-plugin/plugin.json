@@ -1,9 +1,0 @@
-{
-  "name": "sadd:tree-of-thoughts",
-  "version": "1.0.0",
-  "description": "sadd:tree-of-thoughts skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

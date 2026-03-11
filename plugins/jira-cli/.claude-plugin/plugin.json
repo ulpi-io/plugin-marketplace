@@ -1,9 +1,0 @@
-{
-  "name": "jira-cli",
-  "version": "1.0.0",
-  "description": "jira-cli skill from code-and-sorts/awesome-copilot-agents",
-  "author": {
-    "name": "code-and-sorts"
-  },
-  "repository": "https://github.com/code-and-sorts/awesome-copilot-agents"
-}

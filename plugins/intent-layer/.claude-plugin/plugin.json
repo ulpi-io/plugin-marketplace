@@ -1,9 +1,0 @@
-{
-  "name": "intent-layer",
-  "version": "1.0.0",
-  "description": "intent-layer skill from crafter-station/skills",
-  "author": {
-    "name": "crafter-station"
-  },
-  "repository": "https://github.com/crafter-station/skills"
-}

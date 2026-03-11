@@ -1,0 +1,16 @@
+{
+  "name": "kochetkov-ma",
+  "version": "1.0.0",
+  "description": "3 skills from kochetkov-ma/claude-brewcode: text-optimizer, text-optimizer, memory-optimize",
+  "author": {
+    "name": "kochetkov-ma"
+  },
+  "repositories": [
+    "https://github.com/kochetkov-ma/claude-brewcode"
+  ],
+  "skills": [
+    "text-optimizer",
+    "text-optimizer",
+    "memory-optimize"
+  ]
+}

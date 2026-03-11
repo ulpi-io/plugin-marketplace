@@ -1,0 +1,15 @@
+{
+  "name": "robdefeo",
+  "version": "1.0.0",
+  "description": "2 skills from robdefeo/agent-skills: amazon-working-backwards, para-second-brain",
+  "author": {
+    "name": "robdefeo"
+  },
+  "repositories": [
+    "https://github.com/robdefeo/agent-skills"
+  ],
+  "skills": [
+    "amazon-working-backwards",
+    "para-second-brain"
+  ]
+}

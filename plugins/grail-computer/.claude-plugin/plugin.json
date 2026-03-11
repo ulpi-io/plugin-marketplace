@@ -1,0 +1,14 @@
+{
+  "name": "grail-computer",
+  "version": "1.0.0",
+  "description": "1 skills from grail-computer/self-improving-agent: self-improving-agent",
+  "author": {
+    "name": "grail-computer"
+  },
+  "repositories": [
+    "https://github.com/grail-computer/self-improving-agent"
+  ],
+  "skills": [
+    "self-improving-agent"
+  ]
+}

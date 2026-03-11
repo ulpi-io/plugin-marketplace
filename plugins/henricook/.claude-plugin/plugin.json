@@ -1,0 +1,14 @@
+{
+  "name": "henricook",
+  "version": "1.0.0",
+  "description": "1 skills from henricook/claude-glab-skill: glab",
+  "author": {
+    "name": "henricook"
+  },
+  "repositories": [
+    "https://github.com/henricook/claude-glab-skill"
+  ],
+  "skills": [
+    "glab"
+  ]
+}

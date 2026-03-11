@@ -1,9 +1,0 @@
-{
-  "name": "add-setting-env",
-  "version": "1.0.0",
-  "description": "add-setting-env skill from lobehub/lobe-chat",
-  "author": {
-    "name": "lobehub"
-  },
-  "repository": "https://github.com/lobehub/lobe-chat"
-}

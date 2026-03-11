@@ -1,0 +1,14 @@
+{
+  "name": "zhjiang22",
+  "version": "1.0.0",
+  "description": "1 skills from zhjiang22/openclaw-xhs: xiaohongshu",
+  "author": {
+    "name": "zhjiang22"
+  },
+  "repositories": [
+    "https://github.com/zhjiang22/openclaw-xhs"
+  ],
+  "skills": [
+    "xiaohongshu"
+  ]
+}

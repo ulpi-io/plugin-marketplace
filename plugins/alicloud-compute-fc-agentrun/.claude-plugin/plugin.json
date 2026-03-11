@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-compute-fc-agentrun",
-  "version": "1.0.0",
-  "description": "alicloud-compute-fc-agentrun skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

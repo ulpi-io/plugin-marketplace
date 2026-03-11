@@ -1,9 +1,14 @@
 {
   "name": "typefully",
   "version": "1.0.0",
-  "description": "typefully skill from typefully/agent-skills",
+  "description": "1 skills from typefully/agent-skills: typefully",
   "author": {
     "name": "typefully"
   },
-  "repository": "https://github.com/typefully/agent-skills"
+  "repositories": [
+    "https://github.com/typefully/agent-skills"
+  ],
+  "skills": [
+    "typefully"
+  ]
 }

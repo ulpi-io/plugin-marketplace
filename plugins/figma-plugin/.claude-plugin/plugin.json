@@ -1,9 +1,0 @@
-{
-  "name": "figma-plugin",
-  "version": "1.0.0",
-  "description": "figma-plugin skill from srstomp/pokayokay",
-  "author": {
-    "name": "srstomp"
-  },
-  "repository": "https://github.com/srstomp/pokayokay"
-}

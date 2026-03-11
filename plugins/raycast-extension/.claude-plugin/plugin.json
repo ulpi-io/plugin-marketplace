@@ -1,9 +1,0 @@
-{
-  "name": "raycast-extension",
-  "version": "1.0.0",
-  "description": "raycast-extension skill from johnlindquist/claude",
-  "author": {
-    "name": "johnlindquist"
-  },
-  "repository": "https://github.com/johnlindquist/claude"
-}

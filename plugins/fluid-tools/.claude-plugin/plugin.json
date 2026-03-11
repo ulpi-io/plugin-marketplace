@@ -1,0 +1,15 @@
+{
+  "name": "fluid-tools",
+  "version": "1.0.0",
+  "description": "2 skills from fluid-tools/claude-skills: vercel-ai-sdk, typescript-strict-mode",
+  "author": {
+    "name": "fluid-tools"
+  },
+  "repositories": [
+    "https://github.com/fluid-tools/claude-skills"
+  ],
+  "skills": [
+    "vercel-ai-sdk",
+    "typescript-strict-mode"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "skill-finder",
-  "version": "1.0.0",
-  "description": "skill-finder skill from aktsmm/agent-skills",
-  "author": {
-    "name": "aktsmm"
-  },
-  "repository": "https://github.com/aktsmm/agent-skills"
-}

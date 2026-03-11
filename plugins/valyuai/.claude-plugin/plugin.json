@@ -1,0 +1,14 @@
+{
+  "name": "valyuai",
+  "version": "1.0.0",
+  "description": "1 skills from valyuai/skills: valyu-best-practices",
+  "author": {
+    "name": "valyuai"
+  },
+  "repositories": [
+    "https://github.com/valyuai/skills"
+  ],
+  "skills": [
+    "valyu-best-practices"
+  ]
+}

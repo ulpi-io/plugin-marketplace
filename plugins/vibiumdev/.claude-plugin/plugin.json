@@ -1,0 +1,14 @@
+{
+  "name": "vibiumdev",
+  "version": "1.0.0",
+  "description": "1 skills from vibiumdev/vibium: vibe-check",
+  "author": {
+    "name": "vibiumdev"
+  },
+  "repositories": [
+    "https://github.com/vibiumdev/vibium"
+  ],
+  "skills": [
+    "vibe-check"
+  ]
+}

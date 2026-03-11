@@ -1,0 +1,19 @@
+{
+  "name": "markpitt",
+  "version": "1.0.0",
+  "description": "6 skills from markpitt/claude-skills: blazor-expert, azure-devops, microsoft-graph, kiss-principle, markdown-formatter, dotnet-aspire",
+  "author": {
+    "name": "markpitt"
+  },
+  "repositories": [
+    "https://github.com/markpitt/claude-skills"
+  ],
+  "skills": [
+    "blazor-expert",
+    "azure-devops",
+    "microsoft-graph",
+    "kiss-principle",
+    "markdown-formatter",
+    "dotnet-aspire"
+  ]
+}

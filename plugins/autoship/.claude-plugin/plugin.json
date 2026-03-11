@@ -1,9 +1,0 @@
-{
-  "name": "autoship",
-  "version": "1.0.0",
-  "description": "autoship skill from vercel-labs/autoship",
-  "author": {
-    "name": "vercel-labs"
-  },
-  "repository": "https://github.com/vercel-labs/autoship"
-}

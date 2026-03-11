@@ -1,0 +1,15 @@
+{
+  "name": "mckruz",
+  "version": "1.0.0",
+  "description": "2 skills from mckruz/comfyui-expert: comfyui-api, comfyui-workflow-builder",
+  "author": {
+    "name": "mckruz"
+  },
+  "repositories": [
+    "https://github.com/mckruz/comfyui-expert"
+  ],
+  "skills": [
+    "comfyui-api",
+    "comfyui-workflow-builder"
+  ]
+}

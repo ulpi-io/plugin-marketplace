@@ -1,9 +1,47 @@
 {
   "name": "flutter",
   "version": "1.0.0",
-  "description": "flutter skill from alinaqi/claude-bootstrap",
+  "description": "34 skills from flutter/skills: flutter-layout, flutter-layout, flutter-performance, flutter-theming, flutter-theming, flutter-animation, flutter-animation, flutter-routing-and-navigation, flutter-routing-and-navigation, flutter-state-management, flutter-architecture, flutter-architecture, flutter-caching, flutter-testing, flutter-app-size, flutter-app-size, flutter-localization, flutter-localization, flutter-concurrency, flutter-concurrency, flutter-http-and-json, flutter-accessibility, flutter-accessibility, flutter-http-and-json, flutter-databases, flutter-native-interop, flutter-platform-views, flutter-plugins, flutter-environment-setup-macos, flutter-environment-setup-windows, flutter-environment-setup-windows, flutter-environment-setup-linux, flutter-environment-setup-linux, flutter-home-screen-widget",
   "author": {
-    "name": "alinaqi"
+    "name": "flutter"
   },
-  "repository": "https://github.com/alinaqi/claude-bootstrap"
+  "repositories": [
+    "https://github.com/flutter/skills"
+  ],
+  "skills": [
+    "flutter-layout",
+    "flutter-layout",
+    "flutter-performance",
+    "flutter-theming",
+    "flutter-theming",
+    "flutter-animation",
+    "flutter-animation",
+    "flutter-routing-and-navigation",
+    "flutter-routing-and-navigation",
+    "flutter-state-management",
+    "flutter-architecture",
+    "flutter-architecture",
+    "flutter-caching",
+    "flutter-testing",
+    "flutter-app-size",
+    "flutter-app-size",
+    "flutter-localization",
+    "flutter-localization",
+    "flutter-concurrency",
+    "flutter-concurrency",
+    "flutter-http-and-json",
+    "flutter-accessibility",
+    "flutter-accessibility",
+    "flutter-http-and-json",
+    "flutter-databases",
+    "flutter-native-interop",
+    "flutter-platform-views",
+    "flutter-plugins",
+    "flutter-environment-setup-macos",
+    "flutter-environment-setup-windows",
+    "flutter-environment-setup-windows",
+    "flutter-environment-setup-linux",
+    "flutter-environment-setup-linux",
+    "flutter-home-screen-widget"
+  ]
 }

@@ -1,9 +1,0 @@
-{
-  "name": "python-resilience",
-  "version": "1.0.0",
-  "description": "python-resilience skill from wshobson/agents",
-  "author": {
-    "name": "wshobson"
-  },
-  "repository": "https://github.com/wshobson/agents"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "hookdeck",
+  "version": "1.0.0",
+  "description": "1 skills from hookdeck/webhook-skills: stripe-webhooks",
+  "author": {
+    "name": "hookdeck"
+  },
+  "repositories": [
+    "https://github.com/hookdeck/webhook-skills"
+  ],
+  "skills": [
+    "stripe-webhooks"
+  ]
+}

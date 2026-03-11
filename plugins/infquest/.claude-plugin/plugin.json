@@ -1,0 +1,14 @@
+{
+  "name": "infquest",
+  "version": "1.0.0",
+  "description": "1 skills from infquest/vibe-ops-plugin: audio-transcribe",
+  "author": {
+    "name": "infquest"
+  },
+  "repositories": [
+    "https://github.com/infquest/vibe-ops-plugin"
+  ],
+  "skills": [
+    "audio-transcribe"
+  ]
+}

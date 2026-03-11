@@ -1,0 +1,14 @@
+{
+  "name": "saisudhir14",
+  "version": "1.0.0",
+  "description": "1 skills from saisudhir14/golang-agent-skill: golang",
+  "author": {
+    "name": "saisudhir14"
+  },
+  "repositories": [
+    "https://github.com/saisudhir14/golang-agent-skill"
+  ],
+  "skills": [
+    "golang"
+  ]
+}

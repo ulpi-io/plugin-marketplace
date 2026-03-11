@@ -1,9 +1,0 @@
-{
-  "name": "web-haptics",
-  "version": "1.0.0",
-  "description": "web-haptics skill from lochie/web-haptics",
-  "author": {
-    "name": "lochie"
-  },
-  "repository": "https://github.com/lochie/web-haptics"
-}

@@ -1,0 +1,20 @@
+{
+  "name": "am-will",
+  "version": "1.0.0",
+  "description": "6 skills from am-will/codex-skills, am-will/swarms: context7, frontend-design, planner, tdd-test-writer, parallel-task, swarm-planner",
+  "author": {
+    "name": "am-will"
+  },
+  "repositories": [
+    "https://github.com/am-will/codex-skills",
+    "https://github.com/am-will/swarms"
+  ],
+  "skills": [
+    "context7",
+    "frontend-design",
+    "planner",
+    "tdd-test-writer",
+    "parallel-task",
+    "swarm-planner"
+  ]
+}

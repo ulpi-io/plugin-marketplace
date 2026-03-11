@@ -1,9 +1,0 @@
-{
-  "name": "builder",
-  "version": "1.0.0",
-  "description": "builder skill from aj-geddes/claude-code-bmad-skills",
-  "author": {
-    "name": "aj-geddes"
-  },
-  "repository": "https://github.com/aj-geddes/claude-code-bmad-skills"
-}

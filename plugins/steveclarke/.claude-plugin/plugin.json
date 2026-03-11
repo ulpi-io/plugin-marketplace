@@ -1,0 +1,14 @@
+{
+  "name": "steveclarke",
+  "version": "1.0.0",
+  "description": "1 skills from steveclarke/real-world-rails: real-world-rails",
+  "author": {
+    "name": "steveclarke"
+  },
+  "repositories": [
+    "https://github.com/steveclarke/real-world-rails"
+  ],
+  "skills": [
+    "real-world-rails"
+  ]
+}

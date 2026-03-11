@@ -1,9 +1,23 @@
 {
   "name": "better-auth",
   "version": "1.0.0",
-  "description": "better-auth skill from giuseppe-trisciuoglio/developer-kit",
+  "description": "9 skills from better-auth/skills, better-auth/better-icons: better-auth-best-practices, create-auth-skill, email-and-password-best-practices, organization-best-practices, two-factor-authentication-best-practices, two-factor-authentication-best-practices, better-auth-security-best-practices, better-auth-security-best-practices, better-icons",
   "author": {
-    "name": "giuseppe-trisciuoglio"
+    "name": "better-auth"
   },
-  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
+  "repositories": [
+    "https://github.com/better-auth/skills",
+    "https://github.com/better-auth/better-icons"
+  ],
+  "skills": [
+    "better-auth-best-practices",
+    "create-auth-skill",
+    "email-and-password-best-practices",
+    "organization-best-practices",
+    "two-factor-authentication-best-practices",
+    "two-factor-authentication-best-practices",
+    "better-auth-security-best-practices",
+    "better-auth-security-best-practices",
+    "better-icons"
+  ]
 }

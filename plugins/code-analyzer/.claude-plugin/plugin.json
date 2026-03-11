@@ -1,9 +1,0 @@
-{
-  "name": "code-analyzer",
-  "version": "1.0.0",
-  "description": "code-analyzer skill from oimiragieo/agent-studio",
-  "author": {
-    "name": "oimiragieo"
-  },
-  "repository": "https://github.com/oimiragieo/agent-studio"
-}

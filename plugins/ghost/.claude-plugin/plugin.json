@@ -1,9 +1,0 @@
-{
-  "name": "ghost",
-  "version": "1.0.0",
-  "description": "ghost skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

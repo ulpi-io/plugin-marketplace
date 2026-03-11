@@ -1,0 +1,14 @@
+{
+  "name": "him0",
+  "version": "1.0.0",
+  "description": "1 skills from him0/freee-mcp: freee-api-skill",
+  "author": {
+    "name": "him0"
+  },
+  "repositories": [
+    "https://github.com/him0/freee-mcp"
+  ],
+  "skills": [
+    "freee-api-skill"
+  ]
+}

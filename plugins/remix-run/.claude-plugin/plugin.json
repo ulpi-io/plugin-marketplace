@@ -1,0 +1,16 @@
+{
+  "name": "remix-run",
+  "version": "1.0.0",
+  "description": "3 skills from remix-run/agent-skills: react-router-framework-mode, react-router-data-mode, react-router-declarative-mode",
+  "author": {
+    "name": "remix-run"
+  },
+  "repositories": [
+    "https://github.com/remix-run/agent-skills"
+  ],
+  "skills": [
+    "react-router-framework-mode",
+    "react-router-data-mode",
+    "react-router-declarative-mode"
+  ]
+}

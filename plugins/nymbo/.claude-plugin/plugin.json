@@ -1,0 +1,14 @@
+{
+  "name": "nymbo",
+  "version": "1.0.0",
+  "description": "1 skills from nymbo/skills: music-downloader",
+  "author": {
+    "name": "nymbo"
+  },
+  "repositories": [
+    "https://github.com/nymbo/skills"
+  ],
+  "skills": [
+    "music-downloader"
+  ]
+}

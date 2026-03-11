@@ -1,9 +1,0 @@
-{
-  "name": "observability-monitoring",
-  "version": "1.0.0",
-  "description": "observability-monitoring skill from andrelandgraf/fullstackrecipes",
-  "author": {
-    "name": "andrelandgraf"
-  },
-  "repository": "https://github.com/andrelandgraf/fullstackrecipes"
-}

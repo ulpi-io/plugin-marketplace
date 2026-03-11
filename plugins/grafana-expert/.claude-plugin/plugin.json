@@ -1,9 +1,0 @@
-{
-  "name": "grafana-expert",
-  "version": "1.0.0",
-  "description": "grafana-expert skill from personamanagmentlayer/pcl",
-  "author": {
-    "name": "personamanagmentlayer"
-  },
-  "repository": "https://github.com/personamanagmentlayer/pcl"
-}

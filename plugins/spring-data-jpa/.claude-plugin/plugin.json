@@ -1,9 +1,0 @@
-{
-  "name": "spring-data-jpa",
-  "version": "1.0.0",
-  "description": "spring-data-jpa skill from giuseppe-trisciuoglio/developer-kit",
-  "author": {
-    "name": "giuseppe-trisciuoglio"
-  },
-  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
-}

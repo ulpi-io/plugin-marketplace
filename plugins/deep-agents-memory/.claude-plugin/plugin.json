@@ -1,9 +1,0 @@
-{
-  "name": "deep-agents-memory",
-  "version": "1.0.0",
-  "description": "deep-agents-memory skill from langchain-ai/langchain-skills",
-  "author": {
-    "name": "langchain-ai"
-  },
-  "repository": "https://github.com/langchain-ai/langchain-skills"
-}

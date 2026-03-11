@@ -1,9 +1,0 @@
-{
-  "name": "translate",
-  "version": "1.0.0",
-  "description": "translate skill from tuesd4y/agent-skills",
-  "author": {
-    "name": "tuesd4y"
-  },
-  "repository": "https://github.com/tuesd4y/agent-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "git-commit",
-  "version": "1.0.0",
-  "description": "git-commit skill from github/awesome-copilot",
-  "author": {
-    "name": "github"
-  },
-  "repository": "https://github.com/github/awesome-copilot"
-}

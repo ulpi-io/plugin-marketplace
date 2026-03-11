@@ -1,0 +1,16 @@
+{
+  "name": "chromedevtools",
+  "version": "1.0.0",
+  "description": "3 skills from chromedevtools/chrome-devtools-mcp: chrome-devtools, a11y-debugging, debug-optimize-lcp",
+  "author": {
+    "name": "chromedevtools"
+  },
+  "repositories": [
+    "https://github.com/chromedevtools/chrome-devtools-mcp"
+  ],
+  "skills": [
+    "chrome-devtools",
+    "a11y-debugging",
+    "debug-optimize-lcp"
+  ]
+}

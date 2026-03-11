@@ -1,9 +1,0 @@
-{
-  "name": "ssh",
-  "version": "1.0.0",
-  "description": "ssh skill from openhands/skills",
-  "author": {
-    "name": "openhands"
-  },
-  "repository": "https://github.com/openhands/skills"
-}

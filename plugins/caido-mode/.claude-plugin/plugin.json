@@ -1,9 +1,0 @@
-{
-  "name": "caido-mode",
-  "version": "1.0.0",
-  "description": "caido-mode skill from caido/skills",
-  "author": {
-    "name": "caido"
-  },
-  "repository": "https://github.com/caido/skills"
-}

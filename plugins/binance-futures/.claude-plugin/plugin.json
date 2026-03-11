@@ -1,9 +1,0 @@
-{
-  "name": "binance-futures",
-  "version": "1.0.0",
-  "description": "binance-futures skill from alsk1992/cloddsbot",
-  "author": {
-    "name": "alsk1992"
-  },
-  "repository": "https://github.com/alsk1992/cloddsbot"
-}

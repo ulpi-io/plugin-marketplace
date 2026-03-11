@@ -1,0 +1,14 @@
+{
+  "name": "kindy",
+  "version": "1.0.0",
+  "description": "1 skills from kindy/skills: primevue",
+  "author": {
+    "name": "kindy"
+  },
+  "repositories": [
+    "https://github.com/kindy/skills"
+  ],
+  "skills": [
+    "primevue"
+  ]
+}

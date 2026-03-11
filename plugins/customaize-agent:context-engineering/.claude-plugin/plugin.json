@@ -1,9 +1,0 @@
-{
-  "name": "customaize-agent:context-engineering",
-  "version": "1.0.0",
-  "description": "customaize-agent:context-engineering skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

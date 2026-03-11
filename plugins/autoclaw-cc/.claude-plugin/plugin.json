@@ -1,0 +1,17 @@
+{
+  "name": "autoclaw-cc",
+  "version": "1.0.0",
+  "description": "3 skills from autoclaw-cc/xiaohongshu-mcp-skills, autoclaw-cc/xiaohongshu-skills: xiaohongshu, xiaohongshu, xiaohongshu-skills",
+  "author": {
+    "name": "autoclaw-cc"
+  },
+  "repositories": [
+    "https://github.com/autoclaw-cc/xiaohongshu-mcp-skills",
+    "https://github.com/autoclaw-cc/xiaohongshu-skills"
+  ],
+  "skills": [
+    "xiaohongshu",
+    "xiaohongshu",
+    "xiaohongshu-skills"
+  ]
+}

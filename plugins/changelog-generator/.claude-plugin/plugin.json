@@ -1,9 +1,0 @@
-{
-  "name": "changelog-generator",
-  "version": "1.0.0",
-  "description": "changelog-generator skill from dedalus-erp-pas/foundation-skills",
-  "author": {
-    "name": "dedalus-erp-pas"
-  },
-  "repository": "https://github.com/dedalus-erp-pas/foundation-skills"
-}

@@ -1,0 +1,24 @@
+{
+  "name": "qodex-ai",
+  "version": "1.0.0",
+  "description": "11 skills from qodex-ai/ai-agent-skills: multi-agent-orchestration, word-document-processor, financial-analysis-agent, ecommerce-platform-specialist, ecommerce-platform-specialist, legal-document-analyzer, spreadsheet-processor, autonomous-agent-gaming, chat-with-arxiv, generate-swagger-docs, deep-research-agent",
+  "author": {
+    "name": "qodex-ai"
+  },
+  "repositories": [
+    "https://github.com/qodex-ai/ai-agent-skills"
+  ],
+  "skills": [
+    "multi-agent-orchestration",
+    "word-document-processor",
+    "financial-analysis-agent",
+    "ecommerce-platform-specialist",
+    "ecommerce-platform-specialist",
+    "legal-document-analyzer",
+    "spreadsheet-processor",
+    "autonomous-agent-gaming",
+    "chat-with-arxiv",
+    "generate-swagger-docs",
+    "deep-research-agent"
+  ]
+}

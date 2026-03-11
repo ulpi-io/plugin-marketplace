@@ -1,0 +1,15 @@
+{
+  "name": "forrestchang",
+  "version": "1.0.0",
+  "description": "2 skills from forrestchang/andrej-karpathy-skills: karpathy-guidelines, karpathy-guidelines",
+  "author": {
+    "name": "forrestchang"
+  },
+  "repositories": [
+    "https://github.com/forrestchang/andrej-karpathy-skills"
+  ],
+  "skills": [
+    "karpathy-guidelines",
+    "karpathy-guidelines"
+  ]
+}

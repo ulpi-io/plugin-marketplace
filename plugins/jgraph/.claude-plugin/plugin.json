@@ -1,0 +1,15 @@
+{
+  "name": "jgraph",
+  "version": "1.0.0",
+  "description": "2 skills from jgraph/drawio-mcp: drawio, drawio",
+  "author": {
+    "name": "jgraph"
+  },
+  "repositories": [
+    "https://github.com/jgraph/drawio-mcp"
+  ],
+  "skills": [
+    "drawio",
+    "drawio"
+  ]
+}

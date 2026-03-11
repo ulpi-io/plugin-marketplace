@@ -1,9 +1,0 @@
-{
-  "name": "symfony:using-symfony-superpowers",
-  "version": "1.0.0",
-  "description": "symfony:using-symfony-superpowers skill from makfly/superpowers-symfony",
-  "author": {
-    "name": "makfly"
-  },
-  "repository": "https://github.com/makfly/superpowers-symfony"
-}

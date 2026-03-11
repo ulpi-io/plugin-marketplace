@@ -1,9 +1,0 @@
-{
-  "name": "php-symfony",
-  "version": "1.0.0",
-  "description": "php-symfony skill from pluginagentmarketplace/custom-plugin-php",
-  "author": {
-    "name": "pluginagentmarketplace"
-  },
-  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-php"
-}

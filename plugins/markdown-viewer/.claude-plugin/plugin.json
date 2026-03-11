@@ -1,0 +1,19 @@
+{
+  "name": "markdown-viewer",
+  "version": "1.0.0",
+  "description": "6 skills from markdown-viewer/skills: wireframe, drawio, mermaid, floor-plan, architecture, infographic",
+  "author": {
+    "name": "markdown-viewer"
+  },
+  "repositories": [
+    "https://github.com/markdown-viewer/skills"
+  ],
+  "skills": [
+    "wireframe",
+    "drawio",
+    "mermaid",
+    "floor-plan",
+    "architecture",
+    "infographic"
+  ]
+}

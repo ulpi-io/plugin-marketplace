@@ -1,9 +1,0 @@
-{
-  "name": "typescript-react-reviewer",
-  "version": "1.0.0",
-  "description": "typescript-react-reviewer skill from dotneet/claude-code-marketplace",
-  "author": {
-    "name": "dotneet"
-  },
-  "repository": "https://github.com/dotneet/claude-code-marketplace"
-}

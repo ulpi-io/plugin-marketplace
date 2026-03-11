@@ -1,9 +1,0 @@
-{
-  "name": "gemini-cli",
-  "version": "1.0.0",
-  "description": "gemini-cli skill from x-zero-l/agent-skills",
-  "author": {
-    "name": "x-zero-l"
-  },
-  "repository": "https://github.com/x-zero-l/agent-skills"
-}

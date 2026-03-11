@@ -1,9 +1,0 @@
-{
-  "name": "voltagent-best-practices",
-  "version": "1.0.0",
-  "description": "voltagent-best-practices skill from voltagent/skills",
-  "author": {
-    "name": "voltagent"
-  },
-  "repository": "https://github.com/voltagent/skills"
-}

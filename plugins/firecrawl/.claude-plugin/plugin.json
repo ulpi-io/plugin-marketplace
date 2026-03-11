@@ -1,9 +1,26 @@
 {
   "name": "firecrawl",
   "version": "1.0.0",
-  "description": "firecrawl skill from firecrawl/cli",
+  "description": "13 skills from firecrawl/cli: firecrawl, firecrawl-search, firecrawl-search, firecrawl-scrape, firecrawl-browser, firecrawl-crawl, firecrawl-agent, firecrawl-scrape, firecrawl-map, firecrawl-browser, firecrawl-agent, firecrawl-map, firecrawl-download",
   "author": {
     "name": "firecrawl"
   },
-  "repository": "https://github.com/firecrawl/cli"
+  "repositories": [
+    "https://github.com/firecrawl/cli"
+  ],
+  "skills": [
+    "firecrawl",
+    "firecrawl-search",
+    "firecrawl-search",
+    "firecrawl-scrape",
+    "firecrawl-browser",
+    "firecrawl-crawl",
+    "firecrawl-agent",
+    "firecrawl-scrape",
+    "firecrawl-map",
+    "firecrawl-browser",
+    "firecrawl-agent",
+    "firecrawl-map",
+    "firecrawl-download"
+  ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "fradser",
+  "version": "1.0.0",
+  "description": "1 skills from fradser/dotclaude: patent-architect",
+  "author": {
+    "name": "fradser"
+  },
+  "repositories": [
+    "https://github.com/fradser/dotclaude"
+  ],
+  "skills": [
+    "patent-architect"
+  ]
+}

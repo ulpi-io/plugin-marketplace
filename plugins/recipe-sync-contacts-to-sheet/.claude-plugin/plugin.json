@@ -1,9 +1,0 @@
-{
-  "name": "recipe-sync-contacts-to-sheet",
-  "version": "1.0.0",
-  "description": "recipe-sync-contacts-to-sheet skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

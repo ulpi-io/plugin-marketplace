@@ -1,9 +1,0 @@
-{
-  "name": "news-extractor",
-  "version": "1.0.0",
-  "description": "news-extractor skill from nanmicoder/newscrawler",
-  "author": {
-    "name": "nanmicoder"
-  },
-  "repository": "https://github.com/nanmicoder/newscrawler"
-}

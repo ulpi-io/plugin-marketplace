@@ -1,0 +1,26 @@
+{
+  "name": "cloudai-x",
+  "version": "1.0.0",
+  "description": "12 skills from cloudai-x/threejs-skills, cloudai-x/claude-workflow-v2: threejs-animation, threejs-fundamentals, threejs-shaders, threejs-geometry, threejs-interaction, threejs-materials, threejs-postprocessing, threejs-lighting, threejs-textures, threejs-loaders, analyzing-projects, convex-backend",
+  "author": {
+    "name": "cloudai-x"
+  },
+  "repositories": [
+    "https://github.com/cloudai-x/threejs-skills",
+    "https://github.com/cloudai-x/claude-workflow-v2"
+  ],
+  "skills": [
+    "threejs-animation",
+    "threejs-fundamentals",
+    "threejs-shaders",
+    "threejs-geometry",
+    "threejs-interaction",
+    "threejs-materials",
+    "threejs-postprocessing",
+    "threejs-lighting",
+    "threejs-textures",
+    "threejs-loaders",
+    "analyzing-projects",
+    "convex-backend"
+  ]
+}

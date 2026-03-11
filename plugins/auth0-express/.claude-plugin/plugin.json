@@ -1,9 +1,0 @@
-{
-  "name": "auth0-express",
-  "version": "1.0.0",
-  "description": "auth0-express skill from auth0/agent-skills",
-  "author": {
-    "name": "auth0"
-  },
-  "repository": "https://github.com/auth0/agent-skills"
-}

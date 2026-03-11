@@ -1,9 +1,0 @@
-{
-  "name": "core-data-expert",
-  "version": "1.0.0",
-  "description": "core-data-expert skill from avdlee/core-data-agent-skill",
-  "author": {
-    "name": "avdlee"
-  },
-  "repository": "https://github.com/avdlee/core-data-agent-skill"
-}

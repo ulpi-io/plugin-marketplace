@@ -1,9 +1,0 @@
-{
-  "name": "using-dbt-for-analytics-engineering",
-  "version": "1.0.0",
-  "description": "using-dbt-for-analytics-engineering skill from dbt-labs/dbt-agent-skills",
-  "author": {
-    "name": "dbt-labs"
-  },
-  "repository": "https://github.com/dbt-labs/dbt-agent-skills"
-}

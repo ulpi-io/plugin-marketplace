@@ -1,9 +1,0 @@
-{
-  "name": "slack-agent",
-  "version": "1.0.0",
-  "description": "slack-agent skill from vercel-labs/slack-agent-skill",
-  "author": {
-    "name": "vercel-labs"
-  },
-  "repository": "https://github.com/vercel-labs/slack-agent-skill"
-}

@@ -1,0 +1,23 @@
+{
+  "name": "czlonkowski",
+  "version": "1.0.0",
+  "description": "10 skills from czlonkowski/n8n-skills: n8n-workflow-patterns, n8n-mcp-tools-expert, n8n-node-configuration, n8n-node-configuration, n8n-code-javascript, n8n-validation-expert, n8n-expression-syntax, n8n-expression-syntax, n8n-code-python, n8n-code-python",
+  "author": {
+    "name": "czlonkowski"
+  },
+  "repositories": [
+    "https://github.com/czlonkowski/n8n-skills"
+  ],
+  "skills": [
+    "n8n-workflow-patterns",
+    "n8n-mcp-tools-expert",
+    "n8n-node-configuration",
+    "n8n-node-configuration",
+    "n8n-code-javascript",
+    "n8n-validation-expert",
+    "n8n-expression-syntax",
+    "n8n-expression-syntax",
+    "n8n-code-python",
+    "n8n-code-python"
+  ]
+}

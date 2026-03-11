@@ -1,9 +1,19 @@
 {
   "name": "langfuse",
   "version": "1.0.0",
-  "description": "langfuse skill from langfuse/skills",
+  "description": "5 skills from langfuse/skills, langfuse/langfuse: langfuse, langfuse-observability, backend-dev-guidelines, langfuse-prompt-migration, skill-developer",
   "author": {
     "name": "langfuse"
   },
-  "repository": "https://github.com/langfuse/skills"
+  "repositories": [
+    "https://github.com/langfuse/skills",
+    "https://github.com/langfuse/langfuse"
+  ],
+  "skills": [
+    "langfuse",
+    "langfuse-observability",
+    "backend-dev-guidelines",
+    "langfuse-prompt-migration",
+    "skill-developer"
+  ]
 }

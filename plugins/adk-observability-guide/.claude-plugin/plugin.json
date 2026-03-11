@@ -1,9 +1,0 @@
-{
-  "name": "adk-observability-guide",
-  "version": "1.0.0",
-  "description": "adk-observability-guide skill from google/adk-docs",
-  "author": {
-    "name": "google"
-  },
-  "repository": "https://github.com/google/adk-docs"
-}

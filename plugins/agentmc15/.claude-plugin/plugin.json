@@ -1,0 +1,19 @@
+{
+  "name": "agentmc15",
+  "version": "1.0.0",
+  "description": "6 skills from agentmc15/polymarket-trader: trading-strategies, trading-strategies, polymarket-api, polymarket-api, trader-analysis, trader-analysis",
+  "author": {
+    "name": "agentmc15"
+  },
+  "repositories": [
+    "https://github.com/agentmc15/polymarket-trader"
+  ],
+  "skills": [
+    "trading-strategies",
+    "trading-strategies",
+    "polymarket-api",
+    "polymarket-api",
+    "trader-analysis",
+    "trader-analysis"
+  ]
+}

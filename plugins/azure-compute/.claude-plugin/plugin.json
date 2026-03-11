@@ -1,9 +1,0 @@
-{
-  "name": "azure-compute",
-  "version": "1.0.0",
-  "description": "azure-compute skill from microsoft/github-copilot-for-azure",
-  "author": {
-    "name": "microsoft"
-  },
-  "repository": "https://github.com/microsoft/github-copilot-for-azure"
-}

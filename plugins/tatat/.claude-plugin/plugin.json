@@ -1,0 +1,14 @@
+{
+  "name": "tatat",
+  "version": "1.0.0",
+  "description": "1 skills from tatat/agents-playground: fitness-coach",
+  "author": {
+    "name": "tatat"
+  },
+  "repositories": [
+    "https://github.com/tatat/agents-playground"
+  ],
+  "skills": [
+    "fitness-coach"
+  ]
+}

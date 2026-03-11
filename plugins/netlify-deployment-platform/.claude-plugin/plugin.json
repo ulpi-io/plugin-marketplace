@@ -1,9 +1,0 @@
-{
-  "name": "netlify-deployment-platform",
-  "version": "1.0.0",
-  "description": "netlify-deployment-platform skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

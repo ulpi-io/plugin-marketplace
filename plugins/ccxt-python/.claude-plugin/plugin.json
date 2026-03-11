@@ -1,9 +1,0 @@
-{
-  "name": "ccxt-python",
-  "version": "1.0.0",
-  "description": "ccxt-python skill from ccxt/ccxt",
-  "author": {
-    "name": "ccxt"
-  },
-  "repository": "https://github.com/ccxt/ccxt"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "kkoppenhaver",
+  "version": "1.0.0",
+  "description": "1 skills from kkoppenhaver/cc-nano-banana: nano-banana",
+  "author": {
+    "name": "kkoppenhaver"
+  },
+  "repositories": [
+    "https://github.com/kkoppenhaver/cc-nano-banana"
+  ],
+  "skills": [
+    "nano-banana"
+  ]
+}

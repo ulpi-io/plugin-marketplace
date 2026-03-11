@@ -1,0 +1,15 @@
+{
+  "name": "referodesign",
+  "version": "1.0.0",
+  "description": "2 skills from referodesign/refero_skill: refero-design, refero-design",
+  "author": {
+    "name": "referodesign"
+  },
+  "repositories": [
+    "https://github.com/referodesign/refero_skill"
+  ],
+  "skills": [
+    "refero-design",
+    "refero-design"
+  ]
+}

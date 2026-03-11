@@ -1,0 +1,14 @@
+{
+  "name": "liang121",
+  "version": "1.0.0",
+  "description": "1 skills from liang121/video-summarizer: video-summarizer",
+  "author": {
+    "name": "liang121"
+  },
+  "repositories": [
+    "https://github.com/liang121/video-summarizer"
+  ],
+  "skills": [
+    "video-summarizer"
+  ]
+}

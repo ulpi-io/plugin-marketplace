@@ -1,9 +1,0 @@
-{
-  "name": "provider-resources",
-  "version": "1.0.0",
-  "description": "provider-resources skill from hashicorp/agent-skills",
-  "author": {
-    "name": "hashicorp"
-  },
-  "repository": "https://github.com/hashicorp/agent-skills"
-}

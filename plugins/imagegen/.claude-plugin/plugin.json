@@ -1,9 +1,0 @@
-{
-  "name": "imagegen",
-  "version": "1.0.0",
-  "description": "imagegen skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

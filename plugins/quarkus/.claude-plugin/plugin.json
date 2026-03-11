@@ -1,9 +1,0 @@
-{
-  "name": "quarkus",
-  "version": "1.0.0",
-  "description": "quarkus skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

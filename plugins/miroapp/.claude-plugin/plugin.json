@@ -1,0 +1,14 @@
+{
+  "name": "miroapp",
+  "version": "1.0.0",
+  "description": "1 skills from miroapp/miro-ai: miro-mcp",
+  "author": {
+    "name": "miroapp"
+  },
+  "repositories": [
+    "https://github.com/miroapp/miro-ai"
+  ],
+  "skills": [
+    "miro-mcp"
+  ]
+}

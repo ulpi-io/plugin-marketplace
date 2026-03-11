@@ -1,0 +1,14 @@
+{
+  "name": "flipsidecrypto",
+  "version": "1.0.0",
+  "description": "1 skills from flipsidecrypto/flipside-tools: flipside",
+  "author": {
+    "name": "flipsidecrypto"
+  },
+  "repositories": [
+    "https://github.com/flipsidecrypto/flipside-tools"
+  ],
+  "skills": [
+    "flipside"
+  ]
+}

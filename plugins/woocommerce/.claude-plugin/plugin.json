@@ -1,9 +1,17 @@
 {
   "name": "woocommerce",
   "version": "1.0.0",
-  "description": "woocommerce skill from alinaqi/claude-bootstrap",
+  "description": "4 skills from woocommerce/woocommerce: woocommerce-backend-dev, woocommerce-backend-dev, woocommerce-code-review, woocommerce-dev-cycle",
   "author": {
-    "name": "alinaqi"
+    "name": "woocommerce"
   },
-  "repository": "https://github.com/alinaqi/claude-bootstrap"
+  "repositories": [
+    "https://github.com/woocommerce/woocommerce"
+  ],
+  "skills": [
+    "woocommerce-backend-dev",
+    "woocommerce-backend-dev",
+    "woocommerce-code-review",
+    "woocommerce-dev-cycle"
+  ]
 }

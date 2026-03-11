@@ -1,0 +1,15 @@
+{
+  "name": "mindmorass",
+  "version": "1.0.0",
+  "description": "2 skills from mindmorass/reflex: ffmpeg-patterns, site-crawler",
+  "author": {
+    "name": "mindmorass"
+  },
+  "repositories": [
+    "https://github.com/mindmorass/reflex"
+  ],
+  "skills": [
+    "ffmpeg-patterns",
+    "site-crawler"
+  ]
+}

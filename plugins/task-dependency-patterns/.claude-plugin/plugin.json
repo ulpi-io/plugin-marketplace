@@ -1,9 +1,0 @@
-{
-  "name": "task-dependency-patterns",
-  "version": "1.0.0",
-  "description": "task-dependency-patterns skill from yonatangross/orchestkit",
-  "author": {
-    "name": "yonatangross"
-  },
-  "repository": "https://github.com/yonatangross/orchestkit"
-}

@@ -1,0 +1,17 @@
+{
+  "name": "lc2panda",
+  "version": "1.0.0",
+  "description": "4 skills from lc2panda/wps-skills: wps-office, wps-office, wps-excel, wps-word",
+  "author": {
+    "name": "lc2panda"
+  },
+  "repositories": [
+    "https://github.com/lc2panda/wps-skills"
+  ],
+  "skills": [
+    "wps-office",
+    "wps-office",
+    "wps-excel",
+    "wps-word"
+  ]
+}

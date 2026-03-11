@@ -1,9 +1,0 @@
-{
-  "name": "macos-accessibility",
-  "version": "1.0.0",
-  "description": "macos-accessibility skill from martinholovsky/claude-skills-generator",
-  "author": {
-    "name": "martinholovsky"
-  },
-  "repository": "https://github.com/martinholovsky/claude-skills-generator"
-}

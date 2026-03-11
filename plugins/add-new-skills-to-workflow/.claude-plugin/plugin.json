@@ -1,9 +1,0 @@
-{
-  "name": "add-new-skills-to-workflow",
-  "version": "1.0.0",
-  "description": "add-new-skills-to-workflow skill from nicepkg/ai-workflow",
-  "author": {
-    "name": "nicepkg"
-  },
-  "repository": "https://github.com/nicepkg/ai-workflow"
-}

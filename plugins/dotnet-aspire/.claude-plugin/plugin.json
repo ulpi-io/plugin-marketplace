@@ -1,9 +1,0 @@
-{
-  "name": "dotnet-aspire",
-  "version": "1.0.0",
-  "description": "dotnet-aspire skill from markpitt/claude-skills",
-  "author": {
-    "name": "markpitt"
-  },
-  "repository": "https://github.com/markpitt/claude-skills"
-}

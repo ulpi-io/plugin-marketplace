@@ -1,9 +1,0 @@
-{
-  "name": "academic-research-writer",
-  "version": "1.0.0",
-  "description": "academic-research-writer skill from endigo/claude-skills",
-  "author": {
-    "name": "endigo"
-  },
-  "repository": "https://github.com/endigo/claude-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "openserv-client",
-  "version": "1.0.0",
-  "description": "openserv-client skill from openserv-labs/skills",
-  "author": {
-    "name": "openserv-labs"
-  },
-  "repository": "https://github.com/openserv-labs/skills"
-}

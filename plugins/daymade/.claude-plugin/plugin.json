@@ -1,0 +1,48 @@
+{
+  "name": "daymade",
+  "version": "1.0.0",
+  "description": "35 skills from daymade/claude-code-skills: twitter-reader, twitter-reader, ppt-creator, prompt-optimizer, qa-expert, pdf-creator, macos-cleaner, macos-cleaner, i18n-expert, markdown-tools, fact-checker, deep-research, ui-designer, mermaid-tools, skills-search, claude-md-progressive-disclosurer, skill-creator, github-ops, docs-cleaner, claude-code-history-files-finder, promptfoo-evaluation, skill-reviewer, youtube-downloader, statusline-generator, cloudflare-troubleshooting, github-contributor, llm-icon-finder, cli-demo-generator, transcript-fixer, video-comparer, claude-skills-troubleshooting, meeting-minutes-taker, teams-channel-post-writer, repomix-safe-mixer, repomix-unmixer",
+  "author": {
+    "name": "daymade"
+  },
+  "repositories": [
+    "https://github.com/daymade/claude-code-skills"
+  ],
+  "skills": [
+    "twitter-reader",
+    "twitter-reader",
+    "ppt-creator",
+    "prompt-optimizer",
+    "qa-expert",
+    "pdf-creator",
+    "macos-cleaner",
+    "macos-cleaner",
+    "i18n-expert",
+    "markdown-tools",
+    "fact-checker",
+    "deep-research",
+    "ui-designer",
+    "mermaid-tools",
+    "skills-search",
+    "claude-md-progressive-disclosurer",
+    "skill-creator",
+    "github-ops",
+    "docs-cleaner",
+    "claude-code-history-files-finder",
+    "promptfoo-evaluation",
+    "skill-reviewer",
+    "youtube-downloader",
+    "statusline-generator",
+    "cloudflare-troubleshooting",
+    "github-contributor",
+    "llm-icon-finder",
+    "cli-demo-generator",
+    "transcript-fixer",
+    "video-comparer",
+    "claude-skills-troubleshooting",
+    "meeting-minutes-taker",
+    "teams-channel-post-writer",
+    "repomix-safe-mixer",
+    "repomix-unmixer"
+  ]
+}

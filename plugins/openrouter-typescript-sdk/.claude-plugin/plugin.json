@@ -1,9 +1,0 @@
-{
-  "name": "openrouter-typescript-sdk",
-  "version": "1.0.0",
-  "description": "openrouter-typescript-sdk skill from openrouterteam/agent-skills",
-  "author": {
-    "name": "openrouterteam"
-  },
-  "repository": "https://github.com/openrouterteam/agent-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "ai-video-generation",
-  "version": "1.0.0",
-  "description": "ai-video-generation skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

@@ -1,0 +1,17 @@
+{
+  "name": "openclaudia",
+  "version": "1.0.0",
+  "description": "4 skills from openclaudia/openclaudia-skills: feishu-lark, facebook-ads, reddit-marketing, telegram-bot",
+  "author": {
+    "name": "openclaudia"
+  },
+  "repositories": [
+    "https://github.com/openclaudia/openclaudia-skills"
+  ],
+  "skills": [
+    "feishu-lark",
+    "facebook-ads",
+    "reddit-marketing",
+    "telegram-bot"
+  ]
+}

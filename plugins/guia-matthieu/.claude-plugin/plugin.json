@@ -1,0 +1,15 @@
+{
+  "name": "guia-matthieu",
+  "version": "1.0.0",
+  "description": "2 skills from guia-matthieu/clawfu-skills: whisper-transcription, design-trends-2026",
+  "author": {
+    "name": "guia-matthieu"
+  },
+  "repositories": [
+    "https://github.com/guia-matthieu/clawfu-skills"
+  ],
+  "skills": [
+    "whisper-transcription",
+    "design-trends-2026"
+  ]
+}

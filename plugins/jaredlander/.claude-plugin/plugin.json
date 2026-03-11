@@ -1,0 +1,14 @@
+{
+  "name": "jaredlander",
+  "version": "1.0.0",
+  "description": "1 skills from jaredlander/freshbooks-speed: css",
+  "author": {
+    "name": "jaredlander"
+  },
+  "repositories": [
+    "https://github.com/jaredlander/freshbooks-speed"
+  ],
+  "skills": [
+    "css"
+  ]
+}

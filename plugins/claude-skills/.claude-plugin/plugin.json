@@ -1,9 +1,14 @@
 {
   "name": "claude-skills",
   "version": "1.0.0",
-  "description": "claude-skills skill from 2025emma/vibe-coding-cn",
+  "description": "1 skills from claude-skills/sveltekit-svelte5-tailwind-skill: sveltekit-svelte5-tailwind-skill",
   "author": {
-    "name": "2025emma"
+    "name": "claude-skills"
   },
-  "repository": "https://github.com/2025emma/vibe-coding-cn"
+  "repositories": [
+    "https://github.com/claude-skills/sveltekit-svelte5-tailwind-skill"
+  ],
+  "skills": [
+    "sveltekit-svelte5-tailwind-skill"
+  ]
 }

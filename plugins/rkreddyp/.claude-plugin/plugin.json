@@ -1,0 +1,14 @@
+{
+  "name": "rkreddyp",
+  "version": "1.0.0",
+  "description": "1 skills from rkreddyp/investrecipes: industry-research",
+  "author": {
+    "name": "rkreddyp"
+  },
+  "repositories": [
+    "https://github.com/rkreddyp/investrecipes"
+  ],
+  "skills": [
+    "industry-research"
+  ]
+}

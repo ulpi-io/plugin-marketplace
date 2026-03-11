@@ -1,9 +1,0 @@
-{
-  "name": "svelte",
-  "version": "1.0.0",
-  "description": "svelte skill from epicenterhq/epicenter",
-  "author": {
-    "name": "epicenterhq"
-  },
-  "repository": "https://github.com/epicenterhq/epicenter"
-}

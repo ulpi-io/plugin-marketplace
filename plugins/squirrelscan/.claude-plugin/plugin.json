@@ -1,0 +1,14 @@
+{
+  "name": "squirrelscan",
+  "version": "1.0.0",
+  "description": "1 skills from squirrelscan/skills: audit-website",
+  "author": {
+    "name": "squirrelscan"
+  },
+  "repositories": [
+    "https://github.com/squirrelscan/skills"
+  ],
+  "skills": [
+    "audit-website"
+  ]
+}

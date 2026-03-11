@@ -1,9 +1,0 @@
-{
-  "name": "linear",
-  "version": "1.0.0",
-  "description": "linear skill from lobehub/lobe-chat",
-  "author": {
-    "name": "lobehub"
-  },
-  "repository": "https://github.com/lobehub/lobe-chat"
-}

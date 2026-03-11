@@ -1,9 +1,0 @@
-{
-  "name": "recipe-audit-external-sharing",
-  "version": "1.0.0",
-  "description": "recipe-audit-external-sharing skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

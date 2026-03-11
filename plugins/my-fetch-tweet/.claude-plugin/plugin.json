@@ -1,9 +1,0 @@
-{
-  "name": "my-fetch-tweet",
-  "version": "1.0.0",
-  "description": "my-fetch-tweet skill from ai-native-camp/camp-1",
-  "author": {
-    "name": "ai-native-camp"
-  },
-  "repository": "https://github.com/ai-native-camp/camp-1"
-}

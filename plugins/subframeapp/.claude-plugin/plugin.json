@@ -1,0 +1,15 @@
+{
+  "name": "subframeapp",
+  "version": "1.0.0",
+  "description": "2 skills from subframeapp/subframe: design, setup",
+  "author": {
+    "name": "subframeapp"
+  },
+  "repositories": [
+    "https://github.com/subframeapp/subframe"
+  ],
+  "skills": [
+    "design",
+    "setup"
+  ]
+}

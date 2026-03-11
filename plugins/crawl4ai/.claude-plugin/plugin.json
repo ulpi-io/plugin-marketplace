@@ -1,9 +1,0 @@
-{
-  "name": "crawl4ai",
-  "version": "1.0.0",
-  "description": "crawl4ai skill from brettdavies/crawl4ai-skill",
-  "author": {
-    "name": "brettdavies"
-  },
-  "repository": "https://github.com/brettdavies/crawl4ai-skill"
-}

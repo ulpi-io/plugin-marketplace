@@ -1,9 +1,0 @@
-{
-  "name": "helm-chart-patterns",
-  "version": "1.0.0",
-  "description": "helm-chart-patterns skill from nickcrew/claude-ctx-plugin",
-  "author": {
-    "name": "nickcrew"
-  },
-  "repository": "https://github.com/nickcrew/claude-ctx-plugin"
-}

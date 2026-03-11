@@ -1,0 +1,15 @@
+{
+  "name": "oldwinter",
+  "version": "1.0.0",
+  "description": "2 skills from oldwinter/skills: personal-productivity, github-cli",
+  "author": {
+    "name": "oldwinter"
+  },
+  "repositories": [
+    "https://github.com/oldwinter/skills"
+  ],
+  "skills": [
+    "personal-productivity",
+    "github-cli"
+  ]
+}

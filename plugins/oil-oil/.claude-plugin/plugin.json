@@ -1,0 +1,16 @@
+{
+  "name": "oil-oil",
+  "version": "1.0.0",
+  "description": "2 skills from oil-oil/codex, oil-oil/oiloil-ui-ux-guide: codex, oiloil-ui-ux-guide",
+  "author": {
+    "name": "oil-oil"
+  },
+  "repositories": [
+    "https://github.com/oil-oil/codex",
+    "https://github.com/oil-oil/oiloil-ui-ux-guide"
+  ],
+  "skills": [
+    "codex",
+    "oiloil-ui-ux-guide"
+  ]
+}

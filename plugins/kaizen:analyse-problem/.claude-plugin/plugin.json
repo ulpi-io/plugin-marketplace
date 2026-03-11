@@ -1,9 +1,0 @@
-{
-  "name": "kaizen:analyse-problem",
-  "version": "1.0.0",
-  "description": "kaizen:analyse-problem skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "riba2534",
+  "version": "1.0.0",
+  "description": "1 skills from riba2534/feishu-cli: feishu-cli-toolkit",
+  "author": {
+    "name": "riba2534"
+  },
+  "repositories": [
+    "https://github.com/riba2534/feishu-cli"
+  ],
+  "skills": [
+    "feishu-cli-toolkit"
+  ]
+}

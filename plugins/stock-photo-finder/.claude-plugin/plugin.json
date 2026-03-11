@@ -1,9 +1,0 @@
-{
-  "name": "stock-photo-finder",
-  "version": "1.0.0",
-  "description": "stock-photo-finder skill from onewave-ai/claude-skills",
-  "author": {
-    "name": "onewave-ai"
-  },
-  "repository": "https://github.com/onewave-ai/claude-skills"
-}

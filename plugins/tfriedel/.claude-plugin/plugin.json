@@ -1,0 +1,17 @@
+{
+  "name": "tfriedel",
+  "version": "1.0.0",
+  "description": "4 skills from tfriedel/claude-office-skills: xlsx, docx, pptx, pdf",
+  "author": {
+    "name": "tfriedel"
+  },
+  "repositories": [
+    "https://github.com/tfriedel/claude-office-skills"
+  ],
+  "skills": [
+    "xlsx",
+    "docx",
+    "pptx",
+    "pdf"
+  ]
+}

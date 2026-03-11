@@ -1,9 +1,0 @@
-{
-  "name": "grepai-storage-postgres",
-  "version": "1.0.0",
-  "description": "grepai-storage-postgres skill from yoanbernabeu/grepai-skills",
-  "author": {
-    "name": "yoanbernabeu"
-  },
-  "repository": "https://github.com/yoanbernabeu/grepai-skills"
-}

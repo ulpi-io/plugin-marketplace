@@ -1,9 +1,0 @@
-{
-  "name": "fetching-dbt-docs",
-  "version": "1.0.0",
-  "description": "fetching-dbt-docs skill from dbt-labs/dbt-agent-skills",
-  "author": {
-    "name": "dbt-labs"
-  },
-  "repository": "https://github.com/dbt-labs/dbt-agent-skills"
-}

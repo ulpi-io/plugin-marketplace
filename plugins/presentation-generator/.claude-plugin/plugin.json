@@ -1,9 +1,0 @@
-{
-  "name": "presentation-generator",
-  "version": "1.0.0",
-  "description": "presentation-generator skill from glebis/claude-skills",
-  "author": {
-    "name": "glebis"
-  },
-  "repository": "https://github.com/glebis/claude-skills"
-}

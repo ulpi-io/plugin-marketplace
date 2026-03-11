@@ -1,9 +1,0 @@
-{
-  "name": "unsafe-checker",
-  "version": "1.0.0",
-  "description": "unsafe-checker skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

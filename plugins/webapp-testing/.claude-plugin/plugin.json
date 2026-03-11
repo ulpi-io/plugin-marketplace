@@ -1,9 +1,0 @@
-{
-  "name": "webapp-testing",
-  "version": "1.0.0",
-  "description": "webapp-testing skill from anthropics/skills",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/skills"
-}

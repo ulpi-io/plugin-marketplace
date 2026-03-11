@@ -1,0 +1,16 @@
+{
+  "name": "igorwarzocha",
+  "version": "1.0.0",
+  "description": "3 skills from igorwarzocha/opencode-workflows: powerpoint, powerpoint, create-opencode-plugin",
+  "author": {
+    "name": "igorwarzocha"
+  },
+  "repositories": [
+    "https://github.com/igorwarzocha/opencode-workflows"
+  ],
+  "skills": [
+    "powerpoint",
+    "powerpoint",
+    "create-opencode-plugin"
+  ]
+}

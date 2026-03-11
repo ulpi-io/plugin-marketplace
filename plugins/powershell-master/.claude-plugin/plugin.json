@@ -1,9 +1,0 @@
-{
-  "name": "powershell-master",
-  "version": "1.0.0",
-  "description": "powershell-master skill from josiahsiegel/claude-plugin-marketplace",
-  "author": {
-    "name": "josiahsiegel"
-  },
-  "repository": "https://github.com/josiahsiegel/claude-plugin-marketplace"
-}

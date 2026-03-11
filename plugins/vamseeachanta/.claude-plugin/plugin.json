@@ -1,0 +1,16 @@
+{
+  "name": "vamseeachanta",
+  "version": "1.0.0",
+  "description": "3 skills from vamseeachanta/workspace-hub: echarts, pandoc, mkdocs",
+  "author": {
+    "name": "vamseeachanta"
+  },
+  "repositories": [
+    "https://github.com/vamseeachanta/workspace-hub"
+  ],
+  "skills": [
+    "echarts",
+    "pandoc",
+    "mkdocs"
+  ]
+}

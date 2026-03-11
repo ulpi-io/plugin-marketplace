@@ -1,9 +1,0 @@
-{
-  "name": "pr-address-comments",
-  "version": "1.0.0",
-  "description": "pr-address-comments skill from google-gemini/gemini-cli",
-  "author": {
-    "name": "google-gemini"
-  },
-  "repository": "https://github.com/google-gemini/gemini-cli"
-}

@@ -1,9 +1,20 @@
 {
   "name": "supabase",
   "version": "1.0.0",
-  "description": "supabase skill from alinaqi/claude-bootstrap",
+  "description": "6 skills from supabase/agent-skills, supabase/supabase: supabase-postgres-best-practices, skill-creator, skill-creator, vitest, e2e-studio-tests, vercel-composition-patterns",
   "author": {
-    "name": "alinaqi"
+    "name": "supabase"
   },
-  "repository": "https://github.com/alinaqi/claude-bootstrap"
+  "repositories": [
+    "https://github.com/supabase/agent-skills",
+    "https://github.com/supabase/supabase"
+  ],
+  "skills": [
+    "supabase-postgres-best-practices",
+    "skill-creator",
+    "skill-creator",
+    "vitest",
+    "e2e-studio-tests",
+    "vercel-composition-patterns"
+  ]
 }

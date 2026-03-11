@@ -1,9 +1,0 @@
-{
-  "name": "cloudbase-guidelines",
-  "version": "1.0.0",
-  "description": "cloudbase-guidelines skill from tencentcloudbase/skills",
-  "author": {
-    "name": "tencentcloudbase"
-  },
-  "repository": "https://github.com/tencentcloudbase/skills"
-}

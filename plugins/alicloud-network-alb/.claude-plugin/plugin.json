@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-network-alb",
-  "version": "1.0.0",
-  "description": "alicloud-network-alb skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "code-with-beto",
+  "version": "1.0.0",
+  "description": "1 skills from code-with-beto/skills: app-icon",
+  "author": {
+    "name": "code-with-beto"
+  },
+  "repositories": [
+    "https://github.com/code-with-beto/skills"
+  ],
+  "skills": [
+    "app-icon"
+  ]
+}

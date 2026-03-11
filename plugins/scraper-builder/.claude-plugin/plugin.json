@@ -1,9 +1,0 @@
-{
-  "name": "scraper-builder",
-  "version": "1.0.0",
-  "description": "scraper-builder skill from jwynia/agent-skills",
-  "author": {
-    "name": "jwynia"
-  },
-  "repository": "https://github.com/jwynia/agent-skills"
-}

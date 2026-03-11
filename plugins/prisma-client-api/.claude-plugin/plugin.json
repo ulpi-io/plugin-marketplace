@@ -1,9 +1,0 @@
-{
-  "name": "prisma-client-api",
-  "version": "1.0.0",
-  "description": "prisma-client-api skill from prisma/skills",
-  "author": {
-    "name": "prisma"
-  },
-  "repository": "https://github.com/prisma/skills"
-}

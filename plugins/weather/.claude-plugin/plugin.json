@@ -1,9 +1,0 @@
-{
-  "name": "weather",
-  "version": "1.0.0",
-  "description": "weather skill from chandima/agent-skills",
-  "author": {
-    "name": "chandima"
-  },
-  "repository": "https://github.com/chandima/agent-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "github-triage",
-  "version": "1.0.0",
-  "description": "github-triage skill from code-yeongyu/oh-my-opencode",
-  "author": {
-    "name": "code-yeongyu"
-  },
-  "repository": "https://github.com/code-yeongyu/oh-my-opencode"
-}

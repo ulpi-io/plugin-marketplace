@@ -1,9 +1,14 @@
 {
   "name": "weaviate",
   "version": "1.0.0",
-  "description": "weaviate skill from weaviate/agent-skills",
+  "description": "1 skills from weaviate/agent-skills: weaviate",
   "author": {
     "name": "weaviate"
   },
-  "repository": "https://github.com/weaviate/agent-skills"
+  "repositories": [
+    "https://github.com/weaviate/agent-skills"
+  ],
+  "skills": [
+    "weaviate"
+  ]
 }

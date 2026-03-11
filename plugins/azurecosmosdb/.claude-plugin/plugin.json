@@ -1,0 +1,15 @@
+{
+  "name": "azurecosmosdb",
+  "version": "1.0.0",
+  "description": "2 skills from azurecosmosdb/cosmosdb-agent-kit: cosmosdb-best-practices, cosmosdb-best-practices",
+  "author": {
+    "name": "azurecosmosdb"
+  },
+  "repositories": [
+    "https://github.com/azurecosmosdb/cosmosdb-agent-kit"
+  ],
+  "skills": [
+    "cosmosdb-best-practices",
+    "cosmosdb-best-practices"
+  ]
+}

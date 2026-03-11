@@ -1,9 +1,0 @@
-{
-  "name": "streamdown",
-  "version": "1.0.0",
-  "description": "streamdown skill from vercel/streamdown",
-  "author": {
-    "name": "vercel"
-  },
-  "repository": "https://github.com/vercel/streamdown"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "create-assistant",
-  "version": "1.0.0",
-  "description": "create-assistant skill from vapiai/skills",
-  "author": {
-    "name": "vapiai"
-  },
-  "repository": "https://github.com/vapiai/skills"
-}

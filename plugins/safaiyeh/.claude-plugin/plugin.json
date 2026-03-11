@@ -1,0 +1,14 @@
+{
+  "name": "safaiyeh",
+  "version": "1.0.0",
+  "description": "1 skills from safaiyeh/app-store-review-skill: app-store-review",
+  "author": {
+    "name": "safaiyeh"
+  },
+  "repositories": [
+    "https://github.com/safaiyeh/app-store-review-skill"
+  ],
+  "skills": [
+    "app-store-review"
+  ]
+}

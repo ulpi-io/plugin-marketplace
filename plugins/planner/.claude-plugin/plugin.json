@@ -1,9 +1,0 @@
-{
-  "name": "planner",
-  "version": "1.0.0",
-  "description": "planner skill from am-will/codex-skills",
-  "author": {
-    "name": "am-will"
-  },
-  "repository": "https://github.com/am-will/codex-skills"
-}

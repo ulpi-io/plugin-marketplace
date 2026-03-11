@@ -1,9 +1,0 @@
-{
-  "name": "contributing",
-  "version": "1.0.0",
-  "description": "contributing skill from nuxt/ui",
-  "author": {
-    "name": "nuxt"
-  },
-  "repository": "https://github.com/nuxt/ui"
-}

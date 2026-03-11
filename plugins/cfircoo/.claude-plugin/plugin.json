@@ -1,0 +1,14 @@
+{
+  "name": "cfircoo",
+  "version": "1.0.0",
+  "description": "1 skills from cfircoo/claude-code-toolkit: sqlalchemy-postgres",
+  "author": {
+    "name": "cfircoo"
+  },
+  "repositories": [
+    "https://github.com/cfircoo/claude-code-toolkit"
+  ],
+  "skills": [
+    "sqlalchemy-postgres"
+  ]
+}

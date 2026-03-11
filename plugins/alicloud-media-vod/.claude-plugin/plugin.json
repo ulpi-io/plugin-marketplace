@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-media-vod",
-  "version": "1.0.0",
-  "description": "alicloud-media-vod skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

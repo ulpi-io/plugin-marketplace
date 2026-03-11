@@ -1,0 +1,14 @@
+{
+  "name": "mitscherlich",
+  "version": "1.0.0",
+  "description": "1 skills from mitscherlich/skills: xmind",
+  "author": {
+    "name": "mitscherlich"
+  },
+  "repositories": [
+    "https://github.com/mitscherlich/skills"
+  ],
+  "skills": [
+    "xmind"
+  ]
+}

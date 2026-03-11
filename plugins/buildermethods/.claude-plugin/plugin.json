@@ -1,0 +1,14 @@
+{
+  "name": "buildermethods",
+  "version": "1.0.0",
+  "description": "1 skills from buildermethods/design-os: frontend-design",
+  "author": {
+    "name": "buildermethods"
+  },
+  "repositories": [
+    "https://github.com/buildermethods/design-os"
+  ],
+  "skills": [
+    "frontend-design"
+  ]
+}

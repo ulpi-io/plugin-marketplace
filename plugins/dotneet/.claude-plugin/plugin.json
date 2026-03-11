@@ -1,0 +1,14 @@
+{
+  "name": "dotneet",
+  "version": "1.0.0",
+  "description": "1 skills from dotneet/claude-code-marketplace: typescript-react-reviewer",
+  "author": {
+    "name": "dotneet"
+  },
+  "repositories": [
+    "https://github.com/dotneet/claude-code-marketplace"
+  ],
+  "skills": [
+    "typescript-react-reviewer"
+  ]
+}

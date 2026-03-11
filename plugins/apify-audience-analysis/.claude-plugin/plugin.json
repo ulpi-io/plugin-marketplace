@@ -1,9 +1,0 @@
-{
-  "name": "apify-audience-analysis",
-  "version": "1.0.0",
-  "description": "apify-audience-analysis skill from apify/agent-skills",
-  "author": {
-    "name": "apify"
-  },
-  "repository": "https://github.com/apify/agent-skills"
-}

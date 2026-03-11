@@ -1,0 +1,22 @@
+{
+  "name": "nextlevelbuilder",
+  "version": "1.0.0",
+  "description": "9 skills from nextlevelbuilder/ui-ux-pro-max-skill: ui-ux-pro-max, ckm:design-system, ckm:ui-styling, ckm:ui-styling, ckm:design, ckm:brand, ckm:brand, ckm:banner-design, ckm:slides",
+  "author": {
+    "name": "nextlevelbuilder"
+  },
+  "repositories": [
+    "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+  ],
+  "skills": [
+    "ui-ux-pro-max",
+    "ckm:design-system",
+    "ckm:ui-styling",
+    "ckm:ui-styling",
+    "ckm:design",
+    "ckm:brand",
+    "ckm:brand",
+    "ckm:banner-design",
+    "ckm:slides"
+  ]
+}

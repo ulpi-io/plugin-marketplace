@@ -1,0 +1,15 @@
+{
+  "name": "rand",
+  "version": "1.0.0",
+  "description": "2 skills from rand/cc-polymath: anti-slop, elegant-design",
+  "author": {
+    "name": "rand"
+  },
+  "repositories": [
+    "https://github.com/rand/cc-polymath"
+  ],
+  "skills": [
+    "anti-slop",
+    "elegant-design"
+  ]
+}

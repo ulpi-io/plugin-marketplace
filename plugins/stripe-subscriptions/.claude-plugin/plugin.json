@@ -1,9 +1,0 @@
-{
-  "name": "stripe-subscriptions",
-  "version": "1.0.0",
-  "description": "stripe-subscriptions skill from andrelandgraf/fullstackrecipes",
-  "author": {
-    "name": "andrelandgraf"
-  },
-  "repository": "https://github.com/andrelandgraf/fullstackrecipes"
-}

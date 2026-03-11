@@ -1,0 +1,24 @@
+{
+  "name": "pbakaus",
+  "version": "1.0.0",
+  "description": "11 skills from pbakaus/impeccable: frontend-design, polish, critique, audit, critique, adapt, clarify, normalize, normalize, delight, bolder",
+  "author": {
+    "name": "pbakaus"
+  },
+  "repositories": [
+    "https://github.com/pbakaus/impeccable"
+  ],
+  "skills": [
+    "frontend-design",
+    "polish",
+    "critique",
+    "audit",
+    "critique",
+    "adapt",
+    "clarify",
+    "normalize",
+    "normalize",
+    "delight",
+    "bolder"
+  ]
+}

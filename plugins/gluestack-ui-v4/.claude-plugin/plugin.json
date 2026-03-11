@@ -1,9 +1,0 @@
-{
-  "name": "gluestack-ui-v4",
-  "version": "1.0.0",
-  "description": "gluestack-ui-v4 skill from gluestack/agent-skills",
-  "author": {
-    "name": "gluestack"
-  },
-  "repository": "https://github.com/gluestack/agent-skills"
-}

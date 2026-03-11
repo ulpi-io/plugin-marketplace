@@ -1,9 +1,0 @@
-{
-  "name": "cosmos-dbt-fusion",
-  "version": "1.0.0",
-  "description": "cosmos-dbt-fusion skill from astronomer/agents",
-  "author": {
-    "name": "astronomer"
-  },
-  "repository": "https://github.com/astronomer/agents"
-}

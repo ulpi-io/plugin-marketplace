@@ -1,9 +1,0 @@
-{
-  "name": "m13-domain-error",
-  "version": "1.0.0",
-  "description": "m13-domain-error skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

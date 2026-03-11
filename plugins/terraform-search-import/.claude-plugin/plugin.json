@@ -1,9 +1,0 @@
-{
-  "name": "terraform-search-import",
-  "version": "1.0.0",
-  "description": "terraform-search-import skill from hashicorp/agent-skills",
-  "author": {
-    "name": "hashicorp"
-  },
-  "repository": "https://github.com/hashicorp/agent-skills"
-}

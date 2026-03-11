@@ -1,9 +1,0 @@
-{
-  "name": "skill-downloader",
-  "version": "1.0.0",
-  "description": "skill-downloader skill from nicepkg/ai-workflow",
-  "author": {
-    "name": "nicepkg"
-  },
-  "repository": "https://github.com/nicepkg/ai-workflow"
-}

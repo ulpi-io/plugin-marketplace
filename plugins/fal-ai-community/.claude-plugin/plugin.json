@@ -1,0 +1,21 @@
+{
+  "name": "fal-ai-community",
+  "version": "1.0.0",
+  "description": "8 skills from fal-ai-community/skills: fal-image-edit, fal-image-edit, fal-generate, fal-generate, fal-audio, fal-upscale, fal-platform, fal-workflow",
+  "author": {
+    "name": "fal-ai-community"
+  },
+  "repositories": [
+    "https://github.com/fal-ai-community/skills"
+  ],
+  "skills": [
+    "fal-image-edit",
+    "fal-image-edit",
+    "fal-generate",
+    "fal-generate",
+    "fal-audio",
+    "fal-upscale",
+    "fal-platform",
+    "fal-workflow"
+  ]
+}

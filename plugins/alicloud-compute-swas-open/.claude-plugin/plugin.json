@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-compute-swas-open",
-  "version": "1.0.0",
-  "description": "alicloud-compute-swas-open skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

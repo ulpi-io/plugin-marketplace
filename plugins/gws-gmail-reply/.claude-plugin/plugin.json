@@ -1,9 +1,0 @@
-{
-  "name": "gws-gmail-reply",
-  "version": "1.0.0",
-  "description": "gws-gmail-reply skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

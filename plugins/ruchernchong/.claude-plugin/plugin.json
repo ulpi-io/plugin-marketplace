@@ -1,0 +1,15 @@
+{
+  "name": "ruchernchong",
+  "version": "1.0.0",
+  "description": "2 skills from ruchernchong/claude-kit: create-branch, create-branch",
+  "author": {
+    "name": "ruchernchong"
+  },
+  "repositories": [
+    "https://github.com/ruchernchong/claude-kit"
+  ],
+  "skills": [
+    "create-branch",
+    "create-branch"
+  ]
+}

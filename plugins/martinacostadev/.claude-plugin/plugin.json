@@ -1,0 +1,15 @@
+{
+  "name": "martinacostadev",
+  "version": "1.0.0",
+  "description": "2 skills from martinacostadev/mercadopago-integration: mercadopago-integration, mercadopago-integration",
+  "author": {
+    "name": "martinacostadev"
+  },
+  "repositories": [
+    "https://github.com/martinacostadev/mercadopago-integration"
+  ],
+  "skills": [
+    "mercadopago-integration",
+    "mercadopago-integration"
+  ]
+}

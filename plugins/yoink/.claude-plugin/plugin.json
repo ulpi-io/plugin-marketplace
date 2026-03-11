@@ -1,9 +1,0 @@
-{
-  "name": "yoink",
-  "version": "1.0.0",
-  "description": "yoink skill from bankrbot/openclaw-skills",
-  "author": {
-    "name": "bankrbot"
-  },
-  "repository": "https://github.com/bankrbot/openclaw-skills"
-}

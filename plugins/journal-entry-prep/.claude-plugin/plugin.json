@@ -1,9 +1,0 @@
-{
-  "name": "journal-entry-prep",
-  "version": "1.0.0",
-  "description": "journal-entry-prep skill from anthropics/knowledge-work-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/knowledge-work-plugins"
-}

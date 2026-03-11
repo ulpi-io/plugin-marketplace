@@ -1,0 +1,16 @@
+{
+  "name": "arize-ai",
+  "version": "1.0.0",
+  "description": "3 skills from arize-ai/phoenix: phoenix-cli, phoenix-tracing, phoenix-evals",
+  "author": {
+    "name": "arize-ai"
+  },
+  "repositories": [
+    "https://github.com/arize-ai/phoenix"
+  ],
+  "skills": [
+    "phoenix-cli",
+    "phoenix-tracing",
+    "phoenix-evals"
+  ]
+}

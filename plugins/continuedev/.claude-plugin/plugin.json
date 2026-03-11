@@ -1,0 +1,14 @@
+{
+  "name": "continuedev",
+  "version": "1.0.0",
+  "description": "1 skills from continuedev/skills: check",
+  "author": {
+    "name": "continuedev"
+  },
+  "repositories": [
+    "https://github.com/continuedev/skills"
+  ],
+  "skills": [
+    "check"
+  ]
+}

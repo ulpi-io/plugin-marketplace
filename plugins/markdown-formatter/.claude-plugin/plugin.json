@@ -1,9 +1,0 @@
-{
-  "name": "markdown-formatter",
-  "version": "1.0.0",
-  "description": "markdown-formatter skill from markpitt/claude-skills",
-  "author": {
-    "name": "markpitt"
-  },
-  "repository": "https://github.com/markpitt/claude-skills"
-}

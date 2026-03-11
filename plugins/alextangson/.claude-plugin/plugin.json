@@ -1,0 +1,16 @@
+{
+  "name": "alextangson",
+  "version": "1.0.0",
+  "description": "3 skills from alextangson/feishu_skills: feishu-calendar, feishu-calendar, feishu-bitable",
+  "author": {
+    "name": "alextangson"
+  },
+  "repositories": [
+    "https://github.com/alextangson/feishu_skills"
+  ],
+  "skills": [
+    "feishu-calendar",
+    "feishu-calendar",
+    "feishu-bitable"
+  ]
+}

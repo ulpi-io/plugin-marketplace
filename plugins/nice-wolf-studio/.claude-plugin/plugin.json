@@ -1,0 +1,18 @@
+{
+  "name": "nice-wolf-studio",
+  "version": "1.0.0",
+  "description": "5 skills from nice-wolf-studio/claude-code-supabase-skills: supabase-edge-functions, supabase-auth, supabase-database, supabase-realtime, supabase-storage",
+  "author": {
+    "name": "nice-wolf-studio"
+  },
+  "repositories": [
+    "https://github.com/nice-wolf-studio/claude-code-supabase-skills"
+  ],
+  "skills": [
+    "supabase-edge-functions",
+    "supabase-auth",
+    "supabase-database",
+    "supabase-realtime",
+    "supabase-storage"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "write-pr",
-  "version": "1.0.0",
-  "description": "write-pr skill from 2ykwang/agent-skills",
-  "author": {
-    "name": "2ykwang"
-  },
-  "repository": "https://github.com/2ykwang/agent-skills"
-}

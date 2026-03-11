@@ -1,9 +1,0 @@
-{
-  "name": "edge-tts",
-  "version": "1.0.0",
-  "description": "edge-tts skill from aahl/skills",
-  "author": {
-    "name": "aahl"
-  },
-  "repository": "https://github.com/aahl/skills"
-}

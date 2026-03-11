@@ -1,0 +1,15 @@
+{
+  "name": "cristicretu",
+  "version": "1.0.0",
+  "description": "2 skills from cristicretu/family-taste-skill: design-with-taste, design-with-taste",
+  "author": {
+    "name": "cristicretu"
+  },
+  "repositories": [
+    "https://github.com/cristicretu/family-taste-skill"
+  ],
+  "skills": [
+    "design-with-taste",
+    "design-with-taste"
+  ]
+}

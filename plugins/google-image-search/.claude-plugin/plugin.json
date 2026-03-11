@@ -1,9 +1,0 @@
-{
-  "name": "google-image-search",
-  "version": "1.0.0",
-  "description": "google-image-search skill from glebis/claude-skills",
-  "author": {
-    "name": "glebis"
-  },
-  "repository": "https://github.com/glebis/claude-skills"
-}

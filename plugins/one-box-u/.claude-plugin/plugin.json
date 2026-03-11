@@ -1,0 +1,15 @@
+{
+  "name": "one-box-u",
+  "version": "1.0.0",
+  "description": "2 skills from one-box-u/openclaw-daily-hot-news: daily-hot-news, daily-hot-news",
+  "author": {
+    "name": "one-box-u"
+  },
+  "repositories": [
+    "https://github.com/one-box-u/openclaw-daily-hot-news"
+  ],
+  "skills": [
+    "daily-hot-news",
+    "daily-hot-news"
+  ]
+}

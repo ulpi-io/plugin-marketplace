@@ -1,9 +1,0 @@
-{
-  "name": "macro-rates-monitor",
-  "version": "1.0.0",
-  "description": "macro-rates-monitor skill from anthropics/financial-services-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/financial-services-plugins"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "create-subagents",
-  "version": "1.0.0",
-  "description": "create-subagents skill from glittercowboy/taches-cc-resources",
-  "author": {
-    "name": "glittercowboy"
-  },
-  "repository": "https://github.com/glittercowboy/taches-cc-resources"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "test-coverage-improver",
-  "version": "1.0.0",
-  "description": "test-coverage-improver skill from openai/openai-agents-python",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/openai-agents-python"
-}

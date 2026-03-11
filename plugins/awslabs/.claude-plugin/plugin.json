@@ -1,0 +1,15 @@
+{
+  "name": "awslabs",
+  "version": "1.0.0",
+  "description": "2 skills from awslabs/mcp: dsql, dsql",
+  "author": {
+    "name": "awslabs"
+  },
+  "repositories": [
+    "https://github.com/awslabs/mcp"
+  ],
+  "skills": [
+    "dsql",
+    "dsql"
+  ]
+}

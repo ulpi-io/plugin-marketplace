@@ -1,0 +1,22 @@
+{
+  "name": "buiducnhat",
+  "version": "1.0.0",
+  "description": "9 skills from buiducnhat/agent-skills: write-plan, execute-plan, docs, review, ask, brainstorm, fix, quick-implement, bootstrap",
+  "author": {
+    "name": "buiducnhat"
+  },
+  "repositories": [
+    "https://github.com/buiducnhat/agent-skills"
+  ],
+  "skills": [
+    "write-plan",
+    "execute-plan",
+    "docs",
+    "review",
+    "ask",
+    "brainstorm",
+    "fix",
+    "quick-implement",
+    "bootstrap"
+  ]
+}

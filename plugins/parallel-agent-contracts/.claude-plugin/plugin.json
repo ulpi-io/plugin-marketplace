@@ -1,9 +1,0 @@
-{
-  "name": "parallel-agent-contracts",
-  "version": "1.0.0",
-  "description": "parallel-agent-contracts skill from parcadei/continuous-claude-v3",
-  "author": {
-    "name": "parcadei"
-  },
-  "repository": "https://github.com/parcadei/continuous-claude-v3"
-}

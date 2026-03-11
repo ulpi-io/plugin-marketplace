@@ -1,9 +1,14 @@
 {
   "name": "elysiajs",
   "version": "1.0.0",
-  "description": "elysiajs skill from elysiajs/skills",
+  "description": "1 skills from elysiajs/skills: elysiajs",
   "author": {
     "name": "elysiajs"
   },
-  "repository": "https://github.com/elysiajs/skills"
+  "repositories": [
+    "https://github.com/elysiajs/skills"
+  ],
+  "skills": [
+    "elysiajs"
+  ]
 }

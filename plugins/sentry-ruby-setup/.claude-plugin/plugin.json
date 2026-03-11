@@ -1,9 +1,0 @@
-{
-  "name": "sentry-ruby-setup",
-  "version": "1.0.0",
-  "description": "sentry-ruby-setup skill from getsentry/sentry-agent-skills",
-  "author": {
-    "name": "getsentry"
-  },
-  "repository": "https://github.com/getsentry/sentry-agent-skills"
-}

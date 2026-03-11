@@ -1,9 +1,0 @@
-{
-  "name": "apple-reminders",
-  "version": "1.0.0",
-  "description": "apple-reminders skill from steipete/clawdis",
-  "author": {
-    "name": "steipete"
-  },
-  "repository": "https://github.com/steipete/clawdis"
-}

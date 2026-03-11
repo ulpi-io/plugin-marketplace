@@ -1,9 +1,16 @@
 {
   "name": "insforge",
   "version": "1.0.0",
-  "description": "insforge skill from insforge/agent-skills",
+  "description": "3 skills from insforge/agent-skills: insforge, insforge, insforge-cli",
   "author": {
     "name": "insforge"
   },
-  "repository": "https://github.com/insforge/agent-skills"
+  "repositories": [
+    "https://github.com/insforge/agent-skills"
+  ],
+  "skills": [
+    "insforge",
+    "insforge",
+    "insforge-cli"
+  ]
 }

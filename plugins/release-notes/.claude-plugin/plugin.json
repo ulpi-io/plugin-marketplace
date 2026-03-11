@@ -1,9 +1,0 @@
-{
-  "name": "release-notes",
-  "version": "1.0.0",
-  "description": "release-notes skill from phuryn/pm-skills",
-  "author": {
-    "name": "phuryn"
-  },
-  "repository": "https://github.com/phuryn/pm-skills"
-}

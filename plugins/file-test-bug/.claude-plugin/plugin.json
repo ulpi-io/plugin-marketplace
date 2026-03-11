@@ -1,9 +1,0 @@
-{
-  "name": "file-test-bug",
-  "version": "1.0.0",
-  "description": "file-test-bug skill from microsoft/github-copilot-for-azure",
-  "author": {
-    "name": "microsoft"
-  },
-  "repository": "https://github.com/microsoft/github-copilot-for-azure"
-}

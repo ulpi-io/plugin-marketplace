@@ -1,0 +1,14 @@
+{
+  "name": "plugins-world",
+  "version": "1.0.0",
+  "description": "1 skills from plugins-world/pw-skills: pw-redbook-image",
+  "author": {
+    "name": "plugins-world"
+  },
+  "repositories": [
+    "https://github.com/plugins-world/pw-skills"
+  ],
+  "skills": [
+    "pw-redbook-image"
+  ]
+}

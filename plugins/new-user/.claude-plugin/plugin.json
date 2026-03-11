@@ -1,9 +1,0 @@
-{
-  "name": "new-user",
-  "version": "1.0.0",
-  "description": "new-user skill from medusajs/medusa-agent-skills",
-  "author": {
-    "name": "medusajs"
-  },
-  "repository": "https://github.com/medusajs/medusa-agent-skills"
-}

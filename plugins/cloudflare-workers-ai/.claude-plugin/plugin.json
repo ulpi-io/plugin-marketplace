@@ -1,9 +1,0 @@
-{
-  "name": "cloudflare-workers-ai",
-  "version": "1.0.0",
-  "description": "cloudflare-workers-ai skill from jezweb/claude-skills",
-  "author": {
-    "name": "jezweb"
-  },
-  "repository": "https://github.com/jezweb/claude-skills"
-}

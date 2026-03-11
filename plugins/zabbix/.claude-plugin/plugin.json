@@ -1,9 +1,0 @@
-{
-  "name": "zabbix",
-  "version": "1.0.0",
-  "description": "zabbix skill from julianobarbosa/claude-code-skills",
-  "author": {
-    "name": "julianobarbosa"
-  },
-  "repository": "https://github.com/julianobarbosa/claude-code-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "monitoring-observability",
-  "version": "1.0.0",
-  "description": "monitoring-observability skill from ahmedasmar/devops-claude-skills",
-  "author": {
-    "name": "ahmedasmar"
-  },
-  "repository": "https://github.com/ahmedasmar/devops-claude-skills"
-}

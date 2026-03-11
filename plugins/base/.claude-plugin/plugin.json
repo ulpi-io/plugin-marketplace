@@ -1,9 +1,19 @@
 {
   "name": "base",
   "version": "1.0.0",
-  "description": "base skill from bankrbot/openclaw-skills",
+  "description": "6 skills from base/skills: building-with-base-account, converting-minikit-to-farcaster, connecting-to-base-network, running-a-base-node, deploying-contracts-on-base, skill-creator",
   "author": {
-    "name": "bankrbot"
+    "name": "base"
   },
-  "repository": "https://github.com/bankrbot/openclaw-skills"
+  "repositories": [
+    "https://github.com/base/skills"
+  ],
+  "skills": [
+    "building-with-base-account",
+    "converting-minikit-to-farcaster",
+    "connecting-to-base-network",
+    "running-a-base-node",
+    "deploying-contracts-on-base",
+    "skill-creator"
+  ]
 }

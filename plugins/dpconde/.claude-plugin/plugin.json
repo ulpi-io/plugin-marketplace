@@ -1,0 +1,15 @@
+{
+  "name": "dpconde",
+  "version": "1.0.0",
+  "description": "2 skills from dpconde/claude-android-skill: android-development, android-development",
+  "author": {
+    "name": "dpconde"
+  },
+  "repositories": [
+    "https://github.com/dpconde/claude-android-skill"
+  ],
+  "skills": [
+    "android-development",
+    "android-development"
+  ]
+}

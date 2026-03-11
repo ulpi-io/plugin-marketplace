@@ -1,0 +1,19 @@
+{
+  "name": "aviz85",
+  "version": "1.0.0",
+  "description": "6 skills from aviz85/claude-skills-library: html-to-pdf, presentation-architect, gh-pages-deploy, youtube-uploader, music-generator, wordpress-publisher",
+  "author": {
+    "name": "aviz85"
+  },
+  "repositories": [
+    "https://github.com/aviz85/claude-skills-library"
+  ],
+  "skills": [
+    "html-to-pdf",
+    "presentation-architect",
+    "gh-pages-deploy",
+    "youtube-uploader",
+    "music-generator",
+    "wordpress-publisher"
+  ]
+}

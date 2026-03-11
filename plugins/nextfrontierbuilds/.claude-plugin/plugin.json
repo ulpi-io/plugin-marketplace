@@ -1,0 +1,15 @@
+{
+  "name": "nextfrontierbuilds",
+  "version": "1.0.0",
+  "description": "2 skills from nextfrontierbuilds/elite-longterm-memory: elite-longterm-memory, elite-longterm-memory",
+  "author": {
+    "name": "nextfrontierbuilds"
+  },
+  "repositories": [
+    "https://github.com/nextfrontierbuilds/elite-longterm-memory"
+  ],
+  "skills": [
+    "elite-longterm-memory",
+    "elite-longterm-memory"
+  ]
+}

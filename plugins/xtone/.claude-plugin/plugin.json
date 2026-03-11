@@ -1,0 +1,15 @@
+{
+  "name": "xtone",
+  "version": "1.0.0",
+  "description": "2 skills from xtone/ai_development_tools: code-review, pr-triage",
+  "author": {
+    "name": "xtone"
+  },
+  "repositories": [
+    "https://github.com/xtone/ai_development_tools"
+  ],
+  "skills": [
+    "code-review",
+    "pr-triage"
+  ]
+}

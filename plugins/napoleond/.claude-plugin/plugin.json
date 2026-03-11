@@ -1,0 +1,19 @@
+{
+  "name": "napoleond",
+  "version": "1.0.0",
+  "description": "4 skills from napoleond/clawdirect, napoleond/instaclaw, napoleond/sensitive-browser: clawdirect, instaclaw, clawdirect-dev, sensitive-browser",
+  "author": {
+    "name": "napoleond"
+  },
+  "repositories": [
+    "https://github.com/napoleond/clawdirect",
+    "https://github.com/napoleond/instaclaw",
+    "https://github.com/napoleond/sensitive-browser"
+  ],
+  "skills": [
+    "clawdirect",
+    "instaclaw",
+    "clawdirect-dev",
+    "sensitive-browser"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "zrt-ai-lab",
+  "version": "1.0.0",
+  "description": "1 skills from zrt-ai-lab/opencode-skills: videocut-subtitle",
+  "author": {
+    "name": "zrt-ai-lab"
+  },
+  "repositories": [
+    "https://github.com/zrt-ai-lab/opencode-skills"
+  ],
+  "skills": [
+    "videocut-subtitle"
+  ]
+}

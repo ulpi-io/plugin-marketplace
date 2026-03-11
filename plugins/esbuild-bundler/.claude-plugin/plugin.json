@@ -1,9 +1,0 @@
-{
-  "name": "esbuild-bundler",
-  "version": "1.0.0",
-  "description": "esbuild-bundler skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

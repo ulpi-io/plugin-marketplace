@@ -1,9 +1,0 @@
-{
-  "name": "azure-image-builder",
-  "version": "1.0.0",
-  "description": "azure-image-builder skill from hashicorp/agent-skills",
-  "author": {
-    "name": "hashicorp"
-  },
-  "repository": "https://github.com/hashicorp/agent-skills"
-}

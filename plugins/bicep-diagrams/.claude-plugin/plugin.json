@@ -1,9 +1,0 @@
-{
-  "name": "bicep-diagrams",
-  "version": "1.0.0",
-  "description": "bicep-diagrams skill from eraserlabs/eraser-io",
-  "author": {
-    "name": "eraserlabs"
-  },
-  "repository": "https://github.com/eraserlabs/eraser-io"
-}

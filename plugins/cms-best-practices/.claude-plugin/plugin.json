@@ -1,9 +1,0 @@
-{
-  "name": "cms-best-practices",
-  "version": "1.0.0",
-  "description": "cms-best-practices skill from webflow/webflow-skills",
-  "author": {
-    "name": "webflow"
-  },
-  "repository": "https://github.com/webflow/webflow-skills"
-}

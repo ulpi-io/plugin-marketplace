@@ -1,0 +1,14 @@
+{
+  "name": "botpress",
+  "version": "1.0.0",
+  "description": "1 skills from botpress/skills: adk",
+  "author": {
+    "name": "botpress"
+  },
+  "repositories": [
+    "https://github.com/botpress/skills"
+  ],
+  "skills": [
+    "adk"
+  ]
+}

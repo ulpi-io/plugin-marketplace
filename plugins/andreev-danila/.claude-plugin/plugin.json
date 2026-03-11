@@ -1,0 +1,14 @@
+{
+  "name": "andreev-danila",
+  "version": "1.0.0",
+  "description": "1 skills from andreev-danila/skills: reanimated-skia-performance",
+  "author": {
+    "name": "andreev-danila"
+  },
+  "repositories": [
+    "https://github.com/andreev-danila/skills"
+  ],
+  "skills": [
+    "reanimated-skia-performance"
+  ]
+}

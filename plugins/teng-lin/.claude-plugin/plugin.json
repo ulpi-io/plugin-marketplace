@@ -1,0 +1,15 @@
+{
+  "name": "teng-lin",
+  "version": "1.0.0",
+  "description": "2 skills from teng-lin/notebooklm-py: notebooklm, notebooklm",
+  "author": {
+    "name": "teng-lin"
+  },
+  "repositories": [
+    "https://github.com/teng-lin/notebooklm-py"
+  ],
+  "skills": [
+    "notebooklm",
+    "notebooklm"
+  ]
+}

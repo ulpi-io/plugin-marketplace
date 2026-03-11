@@ -1,0 +1,15 @@
+{
+  "name": "nanmicoder",
+  "version": "1.0.0",
+  "description": "2 skills from nanmicoder/newscrawler: china-news-crawler, news-extractor",
+  "author": {
+    "name": "nanmicoder"
+  },
+  "repositories": [
+    "https://github.com/nanmicoder/newscrawler"
+  ],
+  "skills": [
+    "china-news-crawler",
+    "news-extractor"
+  ]
+}

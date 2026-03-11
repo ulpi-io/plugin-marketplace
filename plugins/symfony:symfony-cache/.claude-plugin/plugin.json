@@ -1,9 +1,0 @@
-{
-  "name": "symfony:symfony-cache",
-  "version": "1.0.0",
-  "description": "symfony:symfony-cache skill from makfly/superpowers-symfony",
-  "author": {
-    "name": "makfly"
-  },
-  "repository": "https://github.com/makfly/superpowers-symfony"
-}

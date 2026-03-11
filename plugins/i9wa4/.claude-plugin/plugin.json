@@ -1,0 +1,15 @@
+{
+  "name": "i9wa4",
+  "version": "1.0.0",
+  "description": "2 skills from i9wa4/dotfiles: daily-report, bigquery",
+  "author": {
+    "name": "i9wa4"
+  },
+  "repositories": [
+    "https://github.com/i9wa4/dotfiles"
+  ],
+  "skills": [
+    "daily-report",
+    "bigquery"
+  ]
+}

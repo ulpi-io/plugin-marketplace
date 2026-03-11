@@ -1,0 +1,14 @@
+{
+  "name": "mann1988",
+  "version": "1.0.0",
+  "description": "1 skills from mann1988/awesome-claude-skills: mckinsey-consultant",
+  "author": {
+    "name": "mann1988"
+  },
+  "repositories": [
+    "https://github.com/mann1988/awesome-claude-skills"
+  ],
+  "skills": [
+    "mckinsey-consultant"
+  ]
+}

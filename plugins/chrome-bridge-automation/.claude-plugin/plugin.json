@@ -1,9 +1,0 @@
-{
-  "name": "chrome-bridge-automation",
-  "version": "1.0.0",
-  "description": "chrome-bridge-automation skill from web-infra-dev/midscene-skills",
-  "author": {
-    "name": "web-infra-dev"
-  },
-  "repository": "https://github.com/web-infra-dev/midscene-skills"
-}

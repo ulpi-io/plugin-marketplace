@@ -1,9 +1,0 @@
-{
-  "name": "fix-flaky-tests",
-  "version": "1.0.0",
-  "description": "fix-flaky-tests skill from tuist/agent-skills",
-  "author": {
-    "name": "tuist"
-  },
-  "repository": "https://github.com/tuist/agent-skills"
-}

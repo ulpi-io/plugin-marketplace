@@ -1,9 +1,0 @@
-{
-  "name": "service-mesh-observability",
-  "version": "1.0.0",
-  "description": "service-mesh-observability skill from wshobson/agents",
-  "author": {
-    "name": "wshobson"
-  },
-  "repository": "https://github.com/wshobson/agents"
-}

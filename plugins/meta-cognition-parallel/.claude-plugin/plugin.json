@@ -1,9 +1,0 @@
-{
-  "name": "meta-cognition-parallel",
-  "version": "1.0.0",
-  "description": "meta-cognition-parallel skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

@@ -1,0 +1,38 @@
+{
+  "name": "onmax",
+  "version": "1.0.0",
+  "description": "25 skills from onmax/nuxt-skills: reka-ui, nuxt, vue, nuxt-ui, vueuse, motion, motion, ts-library, ts-library, document-writer, nuxt-seo, nuxt-seo, nuxt-modules, nuxt-modules, nuxt-content, nuxt-content, nuxt-better-auth, vite, vite, nuxthub, nuxthub, vitest, pnpm, tsdown, tresjs",
+  "author": {
+    "name": "onmax"
+  },
+  "repositories": [
+    "https://github.com/onmax/nuxt-skills"
+  ],
+  "skills": [
+    "reka-ui",
+    "nuxt",
+    "vue",
+    "nuxt-ui",
+    "vueuse",
+    "motion",
+    "motion",
+    "ts-library",
+    "ts-library",
+    "document-writer",
+    "nuxt-seo",
+    "nuxt-seo",
+    "nuxt-modules",
+    "nuxt-modules",
+    "nuxt-content",
+    "nuxt-content",
+    "nuxt-better-auth",
+    "vite",
+    "vite",
+    "nuxthub",
+    "nuxthub",
+    "vitest",
+    "pnpm",
+    "tsdown",
+    "tresjs"
+  ]
+}

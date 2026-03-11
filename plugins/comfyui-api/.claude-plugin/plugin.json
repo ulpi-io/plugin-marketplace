@@ -1,9 +1,0 @@
-{
-  "name": "comfyui-api",
-  "version": "1.0.0",
-  "description": "comfyui-api skill from mckruz/comfyui-expert",
-  "author": {
-    "name": "mckruz"
-  },
-  "repository": "https://github.com/mckruz/comfyui-expert"
-}

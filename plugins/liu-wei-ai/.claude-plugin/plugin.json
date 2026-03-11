@@ -1,0 +1,14 @@
+{
+  "name": "liu-wei-ai",
+  "version": "1.0.0",
+  "description": "1 skills from liu-wei-ai/douyin-video-summary: douyin-video-summary",
+  "author": {
+    "name": "liu-wei-ai"
+  },
+  "repositories": [
+    "https://github.com/liu-wei-ai/douyin-video-summary"
+  ],
+  "skills": [
+    "douyin-video-summary"
+  ]
+}

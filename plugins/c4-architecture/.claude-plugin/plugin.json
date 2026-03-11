@@ -1,9 +1,0 @@
-{
-  "name": "c4-architecture",
-  "version": "1.0.0",
-  "description": "c4-architecture skill from softaworks/agent-toolkit",
-  "author": {
-    "name": "softaworks"
-  },
-  "repository": "https://github.com/softaworks/agent-toolkit"
-}

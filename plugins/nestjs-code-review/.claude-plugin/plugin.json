@@ -1,9 +1,0 @@
-{
-  "name": "nestjs-code-review",
-  "version": "1.0.0",
-  "description": "nestjs-code-review skill from giuseppe-trisciuoglio/developer-kit",
-  "author": {
-    "name": "giuseppe-trisciuoglio"
-  },
-  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
-}

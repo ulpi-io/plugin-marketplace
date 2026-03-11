@@ -1,0 +1,15 @@
+{
+  "name": "agentbay-ai",
+  "version": "1.0.0",
+  "description": "2 skills from agentbay-ai/agentbay-skills: stock-watcher, weibo-hot-search",
+  "author": {
+    "name": "agentbay-ai"
+  },
+  "repositories": [
+    "https://github.com/agentbay-ai/agentbay-skills"
+  ],
+  "skills": [
+    "stock-watcher",
+    "weibo-hot-search"
+  ]
+}

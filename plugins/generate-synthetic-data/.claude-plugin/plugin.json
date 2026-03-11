@@ -1,9 +1,0 @@
-{
-  "name": "generate-synthetic-data",
-  "version": "1.0.0",
-  "description": "generate-synthetic-data skill from hamelsmu/evals-skills",
-  "author": {
-    "name": "hamelsmu"
-  },
-  "repository": "https://github.com/hamelsmu/evals-skills"
-}

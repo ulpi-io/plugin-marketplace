@@ -1,9 +1,0 @@
-{
-  "name": "ux-audit-rethink",
-  "version": "1.0.0",
-  "description": "ux-audit-rethink skill from mastepanoski/claude-skills",
-  "author": {
-    "name": "mastepanoski"
-  },
-  "repository": "https://github.com/mastepanoski/claude-skills"
-}

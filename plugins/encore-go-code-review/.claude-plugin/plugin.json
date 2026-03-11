@@ -1,9 +1,0 @@
-{
-  "name": "encore-go-code-review",
-  "version": "1.0.0",
-  "description": "encore-go-code-review skill from encoredev/skills",
-  "author": {
-    "name": "encoredev"
-  },
-  "repository": "https://github.com/encoredev/skills"
-}

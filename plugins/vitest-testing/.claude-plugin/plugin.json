@@ -1,9 +1,0 @@
-{
-  "name": "vitest-testing",
-  "version": "1.0.0",
-  "description": "vitest-testing skill from secondsky/claude-skills",
-  "author": {
-    "name": "secondsky"
-  },
-  "repository": "https://github.com/secondsky/claude-skills"
-}

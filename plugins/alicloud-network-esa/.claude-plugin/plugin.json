@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-network-esa",
-  "version": "1.0.0",
-  "description": "alicloud-network-esa skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

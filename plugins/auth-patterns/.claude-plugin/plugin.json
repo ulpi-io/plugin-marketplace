@@ -1,9 +1,0 @@
-{
-  "name": "auth-patterns",
-  "version": "1.0.0",
-  "description": "auth-patterns skill from davepoon/buildwithclaude",
-  "author": {
-    "name": "davepoon"
-  },
-  "repository": "https://github.com/davepoon/buildwithclaude"
-}

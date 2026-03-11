@@ -1,9 +1,0 @@
-{
-  "name": "managing-astro-local-env",
-  "version": "1.0.0",
-  "description": "managing-astro-local-env skill from astronomer/agents",
-  "author": {
-    "name": "astronomer"
-  },
-  "repository": "https://github.com/astronomer/agents"
-}

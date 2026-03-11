@@ -1,9 +1,0 @@
-{
-  "name": "ln-622-build-auditor",
-  "version": "1.0.0",
-  "description": "ln-622-build-auditor skill from levnikolaevich/claude-code-skills",
-  "author": {
-    "name": "levnikolaevich"
-  },
-  "repository": "https://github.com/levnikolaevich/claude-code-skills"
-}

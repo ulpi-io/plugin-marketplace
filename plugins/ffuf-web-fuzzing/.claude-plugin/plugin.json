@@ -1,9 +1,0 @@
-{
-  "name": "ffuf-web-fuzzing",
-  "version": "1.0.0",
-  "description": "ffuf-web-fuzzing skill from jthack/ffuf_claude_skill",
-  "author": {
-    "name": "jthack"
-  },
-  "repository": "https://github.com/jthack/ffuf_claude_skill"
-}

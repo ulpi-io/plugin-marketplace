@@ -1,9 +1,0 @@
-{
-  "name": "sadd:do-in-steps",
-  "version": "1.0.0",
-  "description": "sadd:do-in-steps skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

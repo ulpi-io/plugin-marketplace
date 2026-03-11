@@ -1,0 +1,14 @@
+{
+  "name": "gitbutlerapp",
+  "version": "1.0.0",
+  "description": "1 skills from gitbutlerapp/gitbutler: but",
+  "author": {
+    "name": "gitbutlerapp"
+  },
+  "repositories": [
+    "https://github.com/gitbutlerapp/gitbutler"
+  ],
+  "skills": [
+    "but"
+  ]
+}

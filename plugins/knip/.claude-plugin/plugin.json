@@ -1,9 +1,0 @@
-{
-  "name": "knip",
-  "version": "1.0.0",
-  "description": "knip skill from brianlovin/claude-config",
-  "author": {
-    "name": "brianlovin"
-  },
-  "repository": "https://github.com/brianlovin/claude-config"
-}

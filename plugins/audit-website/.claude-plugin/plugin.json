@@ -1,9 +1,0 @@
-{
-  "name": "audit-website",
-  "version": "1.0.0",
-  "description": "audit-website skill from squirrelscan/skills",
-  "author": {
-    "name": "squirrelscan"
-  },
-  "repository": "https://github.com/squirrelscan/skills"
-}

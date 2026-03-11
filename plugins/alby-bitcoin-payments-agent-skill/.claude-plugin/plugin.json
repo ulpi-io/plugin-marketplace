@@ -1,9 +1,0 @@
-{
-  "name": "alby-bitcoin-payments-agent-skill",
-  "version": "1.0.0",
-  "description": "alby-bitcoin-payments-agent-skill skill from getalby/alby-agent-skill",
-  "author": {
-    "name": "getalby"
-  },
-  "repository": "https://github.com/getalby/alby-agent-skill"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "architect-reviewer",
-  "version": "1.0.0",
-  "description": "architect-reviewer skill from 404kidwiz/claude-supercode-skills",
-  "author": {
-    "name": "404kidwiz"
-  },
-  "repository": "https://github.com/404kidwiz/claude-supercode-skills"
-}

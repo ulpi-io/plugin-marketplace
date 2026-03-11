@@ -1,0 +1,22 @@
+{
+  "name": "brianlovin",
+  "version": "1.0.0",
+  "description": "9 skills from brianlovin/claude-config: simplify, deslop, knip, rams, find-skills, agent-browser, favicon, reclaude, bun",
+  "author": {
+    "name": "brianlovin"
+  },
+  "repositories": [
+    "https://github.com/brianlovin/claude-config"
+  ],
+  "skills": [
+    "simplify",
+    "deslop",
+    "knip",
+    "rams",
+    "find-skills",
+    "agent-browser",
+    "favicon",
+    "reclaude",
+    "bun"
+  ]
+}

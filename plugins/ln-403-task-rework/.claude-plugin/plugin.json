@@ -1,9 +1,0 @@
-{
-  "name": "ln-403-task-rework",
-  "version": "1.0.0",
-  "description": "ln-403-task-rework skill from levnikolaevich/claude-code-skills",
-  "author": {
-    "name": "levnikolaevich"
-  },
-  "repository": "https://github.com/levnikolaevich/claude-code-skills"
-}

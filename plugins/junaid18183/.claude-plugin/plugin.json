@@ -1,0 +1,14 @@
+{
+  "name": "junaid18183",
+  "version": "1.0.0",
+  "description": "1 skills from junaid18183/novel-architect-skills: novel-architect",
+  "author": {
+    "name": "junaid18183"
+  },
+  "repositories": [
+    "https://github.com/junaid18183/novel-architect-skills"
+  ],
+  "skills": [
+    "novel-architect"
+  ]
+}

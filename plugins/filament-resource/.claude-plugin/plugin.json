@@ -1,9 +1,0 @@
-{
-  "name": "filament-resource",
-  "version": "1.0.0",
-  "description": "filament-resource skill from mwguerra/claude-code-plugins",
-  "author": {
-    "name": "mwguerra"
-  },
-  "repository": "https://github.com/mwguerra/claude-code-plugins"
-}

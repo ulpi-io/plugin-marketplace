@@ -1,9 +1,0 @@
-{
-  "name": "upstash-redis-kv",
-  "version": "1.0.0",
-  "description": "upstash-redis-kv skill from intellectronica/agent-skills",
-  "author": {
-    "name": "intellectronica"
-  },
-  "repository": "https://github.com/intellectronica/agent-skills"
-}

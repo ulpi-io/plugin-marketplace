@@ -1,0 +1,20 @@
+{
+  "name": "liangdabiao",
+  "version": "1.0.0",
+  "description": "6 skills from liangdabiao/claude-code-stock-deep-research-agent, liangdabiao/claude-data-analysis-ultra-main: stock-research-executor, stock-research-executor, stock-question-refiner, data-exploration-visualization, citation-validator, research-executor",
+  "author": {
+    "name": "liangdabiao"
+  },
+  "repositories": [
+    "https://github.com/liangdabiao/claude-code-stock-deep-research-agent",
+    "https://github.com/liangdabiao/claude-data-analysis-ultra-main"
+  ],
+  "skills": [
+    "stock-research-executor",
+    "stock-research-executor",
+    "stock-question-refiner",
+    "data-exploration-visualization",
+    "citation-validator",
+    "research-executor"
+  ]
+}

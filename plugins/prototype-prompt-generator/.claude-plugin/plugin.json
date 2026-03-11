@@ -1,9 +1,0 @@
-{
-  "name": "prototype-prompt-generator",
-  "version": "1.0.0",
-  "description": "prototype-prompt-generator skill from cexll/myclaude",
-  "author": {
-    "name": "cexll"
-  },
-  "repository": "https://github.com/cexll/myclaude"
-}

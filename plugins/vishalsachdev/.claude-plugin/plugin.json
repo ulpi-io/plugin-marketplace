@@ -1,0 +1,14 @@
+{
+  "name": "vishalsachdev",
+  "version": "1.0.0",
+  "description": "1 skills from vishalsachdev/claude-code-skills: paper-writing",
+  "author": {
+    "name": "vishalsachdev"
+  },
+  "repositories": [
+    "https://github.com/vishalsachdev/claude-code-skills"
+  ],
+  "skills": [
+    "paper-writing"
+  ]
+}

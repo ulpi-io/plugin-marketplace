@@ -1,9 +1,0 @@
-{
-  "name": "laravel-multi-tenancy",
-  "version": "1.0.0",
-  "description": "laravel-multi-tenancy skill from leeovery/claude-laravel",
-  "author": {
-    "name": "leeovery"
-  },
-  "repository": "https://github.com/leeovery/claude-laravel"
-}

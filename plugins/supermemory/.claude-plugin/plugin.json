@@ -1,9 +1,0 @@
-{
-  "name": "supermemory",
-  "version": "1.0.0",
-  "description": "supermemory skill from supermemoryai/supermemory",
-  "author": {
-    "name": "supermemoryai"
-  },
-  "repository": "https://github.com/supermemoryai/supermemory"
-}

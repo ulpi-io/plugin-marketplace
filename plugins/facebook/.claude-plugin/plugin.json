@@ -1,0 +1,22 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "9 skills from facebook/react: fix, extract-errors, extract-errors, verify, test, feature-flags, flow, flags, flags",
+  "author": {
+    "name": "facebook"
+  },
+  "repositories": [
+    "https://github.com/facebook/react"
+  ],
+  "skills": [
+    "fix",
+    "extract-errors",
+    "extract-errors",
+    "verify",
+    "test",
+    "feature-flags",
+    "flow",
+    "flags",
+    "flags"
+  ]
+}

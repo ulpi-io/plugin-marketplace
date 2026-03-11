@@ -1,9 +1,0 @@
-{
-  "name": "biomedical-search",
-  "version": "1.0.0",
-  "description": "biomedical-search skill from yorkeccak/scientific-skills",
-  "author": {
-    "name": "yorkeccak"
-  },
-  "repository": "https://github.com/yorkeccak/scientific-skills"
-}

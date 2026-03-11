@@ -1,9 +1,0 @@
-{
-  "name": "symfony:e2e-panther-playwright",
-  "version": "1.0.0",
-  "description": "symfony:e2e-panther-playwright skill from makfly/superpowers-symfony",
-  "author": {
-    "name": "makfly"
-  },
-  "repository": "https://github.com/makfly/superpowers-symfony"
-}

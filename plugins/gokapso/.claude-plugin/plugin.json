@@ -1,0 +1,19 @@
+{
+  "name": "gokapso",
+  "version": "1.0.0",
+  "description": "6 skills from gokapso/agent-skills: integrate-whatsapp, automate-whatsapp, observe-whatsapp, observe-whatsapp, whatsapp-messaging, whatsapp-flows",
+  "author": {
+    "name": "gokapso"
+  },
+  "repositories": [
+    "https://github.com/gokapso/agent-skills"
+  ],
+  "skills": [
+    "integrate-whatsapp",
+    "automate-whatsapp",
+    "observe-whatsapp",
+    "observe-whatsapp",
+    "whatsapp-messaging",
+    "whatsapp-flows"
+  ]
+}

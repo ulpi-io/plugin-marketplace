@@ -1,9 +1,0 @@
-{
-  "name": "openclaw-backup",
-  "version": "1.0.0",
-  "description": "openclaw-backup skill from theagentservice/skills",
-  "author": {
-    "name": "theagentservice"
-  },
-  "repository": "https://github.com/theagentservice/skills"
-}

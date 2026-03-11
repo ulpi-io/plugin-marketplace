@@ -1,9 +1,0 @@
-{
-  "name": "skill-name",
-  "version": "1.0.0",
-  "description": "skill-name skill from resciencelab/opc-skills",
-  "author": {
-    "name": "resciencelab"
-  },
-  "repository": "https://github.com/resciencelab/opc-skills"
-}

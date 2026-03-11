@@ -1,0 +1,14 @@
+{
+  "name": "zaddy6",
+  "version": "1.0.0",
+  "description": "1 skills from zaddy6/agent-email-skill: agent-email-cli",
+  "author": {
+    "name": "zaddy6"
+  },
+  "repositories": [
+    "https://github.com/zaddy6/agent-email-skill"
+  ],
+  "skills": [
+    "agent-email-cli"
+  ]
+}

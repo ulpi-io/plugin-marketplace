@@ -1,0 +1,30 @@
+{
+  "name": "andrelandgraf",
+  "version": "1.0.0",
+  "description": "17 skills from andrelandgraf/fullstackrecipes: ralph-loop, ralph-loop, observability-monitoring, stripe-subscriptions, og-image-generation, nextjs-on-vercel, ai-chat, neon-drizzle-setup, authentication, using-drizzle-queries, shiki-code-blocks, use-fullstackrecipes, pino-logging-setup, base-app-setup, url-state-management, testing, ai-agent-workflow",
+  "author": {
+    "name": "andrelandgraf"
+  },
+  "repositories": [
+    "https://github.com/andrelandgraf/fullstackrecipes"
+  ],
+  "skills": [
+    "ralph-loop",
+    "ralph-loop",
+    "observability-monitoring",
+    "stripe-subscriptions",
+    "og-image-generation",
+    "nextjs-on-vercel",
+    "ai-chat",
+    "neon-drizzle-setup",
+    "authentication",
+    "using-drizzle-queries",
+    "shiki-code-blocks",
+    "use-fullstackrecipes",
+    "pino-logging-setup",
+    "base-app-setup",
+    "url-state-management",
+    "testing",
+    "ai-agent-workflow"
+  ]
+}

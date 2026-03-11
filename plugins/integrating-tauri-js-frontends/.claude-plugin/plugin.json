@@ -1,9 +1,0 @@
-{
-  "name": "integrating-tauri-js-frontends",
-  "version": "1.0.0",
-  "description": "integrating-tauri-js-frontends skill from dchuk/claude-code-tauri-skills",
-  "author": {
-    "name": "dchuk"
-  },
-  "repository": "https://github.com/dchuk/claude-code-tauri-skills"
-}

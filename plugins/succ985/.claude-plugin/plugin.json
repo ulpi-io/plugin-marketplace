@@ -1,0 +1,14 @@
+{
+  "name": "succ985",
+  "version": "1.0.0",
+  "description": "1 skills from succ985/openclaw-akshare-skill: akshare",
+  "author": {
+    "name": "succ985"
+  },
+  "repositories": [
+    "https://github.com/succ985/openclaw-akshare-skill"
+  ],
+  "skills": [
+    "akshare"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "openbb-finance",
+  "version": "1.0.0",
+  "description": "1 skills from openbb-finance/backends-for-openbb: openbb-app-builder",
+  "author": {
+    "name": "openbb-finance"
+  },
+  "repositories": [
+    "https://github.com/openbb-finance/backends-for-openbb"
+  ],
+  "skills": [
+    "openbb-app-builder"
+  ]
+}

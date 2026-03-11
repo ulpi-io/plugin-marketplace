@@ -1,9 +1,0 @@
-{
-  "name": "pdf-ocr",
-  "version": "1.0.0",
-  "description": "pdf-ocr skill from yejinlei/pdf-ocr-skill",
-  "author": {
-    "name": "yejinlei"
-  },
-  "repository": "https://github.com/yejinlei/pdf-ocr-skill"
-}

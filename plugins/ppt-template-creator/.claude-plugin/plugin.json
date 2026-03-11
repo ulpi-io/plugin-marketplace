@@ -1,9 +1,0 @@
-{
-  "name": "ppt-template-creator",
-  "version": "1.0.0",
-  "description": "ppt-template-creator skill from anthropics/financial-services-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/financial-services-plugins"
-}

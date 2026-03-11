@@ -1,9 +1,0 @@
-{
-  "name": "adversarial-review",
-  "version": "1.0.0",
-  "description": "adversarial-review skill from poteto/noodle",
-  "author": {
-    "name": "poteto"
-  },
-  "repository": "https://github.com/poteto/noodle"
-}

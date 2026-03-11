@@ -1,9 +1,0 @@
-{
-  "name": "i18n-expert",
-  "version": "1.0.0",
-  "description": "i18n-expert skill from daymade/claude-code-skills",
-  "author": {
-    "name": "daymade"
-  },
-  "repository": "https://github.com/daymade/claude-code-skills"
-}

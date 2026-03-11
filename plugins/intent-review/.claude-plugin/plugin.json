@@ -1,9 +1,0 @@
-{
-  "name": "intent-review",
-  "version": "1.0.0",
-  "description": "intent-review skill from arcblock/idd",
-  "author": {
-    "name": "arcblock"
-  },
-  "repository": "https://github.com/arcblock/idd"
-}

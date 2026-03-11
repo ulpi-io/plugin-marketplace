@@ -1,9 +1,0 @@
-{
-  "name": "cli",
-  "version": "1.0.0",
-  "description": "cli skill from posit-dev/skills",
-  "author": {
-    "name": "posit-dev"
-  },
-  "repository": "https://github.com/posit-dev/skills"
-}

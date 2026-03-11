@@ -1,0 +1,14 @@
+{
+  "name": "meleantonio",
+  "version": "1.0.0",
+  "description": "1 skills from meleantonio/awesome-econ-ai-stuff: academic-paper-writer",
+  "author": {
+    "name": "meleantonio"
+  },
+  "repositories": [
+    "https://github.com/meleantonio/awesome-econ-ai-stuff"
+  ],
+  "skills": [
+    "academic-paper-writer"
+  ]
+}

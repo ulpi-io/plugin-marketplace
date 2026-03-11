@@ -1,9 +1,0 @@
-{
-  "name": "java-docker",
-  "version": "1.0.0",
-  "description": "java-docker skill from pluginagentmarketplace/custom-plugin-java",
-  "author": {
-    "name": "pluginagentmarketplace"
-  },
-  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-java"
-}

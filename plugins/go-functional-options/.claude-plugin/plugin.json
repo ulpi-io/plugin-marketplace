@@ -1,9 +1,0 @@
-{
-  "name": "go-functional-options",
-  "version": "1.0.0",
-  "description": "go-functional-options skill from cxuu/golang-skills",
-  "author": {
-    "name": "cxuu"
-  },
-  "repository": "https://github.com/cxuu/golang-skills"
-}

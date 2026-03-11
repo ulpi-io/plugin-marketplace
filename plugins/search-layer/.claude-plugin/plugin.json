@@ -1,9 +1,0 @@
-{
-  "name": "search-layer",
-  "version": "1.0.0",
-  "description": "search-layer skill from blessonism/openclaw-search-skills",
-  "author": {
-    "name": "blessonism"
-  },
-  "repository": "https://github.com/blessonism/openclaw-search-skills"
-}

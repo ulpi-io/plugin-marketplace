@@ -1,9 +1,0 @@
-{
-  "name": "extract-transcripts",
-  "version": "1.0.0",
-  "description": "extract-transcripts skill from 0xbigboss/claude-code",
-  "author": {
-    "name": "0xbigboss"
-  },
-  "repository": "https://github.com/0xbigboss/claude-code"
-}

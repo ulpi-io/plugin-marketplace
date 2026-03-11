@@ -1,9 +1,0 @@
-{
-  "name": "codeql",
-  "version": "1.0.0",
-  "description": "codeql skill from trailofbits/skills",
-  "author": {
-    "name": "trailofbits"
-  },
-  "repository": "https://github.com/trailofbits/skills"
-}

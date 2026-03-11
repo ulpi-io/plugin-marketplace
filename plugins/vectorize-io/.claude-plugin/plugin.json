@@ -1,0 +1,15 @@
+{
+  "name": "vectorize-io",
+  "version": "1.0.0",
+  "description": "2 skills from vectorize-io/hindsight: hindsight-docs, hindsight-docs",
+  "author": {
+    "name": "vectorize-io"
+  },
+  "repositories": [
+    "https://github.com/vectorize-io/hindsight"
+  ],
+  "skills": [
+    "hindsight-docs",
+    "hindsight-docs"
+  ]
+}

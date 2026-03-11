@@ -1,9 +1,0 @@
-{
-  "name": "setup-sandbox",
-  "version": "1.0.0",
-  "description": "setup-sandbox skill from recoupable/setup-sandbox",
-  "author": {
-    "name": "recoupable"
-  },
-  "repository": "https://github.com/recoupable/setup-sandbox"
-}

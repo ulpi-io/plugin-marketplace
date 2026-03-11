@@ -1,9 +1,0 @@
-{
-  "name": "nginx-config-optimizer",
-  "version": "1.0.0",
-  "description": "nginx-config-optimizer skill from patricio0312rev/skills",
-  "author": {
-    "name": "patricio0312rev"
-  },
-  "repository": "https://github.com/patricio0312rev/skills"
-}

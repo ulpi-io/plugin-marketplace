@@ -1,9 +1,0 @@
-{
-  "name": "square-post",
-  "version": "1.0.0",
-  "description": "square-post skill from binance/binance-skills-hub",
-  "author": {
-    "name": "binance"
-  },
-  "repository": "https://github.com/binance/binance-skills-hub"
-}

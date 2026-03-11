@@ -1,9 +1,0 @@
-{
-  "name": "n8n-validation-expert",
-  "version": "1.0.0",
-  "description": "n8n-validation-expert skill from czlonkowski/n8n-skills",
-  "author": {
-    "name": "czlonkowski"
-  },
-  "repository": "https://github.com/czlonkowski/n8n-skills"
-}

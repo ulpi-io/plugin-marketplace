@@ -1,0 +1,15 @@
+{
+  "name": "danielmiessler",
+  "version": "1.0.0",
+  "description": "2 skills from danielmiessler/personal_ai_infrastructure: agents, council",
+  "author": {
+    "name": "danielmiessler"
+  },
+  "repositories": [
+    "https://github.com/danielmiessler/personal_ai_infrastructure"
+  ],
+  "skills": [
+    "agents",
+    "council"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "dylanfeltus",
+  "version": "1.0.0",
+  "description": "4 skills from dylanfeltus/skills: visual-qa, design-tokens, creative-direction, motion-design-patterns",
+  "author": {
+    "name": "dylanfeltus"
+  },
+  "repositories": [
+    "https://github.com/dylanfeltus/skills"
+  ],
+  "skills": [
+    "visual-qa",
+    "design-tokens",
+    "creative-direction",
+    "motion-design-patterns"
+  ]
+}

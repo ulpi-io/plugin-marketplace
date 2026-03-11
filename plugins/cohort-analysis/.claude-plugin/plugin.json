@@ -1,9 +1,0 @@
-{
-  "name": "cohort-analysis",
-  "version": "1.0.0",
-  "description": "cohort-analysis skill from phuryn/pm-skills",
-  "author": {
-    "name": "phuryn"
-  },
-  "repository": "https://github.com/phuryn/pm-skills"
-}

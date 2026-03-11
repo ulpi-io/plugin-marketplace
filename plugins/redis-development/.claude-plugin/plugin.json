@@ -1,9 +1,0 @@
-{
-  "name": "redis-development",
-  "version": "1.0.0",
-  "description": "redis-development skill from redis/agent-skills",
-  "author": {
-    "name": "redis"
-  },
-  "repository": "https://github.com/redis/agent-skills"
-}

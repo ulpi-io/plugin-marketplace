@@ -1,9 +1,0 @@
-{
-  "name": "openspec-proposal-creation",
-  "version": "1.0.0",
-  "description": "openspec-proposal-creation skill from forztf/open-skilled-sdd",
-  "author": {
-    "name": "forztf"
-  },
-  "repository": "https://github.com/forztf/open-skilled-sdd"
-}

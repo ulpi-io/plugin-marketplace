@@ -1,9 +1,0 @@
-{
-  "name": "migrating-to-tuist-generated-projects",
-  "version": "1.0.0",
-  "description": "migrating-to-tuist-generated-projects skill from tuist/agent-skills",
-  "author": {
-    "name": "tuist"
-  },
-  "repository": "https://github.com/tuist/agent-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "create-remotion-geist",
-  "version": "1.0.0",
-  "description": "create-remotion-geist skill from vercel-labs/skill-remotion-geist",
-  "author": {
-    "name": "vercel-labs"
-  },
-  "repository": "https://github.com/vercel-labs/skill-remotion-geist"
-}

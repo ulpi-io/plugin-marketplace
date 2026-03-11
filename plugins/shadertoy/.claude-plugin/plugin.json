@@ -1,9 +1,0 @@
-{
-  "name": "shadertoy",
-  "version": "1.0.0",
-  "description": "shadertoy skill from bfollington/terma",
-  "author": {
-    "name": "bfollington"
-  },
-  "repository": "https://github.com/bfollington/terma"
-}

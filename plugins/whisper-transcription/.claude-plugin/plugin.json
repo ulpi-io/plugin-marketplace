@@ -1,9 +1,0 @@
-{
-  "name": "whisper-transcription",
-  "version": "1.0.0",
-  "description": "whisper-transcription skill from guia-matthieu/clawfu-skills",
-  "author": {
-    "name": "guia-matthieu"
-  },
-  "repository": "https://github.com/guia-matthieu/clawfu-skills"
-}

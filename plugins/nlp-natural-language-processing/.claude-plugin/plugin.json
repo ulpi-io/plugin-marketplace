@@ -1,9 +1,0 @@
-{
-  "name": "nlp-natural-language-processing",
-  "version": "1.0.0",
-  "description": "nlp-natural-language-processing skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

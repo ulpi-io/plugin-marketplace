@@ -1,0 +1,15 @@
+{
+  "name": "molezzz",
+  "version": "1.0.0",
+  "description": "2 skills from molezzz/openclaw-stock-skill: akshare-stock, akshare-stock",
+  "author": {
+    "name": "molezzz"
+  },
+  "repositories": [
+    "https://github.com/molezzz/openclaw-stock-skill"
+  ],
+  "skills": [
+    "akshare-stock",
+    "akshare-stock"
+  ]
+}

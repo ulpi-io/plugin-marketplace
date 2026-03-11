@@ -1,0 +1,15 @@
+{
+  "name": "d4vinci",
+  "version": "1.0.0",
+  "description": "2 skills from d4vinci/scrapling: scrapling-official, scrapling-official",
+  "author": {
+    "name": "d4vinci"
+  },
+  "repositories": [
+    "https://github.com/d4vinci/scrapling"
+  ],
+  "skills": [
+    "scrapling-official",
+    "scrapling-official"
+  ]
+}

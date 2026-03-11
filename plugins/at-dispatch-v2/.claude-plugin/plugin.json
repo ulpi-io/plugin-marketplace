@@ -1,9 +1,0 @@
-{
-  "name": "at-dispatch-v2",
-  "version": "1.0.0",
-  "description": "at-dispatch-v2 skill from pytorch/pytorch",
-  "author": {
-    "name": "pytorch"
-  },
-  "repository": "https://github.com/pytorch/pytorch"
-}

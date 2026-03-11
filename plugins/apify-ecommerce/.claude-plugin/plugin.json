@@ -1,9 +1,0 @@
-{
-  "name": "apify-ecommerce",
-  "version": "1.0.0",
-  "description": "apify-ecommerce skill from apify/agent-skills",
-  "author": {
-    "name": "apify"
-  },
-  "repository": "https://github.com/apify/agent-skills"
-}

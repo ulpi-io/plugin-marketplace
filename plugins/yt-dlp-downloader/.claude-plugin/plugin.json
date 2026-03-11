@@ -1,9 +1,0 @@
-{
-  "name": "yt-dlp-downloader",
-  "version": "1.0.0",
-  "description": "yt-dlp-downloader skill from mapleshaw/yt-dlp-downloader-skill",
-  "author": {
-    "name": "mapleshaw"
-  },
-  "repository": "https://github.com/mapleshaw/yt-dlp-downloader-skill"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "molefrog",
+  "version": "1.0.0",
+  "description": "1 skills from molefrog/skills: react-pdf",
+  "author": {
+    "name": "molefrog"
+  },
+  "repositories": [
+    "https://github.com/molefrog/skills"
+  ],
+  "skills": [
+    "react-pdf"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "migrate-oxfmt",
-  "version": "1.0.0",
-  "description": "migrate-oxfmt skill from oxc-project/oxc",
-  "author": {
-    "name": "oxc-project"
-  },
-  "repository": "https://github.com/oxc-project/oxc"
-}

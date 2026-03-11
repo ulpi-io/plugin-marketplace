@@ -1,9 +1,0 @@
-{
-  "name": "fpf:propose-hypotheses",
-  "version": "1.0.0",
-  "description": "fpf:propose-hypotheses skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "resource-scout",
-  "version": "1.0.0",
-  "description": "resource-scout skill from nicepkg/ai-workflow",
-  "author": {
-    "name": "nicepkg"
-  },
-  "repository": "https://github.com/nicepkg/ai-workflow"
-}

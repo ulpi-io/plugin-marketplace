@@ -1,9 +1,0 @@
-{
-  "name": "langchain4j-mcp-server-patterns",
-  "version": "1.0.0",
-  "description": "langchain4j-mcp-server-patterns skill from giuseppe-trisciuoglio/developer-kit",
-  "author": {
-    "name": "giuseppe-trisciuoglio"
-  },
-  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
-}

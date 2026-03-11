@@ -1,9 +1,0 @@
-{
-  "name": "scrapling-official",
-  "version": "1.0.0",
-  "description": "scrapling-official skill from d4vinci/scrapling",
-  "author": {
-    "name": "d4vinci"
-  },
-  "repository": "https://github.com/d4vinci/scrapling"
-}

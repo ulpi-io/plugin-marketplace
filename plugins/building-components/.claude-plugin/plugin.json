@@ -1,9 +1,0 @@
-{
-  "name": "building-components",
-  "version": "1.0.0",
-  "description": "building-components skill from vercel/components.build",
-  "author": {
-    "name": "vercel"
-  },
-  "repository": "https://github.com/vercel/components.build"
-}

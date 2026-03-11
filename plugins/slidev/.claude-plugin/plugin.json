@@ -1,9 +1,0 @@
-{
-  "name": "slidev",
-  "version": "1.0.0",
-  "description": "slidev skill from antfu/skills",
-  "author": {
-    "name": "antfu"
-  },
-  "repository": "https://github.com/antfu/skills"
-}

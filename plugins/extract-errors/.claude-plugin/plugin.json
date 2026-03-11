@@ -1,9 +1,0 @@
-{
-  "name": "extract-errors",
-  "version": "1.0.0",
-  "description": "extract-errors skill from facebook/react",
-  "author": {
-    "name": "facebook"
-  },
-  "repository": "https://github.com/facebook/react"
-}

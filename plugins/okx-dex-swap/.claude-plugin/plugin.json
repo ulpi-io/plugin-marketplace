@@ -1,9 +1,0 @@
-{
-  "name": "okx-dex-swap",
-  "version": "1.0.0",
-  "description": "okx-dex-swap skill from okx/onchainos-skills",
-  "author": {
-    "name": "okx"
-  },
-  "repository": "https://github.com/okx/onchainos-skills"
-}

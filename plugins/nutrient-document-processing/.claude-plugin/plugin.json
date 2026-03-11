@@ -1,9 +1,0 @@
-{
-  "name": "nutrient-document-processing",
-  "version": "1.0.0",
-  "description": "nutrient-document-processing skill from pspdfkit-labs/nutrient-agent-skill",
-  "author": {
-    "name": "pspdfkit-labs"
-  },
-  "repository": "https://github.com/pspdfkit-labs/nutrient-agent-skill"
-}

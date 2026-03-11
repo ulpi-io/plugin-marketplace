@@ -1,9 +1,0 @@
-{
-  "name": "atxp",
-  "version": "1.0.0",
-  "description": "atxp skill from atxp-dev/cli",
-  "author": {
-    "name": "atxp-dev"
-  },
-  "repository": "https://github.com/atxp-dev/cli"
-}

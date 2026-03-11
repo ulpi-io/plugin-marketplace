@@ -1,9 +1,0 @@
-{
-  "name": "github-pull-request-description",
-  "version": "1.0.0",
-  "description": "github-pull-request-description skill from longbridge/gpui-component",
-  "author": {
-    "name": "longbridge"
-  },
-  "repository": "https://github.com/longbridge/gpui-component"
-}

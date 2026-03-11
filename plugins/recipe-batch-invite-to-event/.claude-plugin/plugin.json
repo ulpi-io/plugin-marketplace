@@ -1,9 +1,0 @@
-{
-  "name": "recipe-batch-invite-to-event",
-  "version": "1.0.0",
-  "description": "recipe-batch-invite-to-event skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

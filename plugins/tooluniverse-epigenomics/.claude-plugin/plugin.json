@@ -1,9 +1,0 @@
-{
-  "name": "tooluniverse-epigenomics",
-  "version": "1.0.0",
-  "description": "tooluniverse-epigenomics skill from mims-harvard/tooluniverse",
-  "author": {
-    "name": "mims-harvard"
-  },
-  "repository": "https://github.com/mims-harvard/tooluniverse"
-}

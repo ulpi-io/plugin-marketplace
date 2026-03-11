@@ -1,9 +1,0 @@
-{
-  "name": "gws-drive-upload",
-  "version": "1.0.0",
-  "description": "gws-drive-upload skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

@@ -1,0 +1,15 @@
+{
+  "name": "chiroro-jr",
+  "version": "1.0.0",
+  "description": "2 skills from chiroro-jr/pencil-design-skill: pencil-design, pencil-design",
+  "author": {
+    "name": "chiroro-jr"
+  },
+  "repositories": [
+    "https://github.com/chiroro-jr/pencil-design-skill"
+  ],
+  "skills": [
+    "pencil-design",
+    "pencil-design"
+  ]
+}

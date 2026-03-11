@@ -1,9 +1,0 @@
-{
-  "name": "cosmos-dbt-core",
-  "version": "1.0.0",
-  "description": "cosmos-dbt-core skill from astronomer/agents",
-  "author": {
-    "name": "astronomer"
-  },
-  "repository": "https://github.com/astronomer/agents"
-}

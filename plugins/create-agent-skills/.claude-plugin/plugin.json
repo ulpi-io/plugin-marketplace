@@ -1,9 +1,0 @@
-{
-  "name": "create-agent-skills",
-  "version": "1.0.0",
-  "description": "create-agent-skills skill from glittercowboy/taches-cc-resources",
-  "author": {
-    "name": "glittercowboy"
-  },
-  "repository": "https://github.com/glittercowboy/taches-cc-resources"
-}

@@ -1,9 +1,15 @@
 {
   "name": "shadcn-ui",
   "version": "1.0.0",
-  "description": "shadcn-ui skill from jezweb/claude-skills",
+  "description": "2 skills from shadcn-ui/ui: shadcn, shadcn",
   "author": {
-    "name": "jezweb"
+    "name": "shadcn-ui"
   },
-  "repository": "https://github.com/jezweb/claude-skills"
+  "repositories": [
+    "https://github.com/shadcn-ui/ui"
+  ],
+  "skills": [
+    "shadcn",
+    "shadcn"
+  ]
 }

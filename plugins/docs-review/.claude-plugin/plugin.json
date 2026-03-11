@@ -1,9 +1,0 @@
-{
-  "name": "docs-review",
-  "version": "1.0.0",
-  "description": "docs-review skill from metabase/metabase",
-  "author": {
-    "name": "metabase"
-  },
-  "repository": "https://github.com/metabase/metabase"
-}

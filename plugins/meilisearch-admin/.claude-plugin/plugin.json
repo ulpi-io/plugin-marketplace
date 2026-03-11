@@ -1,9 +1,0 @@
-{
-  "name": "meilisearch-admin",
-  "version": "1.0.0",
-  "description": "meilisearch-admin skill from civitai/civitai",
-  "author": {
-    "name": "civitai"
-  },
-  "repository": "https://github.com/civitai/civitai"
-}

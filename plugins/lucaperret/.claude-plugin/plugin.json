@@ -1,0 +1,14 @@
+{
+  "name": "lucaperret",
+  "version": "1.0.0",
+  "description": "1 skills from lucaperret/agent-skills: macos-calendar",
+  "author": {
+    "name": "lucaperret"
+  },
+  "repositories": [
+    "https://github.com/lucaperret/agent-skills"
+  ],
+  "skills": [
+    "macos-calendar"
+  ]
+}

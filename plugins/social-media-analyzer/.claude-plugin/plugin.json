@@ -1,9 +1,0 @@
-{
-  "name": "social-media-analyzer",
-  "version": "1.0.0",
-  "description": "social-media-analyzer skill from alirezarezvani/claude-skills",
-  "author": {
-    "name": "alirezarezvani"
-  },
-  "repository": "https://github.com/alirezarezvani/claude-skills"
-}

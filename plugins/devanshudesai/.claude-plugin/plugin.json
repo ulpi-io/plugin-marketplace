@@ -1,0 +1,14 @@
+{
+  "name": "devanshudesai",
+  "version": "1.0.0",
+  "description": "1 skills from devanshudesai/agent-skills: expo-liquid-glass",
+  "author": {
+    "name": "devanshudesai"
+  },
+  "repositories": [
+    "https://github.com/devanshudesai/agent-skills"
+  ],
+  "skills": [
+    "expo-liquid-glass"
+  ]
+}

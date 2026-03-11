@@ -1,9 +1,0 @@
-{
-  "name": "add-provider-package",
-  "version": "1.0.0",
-  "description": "add-provider-package skill from vercel/ai",
-  "author": {
-    "name": "vercel"
-  },
-  "repository": "https://github.com/vercel/ai"
-}

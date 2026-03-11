@@ -1,9 +1,0 @@
-{
-  "name": "recipe-reschedule-meeting",
-  "version": "1.0.0",
-  "description": "recipe-reschedule-meeting skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

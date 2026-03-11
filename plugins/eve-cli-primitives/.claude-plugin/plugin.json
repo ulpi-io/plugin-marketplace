@@ -1,9 +1,0 @@
-{
-  "name": "eve-cli-primitives",
-  "version": "1.0.0",
-  "description": "eve-cli-primitives skill from incept5/eve-skillpacks",
-  "author": {
-    "name": "incept5"
-  },
-  "repository": "https://github.com/incept5/eve-skillpacks"
-}

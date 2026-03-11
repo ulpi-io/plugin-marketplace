@@ -1,9 +1,0 @@
-{
-  "name": "setting-up-astro-project",
-  "version": "1.0.0",
-  "description": "setting-up-astro-project skill from astronomer/agents",
-  "author": {
-    "name": "astronomer"
-  },
-  "repository": "https://github.com/astronomer/agents"
-}

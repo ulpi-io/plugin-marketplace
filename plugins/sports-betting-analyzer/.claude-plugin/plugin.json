@@ -1,9 +1,0 @@
-{
-  "name": "sports-betting-analyzer",
-  "version": "1.0.0",
-  "description": "sports-betting-analyzer skill from onewave-ai/claude-skills",
-  "author": {
-    "name": "onewave-ai"
-  },
-  "repository": "https://github.com/onewave-ai/claude-skills"
-}

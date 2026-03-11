@@ -1,9 +1,0 @@
-{
-  "name": "github-pr-review",
-  "version": "1.0.0",
-  "description": "github-pr-review skill from fvadicamo/dev-agent-skills",
-  "author": {
-    "name": "fvadicamo"
-  },
-  "repository": "https://github.com/fvadicamo/dev-agent-skills"
-}

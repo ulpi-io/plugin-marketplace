@@ -1,9 +1,0 @@
-{
-  "name": "mkdocs",
-  "version": "1.0.0",
-  "description": "mkdocs skill from vamseeachanta/workspace-hub",
-  "author": {
-    "name": "vamseeachanta"
-  },
-  "repository": "https://github.com/vamseeachanta/workspace-hub"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "digitalocean-compute",
-  "version": "1.0.0",
-  "description": "digitalocean-compute skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

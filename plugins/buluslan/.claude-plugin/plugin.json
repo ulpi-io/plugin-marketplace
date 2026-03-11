@@ -1,0 +1,15 @@
+{
+  "name": "buluslan",
+  "version": "1.0.0",
+  "description": "2 skills from buluslan/ecommerce-competitor-analyzer: ecommerce-competitor-analyzer, ecommerce-competitor-analyzer",
+  "author": {
+    "name": "buluslan"
+  },
+  "repositories": [
+    "https://github.com/buluslan/ecommerce-competitor-analyzer"
+  ],
+  "skills": [
+    "ecommerce-competitor-analyzer",
+    "ecommerce-competitor-analyzer"
+  ]
+}

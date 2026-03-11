@@ -1,0 +1,14 @@
+{
+  "name": "alchaincyf",
+  "version": "1.0.0",
+  "description": "1 skills from alchaincyf/huashu-skills: huashu-md-to-pdf",
+  "author": {
+    "name": "alchaincyf"
+  },
+  "repositories": [
+    "https://github.com/alchaincyf/huashu-skills"
+  ],
+  "skills": [
+    "huashu-md-to-pdf"
+  ]
+}

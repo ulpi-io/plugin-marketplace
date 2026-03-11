@@ -1,9 +1,0 @@
-{
-  "name": "bilibili-analyzer",
-  "version": "1.0.0",
-  "description": "bilibili-analyzer skill from aidotnet/moyucode",
-  "author": {
-    "name": "aidotnet"
-  },
-  "repository": "https://github.com/aidotnet/moyucode"
-}

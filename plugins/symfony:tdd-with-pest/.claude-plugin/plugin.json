@@ -1,9 +1,0 @@
-{
-  "name": "symfony:tdd-with-pest",
-  "version": "1.0.0",
-  "description": "symfony:tdd-with-pest skill from makfly/superpowers-symfony",
-  "author": {
-    "name": "makfly"
-  },
-  "repository": "https://github.com/makfly/superpowers-symfony"
-}

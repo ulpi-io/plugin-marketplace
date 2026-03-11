@@ -1,9 +1,0 @@
-{
-  "name": "faster-whisper",
-  "version": "1.0.0",
-  "description": "faster-whisper skill from theplasmak/faster-whisper",
-  "author": {
-    "name": "theplasmak"
-  },
-  "repository": "https://github.com/theplasmak/faster-whisper"
-}

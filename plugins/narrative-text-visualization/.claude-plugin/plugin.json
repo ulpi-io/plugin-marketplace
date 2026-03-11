@@ -1,9 +1,0 @@
-{
-  "name": "narrative-text-visualization",
-  "version": "1.0.0",
-  "description": "narrative-text-visualization skill from antvis/chart-visualization-skills",
-  "author": {
-    "name": "antvis"
-  },
-  "repository": "https://github.com/antvis/chart-visualization-skills"
-}

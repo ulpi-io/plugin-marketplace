@@ -1,0 +1,15 @@
+{
+  "name": "onekeyhq",
+  "version": "1.0.0",
+  "description": "2 skills from onekeyhq/app-monorepo: react-best-practices, implementing-figma-designs",
+  "author": {
+    "name": "onekeyhq"
+  },
+  "repositories": [
+    "https://github.com/onekeyhq/app-monorepo"
+  ],
+  "skills": [
+    "react-best-practices",
+    "implementing-figma-designs"
+  ]
+}

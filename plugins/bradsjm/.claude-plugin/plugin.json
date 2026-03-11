@@ -1,0 +1,23 @@
+{
+  "name": "bradsjm",
+  "version": "1.0.0",
+  "description": "10 skills from bradsjm/hassio-addons: home-assistant-automation-scripts, home-assistant-dashboards-cards, home-assistant-dashboards-cards, home-assistant-entities-services, home-assistant-entities-services, home-assistant-integrations-addons, home-assistant-integrations-addons, home-assistant-esphome, home-assistant-custom-integration, home-assistant-awtrix",
+  "author": {
+    "name": "bradsjm"
+  },
+  "repositories": [
+    "https://github.com/bradsjm/hassio-addons"
+  ],
+  "skills": [
+    "home-assistant-automation-scripts",
+    "home-assistant-dashboards-cards",
+    "home-assistant-dashboards-cards",
+    "home-assistant-entities-services",
+    "home-assistant-entities-services",
+    "home-assistant-integrations-addons",
+    "home-assistant-integrations-addons",
+    "home-assistant-esphome",
+    "home-assistant-custom-integration",
+    "home-assistant-awtrix"
+  ]
+}

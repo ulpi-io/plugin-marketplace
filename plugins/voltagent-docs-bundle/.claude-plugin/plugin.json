@@ -1,9 +1,0 @@
-{
-  "name": "voltagent-docs-bundle",
-  "version": "1.0.0",
-  "description": "voltagent-docs-bundle skill from voltagent/skills",
-  "author": {
-    "name": "voltagent"
-  },
-  "repository": "https://github.com/voltagent/skills"
-}

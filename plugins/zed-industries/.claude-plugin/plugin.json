@@ -1,0 +1,15 @@
+{
+  "name": "zed-industries",
+  "version": "1.0.0",
+  "description": "2 skills from zed-industries/zed: humanizer, brand-writer",
+  "author": {
+    "name": "zed-industries"
+  },
+  "repositories": [
+    "https://github.com/zed-industries/zed"
+  ],
+  "skills": [
+    "humanizer",
+    "brand-writer"
+  ]
+}

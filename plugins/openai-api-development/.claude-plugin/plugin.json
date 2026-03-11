@@ -1,9 +1,0 @@
-{
-  "name": "openai-api-development",
-  "version": "1.0.0",
-  "description": "openai-api-development skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

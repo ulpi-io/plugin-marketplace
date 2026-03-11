@@ -1,9 +1,0 @@
-{
-  "name": "telegram-bot-grammy",
-  "version": "1.0.0",
-  "description": "telegram-bot-grammy skill from pbnicad/telegram-bot-grammy-skill",
-  "author": {
-    "name": "pbnicad"
-  },
-  "repository": "https://github.com/pbnicad/telegram-bot-grammy-skill"
-}

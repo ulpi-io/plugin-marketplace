@@ -1,9 +1,0 @@
-{
-  "name": "create-prd",
-  "version": "1.0.0",
-  "description": "create-prd skill from phuryn/pm-skills",
-  "author": {
-    "name": "phuryn"
-  },
-  "repository": "https://github.com/phuryn/pm-skills"
-}

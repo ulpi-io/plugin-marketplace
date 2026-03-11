@@ -1,0 +1,15 @@
+{
+  "name": "imsus",
+  "version": "1.0.0",
+  "description": "2 skills from imsus/pi-extension-minimax-coding-plan-mcp: minimax-image-understanding, minimax-web-search",
+  "author": {
+    "name": "imsus"
+  },
+  "repositories": [
+    "https://github.com/imsus/pi-extension-minimax-coding-plan-mcp"
+  ],
+  "skills": [
+    "minimax-image-understanding",
+    "minimax-web-search"
+  ]
+}

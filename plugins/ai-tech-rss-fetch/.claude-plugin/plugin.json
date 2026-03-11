@@ -1,9 +1,0 @@
-{
-  "name": "ai-tech-rss-fetch",
-  "version": "1.0.0",
-  "description": "ai-tech-rss-fetch skill from tiangong-ai/skills",
-  "author": {
-    "name": "tiangong-ai"
-  },
-  "repository": "https://github.com/tiangong-ai/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "write-tbp",
-  "version": "1.0.0",
-  "description": "write-tbp skill from tldraw/tldraw",
-  "author": {
-    "name": "tldraw"
-  },
-  "repository": "https://github.com/tldraw/tldraw"
-}

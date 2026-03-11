@@ -1,0 +1,14 @@
+{
+  "name": "vltansky",
+  "version": "1.0.0",
+  "description": "1 skills from vltansky/debug-skill: debug",
+  "author": {
+    "name": "vltansky"
+  },
+  "repositories": [
+    "https://github.com/vltansky/debug-skill"
+  ],
+  "skills": [
+    "debug"
+  ]
+}

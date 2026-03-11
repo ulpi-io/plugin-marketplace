@@ -1,9 +1,0 @@
-{
-  "name": "claude-reflect",
-  "version": "1.0.0",
-  "description": "claude-reflect skill from bayramannakov/claude-reflect",
-  "author": {
-    "name": "bayramannakov"
-  },
-  "repository": "https://github.com/bayramannakov/claude-reflect"
-}

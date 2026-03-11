@@ -1,9 +1,0 @@
-{
-  "name": "langgraph-persistence",
-  "version": "1.0.0",
-  "description": "langgraph-persistence skill from langchain-ai/langchain-skills",
-  "author": {
-    "name": "langchain-ai"
-  },
-  "repository": "https://github.com/langchain-ai/langchain-skills"
-}

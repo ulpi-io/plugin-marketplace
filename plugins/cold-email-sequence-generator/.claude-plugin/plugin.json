@@ -1,9 +1,0 @@
-{
-  "name": "cold-email-sequence-generator",
-  "version": "1.0.0",
-  "description": "cold-email-sequence-generator skill from onewave-ai/claude-skills",
-  "author": {
-    "name": "onewave-ai"
-  },
-  "repository": "https://github.com/onewave-ai/claude-skills"
-}

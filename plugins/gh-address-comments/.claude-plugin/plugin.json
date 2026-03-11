@@ -1,9 +1,0 @@
-{
-  "name": "gh-address-comments",
-  "version": "1.0.0",
-  "description": "gh-address-comments skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

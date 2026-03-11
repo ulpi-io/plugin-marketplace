@@ -1,9 +1,0 @@
-{
-  "name": "feature-flags",
-  "version": "1.0.0",
-  "description": "feature-flags skill from facebook/react",
-  "author": {
-    "name": "facebook"
-  },
-  "repository": "https://github.com/facebook/react"
-}

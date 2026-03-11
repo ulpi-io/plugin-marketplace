@@ -1,9 +1,0 @@
-{
-  "name": "langfuse-observability",
-  "version": "1.0.0",
-  "description": "langfuse-observability skill from langfuse/skills",
-  "author": {
-    "name": "langfuse"
-  },
-  "repository": "https://github.com/langfuse/skills"
-}

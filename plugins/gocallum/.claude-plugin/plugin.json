@@ -1,0 +1,24 @@
+{
+  "name": "gocallum",
+  "version": "1.0.0",
+  "description": "11 skills from gocallum/nextjs16-agent-skills: prisma-orm-v7-skills, authjs-skills, nextjs16-skills, ai-sdk-6-skills, ai-sdk-6-skills, clerk-nextjs-skills, resend-integration-skills, resend-integration-skills, mcp-server-skills, mcp-server-skills, upstash-vector-db-skills",
+  "author": {
+    "name": "gocallum"
+  },
+  "repositories": [
+    "https://github.com/gocallum/nextjs16-agent-skills"
+  ],
+  "skills": [
+    "prisma-orm-v7-skills",
+    "authjs-skills",
+    "nextjs16-skills",
+    "ai-sdk-6-skills",
+    "ai-sdk-6-skills",
+    "clerk-nextjs-skills",
+    "resend-integration-skills",
+    "resend-integration-skills",
+    "mcp-server-skills",
+    "mcp-server-skills",
+    "upstash-vector-db-skills"
+  ]
+}

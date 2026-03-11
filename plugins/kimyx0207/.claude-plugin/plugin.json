@@ -1,0 +1,15 @@
+{
+  "name": "kimyx0207",
+  "version": "1.0.0",
+  "description": "2 skills from kimyx0207/findskill: find-skills, find-skills",
+  "author": {
+    "name": "kimyx0207"
+  },
+  "repositories": [
+    "https://github.com/kimyx0207/findskill"
+  ],
+  "skills": [
+    "find-skills",
+    "find-skills"
+  ]
+}

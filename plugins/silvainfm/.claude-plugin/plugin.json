@@ -1,0 +1,15 @@
+{
+  "name": "silvainfm",
+  "version": "1.0.0",
+  "description": "2 skills from silvainfm/claude-skills: streamlit, duckdb",
+  "author": {
+    "name": "silvainfm"
+  },
+  "repositories": [
+    "https://github.com/silvainfm/claude-skills"
+  ],
+  "skills": [
+    "streamlit",
+    "duckdb"
+  ]
+}

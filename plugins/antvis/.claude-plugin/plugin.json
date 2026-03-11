@@ -1,0 +1,22 @@
+{
+  "name": "antvis",
+  "version": "1.0.0",
+  "description": "8 skills from antvis/chart-visualization-skills, antvis/infographic: chart-visualization, infographic-creator, infographic-creator, narrative-text-visualization, narrative-text-visualization, icon-retrieval, icon-retrieval, infographic-creator",
+  "author": {
+    "name": "antvis"
+  },
+  "repositories": [
+    "https://github.com/antvis/chart-visualization-skills",
+    "https://github.com/antvis/infographic"
+  ],
+  "skills": [
+    "chart-visualization",
+    "infographic-creator",
+    "infographic-creator",
+    "narrative-text-visualization",
+    "narrative-text-visualization",
+    "icon-retrieval",
+    "icon-retrieval",
+    "infographic-creator"
+  ]
+}

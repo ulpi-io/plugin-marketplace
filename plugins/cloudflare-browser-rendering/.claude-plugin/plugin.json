@@ -1,9 +1,0 @@
-{
-  "name": "cloudflare-browser-rendering",
-  "version": "1.0.0",
-  "description": "cloudflare-browser-rendering skill from jezweb/claude-skills",
-  "author": {
-    "name": "jezweb"
-  },
-  "repository": "https://github.com/jezweb/claude-skills"
-}

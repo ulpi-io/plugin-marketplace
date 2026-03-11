@@ -1,0 +1,24 @@
+{
+  "name": "thebushidocollective",
+  "version": "1.0.0",
+  "description": "11 skills from thebushidocollective/han: fastapi-async-patterns, fastapi-async-patterns, atomic-design-fundamentals, atomic-design-fundamentals, angular-rxjs-patterns, django-rest-framework, tailwind-responsive-design, android-architecture, solid-principles, bdd-patterns, django-orm-patterns",
+  "author": {
+    "name": "thebushidocollective"
+  },
+  "repositories": [
+    "https://github.com/thebushidocollective/han"
+  ],
+  "skills": [
+    "fastapi-async-patterns",
+    "fastapi-async-patterns",
+    "atomic-design-fundamentals",
+    "atomic-design-fundamentals",
+    "angular-rxjs-patterns",
+    "django-rest-framework",
+    "tailwind-responsive-design",
+    "android-architecture",
+    "solid-principles",
+    "bdd-patterns",
+    "django-orm-patterns"
+  ]
+}

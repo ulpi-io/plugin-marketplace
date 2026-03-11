@@ -1,9 +1,0 @@
-{
-  "name": "gws-classroom",
-  "version": "1.0.0",
-  "description": "gws-classroom skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "msmps",
+  "version": "1.0.0",
+  "description": "1 skills from msmps/opentui-skill: opentui",
+  "author": {
+    "name": "msmps"
+  },
+  "repositories": [
+    "https://github.com/msmps/opentui-skill"
+  ],
+  "skills": [
+    "opentui"
+  ]
+}

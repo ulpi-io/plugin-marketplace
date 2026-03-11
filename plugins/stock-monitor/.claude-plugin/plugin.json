@@ -1,9 +1,0 @@
-{
-  "name": "stock-monitor",
-  "version": "1.0.0",
-  "description": "stock-monitor skill from chjm-ai/stock-monitor-skill",
-  "author": {
-    "name": "chjm-ai"
-  },
-  "repository": "https://github.com/chjm-ai/stock-monitor-skill"
-}

@@ -1,9 +1,27 @@
 {
   "name": "assistant-ui",
   "version": "1.0.0",
-  "description": "assistant-ui skill from assistant-ui/skills",
+  "description": "14 skills from assistant-ui/skills: assistant-ui, streaming, primitives, primitives, tools, tools, runtime, runtime, thread-list, thread-list, setup, update, cloud, cloud",
   "author": {
     "name": "assistant-ui"
   },
-  "repository": "https://github.com/assistant-ui/skills"
+  "repositories": [
+    "https://github.com/assistant-ui/skills"
+  ],
+  "skills": [
+    "assistant-ui",
+    "streaming",
+    "primitives",
+    "primitives",
+    "tools",
+    "tools",
+    "runtime",
+    "runtime",
+    "thread-list",
+    "thread-list",
+    "setup",
+    "update",
+    "cloud",
+    "cloud"
+  ]
 }

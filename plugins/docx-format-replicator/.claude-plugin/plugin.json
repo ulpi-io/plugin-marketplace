@@ -1,9 +1,0 @@
-{
-  "name": "docx-format-replicator",
-  "version": "1.0.0",
-  "description": "docx-format-replicator skill from iamzhihuix/happy-claude-skills",
-  "author": {
-    "name": "iamzhihuix"
-  },
-  "repository": "https://github.com/iamzhihuix/happy-claude-skills"
-}

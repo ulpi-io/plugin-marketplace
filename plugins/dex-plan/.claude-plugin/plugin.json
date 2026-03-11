@@ -1,9 +1,0 @@
-{
-  "name": "dex-plan",
-  "version": "1.0.0",
-  "description": "dex-plan skill from dcramer/dex",
-  "author": {
-    "name": "dcramer"
-  },
-  "repository": "https://github.com/dcramer/dex"
-}

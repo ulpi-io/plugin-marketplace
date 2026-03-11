@@ -1,0 +1,14 @@
+{
+  "name": "molty-assistant",
+  "version": "1.0.0",
+  "description": "1 skills from molty-assistant/agent-memory-skill: agent-memory",
+  "author": {
+    "name": "molty-assistant"
+  },
+  "repositories": [
+    "https://github.com/molty-assistant/agent-memory-skill"
+  ],
+  "skills": [
+    "agent-memory"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "dingtalk-connection",
-  "version": "1.0.0",
-  "description": "dingtalk-connection skill from xiaomingx/moltbot-connector-feishu-dingtalk",
-  "author": {
-    "name": "xiaomingx"
-  },
-  "repository": "https://github.com/xiaomingx/moltbot-connector-feishu-dingtalk"
-}

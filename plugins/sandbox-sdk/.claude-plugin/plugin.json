@@ -1,9 +1,0 @@
-{
-  "name": "sandbox-sdk",
-  "version": "1.0.0",
-  "description": "sandbox-sdk skill from cloudflare/skills",
-  "author": {
-    "name": "cloudflare"
-  },
-  "repository": "https://github.com/cloudflare/skills"
-}

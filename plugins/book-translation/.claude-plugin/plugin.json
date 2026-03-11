@@ -1,9 +1,0 @@
-{
-  "name": "book-translation",
-  "version": "1.0.0",
-  "description": "book-translation skill from f/prompts.chat",
-  "author": {
-    "name": "f"
-  },
-  "repository": "https://github.com/f/prompts.chat"
-}

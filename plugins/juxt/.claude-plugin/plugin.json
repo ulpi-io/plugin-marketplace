@@ -1,0 +1,14 @@
+{
+  "name": "juxt",
+  "version": "1.0.0",
+  "description": "1 skills from juxt/allium: allium",
+  "author": {
+    "name": "juxt"
+  },
+  "repositories": [
+    "https://github.com/juxt/allium"
+  ],
+  "skills": [
+    "allium"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ada20204",
+  "version": "1.0.0",
+  "description": "1 skills from ada20204/qwen-voice: qwen-voice",
+  "author": {
+    "name": "ada20204"
+  },
+  "repositories": [
+    "https://github.com/ada20204/qwen-voice"
+  ],
+  "skills": [
+    "qwen-voice"
+  ]
+}

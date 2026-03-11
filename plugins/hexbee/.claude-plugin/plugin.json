@@ -1,0 +1,14 @@
+{
+  "name": "hexbee",
+  "version": "1.0.0",
+  "description": "1 skills from hexbee/hello-skills: deep-productivity",
+  "author": {
+    "name": "hexbee"
+  },
+  "repositories": [
+    "https://github.com/hexbee/hello-skills"
+  ],
+  "skills": [
+    "deep-productivity"
+  ]
+}

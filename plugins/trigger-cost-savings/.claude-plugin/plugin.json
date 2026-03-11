@@ -1,9 +1,0 @@
-{
-  "name": "trigger-cost-savings",
-  "version": "1.0.0",
-  "description": "trigger-cost-savings skill from triggerdotdev/skills",
-  "author": {
-    "name": "triggerdotdev"
-  },
-  "repository": "https://github.com/triggerdotdev/skills"
-}

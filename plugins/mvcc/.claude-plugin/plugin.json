@@ -1,9 +1,0 @@
-{
-  "name": "mvcc",
-  "version": "1.0.0",
-  "description": "mvcc skill from tursodatabase/turso",
-  "author": {
-    "name": "tursodatabase"
-  },
-  "repository": "https://github.com/tursodatabase/turso"
-}

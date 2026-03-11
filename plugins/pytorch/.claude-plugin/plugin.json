@@ -1,9 +1,22 @@
 {
   "name": "pytorch",
   "version": "1.0.0",
-  "description": "pytorch skill from mindrally/skills",
+  "description": "9 skills from pytorch/pytorch: skill-writer, docstring, add-uint-support, at-dispatch-v2, metal-kernel, triaging-issues, pr-review, aoti-debug, pyrefly-type-coverage",
   "author": {
-    "name": "mindrally"
+    "name": "pytorch"
   },
-  "repository": "https://github.com/mindrally/skills"
+  "repositories": [
+    "https://github.com/pytorch/pytorch"
+  ],
+  "skills": [
+    "skill-writer",
+    "docstring",
+    "add-uint-support",
+    "at-dispatch-v2",
+    "metal-kernel",
+    "triaging-issues",
+    "pr-review",
+    "aoti-debug",
+    "pyrefly-type-coverage"
+  ]
 }

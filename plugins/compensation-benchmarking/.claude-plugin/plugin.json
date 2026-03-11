@@ -1,9 +1,0 @@
-{
-  "name": "compensation-benchmarking",
-  "version": "1.0.0",
-  "description": "compensation-benchmarking skill from anthropics/knowledge-work-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/knowledge-work-plugins"
-}

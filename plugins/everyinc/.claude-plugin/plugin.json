@@ -1,0 +1,42 @@
+{
+  "name": "everyinc",
+  "version": "1.0.0",
+  "description": "28 skills from everyinc/compound-engineering-plugin, everyinc/charlie-cfo-skill: compound-docs, dhh-rails-style, dhh-rails-style, gemini-imagegen, brainstorming, file-todos, file-todos, agent-browser, agent-browser, frontend-design, coding-tutor, git-worktree, agent-native-architecture, agent-native-architecture, rclone, skill-creator, every-style-editor, every-style-editor, orchestrating-swarms, orchestrating-swarms, dspy-ruby, dspy-ruby, andrew-kane-gem-writer, charlie, document-review, create-agent-skills, setup, creating-agent-skills",
+  "author": {
+    "name": "everyinc"
+  },
+  "repositories": [
+    "https://github.com/everyinc/compound-engineering-plugin",
+    "https://github.com/everyinc/charlie-cfo-skill"
+  ],
+  "skills": [
+    "compound-docs",
+    "dhh-rails-style",
+    "dhh-rails-style",
+    "gemini-imagegen",
+    "brainstorming",
+    "file-todos",
+    "file-todos",
+    "agent-browser",
+    "agent-browser",
+    "frontend-design",
+    "coding-tutor",
+    "git-worktree",
+    "agent-native-architecture",
+    "agent-native-architecture",
+    "rclone",
+    "skill-creator",
+    "every-style-editor",
+    "every-style-editor",
+    "orchestrating-swarms",
+    "orchestrating-swarms",
+    "dspy-ruby",
+    "dspy-ruby",
+    "andrew-kane-gem-writer",
+    "charlie",
+    "document-review",
+    "create-agent-skills",
+    "setup",
+    "creating-agent-skills"
+  ]
+}

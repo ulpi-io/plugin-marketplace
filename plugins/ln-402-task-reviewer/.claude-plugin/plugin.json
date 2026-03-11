@@ -1,9 +1,0 @@
-{
-  "name": "ln-402-task-reviewer",
-  "version": "1.0.0",
-  "description": "ln-402-task-reviewer skill from levnikolaevich/claude-code-skills",
-  "author": {
-    "name": "levnikolaevich"
-  },
-  "repository": "https://github.com/levnikolaevich/claude-code-skills"
-}

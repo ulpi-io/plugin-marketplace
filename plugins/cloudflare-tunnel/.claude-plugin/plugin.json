@@ -1,9 +1,0 @@
-{
-  "name": "cloudflare-tunnel",
-  "version": "1.0.0",
-  "description": "cloudflare-tunnel skill from vm0-ai/vm0-skills",
-  "author": {
-    "name": "vm0-ai"
-  },
-  "repository": "https://github.com/vm0-ai/vm0-skills"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "geoffjay",
+  "version": "1.0.0",
+  "description": "1 skills from geoffjay/claude-plugins: documentation-update",
+  "author": {
+    "name": "geoffjay"
+  },
+  "repositories": [
+    "https://github.com/geoffjay/claude-plugins"
+  ],
+  "skills": [
+    "documentation-update"
+  ]
+}

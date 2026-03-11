@@ -1,9 +1,17 @@
 {
   "name": "streamlit",
   "version": "1.0.0",
-  "description": "streamlit skill from silvainfm/claude-skills",
+  "description": "3 skills from streamlit/agent-skills, streamlit/streamlit: developing-with-streamlit, debugging-streamlit, implementing-new-features",
   "author": {
-    "name": "silvainfm"
+    "name": "streamlit"
   },
-  "repository": "https://github.com/silvainfm/claude-skills"
+  "repositories": [
+    "https://github.com/streamlit/agent-skills",
+    "https://github.com/streamlit/streamlit"
+  ],
+  "skills": [
+    "developing-with-streamlit",
+    "debugging-streamlit",
+    "implementing-new-features"
+  ]
 }

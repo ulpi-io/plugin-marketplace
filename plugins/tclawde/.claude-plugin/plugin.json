@@ -1,0 +1,14 @@
+{
+  "name": "tclawde",
+  "version": "1.0.0",
+  "description": "1 skills from tclawde/xiaohongshu-mcp-skill: xiaohongshu-mcp",
+  "author": {
+    "name": "tclawde"
+  },
+  "repositories": [
+    "https://github.com/tclawde/xiaohongshu-mcp-skill"
+  ],
+  "skills": [
+    "xiaohongshu-mcp"
+  ]
+}

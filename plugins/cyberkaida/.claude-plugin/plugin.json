@@ -1,0 +1,17 @@
+{
+  "name": "cyberkaida",
+  "version": "1.0.0",
+  "description": "4 skills from cyberkaida/reverse-engineering-assistant: deep-analysis, ctf-pwn, ctf-rev, ctf-crypto",
+  "author": {
+    "name": "cyberkaida"
+  },
+  "repositories": [
+    "https://github.com/cyberkaida/reverse-engineering-assistant"
+  ],
+  "skills": [
+    "deep-analysis",
+    "ctf-pwn",
+    "ctf-rev",
+    "ctf-crypto"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "bilalmk",
+  "version": "1.0.0",
+  "description": "1 skills from bilalmk/todo_correct: browsing-with-playwright",
+  "author": {
+    "name": "bilalmk"
+  },
+  "repositories": [
+    "https://github.com/bilalmk/todo_correct"
+  ],
+  "skills": [
+    "browsing-with-playwright"
+  ]
+}

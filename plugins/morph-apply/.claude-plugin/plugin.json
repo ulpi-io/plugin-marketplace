@@ -1,9 +1,0 @@
-{
-  "name": "morph-apply",
-  "version": "1.0.0",
-  "description": "morph-apply skill from parcadei/continuous-claude-v3",
-  "author": {
-    "name": "parcadei"
-  },
-  "repository": "https://github.com/parcadei/continuous-claude-v3"
-}

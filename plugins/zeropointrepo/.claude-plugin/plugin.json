@@ -1,0 +1,16 @@
+{
+  "name": "zeropointrepo",
+  "version": "1.0.0",
+  "description": "3 skills from zeropointrepo/youtube-skills: youtube-full, youtube-search, transcriptapi",
+  "author": {
+    "name": "zeropointrepo"
+  },
+  "repositories": [
+    "https://github.com/zeropointrepo/youtube-skills"
+  ],
+  "skills": [
+    "youtube-full",
+    "youtube-search",
+    "transcriptapi"
+  ]
+}

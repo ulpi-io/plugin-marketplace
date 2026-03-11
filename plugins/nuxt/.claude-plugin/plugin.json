@@ -1,9 +1,16 @@
 {
   "name": "nuxt",
   "version": "1.0.0",
-  "description": "nuxt skill from antfu/skills",
+  "description": "3 skills from nuxt/ui: nuxt-ui, contributing, contributing",
   "author": {
-    "name": "antfu"
+    "name": "nuxt"
   },
-  "repository": "https://github.com/antfu/skills"
+  "repositories": [
+    "https://github.com/nuxt/ui"
+  ],
+  "skills": [
+    "nuxt-ui",
+    "contributing",
+    "contributing"
+  ]
 }

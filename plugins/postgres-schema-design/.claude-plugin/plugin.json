@@ -1,9 +1,0 @@
-{
-  "name": "postgres-schema-design",
-  "version": "1.0.0",
-  "description": "postgres-schema-design skill from davila7/claude-code-templates",
-  "author": {
-    "name": "davila7"
-  },
-  "repository": "https://github.com/davila7/claude-code-templates"
-}

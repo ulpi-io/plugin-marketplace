@@ -1,9 +1,0 @@
-{
-  "name": "oauth",
-  "version": "1.0.0",
-  "description": "oauth skill from mcollina/skills",
-  "author": {
-    "name": "mcollina"
-  },
-  "repository": "https://github.com/mcollina/skills"
-}

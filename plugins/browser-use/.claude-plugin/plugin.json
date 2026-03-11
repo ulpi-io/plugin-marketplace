@@ -1,9 +1,15 @@
 {
   "name": "browser-use",
   "version": "1.0.0",
-  "description": "browser-use skill from browser-use/browser-use",
+  "description": "2 skills from browser-use/browser-use: browser-use, remote-browser",
   "author": {
     "name": "browser-use"
   },
-  "repository": "https://github.com/browser-use/browser-use"
+  "repositories": [
+    "https://github.com/browser-use/browser-use"
+  ],
+  "skills": [
+    "browser-use",
+    "remote-browser"
+  ]
 }

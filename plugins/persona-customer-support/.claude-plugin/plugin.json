@@ -1,9 +1,0 @@
-{
-  "name": "persona-customer-support",
-  "version": "1.0.0",
-  "description": "persona-customer-support skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

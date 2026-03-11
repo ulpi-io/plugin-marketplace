@@ -1,9 +1,0 @@
-{
-  "name": "prd-writer",
-  "version": "1.0.0",
-  "description": "prd-writer skill from pmprompt/claude-plugin-product-management",
-  "author": {
-    "name": "pmprompt"
-  },
-  "repository": "https://github.com/pmprompt/claude-plugin-product-management"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-security-kms",
-  "version": "1.0.0",
-  "description": "alicloud-security-kms skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "mapbox-integration-patterns",
-  "version": "1.0.0",
-  "description": "mapbox-integration-patterns skill from mapbox/mcp-devkit-server",
-  "author": {
-    "name": "mapbox"
-  },
-  "repository": "https://github.com/mapbox/mcp-devkit-server"
-}

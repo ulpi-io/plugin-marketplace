@@ -1,9 +1,0 @@
-{
-  "name": "encore-code-review",
-  "version": "1.0.0",
-  "description": "encore-code-review skill from encoredev/skills",
-  "author": {
-    "name": "encoredev"
-  },
-  "repository": "https://github.com/encoredev/skills"
-}

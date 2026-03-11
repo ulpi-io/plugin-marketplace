@@ -1,9 +1,0 @@
-{
-  "name": "firebase-data-connect",
-  "version": "1.0.0",
-  "description": "firebase-data-connect skill from firebase/skills",
-  "author": {
-    "name": "firebase"
-  },
-  "repository": "https://github.com/firebase/skills"
-}

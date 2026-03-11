@@ -1,9 +1,0 @@
-{
-  "name": "sqlalchemy-orm",
-  "version": "1.0.0",
-  "description": "sqlalchemy-orm skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

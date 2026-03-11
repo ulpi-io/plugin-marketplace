@@ -1,0 +1,14 @@
+{
+  "name": "adjfks",
+  "version": "1.0.0",
+  "description": "1 skills from adjfks/corner-skills: write-xiaohongshu",
+  "author": {
+    "name": "adjfks"
+  },
+  "repositories": [
+    "https://github.com/adjfks/corner-skills"
+  ],
+  "skills": [
+    "write-xiaohongshu"
+  ]
+}

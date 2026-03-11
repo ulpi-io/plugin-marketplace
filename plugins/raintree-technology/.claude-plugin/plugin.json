@@ -1,0 +1,14 @@
+{
+  "name": "raintree-technology",
+  "version": "1.0.0",
+  "description": "1 skills from raintree-technology/claude-starter: toon-formatter",
+  "author": {
+    "name": "raintree-technology"
+  },
+  "repositories": [
+    "https://github.com/raintree-technology/claude-starter"
+  ],
+  "skills": [
+    "toon-formatter"
+  ]
+}

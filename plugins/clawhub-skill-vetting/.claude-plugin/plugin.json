@@ -1,9 +1,0 @@
-{
-  "name": "clawhub-skill-vetting",
-  "version": "1.0.0",
-  "description": "clawhub-skill-vetting skill from hugomrtz/skill-vetting-clawhub",
-  "author": {
-    "name": "hugomrtz"
-  },
-  "repository": "https://github.com/hugomrtz/skill-vetting-clawhub"
-}

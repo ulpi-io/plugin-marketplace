@@ -1,9 +1,0 @@
-{
-  "name": "agent-ui",
-  "version": "1.0.0",
-  "description": "agent-ui skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

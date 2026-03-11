@@ -1,0 +1,14 @@
+{
+  "name": "0xindiebruh",
+  "version": "1.0.0",
+  "description": "1 skills from 0xindiebruh/openclaw-mission-control-skill: openclaw-mission-control",
+  "author": {
+    "name": "0xindiebruh"
+  },
+  "repositories": [
+    "https://github.com/0xindiebruh/openclaw-mission-control-skill"
+  ],
+  "skills": [
+    "openclaw-mission-control"
+  ]
+}

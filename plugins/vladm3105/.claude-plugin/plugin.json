@@ -1,0 +1,15 @@
+{
+  "name": "vladm3105",
+  "version": "1.0.0",
+  "description": "2 skills from vladm3105/aidoc-flow-framework: n8n, google-adk",
+  "author": {
+    "name": "vladm3105"
+  },
+  "repositories": [
+    "https://github.com/vladm3105/aidoc-flow-framework"
+  ],
+  "skills": [
+    "n8n",
+    "google-adk"
+  ]
+}

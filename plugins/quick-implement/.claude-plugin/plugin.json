@@ -1,9 +1,0 @@
-{
-  "name": "quick-implement",
-  "version": "1.0.0",
-  "description": "quick-implement skill from buiducnhat/agent-skills",
-  "author": {
-    "name": "buiducnhat"
-  },
-  "repository": "https://github.com/buiducnhat/agent-skills"
-}

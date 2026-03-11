@@ -1,9 +1,0 @@
-{
-  "name": "cra-to-next-migration",
-  "version": "1.0.0",
-  "description": "cra-to-next-migration skill from vercel-labs/migration-skills",
-  "author": {
-    "name": "vercel-labs"
-  },
-  "repository": "https://github.com/vercel-labs/migration-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "sadd:do-in-parallel",
-  "version": "1.0.0",
-  "description": "sadd:do-in-parallel skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

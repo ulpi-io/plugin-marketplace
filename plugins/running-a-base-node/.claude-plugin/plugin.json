@@ -1,9 +1,0 @@
-{
-  "name": "running-a-base-node",
-  "version": "1.0.0",
-  "description": "running-a-base-node skill from base/skills",
-  "author": {
-    "name": "base"
-  },
-  "repository": "https://github.com/base/skills"
-}

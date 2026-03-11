@@ -1,9 +1,0 @@
-{
-  "name": "content-experimentation-best-practices",
-  "version": "1.0.0",
-  "description": "content-experimentation-best-practices skill from sanity-io/agent-toolkit",
-  "author": {
-    "name": "sanity-io"
-  },
-  "repository": "https://github.com/sanity-io/agent-toolkit"
-}

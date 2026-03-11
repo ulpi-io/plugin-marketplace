@@ -1,9 +1,0 @@
-{
-  "name": "swift-style",
-  "version": "1.0.0",
-  "description": "swift-style skill from johnrogers/claude-swift-engineering",
-  "author": {
-    "name": "johnrogers"
-  },
-  "repository": "https://github.com/johnrogers/claude-swift-engineering"
-}

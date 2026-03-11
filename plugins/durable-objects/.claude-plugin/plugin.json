@@ -1,9 +1,0 @@
-{
-  "name": "durable-objects",
-  "version": "1.0.0",
-  "description": "durable-objects skill from cloudflare/skills",
-  "author": {
-    "name": "cloudflare"
-  },
-  "repository": "https://github.com/cloudflare/skills"
-}

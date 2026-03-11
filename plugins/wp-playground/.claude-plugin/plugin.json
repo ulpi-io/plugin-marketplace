@@ -1,9 +1,0 @@
-{
-  "name": "wp-playground",
-  "version": "1.0.0",
-  "description": "wp-playground skill from automattic/agent-skills",
-  "author": {
-    "name": "automattic"
-  },
-  "repository": "https://github.com/automattic/agent-skills"
-}

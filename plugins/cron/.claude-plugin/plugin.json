@@ -1,9 +1,0 @@
-{
-  "name": "cron",
-  "version": "1.0.0",
-  "description": "cron skill from chaterm/terminal-skills",
-  "author": {
-    "name": "chaterm"
-  },
-  "repository": "https://github.com/chaterm/terminal-skills"
-}

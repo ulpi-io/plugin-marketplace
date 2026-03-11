@@ -1,0 +1,14 @@
+{
+  "name": "tencentblueking",
+  "version": "1.0.0",
+  "description": "1 skills from tencentblueking/bk-ci: frontend-vue-development",
+  "author": {
+    "name": "tencentblueking"
+  },
+  "repositories": [
+    "https://github.com/tencentblueking/bk-ci"
+  ],
+  "skills": [
+    "frontend-vue-development"
+  ]
+}

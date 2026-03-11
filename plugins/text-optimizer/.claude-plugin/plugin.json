@@ -1,9 +1,0 @@
-{
-  "name": "text-optimizer",
-  "version": "1.0.0",
-  "description": "text-optimizer skill from kochetkov-ma/claude-brewcode",
-  "author": {
-    "name": "kochetkov-ma"
-  },
-  "repository": "https://github.com/kochetkov-ma/claude-brewcode"
-}

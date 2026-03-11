@@ -1,9 +1,0 @@
-{
-  "name": "supabase-edge-functions",
-  "version": "1.0.0",
-  "description": "supabase-edge-functions skill from nice-wolf-studio/claude-code-supabase-skills",
-  "author": {
-    "name": "nice-wolf-studio"
-  },
-  "repository": "https://github.com/nice-wolf-studio/claude-code-supabase-skills"
-}

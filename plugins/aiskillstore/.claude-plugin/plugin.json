@@ -1,0 +1,41 @@
+{
+  "name": "aiskillstore",
+  "version": "1.0.0",
+  "description": "28 skills from aiskillstore/marketplace: skill-creator, skill-creator, frontend-design, xlsx, docx, agent-development, pptx, skill-development, canvas-design, command-development, algorithmic-art, skill-installer, web-artifacts-builder, mcp-builder, mcp-integration, hook-development, doc-coauthoring, webapp-testing, plugin-structure, plugin-settings, theme-factory, pdf, writing-hookify-rules, template-skill, internal-comms, slack-gif-creator, brand-guidelines, claude-opus-4-5-migration",
+  "author": {
+    "name": "aiskillstore"
+  },
+  "repositories": [
+    "https://github.com/aiskillstore/marketplace"
+  ],
+  "skills": [
+    "skill-creator",
+    "skill-creator",
+    "frontend-design",
+    "xlsx",
+    "docx",
+    "agent-development",
+    "pptx",
+    "skill-development",
+    "canvas-design",
+    "command-development",
+    "algorithmic-art",
+    "skill-installer",
+    "web-artifacts-builder",
+    "mcp-builder",
+    "mcp-integration",
+    "hook-development",
+    "doc-coauthoring",
+    "webapp-testing",
+    "plugin-structure",
+    "plugin-settings",
+    "theme-factory",
+    "pdf",
+    "writing-hookify-rules",
+    "template-skill",
+    "internal-comms",
+    "slack-gif-creator",
+    "brand-guidelines",
+    "claude-opus-4-5-migration"
+  ]
+}

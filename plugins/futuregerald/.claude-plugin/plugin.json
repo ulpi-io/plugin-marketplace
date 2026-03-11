@@ -1,0 +1,14 @@
+{
+  "name": "futuregerald",
+  "version": "1.0.0",
+  "description": "1 skills from futuregerald/futuregerald-claude-plugin: adonisjs-best-practices",
+  "author": {
+    "name": "futuregerald"
+  },
+  "repositories": [
+    "https://github.com/futuregerald/futuregerald-claude-plugin"
+  ],
+  "skills": [
+    "adonisjs-best-practices"
+  ]
+}

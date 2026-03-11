@@ -1,9 +1,0 @@
-{
-  "name": "create-phone-number",
-  "version": "1.0.0",
-  "description": "create-phone-number skill from vapiai/skills",
-  "author": {
-    "name": "vapiai"
-  },
-  "repository": "https://github.com/vapiai/skills"
-}

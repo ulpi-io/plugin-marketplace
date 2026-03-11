@@ -1,9 +1,0 @@
-{
-  "name": "schema-exploration",
-  "version": "1.0.0",
-  "description": "schema-exploration skill from langchain-ai/deepagents",
-  "author": {
-    "name": "langchain-ai"
-  },
-  "repository": "https://github.com/langchain-ai/deepagents"
-}

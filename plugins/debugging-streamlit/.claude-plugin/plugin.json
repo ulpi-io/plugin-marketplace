@@ -1,9 +1,0 @@
-{
-  "name": "debugging-streamlit",
-  "version": "1.0.0",
-  "description": "debugging-streamlit skill from streamlit/streamlit",
-  "author": {
-    "name": "streamlit"
-  },
-  "repository": "https://github.com/streamlit/streamlit"
-}

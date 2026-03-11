@@ -1,9 +1,0 @@
-{
-  "name": "team-rituals",
-  "version": "1.0.0",
-  "description": "team-rituals skill from refoundai/lenny-skills",
-  "author": {
-    "name": "refoundai"
-  },
-  "repository": "https://github.com/refoundai/lenny-skills"
-}

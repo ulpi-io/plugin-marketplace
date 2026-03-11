@@ -1,9 +1,0 @@
-{
-  "name": "news-aggregator-skill",
-  "version": "1.0.0",
-  "description": "news-aggregator-skill skill from cclank/news-aggregator-skill",
-  "author": {
-    "name": "cclank"
-  },
-  "repository": "https://github.com/cclank/news-aggregator-skill"
-}

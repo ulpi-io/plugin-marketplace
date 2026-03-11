@@ -1,9 +1,0 @@
-{
-  "name": "us-stock-analysis",
-  "version": "1.0.0",
-  "description": "us-stock-analysis skill from tradermonty/claude-trading-skills",
-  "author": {
-    "name": "tradermonty"
-  },
-  "repository": "https://github.com/tradermonty/claude-trading-skills"
-}

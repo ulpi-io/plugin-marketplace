@@ -1,0 +1,16 @@
+{
+  "name": "win4r",
+  "version": "1.0.0",
+  "description": "2 skills from win4r/memory-lancedb-pro, win4r/memory-lancedb-pro-skill: lesson, memory-lancedb-pro",
+  "author": {
+    "name": "win4r"
+  },
+  "repositories": [
+    "https://github.com/win4r/memory-lancedb-pro",
+    "https://github.com/win4r/memory-lancedb-pro-skill"
+  ],
+  "skills": [
+    "lesson",
+    "memory-lancedb-pro"
+  ]
+}

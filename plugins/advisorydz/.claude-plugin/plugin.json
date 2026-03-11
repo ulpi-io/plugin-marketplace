@@ -1,0 +1,14 @@
+{
+  "name": "advisorydz",
+  "version": "1.0.0",
+  "description": "1 skills from advisorydz/wechat-daily-report-skill: wechat-daily-report",
+  "author": {
+    "name": "advisorydz"
+  },
+  "repositories": [
+    "https://github.com/advisorydz/wechat-daily-report-skill"
+  ],
+  "skills": [
+    "wechat-daily-report"
+  ]
+}

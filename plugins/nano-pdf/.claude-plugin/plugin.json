@@ -1,9 +1,0 @@
-{
-  "name": "nano-pdf",
-  "version": "1.0.0",
-  "description": "nano-pdf skill from steipete/clawdis",
-  "author": {
-    "name": "steipete"
-  },
-  "repository": "https://github.com/steipete/clawdis"
-}

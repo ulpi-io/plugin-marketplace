@@ -1,9 +1,0 @@
-{
-  "name": "ms-teams-apps",
-  "version": "1.0.0",
-  "description": "ms-teams-apps skill from alinaqi/claude-bootstrap",
-  "author": {
-    "name": "alinaqi"
-  },
-  "repository": "https://github.com/alinaqi/claude-bootstrap"
-}

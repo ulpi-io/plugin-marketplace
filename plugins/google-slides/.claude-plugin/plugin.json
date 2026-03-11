@@ -1,9 +1,0 @@
-{
-  "name": "google-slides",
-  "version": "1.0.0",
-  "description": "google-slides skill from odyssey4me/agent-skills",
-  "author": {
-    "name": "odyssey4me"
-  },
-  "repository": "https://github.com/odyssey4me/agent-skills"
-}

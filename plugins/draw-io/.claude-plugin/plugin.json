@@ -1,9 +1,0 @@
-{
-  "name": "draw-io",
-  "version": "1.0.0",
-  "description": "draw-io skill from softaworks/agent-toolkit",
-  "author": {
-    "name": "softaworks"
-  },
-  "repository": "https://github.com/softaworks/agent-toolkit"
-}

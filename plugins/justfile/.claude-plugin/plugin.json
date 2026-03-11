@@ -1,9 +1,0 @@
-{
-  "name": "justfile",
-  "version": "1.0.0",
-  "description": "justfile skill from iloveitaly/ai-skills",
-  "author": {
-    "name": "iloveitaly"
-  },
-  "repository": "https://github.com/iloveitaly/ai-skills"
-}

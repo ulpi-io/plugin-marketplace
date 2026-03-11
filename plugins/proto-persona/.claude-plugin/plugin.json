@@ -1,9 +1,0 @@
-{
-  "name": "proto-persona",
-  "version": "1.0.0",
-  "description": "proto-persona skill from deanpeters/product-manager-skills",
-  "author": {
-    "name": "deanpeters"
-  },
-  "repository": "https://github.com/deanpeters/product-manager-skills"
-}

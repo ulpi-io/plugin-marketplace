@@ -1,9 +1,0 @@
-{
-  "name": "redis-best-practices",
-  "version": "1.0.0",
-  "description": "redis-best-practices skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

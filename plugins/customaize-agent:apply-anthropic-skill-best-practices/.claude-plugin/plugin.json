@@ -1,9 +1,0 @@
-{
-  "name": "customaize-agent:apply-anthropic-skill-best-practices",
-  "version": "1.0.0",
-  "description": "customaize-agent:apply-anthropic-skill-best-practices skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

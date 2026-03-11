@@ -1,0 +1,14 @@
+{
+  "name": "suryavirkapur",
+  "version": "1.0.0",
+  "description": "1 skills from suryavirkapur/skills: solidjs",
+  "author": {
+    "name": "suryavirkapur"
+  },
+  "repositories": [
+    "https://github.com/suryavirkapur/skills"
+  ],
+  "skills": [
+    "solidjs"
+  ]
+}

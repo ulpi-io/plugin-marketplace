@@ -1,9 +1,0 @@
-{
-  "name": "spl-to-apl",
-  "version": "1.0.0",
-  "description": "spl-to-apl skill from axiomhq/skills",
-  "author": {
-    "name": "axiomhq"
-  },
-  "repository": "https://github.com/axiomhq/skills"
-}

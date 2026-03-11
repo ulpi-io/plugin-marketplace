@@ -1,9 +1,0 @@
-{
-  "name": "competitive-analysis",
-  "version": "1.0.0",
-  "description": "competitive-analysis skill from anthropics/financial-services-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/financial-services-plugins"
-}

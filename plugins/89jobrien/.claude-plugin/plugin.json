@@ -1,0 +1,15 @@
+{
+  "name": "89jobrien",
+  "version": "1.0.0",
+  "description": "2 skills from 89jobrien/steve: dead-code-removal, meta-cognitive-reasoning",
+  "author": {
+    "name": "89jobrien"
+  },
+  "repositories": [
+    "https://github.com/89jobrien/steve"
+  ],
+  "skills": [
+    "dead-code-removal",
+    "meta-cognitive-reasoning"
+  ]
+}

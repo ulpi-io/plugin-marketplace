@@ -1,9 +1,0 @@
-{
-  "name": "kernel-cli",
-  "version": "1.0.0",
-  "description": "kernel-cli skill from kernel/skills",
-  "author": {
-    "name": "kernel"
-  },
-  "repository": "https://github.com/kernel/skills"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "adspower",
+  "version": "1.0.0",
+  "description": "1 skills from adspower/adspower-browser: adspower-browser",
+  "author": {
+    "name": "adspower"
+  },
+  "repositories": [
+    "https://github.com/adspower/adspower-browser"
+  ],
+  "skills": [
+    "adspower-browser"
+  ]
+}

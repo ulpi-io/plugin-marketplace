@@ -1,0 +1,15 @@
+{
+  "name": "ctsstc",
+  "version": "1.0.0",
+  "description": "2 skills from ctsstc/get-shit-done-skills: gsd, gsd",
+  "author": {
+    "name": "ctsstc"
+  },
+  "repositories": [
+    "https://github.com/ctsstc/get-shit-done-skills"
+  ],
+  "skills": [
+    "gsd",
+    "gsd"
+  ]
+}

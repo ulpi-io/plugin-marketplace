@@ -1,0 +1,17 @@
+{
+  "name": "jackspace",
+  "version": "1.0.0",
+  "description": "4 skills from jackspace/claudeskillz: base-ui-react, rapid-prototyper, repository-analyzer, hugo",
+  "author": {
+    "name": "jackspace"
+  },
+  "repositories": [
+    "https://github.com/jackspace/claudeskillz"
+  ],
+  "skills": [
+    "base-ui-react",
+    "rapid-prototyper",
+    "repository-analyzer",
+    "hugo"
+  ]
+}

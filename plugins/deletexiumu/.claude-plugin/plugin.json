@@ -1,0 +1,14 @@
+{
+  "name": "deletexiumu",
+  "version": "1.0.0",
+  "description": "1 skills from deletexiumu/agentskills-hub: ai-news-digest",
+  "author": {
+    "name": "deletexiumu"
+  },
+  "repositories": [
+    "https://github.com/deletexiumu/agentskills-hub"
+  ],
+  "skills": [
+    "ai-news-digest"
+  ]
+}

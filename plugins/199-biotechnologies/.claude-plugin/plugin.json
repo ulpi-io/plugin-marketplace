@@ -1,0 +1,14 @@
+{
+  "name": "199-biotechnologies",
+  "version": "1.0.0",
+  "description": "1 skills from 199-biotechnologies/claude-deep-research-skill: deep-research",
+  "author": {
+    "name": "199-biotechnologies"
+  },
+  "repositories": [
+    "https://github.com/199-biotechnologies/claude-deep-research-skill"
+  ],
+  "skills": [
+    "deep-research"
+  ]
+}

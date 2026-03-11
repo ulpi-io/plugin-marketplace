@@ -1,9 +1,0 @@
-{
-  "name": "vector-index-tuning",
-  "version": "1.0.0",
-  "description": "vector-index-tuning skill from wshobson/agents",
-  "author": {
-    "name": "wshobson"
-  },
-  "repository": "https://github.com/wshobson/agents"
-}

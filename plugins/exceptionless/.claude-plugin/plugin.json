@@ -1,0 +1,15 @@
+{
+  "name": "exceptionless",
+  "version": "1.0.0",
+  "description": "2 skills from exceptionless/exceptionless: shadcn-svelte components, stripe-best-practices",
+  "author": {
+    "name": "exceptionless"
+  },
+  "repositories": [
+    "https://github.com/exceptionless/exceptionless"
+  ],
+  "skills": [
+    "shadcn-svelte components",
+    "stripe-best-practices"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "elementsix",
+  "version": "1.0.0",
+  "description": "2 skills from elementsix/elementsix-skills: seedance-storyboard, seedance-storyboard",
+  "author": {
+    "name": "elementsix"
+  },
+  "repositories": [
+    "https://github.com/elementsix/elementsix-skills"
+  ],
+  "skills": [
+    "seedance-storyboard",
+    "seedance-storyboard"
+  ]
+}

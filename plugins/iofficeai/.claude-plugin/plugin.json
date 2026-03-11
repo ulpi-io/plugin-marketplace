@@ -1,0 +1,15 @@
+{
+  "name": "iofficeai",
+  "version": "1.0.0",
+  "description": "2 skills from iofficeai/aionui: docx, pptx",
+  "author": {
+    "name": "iofficeai"
+  },
+  "repositories": [
+    "https://github.com/iofficeai/aionui"
+  ],
+  "skills": [
+    "docx",
+    "pptx"
+  ]
+}

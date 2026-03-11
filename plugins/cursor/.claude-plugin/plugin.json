@@ -1,0 +1,14 @@
+{
+  "name": "cursor",
+  "version": "1.0.0",
+  "description": "1 skills from cursor/plugins: deslop",
+  "author": {
+    "name": "cursor"
+  },
+  "repositories": [
+    "https://github.com/cursor/plugins"
+  ],
+  "skills": [
+    "deslop"
+  ]
+}

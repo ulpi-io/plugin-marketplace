@@ -1,0 +1,24 @@
+{
+  "name": "vuejs-ai",
+  "version": "1.0.0",
+  "description": "11 skills from vuejs-ai/skills: vue-best-practices, vue-debug-guides, vue-debug-guides, vue-pinia-best-practices, vue-pinia-best-practices, vue-router-best-practices, create-adaptable-composable, vue-testing-best-practices, vue-options-api-best-practices, vue-jsx-best-practices, vue-development-guides",
+  "author": {
+    "name": "vuejs-ai"
+  },
+  "repositories": [
+    "https://github.com/vuejs-ai/skills"
+  ],
+  "skills": [
+    "vue-best-practices",
+    "vue-debug-guides",
+    "vue-debug-guides",
+    "vue-pinia-best-practices",
+    "vue-pinia-best-practices",
+    "vue-router-best-practices",
+    "create-adaptable-composable",
+    "vue-testing-best-practices",
+    "vue-options-api-best-practices",
+    "vue-jsx-best-practices",
+    "vue-development-guides"
+  ]
+}

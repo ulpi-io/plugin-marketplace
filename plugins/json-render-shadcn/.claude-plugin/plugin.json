@@ -1,9 +1,0 @@
-{
-  "name": "json-render-shadcn",
-  "version": "1.0.0",
-  "description": "json-render-shadcn skill from vercel-labs/json-render",
-  "author": {
-    "name": "vercel-labs"
-  },
-  "repository": "https://github.com/vercel-labs/json-render"
-}

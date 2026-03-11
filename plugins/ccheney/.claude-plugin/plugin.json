@@ -1,0 +1,17 @@
+{
+  "name": "ccheney",
+  "version": "1.0.0",
+  "description": "4 skills from ccheney/robust-skills: clean-ddd-hexagonal, postgres-drizzle, postgres-drizzle, feature-slicing",
+  "author": {
+    "name": "ccheney"
+  },
+  "repositories": [
+    "https://github.com/ccheney/robust-skills"
+  ],
+  "skills": [
+    "clean-ddd-hexagonal",
+    "postgres-drizzle",
+    "postgres-drizzle",
+    "feature-slicing"
+  ]
+}

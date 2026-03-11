@@ -1,9 +1,0 @@
-{
-  "name": "jq-json-processing",
-  "version": "1.0.0",
-  "description": "jq-json-processing skill from laurigates/claude-plugins",
-  "author": {
-    "name": "laurigates"
-  },
-  "repository": "https://github.com/laurigates/claude-plugins"
-}

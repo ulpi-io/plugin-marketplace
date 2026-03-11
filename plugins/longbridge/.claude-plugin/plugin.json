@@ -1,0 +1,28 @@
+{
+  "name": "longbridge",
+  "version": "1.0.0",
+  "description": "15 skills from longbridge/gpui-component: gpui-layout-and-style, gpui-async, gpui-context, gpui-action, gpui-event, gpui-entity, gpui-style-guide, gpui-element, gpui-focus-handle, gpui-global, gpui-test, new-component, generate-component-documentation, generate-component-story, github-pull-request-description",
+  "author": {
+    "name": "longbridge"
+  },
+  "repositories": [
+    "https://github.com/longbridge/gpui-component"
+  ],
+  "skills": [
+    "gpui-layout-and-style",
+    "gpui-async",
+    "gpui-context",
+    "gpui-action",
+    "gpui-event",
+    "gpui-entity",
+    "gpui-style-guide",
+    "gpui-element",
+    "gpui-focus-handle",
+    "gpui-global",
+    "gpui-test",
+    "new-component",
+    "generate-component-documentation",
+    "generate-component-story",
+    "github-pull-request-description"
+  ]
+}

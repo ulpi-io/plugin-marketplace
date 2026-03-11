@@ -1,9 +1,0 @@
-{
-  "name": "convertkit-automation",
-  "version": "1.0.0",
-  "description": "convertkit-automation skill from composiohq/awesome-claude-skills",
-  "author": {
-    "name": "composiohq"
-  },
-  "repository": "https://github.com/composiohq/awesome-claude-skills"
-}

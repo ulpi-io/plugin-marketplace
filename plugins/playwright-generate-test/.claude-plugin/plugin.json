@@ -1,9 +1,0 @@
-{
-  "name": "playwright-generate-test",
-  "version": "1.0.0",
-  "description": "playwright-generate-test skill from github/awesome-copilot",
-  "author": {
-    "name": "github"
-  },
-  "repository": "https://github.com/github/awesome-copilot"
-}

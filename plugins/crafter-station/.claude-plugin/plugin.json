@@ -1,0 +1,14 @@
+{
+  "name": "crafter-station",
+  "version": "1.0.0",
+  "description": "1 skills from crafter-station/skills: intent-layer",
+  "author": {
+    "name": "crafter-station"
+  },
+  "repositories": [
+    "https://github.com/crafter-station/skills"
+  ],
+  "skills": [
+    "intent-layer"
+  ]
+}

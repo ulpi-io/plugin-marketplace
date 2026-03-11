@@ -1,0 +1,24 @@
+{
+  "name": "mastra-ai",
+  "version": "1.0.0",
+  "description": "10 skills from mastra-ai/skills, mastra-ai/mastra: mastra, ralph-plan, ralph-plan, tailwind-best-practices, react-best-practices, smoke-test, e2e-tests-studio, create-mastra, mastra-best-practices, mastra-embedded-docs-look-up",
+  "author": {
+    "name": "mastra-ai"
+  },
+  "repositories": [
+    "https://github.com/mastra-ai/skills",
+    "https://github.com/mastra-ai/mastra"
+  ],
+  "skills": [
+    "mastra",
+    "ralph-plan",
+    "ralph-plan",
+    "tailwind-best-practices",
+    "react-best-practices",
+    "smoke-test",
+    "e2e-tests-studio",
+    "create-mastra",
+    "mastra-best-practices",
+    "mastra-embedded-docs-look-up"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "create-beads-orchestration",
-  "version": "1.0.0",
-  "description": "create-beads-orchestration skill from avivk5498/the-claude-protocol",
-  "author": {
-    "name": "avivk5498"
-  },
-  "repository": "https://github.com/avivk5498/the-claude-protocol"
-}

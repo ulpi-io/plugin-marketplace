@@ -1,0 +1,14 @@
+{
+  "name": "froessell",
+  "version": "1.0.0",
+  "description": "1 skills from froessell/app-store-opportunity-research: app-store-opportunity-research",
+  "author": {
+    "name": "froessell"
+  },
+  "repositories": [
+    "https://github.com/froessell/app-store-opportunity-research"
+  ],
+  "skills": [
+    "app-store-opportunity-research"
+  ]
+}

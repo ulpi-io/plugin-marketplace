@@ -1,9 +1,0 @@
-{
-  "name": "moai-workflow-ddd",
-  "version": "1.0.0",
-  "description": "moai-workflow-ddd skill from modu-ai/moai-adk",
-  "author": {
-    "name": "modu-ai"
-  },
-  "repository": "https://github.com/modu-ai/moai-adk"
-}

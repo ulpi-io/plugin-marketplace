@@ -1,9 +1,0 @@
-{
-  "name": "run-acceptance-tests",
-  "version": "1.0.0",
-  "description": "run-acceptance-tests skill from hashicorp/agent-skills",
-  "author": {
-    "name": "hashicorp"
-  },
-  "repository": "https://github.com/hashicorp/agent-skills"
-}

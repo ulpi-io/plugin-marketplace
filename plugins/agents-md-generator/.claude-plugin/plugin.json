@@ -1,9 +1,0 @@
-{
-  "name": "agents-md-generator",
-  "version": "1.0.0",
-  "description": "agents-md-generator skill from madteacher/mad-agents-skills",
-  "author": {
-    "name": "madteacher"
-  },
-  "repository": "https://github.com/madteacher/mad-agents-skills"
-}

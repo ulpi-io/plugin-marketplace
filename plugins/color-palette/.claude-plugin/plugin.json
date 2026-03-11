@@ -1,9 +1,0 @@
-{
-  "name": "color-palette",
-  "version": "1.0.0",
-  "description": "color-palette skill from jezweb/claude-skills",
-  "author": {
-    "name": "jezweb"
-  },
-  "repository": "https://github.com/jezweb/claude-skills"
-}

@@ -1,0 +1,15 @@
+{
+  "name": "rookie-ricardo",
+  "version": "1.0.0",
+  "description": "2 skills from rookie-ricardo/erduo-skills: gemini-watermark-remover, daily-news-report",
+  "author": {
+    "name": "rookie-ricardo"
+  },
+  "repositories": [
+    "https://github.com/rookie-ricardo/erduo-skills"
+  ],
+  "skills": [
+    "gemini-watermark-remover",
+    "daily-news-report"
+  ]
+}

@@ -1,9 +1,14 @@
 {
   "name": "shadcn",
   "version": "1.0.0",
-  "description": "shadcn skill from shadcn/ui",
+  "description": "1 skills from shadcn/ui: shadcn",
   "author": {
     "name": "shadcn"
   },
-  "repository": "https://github.com/shadcn/ui"
+  "repositories": [
+    "https://github.com/shadcn/ui"
+  ],
+  "skills": [
+    "shadcn"
+  ]
 }

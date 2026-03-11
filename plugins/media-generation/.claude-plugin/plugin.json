@@ -1,9 +1,0 @@
-{
-  "name": "media-generation",
-  "version": "1.0.0",
-  "description": "media-generation skill from varghq/skills",
-  "author": {
-    "name": "varghq"
-  },
-  "repository": "https://github.com/varghq/skills"
-}

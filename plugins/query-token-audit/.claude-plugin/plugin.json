@@ -1,9 +1,0 @@
-{
-  "name": "query-token-audit",
-  "version": "1.0.0",
-  "description": "query-token-audit skill from binance/binance-skills-hub",
-  "author": {
-    "name": "binance"
-  },
-  "repository": "https://github.com/binance/binance-skills-hub"
-}

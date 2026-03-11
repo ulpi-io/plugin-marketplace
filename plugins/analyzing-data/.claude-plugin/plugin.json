@@ -1,9 +1,0 @@
-{
-  "name": "analyzing-data",
-  "version": "1.0.0",
-  "description": "analyzing-data skill from astronomer/agents",
-  "author": {
-    "name": "astronomer"
-  },
-  "repository": "https://github.com/astronomer/agents"
-}

@@ -1,9 +1,25 @@
 {
   "name": "expo",
   "version": "1.0.0",
-  "description": "expo skill from pproenca/dot-skills",
+  "description": "12 skills from expo/skills: building-native-ui, native-data-fetching, upgrading-expo, expo-dev-client, expo-deployment, expo-dev-client, expo-deployment, expo-tailwind-setup, expo-tailwind-setup, expo-api-routes, expo-cicd-workflows, use-dom",
   "author": {
-    "name": "pproenca"
+    "name": "expo"
   },
-  "repository": "https://github.com/pproenca/dot-skills"
+  "repositories": [
+    "https://github.com/expo/skills"
+  ],
+  "skills": [
+    "building-native-ui",
+    "native-data-fetching",
+    "upgrading-expo",
+    "expo-dev-client",
+    "expo-deployment",
+    "expo-dev-client",
+    "expo-deployment",
+    "expo-tailwind-setup",
+    "expo-tailwind-setup",
+    "expo-api-routes",
+    "expo-cicd-workflows",
+    "use-dom"
+  ]
 }

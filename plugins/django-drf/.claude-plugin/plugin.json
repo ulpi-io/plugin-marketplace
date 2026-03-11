@@ -1,9 +1,0 @@
-{
-  "name": "django-drf",
-  "version": "1.0.0",
-  "description": "django-drf skill from prowler-cloud/prowler",
-  "author": {
-    "name": "prowler-cloud"
-  },
-  "repository": "https://github.com/prowler-cloud/prowler"
-}

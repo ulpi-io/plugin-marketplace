@@ -1,0 +1,14 @@
+{
+  "name": "vintasoftware",
+  "version": "1.0.0",
+  "description": "1 skills from vintasoftware/django-ai-plugins: django-expert",
+  "author": {
+    "name": "vintasoftware"
+  },
+  "repositories": [
+    "https://github.com/vintasoftware/django-ai-plugins"
+  ],
+  "skills": [
+    "django-expert"
+  ]
+}

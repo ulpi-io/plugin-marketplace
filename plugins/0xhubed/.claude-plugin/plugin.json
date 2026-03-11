@@ -1,0 +1,19 @@
+{
+  "name": "0xhubed",
+  "version": "1.0.0",
+  "description": "6 skills from 0xhubed/agent-trading-arena: risk-management, trading-wisdom, trading-wisdom, market-regimes, entry-signals, entry-signals",
+  "author": {
+    "name": "0xhubed"
+  },
+  "repositories": [
+    "https://github.com/0xhubed/agent-trading-arena"
+  ],
+  "skills": [
+    "risk-management",
+    "trading-wisdom",
+    "trading-wisdom",
+    "market-regimes",
+    "entry-signals",
+    "entry-signals"
+  ]
+}

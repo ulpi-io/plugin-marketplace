@@ -1,9 +1,0 @@
-{
-  "name": "eol-message",
-  "version": "1.0.0",
-  "description": "eol-message skill from deanpeters/product-manager-skills",
-  "author": {
-    "name": "deanpeters"
-  },
-  "repository": "https://github.com/deanpeters/product-manager-skills"
-}

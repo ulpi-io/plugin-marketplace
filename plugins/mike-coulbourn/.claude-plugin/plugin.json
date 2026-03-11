@@ -1,0 +1,17 @@
+{
+  "name": "mike-coulbourn",
+  "version": "1.0.0",
+  "description": "4 skills from mike-coulbourn/claude-vibes: conversion-psychology, conversion-psychology, brand-color-psychology, brand-naming-strategies",
+  "author": {
+    "name": "mike-coulbourn"
+  },
+  "repositories": [
+    "https://github.com/mike-coulbourn/claude-vibes"
+  ],
+  "skills": [
+    "conversion-psychology",
+    "conversion-psychology",
+    "brand-color-psychology",
+    "brand-naming-strategies"
+  ]
+}

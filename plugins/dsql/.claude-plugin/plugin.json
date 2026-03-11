@@ -1,9 +1,0 @@
-{
-  "name": "dsql",
-  "version": "1.0.0",
-  "description": "dsql skill from awslabs/mcp",
-  "author": {
-    "name": "awslabs"
-  },
-  "repository": "https://github.com/awslabs/mcp"
-}

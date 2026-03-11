@@ -1,0 +1,19 @@
+{
+  "name": "charon-fan",
+  "version": "1.0.0",
+  "description": "6 skills from charon-fan/agent-playbook: self-improving-agent, security-auditor, prd-planner, session-logger, skill-router, architecting-solutions",
+  "author": {
+    "name": "charon-fan"
+  },
+  "repositories": [
+    "https://github.com/charon-fan/agent-playbook"
+  ],
+  "skills": [
+    "self-improving-agent",
+    "security-auditor",
+    "prd-planner",
+    "session-logger",
+    "skill-router",
+    "architecting-solutions"
+  ]
+}

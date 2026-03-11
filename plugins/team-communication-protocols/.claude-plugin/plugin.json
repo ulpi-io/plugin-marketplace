@@ -1,9 +1,0 @@
-{
-  "name": "team-communication-protocols",
-  "version": "1.0.0",
-  "description": "team-communication-protocols skill from wshobson/agents",
-  "author": {
-    "name": "wshobson"
-  },
-  "repository": "https://github.com/wshobson/agents"
-}

@@ -1,0 +1,21 @@
+{
+  "name": "ovachiever",
+  "version": "1.0.0",
+  "description": "8 skills from ovachiever/droid-tings: security-auditor, security-auditor, react-hook-form-zod, react-hook-form-zod, nextjs-shadcn-builder, deep-reading-analyst, react-native-expo, threejs-graphics-optimizer",
+  "author": {
+    "name": "ovachiever"
+  },
+  "repositories": [
+    "https://github.com/ovachiever/droid-tings"
+  ],
+  "skills": [
+    "security-auditor",
+    "security-auditor",
+    "react-hook-form-zod",
+    "react-hook-form-zod",
+    "nextjs-shadcn-builder",
+    "deep-reading-analyst",
+    "react-native-expo",
+    "threejs-graphics-optimizer"
+  ]
+}

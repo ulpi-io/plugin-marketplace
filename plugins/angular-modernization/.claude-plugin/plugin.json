@@ -1,9 +1,0 @@
-{
-  "name": "angular-modernization",
-  "version": "1.0.0",
-  "description": "angular-modernization skill from bitwarden/clients",
-  "author": {
-    "name": "bitwarden"
-  },
-  "repository": "https://github.com/bitwarden/clients"
-}

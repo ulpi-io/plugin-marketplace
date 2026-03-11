@@ -1,9 +1,0 @@
-{
-  "name": "naming-analyzer",
-  "version": "1.0.0",
-  "description": "naming-analyzer skill from softaworks/agent-toolkit",
-  "author": {
-    "name": "softaworks"
-  },
-  "repository": "https://github.com/softaworks/agent-toolkit"
-}

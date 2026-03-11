@@ -1,0 +1,15 @@
+{
+  "name": "cockroachdb",
+  "version": "1.0.0",
+  "description": "2 skills from cockroachdb/cockroach: commit-helper, backport-pr-assistant",
+  "author": {
+    "name": "cockroachdb"
+  },
+  "repositories": [
+    "https://github.com/cockroachdb/cockroach"
+  ],
+  "skills": [
+    "commit-helper",
+    "backport-pr-assistant"
+  ]
+}

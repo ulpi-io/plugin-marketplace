@@ -1,9 +1,0 @@
-{
-  "name": "cli-developer",
-  "version": "1.0.0",
-  "description": "cli-developer skill from jeffallan/claude-skills",
-  "author": {
-    "name": "jeffallan"
-  },
-  "repository": "https://github.com/jeffallan/claude-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-platform-openapi-product-api-discovery-test",
-  "version": "1.0.0",
-  "description": "alicloud-platform-openapi-product-api-discovery-test skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

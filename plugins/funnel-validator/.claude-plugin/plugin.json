@@ -1,9 +1,0 @@
-{
-  "name": "funnel-validator",
-  "version": "1.0.0",
-  "description": "funnel-validator skill from shipshitdev/library",
-  "author": {
-    "name": "shipshitdev"
-  },
-  "repository": "https://github.com/shipshitdev/library"
-}

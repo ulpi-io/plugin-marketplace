@@ -1,9 +1,0 @@
-{
-  "name": "stitch-loop",
-  "version": "1.0.0",
-  "description": "stitch-loop skill from google-labs-code/stitch-skills",
-  "author": {
-    "name": "google-labs-code"
-  },
-  "repository": "https://github.com/google-labs-code/stitch-skills"
-}

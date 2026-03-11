@@ -1,0 +1,14 @@
+{
+  "name": "sawyerhood",
+  "version": "1.0.0",
+  "description": "1 skills from sawyerhood/dev-browser: dev-browser",
+  "author": {
+    "name": "sawyerhood"
+  },
+  "repositories": [
+    "https://github.com/sawyerhood/dev-browser"
+  ],
+  "skills": [
+    "dev-browser"
+  ]
+}

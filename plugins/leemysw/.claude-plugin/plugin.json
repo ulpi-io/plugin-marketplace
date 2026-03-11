@@ -1,0 +1,16 @@
+{
+  "name": "leemysw",
+  "version": "1.0.0",
+  "description": "2 skills from leemysw/agent-kit, leemysw/feishu-docx: feishu-docx, feishu-docx",
+  "author": {
+    "name": "leemysw"
+  },
+  "repositories": [
+    "https://github.com/leemysw/agent-kit",
+    "https://github.com/leemysw/feishu-docx"
+  ],
+  "skills": [
+    "feishu-docx",
+    "feishu-docx"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "opusgamelabs",
+  "version": "1.0.0",
+  "description": "1 skills from opusgamelabs/game-creator: phaser",
+  "author": {
+    "name": "opusgamelabs"
+  },
+  "repositories": [
+    "https://github.com/opusgamelabs/game-creator"
+  ],
+  "skills": [
+    "phaser"
+  ]
+}

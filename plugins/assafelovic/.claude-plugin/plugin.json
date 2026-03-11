@@ -1,0 +1,14 @@
+{
+  "name": "assafelovic",
+  "version": "1.0.0",
+  "description": "1 skills from assafelovic/gpt-researcher: gpt-researcher",
+  "author": {
+    "name": "assafelovic"
+  },
+  "repositories": [
+    "https://github.com/assafelovic/gpt-researcher"
+  ],
+  "skills": [
+    "gpt-researcher"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "tailwind-4-docs",
-  "version": "1.0.0",
-  "description": "tailwind-4-docs skill from lombiq/tailwind-agent-skills",
-  "author": {
-    "name": "lombiq"
-  },
-  "repository": "https://github.com/lombiq/tailwind-agent-skills"
-}

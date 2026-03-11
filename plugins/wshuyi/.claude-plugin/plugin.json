@@ -1,0 +1,19 @@
+{
+  "name": "wshuyi",
+  "version": "1.0.0",
+  "description": "4 skills from wshuyi/remotion-video-skill, wshuyi/translate-pdf-skill, wshuyi/x-article-publisher-skill: remotion-video, translate-pdf, translate-pdf, x-article-publisher",
+  "author": {
+    "name": "wshuyi"
+  },
+  "repositories": [
+    "https://github.com/wshuyi/remotion-video-skill",
+    "https://github.com/wshuyi/translate-pdf-skill",
+    "https://github.com/wshuyi/x-article-publisher-skill"
+  ],
+  "skills": [
+    "remotion-video",
+    "translate-pdf",
+    "translate-pdf",
+    "x-article-publisher"
+  ]
+}

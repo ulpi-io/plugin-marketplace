@@ -1,9 +1,0 @@
-{
-  "name": "openspec",
-  "version": "1.0.0",
-  "description": "openspec skill from itechmeat/llm-code",
-  "author": {
-    "name": "itechmeat"
-  },
-  "repository": "https://github.com/itechmeat/llm-code"
-}

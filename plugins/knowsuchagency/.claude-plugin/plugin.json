@@ -1,0 +1,14 @@
+{
+  "name": "knowsuchagency",
+  "version": "1.0.0",
+  "description": "1 skills from knowsuchagency/mcp2cli: mcp2cli",
+  "author": {
+    "name": "knowsuchagency"
+  },
+  "repositories": [
+    "https://github.com/knowsuchagency/mcp2cli"
+  ],
+  "skills": [
+    "mcp2cli"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "majesteitbart",
+  "version": "1.0.0",
+  "description": "2 skills from majesteitbart/talentmatcher: shadcn-ui-expert, shadcn-ui-expert",
+  "author": {
+    "name": "majesteitbart"
+  },
+  "repositories": [
+    "https://github.com/majesteitbart/talentmatcher"
+  ],
+  "skills": [
+    "shadcn-ui-expert",
+    "shadcn-ui-expert"
+  ]
+}

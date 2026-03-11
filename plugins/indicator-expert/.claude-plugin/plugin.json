@@ -1,9 +1,0 @@
-{
-  "name": "indicator-expert",
-  "version": "1.0.0",
-  "description": "indicator-expert skill from marketcalls/openalgo-indicator-skills",
-  "author": {
-    "name": "marketcalls"
-  },
-  "repository": "https://github.com/marketcalls/openalgo-indicator-skills"
-}

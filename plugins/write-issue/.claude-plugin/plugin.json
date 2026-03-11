@@ -1,9 +1,0 @@
-{
-  "name": "write-issue",
-  "version": "1.0.0",
-  "description": "write-issue skill from tldraw/tldraw",
-  "author": {
-    "name": "tldraw"
-  },
-  "repository": "https://github.com/tldraw/tldraw"
-}

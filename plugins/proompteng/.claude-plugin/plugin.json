@@ -1,0 +1,14 @@
+{
+  "name": "proompteng",
+  "version": "1.0.0",
+  "description": "1 skills from proompteng/lab: temporal",
+  "author": {
+    "name": "proompteng"
+  },
+  "repositories": [
+    "https://github.com/proompteng/lab"
+  ],
+  "skills": [
+    "temporal"
+  ]
+}

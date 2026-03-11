@@ -1,0 +1,14 @@
+{
+  "name": "texiaoyao",
+  "version": "1.0.0",
+  "description": "1 skills from texiaoyao/office-automation-skill: office-automation",
+  "author": {
+    "name": "texiaoyao"
+  },
+  "repositories": [
+    "https://github.com/texiaoyao/office-automation-skill"
+  ],
+  "skills": [
+    "office-automation"
+  ]
+}

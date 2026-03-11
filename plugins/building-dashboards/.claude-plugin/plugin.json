@@ -1,9 +1,0 @@
-{
-  "name": "building-dashboards",
-  "version": "1.0.0",
-  "description": "building-dashboards skill from axiomhq/skills",
-  "author": {
-    "name": "axiomhq"
-  },
-  "repository": "https://github.com/axiomhq/skills"
-}

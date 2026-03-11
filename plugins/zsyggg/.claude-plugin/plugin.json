@@ -1,0 +1,14 @@
+{
+  "name": "zsyggg",
+  "version": "1.0.0",
+  "description": "1 skills from zsyggg/paper-craft-skills: paper-analyzer",
+  "author": {
+    "name": "zsyggg"
+  },
+  "repositories": [
+    "https://github.com/zsyggg/paper-craft-skills"
+  ],
+  "skills": [
+    "paper-analyzer"
+  ]
+}

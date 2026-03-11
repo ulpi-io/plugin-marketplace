@@ -1,9 +1,0 @@
-{
-  "name": "svelte-frontend",
-  "version": "1.0.0",
-  "description": "svelte-frontend skill from windmill-labs/windmill",
-  "author": {
-    "name": "windmill-labs"
-  },
-  "repository": "https://github.com/windmill-labs/windmill"
-}

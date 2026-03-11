@@ -1,9 +1,19 @@
 {
   "name": "hummingbot",
   "version": "1.0.0",
-  "description": "hummingbot skill from hummingbot/skills",
+  "description": "6 skills from hummingbot/skills: hummingbot-deploy, lp-agent, connectors-available, find-arbitrage-opps, slides-generator, hummingbot",
   "author": {
     "name": "hummingbot"
   },
-  "repository": "https://github.com/hummingbot/skills"
+  "repositories": [
+    "https://github.com/hummingbot/skills"
+  ],
+  "skills": [
+    "hummingbot-deploy",
+    "lp-agent",
+    "connectors-available",
+    "find-arbitrage-opps",
+    "slides-generator",
+    "hummingbot"
+  ]
 }

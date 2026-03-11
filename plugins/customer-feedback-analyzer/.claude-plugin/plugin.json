@@ -1,9 +1,0 @@
-{
-  "name": "customer-feedback-analyzer",
-  "version": "1.0.0",
-  "description": "customer-feedback-analyzer skill from daffy0208/ai-dev-standards",
-  "author": {
-    "name": "daffy0208"
-  },
-  "repository": "https://github.com/daffy0208/ai-dev-standards"
-}

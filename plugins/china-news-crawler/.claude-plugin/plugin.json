@@ -1,9 +1,0 @@
-{
-  "name": "china-news-crawler",
-  "version": "1.0.0",
-  "description": "china-news-crawler skill from nanmicoder/newscrawler",
-  "author": {
-    "name": "nanmicoder"
-  },
-  "repository": "https://github.com/nanmicoder/newscrawler"
-}

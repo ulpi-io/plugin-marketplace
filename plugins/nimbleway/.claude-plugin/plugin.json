@@ -1,0 +1,15 @@
+{
+  "name": "nimbleway",
+  "version": "1.0.0",
+  "description": "2 skills from nimbleway/agent-skills: nimble-web-tools, nimble-agents",
+  "author": {
+    "name": "nimbleway"
+  },
+  "repositories": [
+    "https://github.com/nimbleway/agent-skills"
+  ],
+  "skills": [
+    "nimble-web-tools",
+    "nimble-agents"
+  ]
+}

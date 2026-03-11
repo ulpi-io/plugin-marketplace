@@ -1,9 +1,0 @@
-{
-  "name": "hetzner-server",
-  "version": "1.0.0",
-  "description": "hetzner-server skill from connorads/dotfiles",
-  "author": {
-    "name": "connorads"
-  },
-  "repository": "https://github.com/connorads/dotfiles"
-}

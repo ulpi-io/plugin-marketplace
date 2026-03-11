@@ -1,9 +1,0 @@
-{
-  "name": "market-regimes",
-  "version": "1.0.0",
-  "description": "market-regimes skill from 0xhubed/agent-trading-arena",
-  "author": {
-    "name": "0xhubed"
-  },
-  "repository": "https://github.com/0xhubed/agent-trading-arena"
-}

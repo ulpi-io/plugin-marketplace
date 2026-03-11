@@ -1,0 +1,25 @@
+{
+  "name": "ognjengt",
+  "version": "1.0.0",
+  "description": "12 skills from ognjengt/founder-skills: viral-hook-creator, go-to-market-plan, outreach-specialist, prd-generator, sop-creator, strategic-planning, brand-copywriter, pricing-strategist, linkedin-writer, lead-magnet-generator, competitor-intel, marketing-ideas",
+  "author": {
+    "name": "ognjengt"
+  },
+  "repositories": [
+    "https://github.com/ognjengt/founder-skills"
+  ],
+  "skills": [
+    "viral-hook-creator",
+    "go-to-market-plan",
+    "outreach-specialist",
+    "prd-generator",
+    "sop-creator",
+    "strategic-planning",
+    "brand-copywriter",
+    "pricing-strategist",
+    "linkedin-writer",
+    "lead-magnet-generator",
+    "competitor-intel",
+    "marketing-ideas"
+  ]
+}

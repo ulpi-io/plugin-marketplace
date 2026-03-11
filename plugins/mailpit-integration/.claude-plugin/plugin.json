@@ -1,9 +1,0 @@
-{
-  "name": "mailpit-integration",
-  "version": "1.0.0",
-  "description": "mailpit-integration skill from aaronontheweb/dotnet-skills",
-  "author": {
-    "name": "aaronontheweb"
-  },
-  "repository": "https://github.com/aaronontheweb/dotnet-skills"
-}

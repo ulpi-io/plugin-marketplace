@@ -1,9 +1,0 @@
-{
-  "name": "clawsec-suite",
-  "version": "1.0.0",
-  "description": "clawsec-suite skill from prompt-security/clawsec",
-  "author": {
-    "name": "prompt-security"
-  },
-  "repository": "https://github.com/prompt-security/clawsec"
-}

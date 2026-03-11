@@ -1,0 +1,36 @@
+{
+  "name": "langchain-ai",
+  "version": "1.0.0",
+  "description": "21 skills from langchain-ai/langchain-skills, langchain-ai/deepagents, langchain-ai/langsmith-skills: langgraph-fundamentals, langgraph-fundamentals, langgraph-persistence, langchain-fundamentals, langchain-rag, langgraph-human-in-the-loop, deep-agents-memory, deep-agents-core, deep-agents-orchestration, langchain-middleware, langchain-dependencies, framework-selection, blog-post, langsmith-trace, langsmith-evaluator, langsmith-dataset, social-media, arxiv-search, skill-creator, schema-exploration, query-writing",
+  "author": {
+    "name": "langchain-ai"
+  },
+  "repositories": [
+    "https://github.com/langchain-ai/langchain-skills",
+    "https://github.com/langchain-ai/deepagents",
+    "https://github.com/langchain-ai/langsmith-skills"
+  ],
+  "skills": [
+    "langgraph-fundamentals",
+    "langgraph-fundamentals",
+    "langgraph-persistence",
+    "langchain-fundamentals",
+    "langchain-rag",
+    "langgraph-human-in-the-loop",
+    "deep-agents-memory",
+    "deep-agents-core",
+    "deep-agents-orchestration",
+    "langchain-middleware",
+    "langchain-dependencies",
+    "framework-selection",
+    "blog-post",
+    "langsmith-trace",
+    "langsmith-evaluator",
+    "langsmith-dataset",
+    "social-media",
+    "arxiv-search",
+    "skill-creator",
+    "schema-exploration",
+    "query-writing"
+  ]
+}

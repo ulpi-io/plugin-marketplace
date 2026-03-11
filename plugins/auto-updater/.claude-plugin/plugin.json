@@ -1,9 +1,0 @@
-{
-  "name": "auto-updater",
-  "version": "1.0.0",
-  "description": "auto-updater skill from teylersf/openclaw-auto-updater",
-  "author": {
-    "name": "teylersf"
-  },
-  "repository": "https://github.com/teylersf/openclaw-auto-updater"
-}

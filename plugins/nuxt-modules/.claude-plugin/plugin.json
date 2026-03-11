@@ -1,9 +1,14 @@
 {
   "name": "nuxt-modules",
   "version": "1.0.0",
-  "description": "nuxt-modules skill from onmax/nuxt-skills",
+  "description": "1 skills from nuxt-modules/mcp-toolkit: manage-mcp",
   "author": {
-    "name": "onmax"
+    "name": "nuxt-modules"
   },
-  "repository": "https://github.com/onmax/nuxt-skills"
+  "repositories": [
+    "https://github.com/nuxt-modules/mcp-toolkit"
+  ],
+  "skills": [
+    "manage-mcp"
+  ]
 }

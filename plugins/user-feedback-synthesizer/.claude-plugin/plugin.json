@@ -1,9 +1,0 @@
-{
-  "name": "user-feedback-synthesizer",
-  "version": "1.0.0",
-  "description": "user-feedback-synthesizer skill from pmprompt/claude-plugin-product-management",
-  "author": {
-    "name": "pmprompt"
-  },
-  "repository": "https://github.com/pmprompt/claude-plugin-product-management"
-}

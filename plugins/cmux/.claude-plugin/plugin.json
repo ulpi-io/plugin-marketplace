@@ -1,9 +1,0 @@
-{
-  "name": "cmux",
-  "version": "1.0.0",
-  "description": "cmux skill from manaflow-ai/cmux",
-  "author": {
-    "name": "manaflow-ai"
-  },
-  "repository": "https://github.com/manaflow-ai/cmux"
-}

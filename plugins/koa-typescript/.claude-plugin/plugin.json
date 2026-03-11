@@ -1,9 +1,0 @@
-{
-  "name": "koa-typescript",
-  "version": "1.0.0",
-  "description": "koa-typescript skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

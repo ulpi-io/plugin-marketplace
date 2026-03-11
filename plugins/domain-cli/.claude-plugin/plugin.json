@@ -1,9 +1,0 @@
-{
-  "name": "domain-cli",
-  "version": "1.0.0",
-  "description": "domain-cli skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

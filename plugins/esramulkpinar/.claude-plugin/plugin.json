@@ -1,0 +1,14 @@
+{
+  "name": "esramulkpinar",
+  "version": "1.0.0",
+  "description": "1 skills from esramulkpinar/prime-frontend-skills: frontend-prime",
+  "author": {
+    "name": "esramulkpinar"
+  },
+  "repositories": [
+    "https://github.com/esramulkpinar/prime-frontend-skills"
+  ],
+  "skills": [
+    "frontend-prime"
+  ]
+}

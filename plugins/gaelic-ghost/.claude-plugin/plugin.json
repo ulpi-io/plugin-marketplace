@@ -1,0 +1,14 @@
+{
+  "name": "gaelic-ghost",
+  "version": "1.0.0",
+  "description": "1 skills from gaelic-ghost/productivity-skills: project-workspace-cleaner",
+  "author": {
+    "name": "gaelic-ghost"
+  },
+  "repositories": [
+    "https://github.com/gaelic-ghost/productivity-skills"
+  ],
+  "skills": [
+    "project-workspace-cleaner"
+  ]
+}

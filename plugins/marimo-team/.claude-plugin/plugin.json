@@ -1,0 +1,21 @@
+{
+  "name": "marimo-team",
+  "version": "1.0.0",
+  "description": "8 skills from marimo-team/skills: marimo-notebook, marimo-notebook, marimo-batch, anywidget-generator, jupyter-to-marimo, wasm-compatibility, add-molab-badge, streamlit-to-marimo",
+  "author": {
+    "name": "marimo-team"
+  },
+  "repositories": [
+    "https://github.com/marimo-team/skills"
+  ],
+  "skills": [
+    "marimo-notebook",
+    "marimo-notebook",
+    "marimo-batch",
+    "anywidget-generator",
+    "jupyter-to-marimo",
+    "wasm-compatibility",
+    "add-molab-badge",
+    "streamlit-to-marimo"
+  ]
+}

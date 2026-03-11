@@ -1,9 +1,0 @@
-{
-  "name": "obsidian",
-  "version": "1.0.0",
-  "description": "obsidian skill from bitbonsai/mcp-obsidian",
-  "author": {
-    "name": "bitbonsai"
-  },
-  "repository": "https://github.com/bitbonsai/mcp-obsidian"
-}

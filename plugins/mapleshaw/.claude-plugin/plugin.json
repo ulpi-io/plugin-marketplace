@@ -1,0 +1,14 @@
+{
+  "name": "mapleshaw",
+  "version": "1.0.0",
+  "description": "1 skills from mapleshaw/yt-dlp-downloader-skill: yt-dlp-downloader",
+  "author": {
+    "name": "mapleshaw"
+  },
+  "repositories": [
+    "https://github.com/mapleshaw/yt-dlp-downloader-skill"
+  ],
+  "skills": [
+    "yt-dlp-downloader"
+  ]
+}

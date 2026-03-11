@@ -1,0 +1,14 @@
+{
+  "name": "karpathy",
+  "version": "1.0.0",
+  "description": "1 skills from karpathy/nanochat: read-arxiv-paper",
+  "author": {
+    "name": "karpathy"
+  },
+  "repositories": [
+    "https://github.com/karpathy/nanochat"
+  ],
+  "skills": [
+    "read-arxiv-paper"
+  ]
+}

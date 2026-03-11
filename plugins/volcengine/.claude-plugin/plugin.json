@@ -1,0 +1,15 @@
+{
+  "name": "volcengine",
+  "version": "1.0.0",
+  "description": "2 skills from volcengine/openviking: memory-recall, openviking",
+  "author": {
+    "name": "volcengine"
+  },
+  "repositories": [
+    "https://github.com/volcengine/openviking"
+  ],
+  "skills": [
+    "memory-recall",
+    "openviking"
+  ]
+}

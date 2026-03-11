@@ -1,9 +1,0 @@
-{
-  "name": "grepai-installation",
-  "version": "1.0.0",
-  "description": "grepai-installation skill from yoanbernabeu/grepai-skills",
-  "author": {
-    "name": "yoanbernabeu"
-  },
-  "repository": "https://github.com/yoanbernabeu/grepai-skills"
-}

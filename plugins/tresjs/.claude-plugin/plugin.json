@@ -1,9 +1,0 @@
-{
-  "name": "tresjs",
-  "version": "1.0.0",
-  "description": "tresjs skill from onmax/nuxt-skills",
-  "author": {
-    "name": "onmax"
-  },
-  "repository": "https://github.com/onmax/nuxt-skills"
-}

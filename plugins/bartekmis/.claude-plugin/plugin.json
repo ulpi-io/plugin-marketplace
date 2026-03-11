@@ -1,0 +1,14 @@
+{
+  "name": "bartekmis",
+  "version": "1.0.0",
+  "description": "1 skills from bartekmis/wordpress-performance-best-practises: wordpress-performance-best-practices",
+  "author": {
+    "name": "bartekmis"
+  },
+  "repositories": [
+    "https://github.com/bartekmis/wordpress-performance-best-practises"
+  ],
+  "skills": [
+    "wordpress-performance-best-practices"
+  ]
+}

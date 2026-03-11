@@ -1,9 +1,0 @@
-{
-  "name": "create-adaptable-composable",
-  "version": "1.0.0",
-  "description": "create-adaptable-composable skill from vuejs-ai/skills",
-  "author": {
-    "name": "vuejs-ai"
-  },
-  "repository": "https://github.com/vuejs-ai/skills"
-}

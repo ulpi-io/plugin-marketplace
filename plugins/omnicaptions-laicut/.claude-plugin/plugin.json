@@ -1,9 +1,0 @@
-{
-  "name": "omnicaptions-laicut",
-  "version": "1.0.0",
-  "description": "omnicaptions-laicut skill from lattifai/omni-captions-skills",
-  "author": {
-    "name": "lattifai"
-  },
-  "repository": "https://github.com/lattifai/omni-captions-skills"
-}

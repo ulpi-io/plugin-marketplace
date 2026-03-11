@@ -1,9 +1,0 @@
-{
-  "name": "coding-agent",
-  "version": "1.0.0",
-  "description": "coding-agent skill from steipete/clawdis",
-  "author": {
-    "name": "steipete"
-  },
-  "repository": "https://github.com/steipete/clawdis"
-}

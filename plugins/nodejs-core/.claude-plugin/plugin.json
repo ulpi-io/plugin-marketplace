@@ -1,9 +1,0 @@
-{
-  "name": "nodejs-core",
-  "version": "1.0.0",
-  "description": "nodejs-core skill from mcollina/skills",
-  "author": {
-    "name": "mcollina"
-  },
-  "repository": "https://github.com/mcollina/skills"
-}

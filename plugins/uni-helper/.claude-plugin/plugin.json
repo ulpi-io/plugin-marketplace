@@ -1,9 +1,22 @@
 {
   "name": "uni-helper",
   "version": "1.0.0",
-  "description": "uni-helper skill from uni-helper/skills",
+  "description": "9 skills from uni-helper/skills: uni-app, uni-helper, vue, vite, pinia, unocss, vue-best-practices, web-design-guidelines, vueuse-functions",
   "author": {
     "name": "uni-helper"
   },
-  "repository": "https://github.com/uni-helper/skills"
+  "repositories": [
+    "https://github.com/uni-helper/skills"
+  ],
+  "skills": [
+    "uni-app",
+    "uni-helper",
+    "vue",
+    "vite",
+    "pinia",
+    "unocss",
+    "vue-best-practices",
+    "web-design-guidelines",
+    "vueuse-functions"
+  ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "niller2005",
+  "version": "1.0.0",
+  "description": "1 skills from niller2005/polyflup: polymarket-trading",
+  "author": {
+    "name": "niller2005"
+  },
+  "repositories": [
+    "https://github.com/niller2005/polyflup"
+  ],
+  "skills": [
+    "polymarket-trading"
+  ]
+}

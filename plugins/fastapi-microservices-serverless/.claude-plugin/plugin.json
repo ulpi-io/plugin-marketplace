@@ -1,9 +1,0 @@
-{
-  "name": "fastapi-microservices-serverless",
-  "version": "1.0.0",
-  "description": "fastapi-microservices-serverless skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

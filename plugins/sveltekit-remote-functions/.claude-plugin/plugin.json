@@ -1,9 +1,0 @@
-{
-  "name": "sveltekit-remote-functions",
-  "version": "1.0.0",
-  "description": "sveltekit-remote-functions skill from spences10/svelte-skills-kit",
-  "author": {
-    "name": "spences10"
-  },
-  "repository": "https://github.com/spences10/svelte-skills-kit"
-}

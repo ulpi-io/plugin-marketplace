@@ -1,9 +1,0 @@
-{
-  "name": "commit-helper",
-  "version": "1.0.0",
-  "description": "commit-helper skill from cockroachdb/cockroach",
-  "author": {
-    "name": "cockroachdb"
-  },
-  "repository": "https://github.com/cockroachdb/cockroach"
-}

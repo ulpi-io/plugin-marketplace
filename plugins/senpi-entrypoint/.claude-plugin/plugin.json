@@ -1,9 +1,0 @@
-{
-  "name": "senpi-entrypoint",
-  "version": "1.0.0",
-  "description": "senpi-entrypoint skill from senpi-ai/senpi-skills",
-  "author": {
-    "name": "senpi-ai"
-  },
-  "repository": "https://github.com/senpi-ai/senpi-skills"
-}

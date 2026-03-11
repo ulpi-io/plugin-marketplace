@@ -1,9 +1,0 @@
-{
-  "name": "tinybird-cli-guidelines",
-  "version": "1.0.0",
-  "description": "tinybird-cli-guidelines skill from tinybirdco/tinybird-agent-skills",
-  "author": {
-    "name": "tinybirdco"
-  },
-  "repository": "https://github.com/tinybirdco/tinybird-agent-skills"
-}

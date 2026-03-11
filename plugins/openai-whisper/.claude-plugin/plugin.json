@@ -1,9 +1,0 @@
-{
-  "name": "openai-whisper",
-  "version": "1.0.0",
-  "description": "openai-whisper skill from steipete/clawdis",
-  "author": {
-    "name": "steipete"
-  },
-  "repository": "https://github.com/steipete/clawdis"
-}

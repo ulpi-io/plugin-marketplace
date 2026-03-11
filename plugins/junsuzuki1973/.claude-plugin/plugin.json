@@ -1,0 +1,14 @@
+{
+  "name": "junsuzuki1973",
+  "version": "1.0.0",
+  "description": "1 skills from junsuzuki1973/openclaw-skill-byterover: byterover",
+  "author": {
+    "name": "junsuzuki1973"
+  },
+  "repositories": [
+    "https://github.com/junsuzuki1973/openclaw-skill-byterover"
+  ],
+  "skills": [
+    "byterover"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "spences10",
+  "version": "1.0.0",
+  "description": "8 skills from spences10/svelte-skills-kit: sveltekit-structure, svelte-runes, sveltekit-remote-functions, sveltekit-remote-functions, sveltekit-data-flow, sveltekit-data-flow, svelte-components, layerchart-svelte5",
+  "author": {
+    "name": "spences10"
+  },
+  "repositories": [
+    "https://github.com/spences10/svelte-skills-kit"
+  ],
+  "skills": [
+    "sveltekit-structure",
+    "svelte-runes",
+    "sveltekit-remote-functions",
+    "sveltekit-remote-functions",
+    "sveltekit-data-flow",
+    "sveltekit-data-flow",
+    "svelte-components",
+    "layerchart-svelte5"
+  ]
+}

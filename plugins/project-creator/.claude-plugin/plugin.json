@@ -1,9 +1,0 @@
-{
-  "name": "project-creator",
-  "version": "1.0.0",
-  "description": "project-creator skill from itechmeat/llm-code",
-  "author": {
-    "name": "itechmeat"
-  },
-  "repository": "https://github.com/itechmeat/llm-code"
-}

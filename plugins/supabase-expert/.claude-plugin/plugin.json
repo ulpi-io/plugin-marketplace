@@ -1,9 +1,0 @@
-{
-  "name": "supabase-expert",
-  "version": "1.0.0",
-  "description": "supabase-expert skill from timelessco/recollect",
-  "author": {
-    "name": "timelessco"
-  },
-  "repository": "https://github.com/timelessco/recollect"
-}

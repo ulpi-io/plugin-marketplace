@@ -1,9 +1,0 @@
-{
-  "name": "prompt-analyzer",
-  "version": "1.0.0",
-  "description": "prompt-analyzer skill from huangserva/skill-prompt-generator",
-  "author": {
-    "name": "huangserva"
-  },
-  "repository": "https://github.com/huangserva/skill-prompt-generator"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "sap-fiori-tools",
-  "version": "1.0.0",
-  "description": "sap-fiori-tools skill from secondsky/sap-skills",
-  "author": {
-    "name": "secondsky"
-  },
-  "repository": "https://github.com/secondsky/sap-skills"
-}

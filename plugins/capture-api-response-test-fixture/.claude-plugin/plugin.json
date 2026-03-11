@@ -1,9 +1,0 @@
-{
-  "name": "capture-api-response-test-fixture",
-  "version": "1.0.0",
-  "description": "capture-api-response-test-fixture skill from vercel/ai",
-  "author": {
-    "name": "vercel"
-  },
-  "repository": "https://github.com/vercel/ai"
-}

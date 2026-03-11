@@ -1,9 +1,0 @@
-{
-  "name": "gws-workflow-file-announce",
-  "version": "1.0.0",
-  "description": "gws-workflow-file-announce skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

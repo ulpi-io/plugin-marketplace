@@ -1,9 +1,0 @@
-{
-  "name": "go-concurrency",
-  "version": "1.0.0",
-  "description": "go-concurrency skill from cxuu/golang-skills",
-  "author": {
-    "name": "cxuu"
-  },
-  "repository": "https://github.com/cxuu/golang-skills"
-}

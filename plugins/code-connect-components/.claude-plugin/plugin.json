@@ -1,9 +1,0 @@
-{
-  "name": "code-connect-components",
-  "version": "1.0.0",
-  "description": "code-connect-components skill from figma/mcp-server-guide",
-  "author": {
-    "name": "figma"
-  },
-  "repository": "https://github.com/figma/mcp-server-guide"
-}

@@ -1,0 +1,15 @@
+{
+  "name": "microck",
+  "version": "1.0.0",
+  "description": "2 skills from microck/ordinary-claude-skills: crypto-research, novelweave-workflow",
+  "author": {
+    "name": "microck"
+  },
+  "repositories": [
+    "https://github.com/microck/ordinary-claude-skills"
+  ],
+  "skills": [
+    "crypto-research",
+    "novelweave-workflow"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "pskoett",
+  "version": "1.0.0",
+  "description": "14 skills from pskoett/self-improving-agent, pskoett/pskoett-ai-skills: self-improvement, self-improvement, self-improvement, self-improvement-ci, self-improvement-ci, agent-teams-simplify-and-harden, agent-teams-simplify-and-harden, plan-interview, simplify-and-harden, simplify-and-harden, intent-framed-agent, intent-framed-agent, dx-data-navigator, simplify-and-harden-ci",
+  "author": {
+    "name": "pskoett"
+  },
+  "repositories": [
+    "https://github.com/pskoett/self-improving-agent",
+    "https://github.com/pskoett/pskoett-ai-skills"
+  ],
+  "skills": [
+    "self-improvement",
+    "self-improvement",
+    "self-improvement",
+    "self-improvement-ci",
+    "self-improvement-ci",
+    "agent-teams-simplify-and-harden",
+    "agent-teams-simplify-and-harden",
+    "plan-interview",
+    "simplify-and-harden",
+    "simplify-and-harden",
+    "intent-framed-agent",
+    "intent-framed-agent",
+    "dx-data-navigator",
+    "simplify-and-harden-ci"
+  ]
+}

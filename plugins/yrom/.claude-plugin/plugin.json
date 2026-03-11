@@ -1,0 +1,14 @@
+{
+  "name": "yrom",
+  "version": "1.0.0",
+  "description": "1 skills from yrom/arxiv-paper-translator: arxiv-paper-translator",
+  "author": {
+    "name": "yrom"
+  },
+  "repositories": [
+    "https://github.com/yrom/arxiv-paper-translator"
+  ],
+  "skills": [
+    "arxiv-paper-translator"
+  ]
+}

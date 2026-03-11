@@ -1,9 +1,0 @@
-{
-  "name": "ios-26-platform",
-  "version": "1.0.0",
-  "description": "ios-26-platform skill from johnrogers/claude-swift-engineering",
-  "author": {
-    "name": "johnrogers"
-  },
-  "repository": "https://github.com/johnrogers/claude-swift-engineering"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "skillscatalog",
+  "version": "1.0.0",
+  "description": "1 skills from skillscatalog/registry: skill-create",
+  "author": {
+    "name": "skillscatalog"
+  },
+  "repositories": [
+    "https://github.com/skillscatalog/registry"
+  ],
+  "skills": [
+    "skill-create"
+  ]
+}

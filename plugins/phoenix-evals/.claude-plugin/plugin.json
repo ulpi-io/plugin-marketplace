@@ -1,9 +1,0 @@
-{
-  "name": "phoenix-evals",
-  "version": "1.0.0",
-  "description": "phoenix-evals skill from arize-ai/phoenix",
-  "author": {
-    "name": "arize-ai"
-  },
-  "repository": "https://github.com/arize-ai/phoenix"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "recipe-create-shared-drive",
-  "version": "1.0.0",
-  "description": "recipe-create-shared-drive skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

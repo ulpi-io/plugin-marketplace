@@ -1,9 +1,0 @@
-{
-  "name": "tooluniverse-spatial-transcriptomics",
-  "version": "1.0.0",
-  "description": "tooluniverse-spatial-transcriptomics skill from mims-harvard/tooluniverse",
-  "author": {
-    "name": "mims-harvard"
-  },
-  "repository": "https://github.com/mims-harvard/tooluniverse"
-}

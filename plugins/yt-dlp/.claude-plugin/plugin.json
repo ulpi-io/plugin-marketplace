@@ -1,9 +1,0 @@
-{
-  "name": "yt-dlp",
-  "version": "1.0.0",
-  "description": "yt-dlp skill from lwmxiaobei/yt-dlp-skill",
-  "author": {
-    "name": "lwmxiaobei"
-  },
-  "repository": "https://github.com/lwmxiaobei/yt-dlp-skill"
-}

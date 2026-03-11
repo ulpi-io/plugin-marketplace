@@ -1,9 +1,0 @@
-{
-  "name": "resolve-conflicts",
-  "version": "1.0.0",
-  "description": "resolve-conflicts skill from antinomyhq/forge",
-  "author": {
-    "name": "antinomyhq"
-  },
-  "repository": "https://github.com/antinomyhq/forge"
-}

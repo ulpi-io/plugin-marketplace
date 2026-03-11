@@ -1,0 +1,14 @@
+{
+  "name": "stanleychanh",
+  "version": "1.0.0",
+  "description": "1 skills from stanleychanh/tushare-finance-skill-for-claude-code: tushare-finance",
+  "author": {
+    "name": "stanleychanh"
+  },
+  "repositories": [
+    "https://github.com/stanleychanh/tushare-finance-skill-for-claude-code"
+  ],
+  "skills": [
+    "tushare-finance"
+  ]
+}

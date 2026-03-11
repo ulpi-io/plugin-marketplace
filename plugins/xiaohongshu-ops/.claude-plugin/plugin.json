@@ -1,9 +1,0 @@
-{
-  "name": "xiaohongshu-ops",
-  "version": "1.0.0",
-  "description": "xiaohongshu-ops skill from xiangyu-cas/xiaohongshu-ops-skill",
-  "author": {
-    "name": "xiangyu-cas"
-  },
-  "repository": "https://github.com/xiangyu-cas/xiaohongshu-ops-skill"
-}

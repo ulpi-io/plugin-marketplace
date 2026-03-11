@@ -1,9 +1,0 @@
-{
-  "name": "code-simplify",
-  "version": "1.0.0",
-  "description": "code-simplify skill from paulrberg/agent-skills",
-  "author": {
-    "name": "paulrberg"
-  },
-  "repository": "https://github.com/paulrberg/agent-skills"
-}

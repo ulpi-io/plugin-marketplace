@@ -1,9 +1,0 @@
-{
-  "name": "managing-astro-deployments",
-  "version": "1.0.0",
-  "description": "managing-astro-deployments skill from astronomer/agents",
-  "author": {
-    "name": "astronomer"
-  },
-  "repository": "https://github.com/astronomer/agents"
-}

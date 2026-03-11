@@ -1,9 +1,0 @@
-{
-  "name": "monitoring-operations",
-  "version": "1.0.0",
-  "description": "monitoring-operations skill from acedergren/oci-agent-skills",
-  "author": {
-    "name": "acedergren"
-  },
-  "repository": "https://github.com/acedergren/oci-agent-skills"
-}

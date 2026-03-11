@@ -1,0 +1,14 @@
+{
+  "name": "yusukebe",
+  "version": "1.0.0",
+  "description": "1 skills from yusukebe/hono-skill: hono",
+  "author": {
+    "name": "yusukebe"
+  },
+  "repositories": [
+    "https://github.com/yusukebe/hono-skill"
+  ],
+  "skills": [
+    "hono"
+  ]
+}

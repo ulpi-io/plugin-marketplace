@@ -1,9 +1,0 @@
-{
-  "name": "wp-interactivity-api",
-  "version": "1.0.0",
-  "description": "wp-interactivity-api skill from automattic/agent-skills",
-  "author": {
-    "name": "automattic"
-  },
-  "repository": "https://github.com/automattic/agent-skills"
-}

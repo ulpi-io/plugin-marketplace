@@ -1,9 +1,0 @@
-{
-  "name": "langchain-dependencies",
-  "version": "1.0.0",
-  "description": "langchain-dependencies skill from langchain-ai/langchain-skills",
-  "author": {
-    "name": "langchain-ai"
-  },
-  "repository": "https://github.com/langchain-ai/langchain-skills"
-}

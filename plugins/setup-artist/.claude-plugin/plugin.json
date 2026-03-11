@@ -1,9 +1,0 @@
-{
-  "name": "setup-artist",
-  "version": "1.0.0",
-  "description": "setup-artist skill from recoupable/setup-artist",
-  "author": {
-    "name": "recoupable"
-  },
-  "repository": "https://github.com/recoupable/setup-artist"
-}

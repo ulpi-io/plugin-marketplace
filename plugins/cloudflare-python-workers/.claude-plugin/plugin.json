@@ -1,9 +1,0 @@
-{
-  "name": "cloudflare-python-workers",
-  "version": "1.0.0",
-  "description": "cloudflare-python-workers skill from jezweb/claude-skills",
-  "author": {
-    "name": "jezweb"
-  },
-  "repository": "https://github.com/jezweb/claude-skills"
-}

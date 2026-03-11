@@ -1,9 +1,0 @@
-{
-  "name": "create-call",
-  "version": "1.0.0",
-  "description": "create-call skill from vapiai/skills",
-  "author": {
-    "name": "vapiai"
-  },
-  "repository": "https://github.com/vapiai/skills"
-}

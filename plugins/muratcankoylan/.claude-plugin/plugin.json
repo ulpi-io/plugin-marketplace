@@ -1,0 +1,14 @@
+{
+  "name": "muratcankoylan",
+  "version": "1.0.0",
+  "description": "1 skills from muratcankoylan/agent-skills-for-context-engineering: context-engineering-collection",
+  "author": {
+    "name": "muratcankoylan"
+  },
+  "repositories": [
+    "https://github.com/muratcankoylan/agent-skills-for-context-engineering"
+  ],
+  "skills": [
+    "context-engineering-collection"
+  ]
+}

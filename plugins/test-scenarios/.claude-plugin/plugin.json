@@ -1,9 +1,0 @@
-{
-  "name": "test-scenarios",
-  "version": "1.0.0",
-  "description": "test-scenarios skill from phuryn/pm-skills",
-  "author": {
-    "name": "phuryn"
-  },
-  "repository": "https://github.com/phuryn/pm-skills"
-}

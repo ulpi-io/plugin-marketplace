@@ -1,0 +1,14 @@
+{
+  "name": "iloveitaly",
+  "version": "1.0.0",
+  "description": "1 skills from iloveitaly/ai-skills: justfile",
+  "author": {
+    "name": "iloveitaly"
+  },
+  "repositories": [
+    "https://github.com/iloveitaly/ai-skills"
+  ],
+  "skills": [
+    "justfile"
+  ]
+}

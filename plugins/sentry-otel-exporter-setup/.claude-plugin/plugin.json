@@ -1,9 +1,0 @@
-{
-  "name": "sentry-otel-exporter-setup",
-  "version": "1.0.0",
-  "description": "sentry-otel-exporter-setup skill from getsentry/sentry-for-ai",
-  "author": {
-    "name": "getsentry"
-  },
-  "repository": "https://github.com/getsentry/sentry-for-ai"
-}

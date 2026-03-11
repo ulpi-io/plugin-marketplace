@@ -1,9 +1,26 @@
 {
   "name": "apify",
   "version": "1.0.0",
-  "description": "apify skill from vm0-ai/vm0-skills",
+  "description": "13 skills from apify/agent-skills: apify-ultimate-scraper, apify-market-research, apify-ecommerce, apify-lead-generation, apify-trend-analysis, apify-actor-development, apify-actor-development, apify-competitor-intelligence, apify-content-analytics, apify-brand-reputation-monitoring, apify-influencer-discovery, apify-audience-analysis, apify-actorization",
   "author": {
-    "name": "vm0-ai"
+    "name": "apify"
   },
-  "repository": "https://github.com/vm0-ai/vm0-skills"
+  "repositories": [
+    "https://github.com/apify/agent-skills"
+  ],
+  "skills": [
+    "apify-ultimate-scraper",
+    "apify-market-research",
+    "apify-ecommerce",
+    "apify-lead-generation",
+    "apify-trend-analysis",
+    "apify-actor-development",
+    "apify-actor-development",
+    "apify-competitor-intelligence",
+    "apify-content-analytics",
+    "apify-brand-reputation-monitoring",
+    "apify-influencer-discovery",
+    "apify-audience-analysis",
+    "apify-actorization"
+  ]
 }

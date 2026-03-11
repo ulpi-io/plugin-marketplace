@@ -1,9 +1,0 @@
-{
-  "name": "minimax-image-understanding",
-  "version": "1.0.0",
-  "description": "minimax-image-understanding skill from imsus/pi-extension-minimax-coding-plan-mcp",
-  "author": {
-    "name": "imsus"
-  },
-  "repository": "https://github.com/imsus/pi-extension-minimax-coding-plan-mcp"
-}

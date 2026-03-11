@@ -1,9 +1,0 @@
-{
-  "name": "photo-content-recognition-curation-expert",
-  "version": "1.0.0",
-  "description": "photo-content-recognition-curation-expert skill from erichowens/some_claude_skills",
-  "author": {
-    "name": "erichowens"
-  },
-  "repository": "https://github.com/erichowens/some_claude_skills"
-}

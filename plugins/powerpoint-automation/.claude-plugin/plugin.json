@@ -1,9 +1,0 @@
-{
-  "name": "powerpoint-automation",
-  "version": "1.0.0",
-  "description": "powerpoint-automation skill from aktsmm/agent-skills",
-  "author": {
-    "name": "aktsmm"
-  },
-  "repository": "https://github.com/aktsmm/agent-skills"
-}

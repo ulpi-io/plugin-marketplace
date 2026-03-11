@@ -1,0 +1,14 @@
+{
+  "name": "haowjy",
+  "version": "1.0.0",
+  "description": "1 skills from haowjy/creative-writing-skills: cw-prose-writing",
+  "author": {
+    "name": "haowjy"
+  },
+  "repositories": [
+    "https://github.com/haowjy/creative-writing-skills"
+  ],
+  "skills": [
+    "cw-prose-writing"
+  ]
+}

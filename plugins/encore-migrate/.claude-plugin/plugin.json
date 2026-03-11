@@ -1,9 +1,0 @@
-{
-  "name": "encore-migrate",
-  "version": "1.0.0",
-  "description": "encore-migrate skill from encoredev/skills",
-  "author": {
-    "name": "encoredev"
-  },
-  "repository": "https://github.com/encoredev/skills"
-}

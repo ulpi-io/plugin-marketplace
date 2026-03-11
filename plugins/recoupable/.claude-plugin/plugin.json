@@ -1,0 +1,19 @@
+{
+  "name": "recoupable",
+  "version": "1.0.0",
+  "description": "4 skills from recoupable/setup-sandbox, recoupable/release-management, recoupable/setup-artist: setup-sandbox, setup-sandbox, release-management, setup-artist",
+  "author": {
+    "name": "recoupable"
+  },
+  "repositories": [
+    "https://github.com/recoupable/setup-sandbox",
+    "https://github.com/recoupable/release-management",
+    "https://github.com/recoupable/setup-artist"
+  ],
+  "skills": [
+    "setup-sandbox",
+    "setup-sandbox",
+    "release-management",
+    "setup-artist"
+  ]
+}

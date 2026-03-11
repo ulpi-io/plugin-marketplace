@@ -1,9 +1,14 @@
 {
   "name": "evomap",
   "version": "1.0.0",
-  "description": "evomap skill from nowloady/evomapscriptshub001",
+  "description": "1 skills from evomap/evolver: capability-evolver",
   "author": {
-    "name": "nowloady"
+    "name": "evomap"
   },
-  "repository": "https://github.com/nowloady/evomapscriptshub001"
+  "repositories": [
+    "https://github.com/evomap/evolver"
+  ],
+  "skills": [
+    "capability-evolver"
+  ]
 }

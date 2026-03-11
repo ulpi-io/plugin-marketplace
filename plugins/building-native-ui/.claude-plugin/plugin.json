@@ -1,9 +1,0 @@
-{
-  "name": "building-native-ui",
-  "version": "1.0.0",
-  "description": "building-native-ui skill from expo/skills",
-  "author": {
-    "name": "expo"
-  },
-  "repository": "https://github.com/expo/skills"
-}

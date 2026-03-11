@@ -1,9 +1,0 @@
-{
-  "name": "pine-backtester",
-  "version": "1.0.0",
-  "description": "pine-backtester skill from traderspost/pinescript-agents",
-  "author": {
-    "name": "traderspost"
-  },
-  "repository": "https://github.com/traderspost/pinescript-agents"
-}

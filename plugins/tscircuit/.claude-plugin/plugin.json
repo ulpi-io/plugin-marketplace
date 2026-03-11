@@ -1,9 +1,14 @@
 {
   "name": "tscircuit",
   "version": "1.0.0",
-  "description": "tscircuit skill from tscircuit/skill",
+  "description": "1 skills from tscircuit/skill: tscircuit",
   "author": {
     "name": "tscircuit"
   },
-  "repository": "https://github.com/tscircuit/skill"
+  "repositories": [
+    "https://github.com/tscircuit/skill"
+  ],
+  "skills": [
+    "tscircuit"
+  ]
 }

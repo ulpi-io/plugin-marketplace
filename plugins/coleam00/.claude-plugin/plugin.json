@@ -1,0 +1,14 @@
+{
+  "name": "coleam00",
+  "version": "1.0.0",
+  "description": "1 skills from coleam00/excalidraw-diagram-skill: excalidraw-diagram",
+  "author": {
+    "name": "coleam00"
+  },
+  "repositories": [
+    "https://github.com/coleam00/excalidraw-diagram-skill"
+  ],
+  "skills": [
+    "excalidraw-diagram"
+  ]
+}

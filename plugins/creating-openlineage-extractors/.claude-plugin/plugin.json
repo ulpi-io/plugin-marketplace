@@ -1,9 +1,0 @@
-{
-  "name": "creating-openlineage-extractors",
-  "version": "1.0.0",
-  "description": "creating-openlineage-extractors skill from astronomer/agents",
-  "author": {
-    "name": "astronomer"
-  },
-  "repository": "https://github.com/astronomer/agents"
-}

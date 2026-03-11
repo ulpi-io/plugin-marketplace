@@ -1,0 +1,17 @@
+{
+  "name": "allenai2014",
+  "version": "1.0.0",
+  "description": "3 skills from allenai2014/ai-investment-advisor, allenai2014/pencil-ui-design: analyze, analyze, pencil-ui-design",
+  "author": {
+    "name": "allenai2014"
+  },
+  "repositories": [
+    "https://github.com/allenai2014/ai-investment-advisor",
+    "https://github.com/allenai2014/pencil-ui-design"
+  ],
+  "skills": [
+    "analyze",
+    "analyze",
+    "pencil-ui-design"
+  ]
+}

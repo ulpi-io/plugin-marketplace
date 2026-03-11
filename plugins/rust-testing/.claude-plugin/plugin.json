@@ -1,9 +1,0 @@
-{
-  "name": "rust-testing",
-  "version": "1.0.0",
-  "description": "rust-testing skill from pproenca/dot-skills",
-  "author": {
-    "name": "pproenca"
-  },
-  "repository": "https://github.com/pproenca/dot-skills"
-}

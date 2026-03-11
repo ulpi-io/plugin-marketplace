@@ -1,9 +1,0 @@
-{
-  "name": "enrich-lead",
-  "version": "1.0.0",
-  "description": "enrich-lead skill from anthropics/knowledge-work-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/knowledge-work-plugins"
-}

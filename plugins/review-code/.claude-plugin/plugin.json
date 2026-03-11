@@ -1,9 +1,0 @@
-{
-  "name": "review-code",
-  "version": "1.0.0",
-  "description": "review-code skill from catlog22/claude-code-workflow",
-  "author": {
-    "name": "catlog22"
-  },
-  "repository": "https://github.com/catlog22/claude-code-workflow"
-}

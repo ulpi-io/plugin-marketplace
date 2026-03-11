@@ -1,9 +1,0 @@
-{
-  "name": "nestjs-expert",
-  "version": "1.0.0",
-  "description": "nestjs-expert skill from jeffallan/claude-skills",
-  "author": {
-    "name": "jeffallan"
-  },
-  "repository": "https://github.com/jeffallan/claude-skills"
-}

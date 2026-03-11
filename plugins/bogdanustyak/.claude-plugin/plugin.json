@@ -1,0 +1,14 @@
+{
+  "name": "bogdanustyak",
+  "version": "1.0.0",
+  "description": "1 skills from bogdanustyak/flutter-expert-skill: flutter-dev",
+  "author": {
+    "name": "bogdanustyak"
+  },
+  "repositories": [
+    "https://github.com/bogdanustyak/flutter-expert-skill"
+  ],
+  "skills": [
+    "flutter-dev"
+  ]
+}

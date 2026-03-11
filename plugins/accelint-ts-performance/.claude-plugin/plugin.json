@@ -1,9 +1,0 @@
-{
-  "name": "accelint-ts-performance",
-  "version": "1.0.0",
-  "description": "accelint-ts-performance skill from gohypergiant/agent-skills",
-  "author": {
-    "name": "gohypergiant"
-  },
-  "repository": "https://github.com/gohypergiant/agent-skills"
-}

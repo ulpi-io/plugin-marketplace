@@ -1,0 +1,23 @@
+{
+  "name": "asyrafhussin",
+  "version": "1.0.0",
+  "description": "10 skills from asyrafhussin/agent-skills: php-best-practices, php-best-practices, react-vite-best-practices, laravel-best-practices, laravel-inertia-react, clean-code-principles, clean-code-principles, typescript-react-patterns, tailwind-best-practices, api-design-patterns",
+  "author": {
+    "name": "asyrafhussin"
+  },
+  "repositories": [
+    "https://github.com/asyrafhussin/agent-skills"
+  ],
+  "skills": [
+    "php-best-practices",
+    "php-best-practices",
+    "react-vite-best-practices",
+    "laravel-best-practices",
+    "laravel-inertia-react",
+    "clean-code-principles",
+    "clean-code-principles",
+    "typescript-react-patterns",
+    "tailwind-best-practices",
+    "api-design-patterns"
+  ]
+}

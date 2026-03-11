@@ -1,9 +1,0 @@
-{
-  "name": "graphql-operations",
-  "version": "1.0.0",
-  "description": "graphql-operations skill from apollographql/skills",
-  "author": {
-    "name": "apollographql"
-  },
-  "repository": "https://github.com/apollographql/skills"
-}

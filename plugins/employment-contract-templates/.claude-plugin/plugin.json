@@ -1,9 +1,0 @@
-{
-  "name": "employment-contract-templates",
-  "version": "1.0.0",
-  "description": "employment-contract-templates skill from wshobson/agents",
-  "author": {
-    "name": "wshobson"
-  },
-  "repository": "https://github.com/wshobson/agents"
-}

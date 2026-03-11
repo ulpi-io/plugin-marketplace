@@ -1,9 +1,0 @@
-{
-  "name": "content-quality-auditor",
-  "version": "1.0.0",
-  "description": "content-quality-auditor skill from aaron-he-zhu/seo-geo-claude-skills",
-  "author": {
-    "name": "aaron-he-zhu"
-  },
-  "repository": "https://github.com/aaron-he-zhu/seo-geo-claude-skills"
-}

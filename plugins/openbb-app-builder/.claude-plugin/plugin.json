@@ -1,9 +1,0 @@
-{
-  "name": "openbb-app-builder",
-  "version": "1.0.0",
-  "description": "openbb-app-builder skill from openbb-finance/backends-for-openbb",
-  "author": {
-    "name": "openbb-finance"
-  },
-  "repository": "https://github.com/openbb-finance/backends-for-openbb"
-}

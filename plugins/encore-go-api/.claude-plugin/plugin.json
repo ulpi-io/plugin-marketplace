@@ -1,9 +1,0 @@
-{
-  "name": "encore-go-api",
-  "version": "1.0.0",
-  "description": "encore-go-api skill from encoredev/skills",
-  "author": {
-    "name": "encoredev"
-  },
-  "repository": "https://github.com/encoredev/skills"
-}

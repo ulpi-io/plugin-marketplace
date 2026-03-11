@@ -1,0 +1,14 @@
+{
+  "name": "pbnicad",
+  "version": "1.0.0",
+  "description": "1 skills from pbnicad/telegram-bot-grammy-skill: telegram-bot-grammy",
+  "author": {
+    "name": "pbnicad"
+  },
+  "repositories": [
+    "https://github.com/pbnicad/telegram-bot-grammy-skill"
+  ],
+  "skills": [
+    "telegram-bot-grammy"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "send-feishu",
-  "version": "1.0.0",
-  "description": "send-feishu skill from jssfy/k-skills",
-  "author": {
-    "name": "jssfy"
-  },
-  "repository": "https://github.com/jssfy/k-skills"
-}

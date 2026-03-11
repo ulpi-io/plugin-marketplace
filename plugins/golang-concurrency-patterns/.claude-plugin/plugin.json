@@ -1,9 +1,0 @@
-{
-  "name": "golang-concurrency-patterns",
-  "version": "1.0.0",
-  "description": "golang-concurrency-patterns skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

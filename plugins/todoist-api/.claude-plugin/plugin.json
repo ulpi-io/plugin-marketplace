@@ -1,9 +1,0 @@
-{
-  "name": "todoist-api",
-  "version": "1.0.0",
-  "description": "todoist-api skill from intellectronica/agent-skills",
-  "author": {
-    "name": "intellectronica"
-  },
-  "repository": "https://github.com/intellectronica/agent-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "supabase-extract-url",
-  "version": "1.0.0",
-  "description": "supabase-extract-url skill from yoanbernabeu/supabase-pentest-skills",
-  "author": {
-    "name": "yoanbernabeu"
-  },
-  "repository": "https://github.com/yoanbernabeu/supabase-pentest-skills"
-}

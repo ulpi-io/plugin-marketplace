@@ -1,9 +1,0 @@
-{
-  "name": "openclaw-config",
-  "version": "1.0.0",
-  "description": "openclaw-config skill from adisinghstudent/easyclaw",
-  "author": {
-    "name": "adisinghstudent"
-  },
-  "repository": "https://github.com/adisinghstudent/easyclaw"
-}

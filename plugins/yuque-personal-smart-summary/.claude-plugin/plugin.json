@@ -1,9 +1,0 @@
-{
-  "name": "yuque-personal-smart-summary",
-  "version": "1.0.0",
-  "description": "yuque-personal-smart-summary skill from yuque/yuque-plugin",
-  "author": {
-    "name": "yuque"
-  },
-  "repository": "https://github.com/yuque/yuque-plugin"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "langchain-fundamentals",
-  "version": "1.0.0",
-  "description": "langchain-fundamentals skill from langchain-ai/langchain-skills",
-  "author": {
-    "name": "langchain-ai"
-  },
-  "repository": "https://github.com/langchain-ai/langchain-skills"
-}

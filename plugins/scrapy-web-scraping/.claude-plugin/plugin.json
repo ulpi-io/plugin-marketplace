@@ -1,9 +1,0 @@
-{
-  "name": "scrapy-web-scraping",
-  "version": "1.0.0",
-  "description": "scrapy-web-scraping skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

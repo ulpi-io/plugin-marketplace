@@ -1,9 +1,23 @@
 {
   "name": "actionbook",
   "version": "1.0.0",
-  "description": "actionbook skill from actionbook/actionbook",
+  "description": "10 skills from actionbook/actionbook: actionbook, active-research, active-research, extract, deep-research, deep-research, agent-browser, actionbook-scraper, arxiv-viewer, rust-learner",
   "author": {
     "name": "actionbook"
   },
-  "repository": "https://github.com/actionbook/actionbook"
+  "repositories": [
+    "https://github.com/actionbook/actionbook"
+  ],
+  "skills": [
+    "actionbook",
+    "active-research",
+    "active-research",
+    "extract",
+    "deep-research",
+    "deep-research",
+    "agent-browser",
+    "actionbook-scraper",
+    "arxiv-viewer",
+    "rust-learner"
+  ]
 }

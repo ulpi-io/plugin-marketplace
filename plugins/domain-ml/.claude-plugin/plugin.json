@@ -1,9 +1,0 @@
-{
-  "name": "domain-ml",
-  "version": "1.0.0",
-  "description": "domain-ml skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

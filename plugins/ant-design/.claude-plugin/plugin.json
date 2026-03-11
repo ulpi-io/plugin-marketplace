@@ -1,9 +1,14 @@
 {
   "name": "ant-design",
   "version": "1.0.0",
-  "description": "ant-design skill from ant-design/antd-skill",
+  "description": "1 skills from ant-design/antd-skill: ant-design",
   "author": {
     "name": "ant-design"
   },
-  "repository": "https://github.com/ant-design/antd-skill"
+  "repositories": [
+    "https://github.com/ant-design/antd-skill"
+  ],
+  "skills": [
+    "ant-design"
+  ]
 }

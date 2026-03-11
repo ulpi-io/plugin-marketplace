@@ -1,9 +1,0 @@
-{
-  "name": "sentry-create-alert",
-  "version": "1.0.0",
-  "description": "sentry-create-alert skill from getsentry/sentry-for-ai",
-  "author": {
-    "name": "getsentry"
-  },
-  "repository": "https://github.com/getsentry/sentry-for-ai"
-}

@@ -1,0 +1,27 @@
+{
+  "name": "huggingface",
+  "version": "1.0.0",
+  "description": "14 skills from huggingface/skills: hugging-face-model-trainer, hugging-face-datasets, hugging-face-datasets, hugging-face-cli, hugging-face-cli, hugging-face-evaluation, hugging-face-paper-publisher, hugging-face-paper-publisher, hugging-face-trackio, hugging-face-trackio, hugging-face-jobs, hugging-face-tool-builder, hugging-face-tool-builder, gradio",
+  "author": {
+    "name": "huggingface"
+  },
+  "repositories": [
+    "https://github.com/huggingface/skills"
+  ],
+  "skills": [
+    "hugging-face-model-trainer",
+    "hugging-face-datasets",
+    "hugging-face-datasets",
+    "hugging-face-cli",
+    "hugging-face-cli",
+    "hugging-face-evaluation",
+    "hugging-face-paper-publisher",
+    "hugging-face-paper-publisher",
+    "hugging-face-trackio",
+    "hugging-face-trackio",
+    "hugging-face-jobs",
+    "hugging-face-tool-builder",
+    "hugging-face-tool-builder",
+    "gradio"
+  ]
+}

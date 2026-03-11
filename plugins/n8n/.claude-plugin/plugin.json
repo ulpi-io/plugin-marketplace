@@ -1,9 +1,0 @@
-{
-  "name": "n8n",
-  "version": "1.0.0",
-  "description": "n8n skill from vladm3105/aidoc-flow-framework",
-  "author": {
-    "name": "vladm3105"
-  },
-  "repository": "https://github.com/vladm3105/aidoc-flow-framework"
-}

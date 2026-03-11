@@ -1,9 +1,0 @@
-{
-  "name": "asc-wall-submit",
-  "version": "1.0.0",
-  "description": "asc-wall-submit skill from rudrankriyam/app-store-connect-cli-skills",
-  "author": {
-    "name": "rudrankriyam"
-  },
-  "repository": "https://github.com/rudrankriyam/app-store-connect-cli-skills"
-}

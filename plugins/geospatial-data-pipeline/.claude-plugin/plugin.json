@@ -1,9 +1,0 @@
-{
-  "name": "geospatial-data-pipeline",
-  "version": "1.0.0",
-  "description": "geospatial-data-pipeline skill from erichowens/some_claude_skills",
-  "author": {
-    "name": "erichowens"
-  },
-  "repository": "https://github.com/erichowens/some_claude_skills"
-}

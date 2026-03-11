@@ -1,9 +1,0 @@
-{
-  "name": "tdd-test-writer",
-  "version": "1.0.0",
-  "description": "tdd-test-writer skill from am-will/codex-skills",
-  "author": {
-    "name": "am-will"
-  },
-  "repository": "https://github.com/am-will/codex-skills"
-}

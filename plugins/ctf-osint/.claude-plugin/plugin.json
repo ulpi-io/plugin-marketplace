@@ -1,9 +1,0 @@
-{
-  "name": "ctf-osint",
-  "version": "1.0.0",
-  "description": "ctf-osint skill from ljagiello/ctf-skills",
-  "author": {
-    "name": "ljagiello"
-  },
-  "repository": "https://github.com/ljagiello/ctf-skills"
-}

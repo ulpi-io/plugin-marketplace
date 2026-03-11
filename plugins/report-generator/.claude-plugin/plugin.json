@@ -1,9 +1,0 @@
-{
-  "name": "report-generator",
-  "version": "1.0.0",
-  "description": "report-generator skill from claude-office-skills/skills",
-  "author": {
-    "name": "claude-office-skills"
-  },
-  "repository": "https://github.com/claude-office-skills/skills"
-}

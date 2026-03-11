@@ -1,9 +1,15 @@
 {
   "name": "pinchtab",
   "version": "1.0.0",
-  "description": "pinchtab skill from pinchtab/pinchtab",
+  "description": "2 skills from pinchtab/pinchtab: pinchtab, pinchtab",
   "author": {
     "name": "pinchtab"
   },
-  "repository": "https://github.com/pinchtab/pinchtab"
+  "repositories": [
+    "https://github.com/pinchtab/pinchtab"
+  ],
+  "skills": [
+    "pinchtab",
+    "pinchtab"
+  ]
 }

@@ -1,9 +1,0 @@
-{
-  "name": "web-reader",
-  "version": "1.0.0",
-  "description": "web-reader skill from answerzhao/agent-skills",
-  "author": {
-    "name": "answerzhao"
-  },
-  "repository": "https://github.com/answerzhao/agent-skills"
-}

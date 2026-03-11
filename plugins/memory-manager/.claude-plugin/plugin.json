@@ -1,9 +1,0 @@
-{
-  "name": "memory-manager",
-  "version": "1.0.0",
-  "description": "memory-manager skill from learnwy/skills",
-  "author": {
-    "name": "learnwy"
-  },
-  "repository": "https://github.com/learnwy/skills"
-}

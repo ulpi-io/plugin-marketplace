@@ -1,9 +1,0 @@
-{
-  "name": "recipe-forward-labeled-emails",
-  "version": "1.0.0",
-  "description": "recipe-forward-labeled-emails skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

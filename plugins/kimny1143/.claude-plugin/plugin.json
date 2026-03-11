@@ -1,0 +1,17 @@
+{
+  "name": "kimny1143",
+  "version": "1.0.0",
+  "description": "4 skills from kimny1143/claude-code-template: ui-ux-pro-max, ui-ux-pro-max, remotion, ux-psychology",
+  "author": {
+    "name": "kimny1143"
+  },
+  "repositories": [
+    "https://github.com/kimny1143/claude-code-template"
+  ],
+  "skills": [
+    "ui-ux-pro-max",
+    "ui-ux-pro-max",
+    "remotion",
+    "ux-psychology"
+  ]
+}

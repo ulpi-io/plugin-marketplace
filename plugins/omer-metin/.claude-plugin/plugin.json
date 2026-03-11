@@ -1,0 +1,31 @@
+{
+  "name": "omer-metin",
+  "version": "1.0.0",
+  "description": "18 skills from omer-metin/skills-for-antigravity: game-ui-design, technical-analysis, quantitative-research, crypto-trading-bots, pixel-art-sprites, pixel-art-sprites, sentiment-analysis-trading, threejs-3d-graphics, 3d-modeling, algorithmic-trading, gamification-loops, game-design-core, landing-page-design, branding, viral-hooks, risk-management-trading, game-audio, ros2-robotics",
+  "author": {
+    "name": "omer-metin"
+  },
+  "repositories": [
+    "https://github.com/omer-metin/skills-for-antigravity"
+  ],
+  "skills": [
+    "game-ui-design",
+    "technical-analysis",
+    "quantitative-research",
+    "crypto-trading-bots",
+    "pixel-art-sprites",
+    "pixel-art-sprites",
+    "sentiment-analysis-trading",
+    "threejs-3d-graphics",
+    "3d-modeling",
+    "algorithmic-trading",
+    "gamification-loops",
+    "game-design-core",
+    "landing-page-design",
+    "branding",
+    "viral-hooks",
+    "risk-management-trading",
+    "game-audio",
+    "ros2-robotics"
+  ]
+}

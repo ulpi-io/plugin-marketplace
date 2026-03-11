@@ -1,9 +1,0 @@
-{
-  "name": "security-ownership-map",
-  "version": "1.0.0",
-  "description": "security-ownership-map skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

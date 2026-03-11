@@ -1,9 +1,0 @@
-{
-  "name": "skill-pdf-to-pptx-tool",
-  "version": "1.0.0",
-  "description": "skill-pdf-to-pptx-tool skill from dnvriend/pdf-to-pptx-tool",
-  "author": {
-    "name": "dnvriend"
-  },
-  "repository": "https://github.com/dnvriend/pdf-to-pptx-tool"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "zig-system-calls",
-  "version": "1.0.0",
-  "description": "zig-system-calls skill from oven-sh/bun",
-  "author": {
-    "name": "oven-sh"
-  },
-  "repository": "https://github.com/oven-sh/bun"
-}

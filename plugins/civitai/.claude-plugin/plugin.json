@@ -1,0 +1,16 @@
+{
+  "name": "civitai",
+  "version": "1.0.0",
+  "description": "3 skills from civitai/civitai: clickup, quick-mockups, meilisearch-admin",
+  "author": {
+    "name": "civitai"
+  },
+  "repositories": [
+    "https://github.com/civitai/civitai"
+  ],
+  "skills": [
+    "clickup",
+    "quick-mockups",
+    "meilisearch-admin"
+  ]
+}

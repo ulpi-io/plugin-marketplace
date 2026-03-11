@@ -1,9 +1,0 @@
-{
-  "name": "observe-before-editing",
-  "version": "1.0.0",
-  "description": "observe-before-editing skill from parcadei/continuous-claude-v3",
-  "author": {
-    "name": "parcadei"
-  },
-  "repository": "https://github.com/parcadei/continuous-claude-v3"
-}

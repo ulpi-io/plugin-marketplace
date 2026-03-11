@@ -1,9 +1,0 @@
-{
-  "name": "allium",
-  "version": "1.0.0",
-  "description": "allium skill from juxt/allium",
-  "author": {
-    "name": "juxt"
-  },
-  "repository": "https://github.com/juxt/allium"
-}

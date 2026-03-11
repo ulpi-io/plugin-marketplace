@@ -1,9 +1,0 @@
-{
-  "name": "netlify-deploy",
-  "version": "1.0.0",
-  "description": "netlify-deploy skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "midjourney",
-  "version": "1.0.0",
-  "description": "midjourney skill from teachingai/full-stack-skills",
-  "author": {
-    "name": "teachingai"
-  },
-  "repository": "https://github.com/teachingai/full-stack-skills"
-}

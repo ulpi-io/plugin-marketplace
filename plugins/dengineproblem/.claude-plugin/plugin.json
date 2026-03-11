@@ -1,0 +1,19 @@
+{
+  "name": "dengineproblem",
+  "version": "1.0.0",
+  "description": "6 skills from dengineproblem/agents-monorepo: social-media-marketing, video-marketing, k6-load-test, frontend-design, seo-expert, b2b-saas-marketing",
+  "author": {
+    "name": "dengineproblem"
+  },
+  "repositories": [
+    "https://github.com/dengineproblem/agents-monorepo"
+  ],
+  "skills": [
+    "social-media-marketing",
+    "video-marketing",
+    "k6-load-test",
+    "frontend-design",
+    "seo-expert",
+    "b2b-saas-marketing"
+  ]
+}

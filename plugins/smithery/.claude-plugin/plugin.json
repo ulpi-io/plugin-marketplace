@@ -1,9 +1,0 @@
-{
-  "name": "smithery",
-  "version": "1.0.0",
-  "description": "smithery skill from smithery-ai/cli",
-  "author": {
-    "name": "smithery-ai"
-  },
-  "repository": "https://github.com/smithery-ai/cli"
-}

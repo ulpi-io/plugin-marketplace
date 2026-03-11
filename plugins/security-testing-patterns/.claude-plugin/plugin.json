@@ -1,9 +1,0 @@
-{
-  "name": "security-testing-patterns",
-  "version": "1.0.0",
-  "description": "security-testing-patterns skill from nickcrew/claude-ctx-plugin",
-  "author": {
-    "name": "nickcrew"
-  },
-  "repository": "https://github.com/nickcrew/claude-ctx-plugin"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "k8s-manifest-generator",
-  "version": "1.0.0",
-  "description": "k8s-manifest-generator skill from wshobson/agents",
-  "author": {
-    "name": "wshobson"
-  },
-  "repository": "https://github.com/wshobson/agents"
-}

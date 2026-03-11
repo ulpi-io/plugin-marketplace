@@ -1,9 +1,0 @@
-{
-  "name": "baoyu-post-to-wechat",
-  "version": "1.0.0",
-  "description": "baoyu-post-to-wechat skill from jimliu/baoyu-skills",
-  "author": {
-    "name": "jimliu"
-  },
-  "repository": "https://github.com/jimliu/baoyu-skills"
-}

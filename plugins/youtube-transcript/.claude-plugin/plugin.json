@@ -1,9 +1,0 @@
-{
-  "name": "youtube-transcript",
-  "version": "1.0.0",
-  "description": "youtube-transcript skill from intellectronica/agent-skills",
-  "author": {
-    "name": "intellectronica"
-  },
-  "repository": "https://github.com/intellectronica/agent-skills"
-}

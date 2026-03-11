@@ -1,9 +1,0 @@
-{
-  "name": "security-auditor",
-  "version": "1.0.0",
-  "description": "security-auditor skill from charon-fan/agent-playbook",
-  "author": {
-    "name": "charon-fan"
-  },
-  "repository": "https://github.com/charon-fan/agent-playbook"
-}

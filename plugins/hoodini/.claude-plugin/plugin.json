@@ -1,0 +1,24 @@
+{
+  "name": "hoodini",
+  "version": "1.0.0",
+  "description": "11 skills from hoodini/ai-agents-skills: mongodb, owasp-security, github-trending, figma, mobile-responsiveness, mobile-responsiveness, analytics-metrics, mermaid-diagrams, aws-strands, bun, web-accessibility",
+  "author": {
+    "name": "hoodini"
+  },
+  "repositories": [
+    "https://github.com/hoodini/ai-agents-skills"
+  ],
+  "skills": [
+    "mongodb",
+    "owasp-security",
+    "github-trending",
+    "figma",
+    "mobile-responsiveness",
+    "mobile-responsiveness",
+    "analytics-metrics",
+    "mermaid-diagrams",
+    "aws-strands",
+    "bun",
+    "web-accessibility"
+  ]
+}

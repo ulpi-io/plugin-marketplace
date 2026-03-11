@@ -1,9 +1,0 @@
-{
-  "name": "article-extractor",
-  "version": "1.0.0",
-  "description": "article-extractor skill from dedalus-erp-pas/foundation-skills",
-  "author": {
-    "name": "dedalus-erp-pas"
-  },
-  "repository": "https://github.com/dedalus-erp-pas/foundation-skills"
-}

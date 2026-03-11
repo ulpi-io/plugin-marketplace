@@ -1,9 +1,0 @@
-{
-  "name": "parallel-web-extract",
-  "version": "1.0.0",
-  "description": "parallel-web-extract skill from parallel-web/parallel-agent-skills",
-  "author": {
-    "name": "parallel-web"
-  },
-  "repository": "https://github.com/parallel-web/parallel-agent-skills"
-}

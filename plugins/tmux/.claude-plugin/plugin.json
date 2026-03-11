@@ -1,9 +1,0 @@
-{
-  "name": "tmux",
-  "version": "1.0.0",
-  "description": "tmux skill from mitsuhiko/agent-stuff",
-  "author": {
-    "name": "mitsuhiko"
-  },
-  "repository": "https://github.com/mitsuhiko/agent-stuff"
-}

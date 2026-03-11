@@ -1,9 +1,0 @@
-{
-  "name": "find-skills",
-  "version": "1.0.0",
-  "description": "find-skills skill from vercel-labs/skills",
-  "author": {
-    "name": "vercel-labs"
-  },
-  "repository": "https://github.com/vercel-labs/skills"
-}

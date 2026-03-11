@@ -1,0 +1,14 @@
+{
+  "name": "theagentservice",
+  "version": "1.0.0",
+  "description": "1 skills from theagentservice/skills: openclaw-backup",
+  "author": {
+    "name": "theagentservice"
+  },
+  "repositories": [
+    "https://github.com/theagentservice/skills"
+  ],
+  "skills": [
+    "openclaw-backup"
+  ]
+}

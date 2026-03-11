@@ -1,9 +1,0 @@
-{
-  "name": "link-workspace-packages",
-  "version": "1.0.0",
-  "description": "link-workspace-packages skill from nrwl/nx-ai-agents-config",
-  "author": {
-    "name": "nrwl"
-  },
-  "repository": "https://github.com/nrwl/nx-ai-agents-config"
-}

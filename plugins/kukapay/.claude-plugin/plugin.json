@@ -1,0 +1,16 @@
+{
+  "name": "kukapay",
+  "version": "1.0.0",
+  "description": "3 skills from kukapay/crypto-skills: trading-strategist, market-sentiment, market-sentiment",
+  "author": {
+    "name": "kukapay"
+  },
+  "repositories": [
+    "https://github.com/kukapay/crypto-skills"
+  ],
+  "skills": [
+    "trading-strategist",
+    "market-sentiment",
+    "market-sentiment"
+  ]
+}

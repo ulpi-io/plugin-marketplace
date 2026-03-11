@@ -1,9 +1,0 @@
-{
-  "name": "m01-ownership",
-  "version": "1.0.0",
-  "description": "m01-ownership skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

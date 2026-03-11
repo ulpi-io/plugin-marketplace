@@ -1,9 +1,0 @@
-{
-  "name": "marketplace-liquidity",
-  "version": "1.0.0",
-  "description": "marketplace-liquidity skill from refoundai/lenny-skills",
-  "author": {
-    "name": "refoundai"
-  },
-  "repository": "https://github.com/refoundai/lenny-skills"
-}

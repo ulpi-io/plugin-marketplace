@@ -1,9 +1,0 @@
-{
-  "name": "hugging-face-trackio",
-  "version": "1.0.0",
-  "description": "hugging-face-trackio skill from huggingface/skills",
-  "author": {
-    "name": "huggingface"
-  },
-  "repository": "https://github.com/huggingface/skills"
-}

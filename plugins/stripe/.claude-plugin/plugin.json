@@ -1,9 +1,15 @@
 {
   "name": "stripe",
   "version": "1.0.0",
-  "description": "stripe skill from mindrally/skills",
+  "description": "2 skills from stripe/ai: stripe-best-practices, upgrade-stripe",
   "author": {
-    "name": "mindrally"
+    "name": "stripe"
   },
-  "repository": "https://github.com/mindrally/skills"
+  "repositories": [
+    "https://github.com/stripe/ai"
+  ],
+  "skills": [
+    "stripe-best-practices",
+    "upgrade-stripe"
+  ]
 }

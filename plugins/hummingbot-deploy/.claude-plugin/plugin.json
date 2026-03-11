@@ -1,9 +1,0 @@
-{
-  "name": "hummingbot-deploy",
-  "version": "1.0.0",
-  "description": "hummingbot-deploy skill from hummingbot/skills",
-  "author": {
-    "name": "hummingbot"
-  },
-  "repository": "https://github.com/hummingbot/skills"
-}

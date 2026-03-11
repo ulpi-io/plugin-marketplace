@@ -1,9 +1,0 @@
-{
-  "name": "qms-audit-expert",
-  "version": "1.0.0",
-  "description": "qms-audit-expert skill from alirezarezvani/claude-skills",
-  "author": {
-    "name": "alirezarezvani"
-  },
-  "repository": "https://github.com/alirezarezvani/claude-skills"
-}

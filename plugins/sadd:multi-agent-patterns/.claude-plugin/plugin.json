@@ -1,9 +1,0 @@
-{
-  "name": "sadd:multi-agent-patterns",
-  "version": "1.0.0",
-  "description": "sadd:multi-agent-patterns skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

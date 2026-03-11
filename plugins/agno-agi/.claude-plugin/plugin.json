@@ -1,0 +1,16 @@
+{
+  "name": "agno-agi",
+  "version": "1.0.0",
+  "description": "3 skills from agno-agi/agno: git-workflow, code-review, code-review",
+  "author": {
+    "name": "agno-agi"
+  },
+  "repositories": [
+    "https://github.com/agno-agi/agno"
+  ],
+  "skills": [
+    "git-workflow",
+    "code-review",
+    "code-review"
+  ]
+}

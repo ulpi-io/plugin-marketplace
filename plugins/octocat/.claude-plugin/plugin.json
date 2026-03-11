@@ -1,9 +1,0 @@
-{
-  "name": "octocat",
-  "version": "1.0.0",
-  "description": "octocat skill from mcollina/skills",
-  "author": {
-    "name": "mcollina"
-  },
-  "repository": "https://github.com/mcollina/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "tooluniverse-gene-enrichment",
-  "version": "1.0.0",
-  "description": "tooluniverse-gene-enrichment skill from mims-harvard/tooluniverse",
-  "author": {
-    "name": "mims-harvard"
-  },
-  "repository": "https://github.com/mims-harvard/tooluniverse"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "api-security-review",
-  "version": "1.0.0",
-  "description": "api-security-review skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

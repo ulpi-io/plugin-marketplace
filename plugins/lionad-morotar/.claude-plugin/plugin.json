@@ -1,0 +1,15 @@
+{
+  "name": "lionad-morotar",
+  "version": "1.0.0",
+  "description": "2 skills from lionad-morotar/anti-render-skill: anti-render, anti-render",
+  "author": {
+    "name": "lionad-morotar"
+  },
+  "repositories": [
+    "https://github.com/lionad-morotar/anti-render-skill"
+  ],
+  "skills": [
+    "anti-render",
+    "anti-render"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "rust-skill-creator",
-  "version": "1.0.0",
-  "description": "rust-skill-creator skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

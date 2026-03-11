@@ -1,9 +1,0 @@
-{
-  "name": "m09-domain",
-  "version": "1.0.0",
-  "description": "m09-domain skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

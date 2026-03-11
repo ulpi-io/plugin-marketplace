@@ -1,9 +1,0 @@
-{
-  "name": "mcp-vods",
-  "version": "1.0.0",
-  "description": "mcp-vods skill from aahl/skills",
-  "author": {
-    "name": "aahl"
-  },
-  "repository": "https://github.com/aahl/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "remotion-resemble-ai",
-  "version": "1.0.0",
-  "description": "remotion-resemble-ai skill from resemble-ai/remotion-resemble-skill",
-  "author": {
-    "name": "resemble-ai"
-  },
-  "repository": "https://github.com/resemble-ai/remotion-resemble-skill"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "intent-check",
-  "version": "1.0.0",
-  "description": "intent-check skill from arcblock/idd",
-  "author": {
-    "name": "arcblock"
-  },
-  "repository": "https://github.com/arcblock/idd"
-}

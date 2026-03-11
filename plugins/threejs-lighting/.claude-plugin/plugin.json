@@ -1,9 +1,0 @@
-{
-  "name": "threejs-lighting",
-  "version": "1.0.0",
-  "description": "threejs-lighting skill from cloudai-x/threejs-skills",
-  "author": {
-    "name": "cloudai-x"
-  },
-  "repository": "https://github.com/cloudai-x/threejs-skills"
-}

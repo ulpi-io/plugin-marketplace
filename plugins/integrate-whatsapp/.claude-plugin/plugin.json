@@ -1,9 +1,0 @@
-{
-  "name": "integrate-whatsapp",
-  "version": "1.0.0",
-  "description": "integrate-whatsapp skill from gokapso/agent-skills",
-  "author": {
-    "name": "gokapso"
-  },
-  "repository": "https://github.com/gokapso/agent-skills"
-}

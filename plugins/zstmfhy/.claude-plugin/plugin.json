@@ -1,0 +1,14 @@
+{
+  "name": "zstmfhy",
+  "version": "1.0.0",
+  "description": "1 skills from zstmfhy/zlibrary-to-notebooklm: zlibrary-to-notebooklm",
+  "author": {
+    "name": "zstmfhy"
+  },
+  "repositories": [
+    "https://github.com/zstmfhy/zlibrary-to-notebooklm"
+  ],
+  "skills": [
+    "zlibrary-to-notebooklm"
+  ]
+}

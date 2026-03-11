@@ -1,0 +1,24 @@
+{
+  "name": "mcollina",
+  "version": "1.0.0",
+  "description": "10 skills from mcollina/skills, mcollina/githuman-skills: fastify-best-practices, node-best-practices, typescript-magician, documentation, nodejs-core, oauth, githuman, octocat, linting-neostandard-eslint9, snipgrapher",
+  "author": {
+    "name": "mcollina"
+  },
+  "repositories": [
+    "https://github.com/mcollina/skills",
+    "https://github.com/mcollina/githuman-skills"
+  ],
+  "skills": [
+    "fastify-best-practices",
+    "node-best-practices",
+    "typescript-magician",
+    "documentation",
+    "nodejs-core",
+    "oauth",
+    "githuman",
+    "octocat",
+    "linting-neostandard-eslint9",
+    "snipgrapher"
+  ]
+}

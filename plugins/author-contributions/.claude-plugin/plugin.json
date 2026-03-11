@@ -1,9 +1,0 @@
-{
-  "name": "author-contributions",
-  "version": "1.0.0",
-  "description": "author-contributions skill from microsoft/vscode",
-  "author": {
-    "name": "microsoft"
-  },
-  "repository": "https://github.com/microsoft/vscode"
-}

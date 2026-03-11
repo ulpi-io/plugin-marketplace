@@ -1,9 +1,0 @@
-{
-  "name": "building-with-medusa",
-  "version": "1.0.0",
-  "description": "building-with-medusa skill from medusajs/medusa-claude-plugins",
-  "author": {
-    "name": "medusajs"
-  },
-  "repository": "https://github.com/medusajs/medusa-claude-plugins"
-}

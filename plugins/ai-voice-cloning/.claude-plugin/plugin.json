@@ -1,9 +1,0 @@
-{
-  "name": "ai-voice-cloning",
-  "version": "1.0.0",
-  "description": "ai-voice-cloning skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

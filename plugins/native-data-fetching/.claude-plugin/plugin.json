@@ -1,9 +1,0 @@
-{
-  "name": "native-data-fetching",
-  "version": "1.0.0",
-  "description": "native-data-fetching skill from expo/skills",
-  "author": {
-    "name": "expo"
-  },
-  "repository": "https://github.com/expo/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "odoo-oca-developer",
-  "version": "1.0.0",
-  "description": "odoo-oca-developer skill from miquelalzanillas/odoo-oca-convention-skill",
-  "author": {
-    "name": "miquelalzanillas"
-  },
-  "repository": "https://github.com/miquelalzanillas/odoo-oca-convention-skill"
-}

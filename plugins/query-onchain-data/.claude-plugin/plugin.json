@@ -1,9 +1,0 @@
-{
-  "name": "query-onchain-data",
-  "version": "1.0.0",
-  "description": "query-onchain-data skill from coinbase/agentic-wallet-skills",
-  "author": {
-    "name": "coinbase"
-  },
-  "repository": "https://github.com/coinbase/agentic-wallet-skills"
-}

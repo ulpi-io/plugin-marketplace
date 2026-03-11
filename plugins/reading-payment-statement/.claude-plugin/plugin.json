@@ -1,9 +1,0 @@
-{
-  "name": "reading-payment-statement",
-  "version": "1.0.0",
-  "description": "reading-payment-statement skill from kazukinagata/shinkoku",
-  "author": {
-    "name": "kazukinagata"
-  },
-  "repository": "https://github.com/kazukinagata/shinkoku"
-}

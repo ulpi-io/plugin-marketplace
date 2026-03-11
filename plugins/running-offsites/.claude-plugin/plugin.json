@@ -1,9 +1,0 @@
-{
-  "name": "running-offsites",
-  "version": "1.0.0",
-  "description": "running-offsites skill from refoundai/lenny-skills",
-  "author": {
-    "name": "refoundai"
-  },
-  "repository": "https://github.com/refoundai/lenny-skills"
-}

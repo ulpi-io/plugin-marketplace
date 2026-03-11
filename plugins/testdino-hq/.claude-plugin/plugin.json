@@ -1,0 +1,15 @@
+{
+  "name": "testdino-hq",
+  "version": "1.0.0",
+  "description": "2 skills from testdino-hq/playwright-skill: playwright-skill, playwright-skill",
+  "author": {
+    "name": "testdino-hq"
+  },
+  "repositories": [
+    "https://github.com/testdino-hq/playwright-skill"
+  ],
+  "skills": [
+    "playwright-skill",
+    "playwright-skill"
+  ]
+}

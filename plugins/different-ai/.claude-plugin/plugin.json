@@ -1,0 +1,25 @@
+{
+  "name": "different-ai",
+  "version": "1.0.0",
+  "description": "12 skills from different-ai/openwork: opencode-primitives, solidjs-patterns, tauri-solidjs, opencode-bridge, openwork-core, opencode-mirror, release, get-started, browser-setup-devtools, openwork-debug, cargo-lock-manager, openwork-docker-chrome-mcp",
+  "author": {
+    "name": "different-ai"
+  },
+  "repositories": [
+    "https://github.com/different-ai/openwork"
+  ],
+  "skills": [
+    "opencode-primitives",
+    "solidjs-patterns",
+    "tauri-solidjs",
+    "opencode-bridge",
+    "openwork-core",
+    "opencode-mirror",
+    "release",
+    "get-started",
+    "browser-setup-devtools",
+    "openwork-debug",
+    "cargo-lock-manager",
+    "openwork-docker-chrome-mcp"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "backtesting-trading-strategies",
-  "version": "1.0.0",
-  "description": "backtesting-trading-strategies skill from gracefullight/stock-checker",
-  "author": {
-    "name": "gracefullight"
-  },
-  "repository": "https://github.com/gracefullight/stock-checker"
-}

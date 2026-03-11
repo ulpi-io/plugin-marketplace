@@ -1,0 +1,19 @@
+{
+  "name": "s-hiraoku",
+  "version": "1.0.0",
+  "description": "5 skills from s-hiraoku/synapse-a2a, s-hiraoku/skills-factory: opencode-expert, synapse-a2a, jotai-expert, synapse-reinst, code-quality",
+  "author": {
+    "name": "s-hiraoku"
+  },
+  "repositories": [
+    "https://github.com/s-hiraoku/synapse-a2a",
+    "https://github.com/s-hiraoku/skills-factory"
+  ],
+  "skills": [
+    "opencode-expert",
+    "synapse-a2a",
+    "jotai-expert",
+    "synapse-reinst",
+    "code-quality"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jarodise",
+  "version": "1.0.0",
+  "description": "1 skills from jarodise/cninfo2notebookllm: cninfo-to-notebooklm",
+  "author": {
+    "name": "jarodise"
+  },
+  "repositories": [
+    "https://github.com/jarodise/cninfo2notebookllm"
+  ],
+  "skills": [
+    "cninfo-to-notebooklm"
+  ]
+}

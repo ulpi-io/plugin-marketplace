@@ -1,0 +1,14 @@
+{
+  "name": "whatevertogo",
+  "version": "1.0.0",
+  "description": "1 skills from whatevertogo/feishuskill: lark-mcp",
+  "author": {
+    "name": "whatevertogo"
+  },
+  "repositories": [
+    "https://github.com/whatevertogo/feishuskill"
+  ],
+  "skills": [
+    "lark-mcp"
+  ]
+}

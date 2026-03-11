@@ -1,0 +1,14 @@
+{
+  "name": "petbrains",
+  "version": "1.0.0",
+  "description": "1 skills from petbrains/mvp-builder: frontend-magic-ui",
+  "author": {
+    "name": "petbrains"
+  },
+  "repositories": [
+    "https://github.com/petbrains/mvp-builder"
+  ],
+  "skills": [
+    "frontend-magic-ui"
+  ]
+}

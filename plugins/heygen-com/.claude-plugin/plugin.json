@@ -1,0 +1,16 @@
+{
+  "name": "heygen-com",
+  "version": "1.0.0",
+  "description": "3 skills from heygen-com/skills: heygen, text-to-speech, video-translate",
+  "author": {
+    "name": "heygen-com"
+  },
+  "repositories": [
+    "https://github.com/heygen-com/skills"
+  ],
+  "skills": [
+    "heygen",
+    "text-to-speech",
+    "video-translate"
+  ]
+}

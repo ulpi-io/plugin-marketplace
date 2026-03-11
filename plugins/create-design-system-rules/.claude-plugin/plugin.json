@@ -1,9 +1,0 @@
-{
-  "name": "create-design-system-rules",
-  "version": "1.0.0",
-  "description": "create-design-system-rules skill from figma/mcp-server-guide",
-  "author": {
-    "name": "figma"
-  },
-  "repository": "https://github.com/figma/mcp-server-guide"
-}

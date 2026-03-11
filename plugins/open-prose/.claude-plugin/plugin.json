@@ -1,9 +1,0 @@
-{
-  "name": "open-prose",
-  "version": "1.0.0",
-  "description": "open-prose skill from openprose/prose",
-  "author": {
-    "name": "openprose"
-  },
-  "repository": "https://github.com/openprose/prose"
-}

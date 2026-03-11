@@ -1,9 +1,0 @@
-{
-  "name": "intent-sync",
-  "version": "1.0.0",
-  "description": "intent-sync skill from arcblock/idd",
-  "author": {
-    "name": "arcblock"
-  },
-  "repository": "https://github.com/arcblock/idd"
-}

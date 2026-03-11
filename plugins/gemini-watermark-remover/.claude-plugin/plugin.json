@@ -1,9 +1,0 @@
-{
-  "name": "gemini-watermark-remover",
-  "version": "1.0.0",
-  "description": "gemini-watermark-remover skill from rookie-ricardo/erduo-skills",
-  "author": {
-    "name": "rookie-ricardo"
-  },
-  "repository": "https://github.com/rookie-ricardo/erduo-skills"
-}

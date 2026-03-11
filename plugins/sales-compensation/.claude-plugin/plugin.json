@@ -1,9 +1,0 @@
-{
-  "name": "sales-compensation",
-  "version": "1.0.0",
-  "description": "sales-compensation skill from refoundai/lenny-skills",
-  "author": {
-    "name": "refoundai"
-  },
-  "repository": "https://github.com/refoundai/lenny-skills"
-}

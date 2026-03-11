@@ -1,9 +1,0 @@
-{
-  "name": "moai-lang-cpp",
-  "version": "1.0.0",
-  "description": "moai-lang-cpp skill from modu-ai/moai-adk",
-  "author": {
-    "name": "modu-ai"
-  },
-  "repository": "https://github.com/modu-ai/moai-adk"
-}

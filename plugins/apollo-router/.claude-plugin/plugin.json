@@ -1,9 +1,0 @@
-{
-  "name": "apollo-router",
-  "version": "1.0.0",
-  "description": "apollo-router skill from apollographql/skills",
-  "author": {
-    "name": "apollographql"
-  },
-  "repository": "https://github.com/apollographql/skills"
-}

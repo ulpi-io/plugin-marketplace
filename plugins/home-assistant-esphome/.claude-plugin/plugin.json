@@ -1,9 +1,0 @@
-{
-  "name": "home-assistant-esphome",
-  "version": "1.0.0",
-  "description": "home-assistant-esphome skill from bradsjm/hassio-addons",
-  "author": {
-    "name": "bradsjm"
-  },
-  "repository": "https://github.com/bradsjm/hassio-addons"
-}

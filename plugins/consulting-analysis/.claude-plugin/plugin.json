@@ -1,9 +1,0 @@
-{
-  "name": "consulting-analysis",
-  "version": "1.0.0",
-  "description": "consulting-analysis skill from bytedance/deer-flow",
-  "author": {
-    "name": "bytedance"
-  },
-  "repository": "https://github.com/bytedance/deer-flow"
-}

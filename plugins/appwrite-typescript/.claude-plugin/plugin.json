@@ -1,9 +1,0 @@
-{
-  "name": "appwrite-typescript",
-  "version": "1.0.0",
-  "description": "appwrite-typescript skill from appwrite/agent-skills",
-  "author": {
-    "name": "appwrite"
-  },
-  "repository": "https://github.com/appwrite/agent-skills"
-}

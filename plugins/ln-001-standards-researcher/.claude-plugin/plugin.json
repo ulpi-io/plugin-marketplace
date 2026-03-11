@@ -1,9 +1,0 @@
-{
-  "name": "ln-001-standards-researcher",
-  "version": "1.0.0",
-  "description": "ln-001-standards-researcher skill from levnikolaevich/claude-code-skills",
-  "author": {
-    "name": "levnikolaevich"
-  },
-  "repository": "https://github.com/levnikolaevich/claude-code-skills"
-}

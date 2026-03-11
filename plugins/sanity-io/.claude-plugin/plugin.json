@@ -1,0 +1,19 @@
+{
+  "name": "sanity-io",
+  "version": "1.0.0",
+  "description": "5 skills from sanity-io/agent-toolkit, sanity-io/agent-context: sanity-best-practices, seo-aeo-best-practices, content-modeling-best-practices, content-experimentation-best-practices, create-agent-with-sanity-context",
+  "author": {
+    "name": "sanity-io"
+  },
+  "repositories": [
+    "https://github.com/sanity-io/agent-toolkit",
+    "https://github.com/sanity-io/agent-context"
+  ],
+  "skills": [
+    "sanity-best-practices",
+    "seo-aeo-best-practices",
+    "content-modeling-best-practices",
+    "content-experimentation-best-practices",
+    "create-agent-with-sanity-context"
+  ]
+}

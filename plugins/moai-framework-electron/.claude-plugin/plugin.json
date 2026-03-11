@@ -1,9 +1,0 @@
-{
-  "name": "moai-framework-electron",
-  "version": "1.0.0",
-  "description": "moai-framework-electron skill from modu-ai/moai-adk",
-  "author": {
-    "name": "modu-ai"
-  },
-  "repository": "https://github.com/modu-ai/moai-adk"
-}

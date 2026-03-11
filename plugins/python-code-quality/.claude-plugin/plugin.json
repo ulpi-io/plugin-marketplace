@@ -1,9 +1,0 @@
-{
-  "name": "python-code-quality",
-  "version": "1.0.0",
-  "description": "python-code-quality skill from laurigates/claude-plugins",
-  "author": {
-    "name": "laurigates"
-  },
-  "repository": "https://github.com/laurigates/claude-plugins"
-}

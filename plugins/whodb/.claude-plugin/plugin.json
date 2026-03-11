@@ -1,9 +1,0 @@
-{
-  "name": "whodb",
-  "version": "1.0.0",
-  "description": "whodb skill from clidey/whodb",
-  "author": {
-    "name": "clidey"
-  },
-  "repository": "https://github.com/clidey/whodb"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "qa-test-planner",
-  "version": "1.0.0",
-  "description": "qa-test-planner skill from softaworks/agent-toolkit",
-  "author": {
-    "name": "softaworks"
-  },
-  "repository": "https://github.com/softaworks/agent-toolkit"
-}

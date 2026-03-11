@@ -1,9 +1,0 @@
-{
-  "name": "markdown-to-epub-converter",
-  "version": "1.0.0",
-  "description": "markdown-to-epub-converter skill from smerchek/claude-epub-skill",
-  "author": {
-    "name": "smerchek"
-  },
-  "repository": "https://github.com/smerchek/claude-epub-skill"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "gws-admin",
-  "version": "1.0.0",
-  "description": "gws-admin skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

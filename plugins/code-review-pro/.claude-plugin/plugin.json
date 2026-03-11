@@ -1,9 +1,0 @@
-{
-  "name": "code-review-pro",
-  "version": "1.0.0",
-  "description": "code-review-pro skill from onewave-ai/claude-skills",
-  "author": {
-    "name": "onewave-ai"
-  },
-  "repository": "https://github.com/onewave-ai/claude-skills"
-}

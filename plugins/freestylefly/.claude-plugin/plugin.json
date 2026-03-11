@@ -1,0 +1,44 @@
+{
+  "name": "freestylefly",
+  "version": "1.0.0",
+  "description": "29 skills from freestylefly/xiaohongshu-skills, freestylefly/wechat-article-extractor-skill, freestylefly/canghe-skills: xiaohongshu-cover-generator, wechat-article-extractor, wechat-article-extractor, canghe-image-gen, manga-drama, canghe-xhs-images, volcengine-video-understanding, seedance-video, canghe-cover-image, canghe-url-to-markdown, canghe-infographic, manga-style-video, canghe-danger-gemini-web, canghe-comic, canghe-article-illustrator, canghe-post-to-x, canghe-post-to-wechat, canghe-markdown-to-html, canghe-slide-deck, json-canvas, canghe-compress-image, canghe-danger-x-to-markdown, canghe-format-markdown, obsidian-markdown, remotion-best-practices, find-skills, skill-creator, release-skills, obsidian-bases",
+  "author": {
+    "name": "freestylefly"
+  },
+  "repositories": [
+    "https://github.com/freestylefly/xiaohongshu-skills",
+    "https://github.com/freestylefly/wechat-article-extractor-skill",
+    "https://github.com/freestylefly/canghe-skills"
+  ],
+  "skills": [
+    "xiaohongshu-cover-generator",
+    "wechat-article-extractor",
+    "wechat-article-extractor",
+    "canghe-image-gen",
+    "manga-drama",
+    "canghe-xhs-images",
+    "volcengine-video-understanding",
+    "seedance-video",
+    "canghe-cover-image",
+    "canghe-url-to-markdown",
+    "canghe-infographic",
+    "manga-style-video",
+    "canghe-danger-gemini-web",
+    "canghe-comic",
+    "canghe-article-illustrator",
+    "canghe-post-to-x",
+    "canghe-post-to-wechat",
+    "canghe-markdown-to-html",
+    "canghe-slide-deck",
+    "json-canvas",
+    "canghe-compress-image",
+    "canghe-danger-x-to-markdown",
+    "canghe-format-markdown",
+    "obsidian-markdown",
+    "remotion-best-practices",
+    "find-skills",
+    "skill-creator",
+    "release-skills",
+    "obsidian-bases"
+  ]
+}

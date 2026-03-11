@@ -1,9 +1,0 @@
-{
-  "name": "just-scrape",
-  "version": "1.0.0",
-  "description": "just-scrape skill from scrapegraphai/just-scrape",
-  "author": {
-    "name": "scrapegraphai"
-  },
-  "repository": "https://github.com/scrapegraphai/just-scrape"
-}

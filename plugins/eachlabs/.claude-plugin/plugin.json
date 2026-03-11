@@ -1,0 +1,14 @@
+{
+  "name": "eachlabs",
+  "version": "1.0.0",
+  "description": "1 skills from eachlabs/skills: poster-design-generation",
+  "author": {
+    "name": "eachlabs"
+  },
+  "repositories": [
+    "https://github.com/eachlabs/skills"
+  ],
+  "skills": [
+    "poster-design-generation"
+  ]
+}

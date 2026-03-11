@@ -1,0 +1,14 @@
+{
+  "name": "kcchien",
+  "version": "1.0.0",
+  "description": "1 skills from kcchien/clawpilot: clawpilot",
+  "author": {
+    "name": "kcchien"
+  },
+  "repositories": [
+    "https://github.com/kcchien/clawpilot"
+  ],
+  "skills": [
+    "clawpilot"
+  ]
+}

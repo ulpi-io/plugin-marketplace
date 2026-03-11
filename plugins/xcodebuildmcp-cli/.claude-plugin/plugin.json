@@ -1,9 +1,0 @@
-{
-  "name": "xcodebuildmcp-cli",
-  "version": "1.0.0",
-  "description": "xcodebuildmcp-cli skill from cameroncooke/xcodebuildmcp",
-  "author": {
-    "name": "cameroncooke"
-  },
-  "repository": "https://github.com/cameroncooke/xcodebuildmcp"
-}

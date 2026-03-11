@@ -1,9 +1,0 @@
-{
-  "name": "sync-horizon",
-  "version": "1.0.0",
-  "description": "sync-horizon skill from incept5/eve-skillpacks",
-  "author": {
-    "name": "incept5"
-  },
-  "repository": "https://github.com/incept5/eve-skillpacks"
-}

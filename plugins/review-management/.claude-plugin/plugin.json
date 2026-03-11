@@ -1,9 +1,0 @@
-{
-  "name": "review-management",
-  "version": "1.0.0",
-  "description": "review-management skill from eronred/aso-skills",
-  "author": {
-    "name": "eronred"
-  },
-  "repository": "https://github.com/eronred/aso-skills"
-}

@@ -1,0 +1,15 @@
+{
+  "name": "code-and-sorts",
+  "version": "1.0.0",
+  "description": "2 skills from code-and-sorts/awesome-copilot-agents: jira-cli, jira-cli",
+  "author": {
+    "name": "code-and-sorts"
+  },
+  "repositories": [
+    "https://github.com/code-and-sorts/awesome-copilot-agents"
+  ],
+  "skills": [
+    "jira-cli",
+    "jira-cli"
+  ]
+}

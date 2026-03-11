@@ -1,9 +1,0 @@
-{
-  "name": "recipe-create-expense-tracker",
-  "version": "1.0.0",
-  "description": "recipe-create-expense-tracker skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

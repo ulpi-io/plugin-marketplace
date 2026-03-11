@@ -1,9 +1,0 @@
-{
-  "name": "oauth2-authentication",
-  "version": "1.0.0",
-  "description": "oauth2-authentication skill from manutej/luxor-claude-marketplace",
-  "author": {
-    "name": "manutej"
-  },
-  "repository": "https://github.com/manutej/luxor-claude-marketplace"
-}

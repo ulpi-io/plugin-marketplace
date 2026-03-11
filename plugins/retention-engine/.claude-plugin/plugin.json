@@ -1,9 +1,0 @@
-{
-  "name": "retention-engine",
-  "version": "1.0.0",
-  "description": "retention-engine skill from shipshitdev/library",
-  "author": {
-    "name": "shipshitdev"
-  },
-  "repository": "https://github.com/shipshitdev/library"
-}

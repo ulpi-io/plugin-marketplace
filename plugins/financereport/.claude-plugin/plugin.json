@@ -1,9 +1,0 @@
-{
-  "name": "financereport",
-  "version": "1.0.0",
-  "description": "financereport skill from aojdevstudio/finance-guru",
-  "author": {
-    "name": "aojdevstudio"
-  },
-  "repository": "https://github.com/aojdevstudio/finance-guru"
-}

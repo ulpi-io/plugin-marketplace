@@ -1,9 +1,0 @@
-{
-  "name": "wix-cli-app-validation",
-  "version": "1.0.0",
-  "description": "wix-cli-app-validation skill from wix/skills",
-  "author": {
-    "name": "wix"
-  },
-  "repository": "https://github.com/wix/skills"
-}

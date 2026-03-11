@@ -1,9 +1,0 @@
-{
-  "name": "qwen-voice",
-  "version": "1.0.0",
-  "description": "qwen-voice skill from ada20204/qwen-voice",
-  "author": {
-    "name": "ada20204"
-  },
-  "repository": "https://github.com/ada20204/qwen-voice"
-}

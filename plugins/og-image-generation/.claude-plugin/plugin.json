@@ -1,9 +1,0 @@
-{
-  "name": "og-image-generation",
-  "version": "1.0.0",
-  "description": "og-image-generation skill from andrelandgraf/fullstackrecipes",
-  "author": {
-    "name": "andrelandgraf"
-  },
-  "repository": "https://github.com/andrelandgraf/fullstackrecipes"
-}

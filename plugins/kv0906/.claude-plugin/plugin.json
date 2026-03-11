@@ -1,0 +1,15 @@
+{
+  "name": "kv0906",
+  "version": "1.0.0",
+  "description": "2 skills from kv0906/cc-skills: premium-frontend-design, svg-art",
+  "author": {
+    "name": "kv0906"
+  },
+  "repositories": [
+    "https://github.com/kv0906/cc-skills"
+  ],
+  "skills": [
+    "premium-frontend-design",
+    "svg-art"
+  ]
+}

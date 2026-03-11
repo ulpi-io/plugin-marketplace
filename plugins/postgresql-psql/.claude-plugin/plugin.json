@@ -1,9 +1,0 @@
-{
-  "name": "postgresql-psql",
-  "version": "1.0.0",
-  "description": "postgresql-psql skill from timelessco/recollect",
-  "author": {
-    "name": "timelessco"
-  },
-  "repository": "https://github.com/timelessco/recollect"
-}

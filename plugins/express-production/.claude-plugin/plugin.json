@@ -1,9 +1,0 @@
-{
-  "name": "express-production",
-  "version": "1.0.0",
-  "description": "express-production skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

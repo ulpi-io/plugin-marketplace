@@ -1,9 +1,0 @@
-{
-  "name": "wix-cli-service-plugin",
-  "version": "1.0.0",
-  "description": "wix-cli-service-plugin skill from wix/skills",
-  "author": {
-    "name": "wix"
-  },
-  "repository": "https://github.com/wix/skills"
-}

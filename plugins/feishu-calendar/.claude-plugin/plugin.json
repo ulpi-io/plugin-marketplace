@@ -1,9 +1,0 @@
-{
-  "name": "feishu-calendar",
-  "version": "1.0.0",
-  "description": "feishu-calendar skill from alextangson/feishu_skills",
-  "author": {
-    "name": "alextangson"
-  },
-  "repository": "https://github.com/alextangson/feishu_skills"
-}

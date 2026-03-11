@@ -1,0 +1,14 @@
+{
+  "name": "xer97",
+  "version": "1.0.0",
+  "description": "1 skills from xer97/fund-assistant: fund-assistant",
+  "author": {
+    "name": "xer97"
+  },
+  "repositories": [
+    "https://github.com/xer97/fund-assistant"
+  ],
+  "skills": [
+    "fund-assistant"
+  ]
+}

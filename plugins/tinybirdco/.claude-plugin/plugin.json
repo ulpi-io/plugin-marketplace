@@ -1,0 +1,17 @@
+{
+  "name": "tinybirdco",
+  "version": "1.0.0",
+  "description": "4 skills from tinybirdco/tinybird-agent-skills: tinybird, tinybird, tinybird-typescript-sdk-guidelines, tinybird-cli-guidelines",
+  "author": {
+    "name": "tinybirdco"
+  },
+  "repositories": [
+    "https://github.com/tinybirdco/tinybird-agent-skills"
+  ],
+  "skills": [
+    "tinybird",
+    "tinybird",
+    "tinybird-typescript-sdk-guidelines",
+    "tinybird-cli-guidelines"
+  ]
+}

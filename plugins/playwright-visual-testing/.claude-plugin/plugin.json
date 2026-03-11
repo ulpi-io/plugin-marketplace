@@ -1,9 +1,0 @@
-{
-  "name": "playwright-visual-testing",
-  "version": "1.0.0",
-  "description": "playwright-visual-testing skill from manutej/luxor-claude-marketplace",
-  "author": {
-    "name": "manutej"
-  },
-  "repository": "https://github.com/manutej/luxor-claude-marketplace"
-}

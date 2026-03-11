@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-platform-aliyun-cli-test",
-  "version": "1.0.0",
-  "description": "alicloud-platform-aliyun-cli-test skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

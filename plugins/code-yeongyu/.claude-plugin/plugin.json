@@ -1,0 +1,20 @@
+{
+  "name": "code-yeongyu",
+  "version": "1.0.0",
+  "description": "7 skills from code-yeongyu/oh-my-opencode: github-issue-triage, github-triage, github-triage, frontend-ui-ux, frontend-ui-ux, github-pr-triage, git-master",
+  "author": {
+    "name": "code-yeongyu"
+  },
+  "repositories": [
+    "https://github.com/code-yeongyu/oh-my-opencode"
+  ],
+  "skills": [
+    "github-issue-triage",
+    "github-triage",
+    "github-triage",
+    "frontend-ui-ux",
+    "frontend-ui-ux",
+    "github-pr-triage",
+    "git-master"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "recipe-send-team-announcement",
-  "version": "1.0.0",
-  "description": "recipe-send-team-announcement skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

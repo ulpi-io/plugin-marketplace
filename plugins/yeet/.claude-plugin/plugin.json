@@ -1,9 +1,0 @@
-{
-  "name": "yeet",
-  "version": "1.0.0",
-  "description": "yeet skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

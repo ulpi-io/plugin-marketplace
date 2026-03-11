@@ -1,0 +1,14 @@
+{
+  "name": "javalenciacai",
+  "version": "1.0.0",
+  "description": "1 skills from javalenciacai/qaskills: senior-qa-engineer",
+  "author": {
+    "name": "javalenciacai"
+  },
+  "repositories": [
+    "https://github.com/javalenciacai/qaskills"
+  ],
+  "skills": [
+    "senior-qa-engineer"
+  ]
+}

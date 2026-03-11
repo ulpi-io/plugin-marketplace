@@ -1,9 +1,0 @@
-{
-  "name": "solana-kit",
-  "version": "1.0.0",
-  "description": "solana-kit skill from sendaifun/skills",
-  "author": {
-    "name": "sendaifun"
-  },
-  "repository": "https://github.com/sendaifun/skills"
-}

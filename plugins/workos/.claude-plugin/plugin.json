@@ -1,9 +1,15 @@
 {
   "name": "workos",
   "version": "1.0.0",
-  "description": "workos skill from workos/skills",
+  "description": "2 skills from workos/skills: workos, workos-authkit-nextjs",
   "author": {
     "name": "workos"
   },
-  "repository": "https://github.com/workos/skills"
+  "repositories": [
+    "https://github.com/workos/skills"
+  ],
+  "skills": [
+    "workos",
+    "workos-authkit-nextjs"
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "name": "bbeierle12",
+  "version": "1.0.0",
+  "description": "7 skills from bbeierle12/skill-mcp-claude: gsap-react, gsap-scrolltrigger, gsap-fundamentals, gsap-fundamentals, gsap-sequencing, shader-effects, shader-fundamentals",
+  "author": {
+    "name": "bbeierle12"
+  },
+  "repositories": [
+    "https://github.com/bbeierle12/skill-mcp-claude"
+  ],
+  "skills": [
+    "gsap-react",
+    "gsap-scrolltrigger",
+    "gsap-fundamentals",
+    "gsap-fundamentals",
+    "gsap-sequencing",
+    "shader-effects",
+    "shader-fundamentals"
+  ]
+}

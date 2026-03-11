@@ -1,0 +1,14 @@
+{
+  "name": "pzep1",
+  "version": "1.0.0",
+  "description": "1 skills from pzep1/xcode-build-skill: xcode-build",
+  "author": {
+    "name": "pzep1"
+  },
+  "repositories": [
+    "https://github.com/pzep1/xcode-build-skill"
+  ],
+  "skills": [
+    "xcode-build"
+  ]
+}

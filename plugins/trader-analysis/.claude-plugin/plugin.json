@@ -1,9 +1,0 @@
-{
-  "name": "trader-analysis",
-  "version": "1.0.0",
-  "description": "trader-analysis skill from agentmc15/polymarket-trader",
-  "author": {
-    "name": "agentmc15"
-  },
-  "repository": "https://github.com/agentmc15/polymarket-trader"
-}

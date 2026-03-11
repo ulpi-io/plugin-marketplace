@@ -1,0 +1,14 @@
+{
+  "name": "hustcer",
+  "version": "1.0.0",
+  "description": "1 skills from hustcer/nushell-pro: nushell-pro",
+  "author": {
+    "name": "hustcer"
+  },
+  "repositories": [
+    "https://github.com/hustcer/nushell-pro"
+  ],
+  "skills": [
+    "nushell-pro"
+  ]
+}

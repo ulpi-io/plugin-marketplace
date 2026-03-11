@@ -1,0 +1,14 @@
+{
+  "name": "brettdavies",
+  "version": "1.0.0",
+  "description": "1 skills from brettdavies/crawl4ai-skill: crawl4ai",
+  "author": {
+    "name": "brettdavies"
+  },
+  "repositories": [
+    "https://github.com/brettdavies/crawl4ai-skill"
+  ],
+  "skills": [
+    "crawl4ai"
+  ]
+}

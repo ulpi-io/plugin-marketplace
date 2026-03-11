@@ -1,9 +1,0 @@
-{
-  "name": "trpc-type-safety",
-  "version": "1.0.0",
-  "description": "trpc-type-safety skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

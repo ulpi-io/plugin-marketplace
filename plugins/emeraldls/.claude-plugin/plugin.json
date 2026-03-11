@@ -1,0 +1,14 @@
+{
+  "name": "emeraldls",
+  "version": "1.0.0",
+  "description": "1 skills from emeraldls/mmt-agent-skills: mmt-tradingview-charts",
+  "author": {
+    "name": "emeraldls"
+  },
+  "repositories": [
+    "https://github.com/emeraldls/mmt-agent-skills"
+  ],
+  "skills": [
+    "mmt-tradingview-charts"
+  ]
+}

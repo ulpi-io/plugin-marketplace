@@ -1,9 +1,0 @@
-{
-  "name": "developing-with-streamlit",
-  "version": "1.0.0",
-  "description": "developing-with-streamlit skill from streamlit/agent-skills",
-  "author": {
-    "name": "streamlit"
-  },
-  "repository": "https://github.com/streamlit/agent-skills"
-}

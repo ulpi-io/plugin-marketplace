@@ -1,0 +1,14 @@
+{
+  "name": "rolldown",
+  "version": "1.0.0",
+  "description": "1 skills from rolldown/tsdown: tsdown",
+  "author": {
+    "name": "rolldown"
+  },
+  "repositories": [
+    "https://github.com/rolldown/tsdown"
+  ],
+  "skills": [
+    "tsdown"
+  ]
+}

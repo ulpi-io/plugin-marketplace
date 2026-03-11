@@ -1,9 +1,0 @@
-{
-  "name": "aws-solution-architect",
-  "version": "1.0.0",
-  "description": "aws-solution-architect skill from alirezarezvani/claude-skills",
-  "author": {
-    "name": "alirezarezvani"
-  },
-  "repository": "https://github.com/alirezarezvani/claude-skills"
-}

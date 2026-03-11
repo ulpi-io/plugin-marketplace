@@ -1,9 +1,0 @@
-{
-  "name": "pgvector-semantic-search",
-  "version": "1.0.0",
-  "description": "pgvector-semantic-search skill from timescale/pg-aiguide",
-  "author": {
-    "name": "timescale"
-  },
-  "repository": "https://github.com/timescale/pg-aiguide"
-}

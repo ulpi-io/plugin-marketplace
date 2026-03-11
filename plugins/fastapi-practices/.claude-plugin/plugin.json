@@ -1,0 +1,14 @@
+{
+  "name": "fastapi-practices",
+  "version": "1.0.0",
+  "description": "1 skills from fastapi-practices/skills: fba",
+  "author": {
+    "name": "fastapi-practices"
+  },
+  "repositories": [
+    "https://github.com/fastapi-practices/skills"
+  ],
+  "skills": [
+    "fba"
+  ]
+}

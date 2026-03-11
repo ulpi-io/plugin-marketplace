@@ -1,0 +1,14 @@
+{
+  "name": "haydenbleasel",
+  "version": "1.0.0",
+  "description": "1 skills from haydenbleasel/ultracite: ultracite",
+  "author": {
+    "name": "haydenbleasel"
+  },
+  "repositories": [
+    "https://github.com/haydenbleasel/ultracite"
+  ],
+  "skills": [
+    "ultracite"
+  ]
+}

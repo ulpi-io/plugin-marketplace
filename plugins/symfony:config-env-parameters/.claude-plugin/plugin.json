@@ -1,9 +1,0 @@
-{
-  "name": "symfony:config-env-parameters",
-  "version": "1.0.0",
-  "description": "symfony:config-env-parameters skill from makfly/superpowers-symfony",
-  "author": {
-    "name": "makfly"
-  },
-  "repository": "https://github.com/makfly/superpowers-symfony"
-}

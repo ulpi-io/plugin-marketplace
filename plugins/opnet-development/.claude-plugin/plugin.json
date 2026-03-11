@@ -1,9 +1,0 @@
-{
-  "name": "opnet-development",
-  "version": "1.0.0",
-  "description": "opnet-development skill from btc-vision/opnet-skills",
-  "author": {
-    "name": "btc-vision"
-  },
-  "repository": "https://github.com/btc-vision/opnet-skills"
-}

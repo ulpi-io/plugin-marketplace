@@ -1,0 +1,18 @@
+{
+  "name": "leeovery",
+  "version": "1.0.0",
+  "description": "5 skills from leeovery/claude-laravel: laravel-testing, laravel-testing, laravel-quality, laravel-multi-tenancy, laravel-architecture",
+  "author": {
+    "name": "leeovery"
+  },
+  "repositories": [
+    "https://github.com/leeovery/claude-laravel"
+  ],
+  "skills": [
+    "laravel-testing",
+    "laravel-testing",
+    "laravel-quality",
+    "laravel-multi-tenancy",
+    "laravel-architecture"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "makisuo",
+  "version": "1.0.0",
+  "description": "2 skills from makisuo/skills: effect-best-practices, effect-best-practices",
+  "author": {
+    "name": "makisuo"
+  },
+  "repositories": [
+    "https://github.com/makisuo/skills"
+  ],
+  "skills": [
+    "effect-best-practices",
+    "effect-best-practices"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mitsuhiko",
+  "version": "1.0.0",
+  "description": "4 skills from mitsuhiko/agent-stuff: web-browser, ghidra, openscad, tmux",
+  "author": {
+    "name": "mitsuhiko"
+  },
+  "repositories": [
+    "https://github.com/mitsuhiko/agent-stuff"
+  ],
+  "skills": [
+    "web-browser",
+    "ghidra",
+    "openscad",
+    "tmux"
+  ]
+}

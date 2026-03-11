@@ -1,9 +1,0 @@
-{
-  "name": "create-tooluniverse-skill",
-  "version": "1.0.0",
-  "description": "create-tooluniverse-skill skill from mims-harvard/tooluniverse",
-  "author": {
-    "name": "mims-harvard"
-  },
-  "repository": "https://github.com/mims-harvard/tooluniverse"
-}

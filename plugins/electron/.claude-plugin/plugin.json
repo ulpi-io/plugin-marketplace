@@ -1,9 +1,14 @@
 {
   "name": "electron",
   "version": "1.0.0",
-  "description": "electron skill from vercel-labs/agent-browser",
+  "description": "1 skills from electron/electron: electron-chromium-upgrade",
   "author": {
-    "name": "vercel-labs"
+    "name": "electron"
   },
-  "repository": "https://github.com/vercel-labs/agent-browser"
+  "repositories": [
+    "https://github.com/electron/electron"
+  ],
+  "skills": [
+    "electron-chromium-upgrade"
+  ]
 }

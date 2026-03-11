@@ -1,0 +1,14 @@
+{
+  "name": "react-native-community",
+  "version": "1.0.0",
+  "description": "1 skills from react-native-community/skills: upgrade-react-native",
+  "author": {
+    "name": "react-native-community"
+  },
+  "repositories": [
+    "https://github.com/react-native-community/skills"
+  ],
+  "skills": [
+    "upgrade-react-native"
+  ]
+}

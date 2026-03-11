@@ -1,0 +1,17 @@
+{
+  "name": "benjaminsehl",
+  "version": "1.0.0",
+  "description": "4 skills from benjaminsehl/liquid-skills: shopify-liquid-themes, liquid-theme-standards, liquid-theme-standards, liquid-theme-a11y",
+  "author": {
+    "name": "benjaminsehl"
+  },
+  "repositories": [
+    "https://github.com/benjaminsehl/liquid-skills"
+  ],
+  "skills": [
+    "shopify-liquid-themes",
+    "liquid-theme-standards",
+    "liquid-theme-standards",
+    "liquid-theme-a11y"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "shreefentsar",
+  "version": "1.0.0",
+  "description": "1 skills from shreefentsar/remotion-video-toolkit: remotion-video-toolkit",
+  "author": {
+    "name": "shreefentsar"
+  },
+  "repositories": [
+    "https://github.com/shreefentsar/remotion-video-toolkit"
+  ],
+  "skills": [
+    "remotion-video-toolkit"
+  ]
+}

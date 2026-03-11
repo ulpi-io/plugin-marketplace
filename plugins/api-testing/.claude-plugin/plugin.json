@@ -1,9 +1,0 @@
-{
-  "name": "api-testing",
-  "version": "1.0.0",
-  "description": "api-testing skill from secondsky/claude-skills",
-  "author": {
-    "name": "secondsky"
-  },
-  "repository": "https://github.com/secondsky/claude-skills"
-}

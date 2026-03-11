@@ -1,9 +1,0 @@
-{
-  "name": "ci-cd",
-  "version": "1.0.0",
-  "description": "ci-cd skill from ahmedasmar/devops-claude-skills",
-  "author": {
-    "name": "ahmedasmar"
-  },
-  "repository": "https://github.com/ahmedasmar/devops-claude-skills"
-}

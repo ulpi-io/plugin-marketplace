@@ -1,0 +1,14 @@
+{
+  "name": "dirien",
+  "version": "1.0.0",
+  "description": "1 skills from dirien/claude-skills: pulumi-typescript",
+  "author": {
+    "name": "dirien"
+  },
+  "repositories": [
+    "https://github.com/dirien/claude-skills"
+  ],
+  "skills": [
+    "pulumi-typescript"
+  ]
+}

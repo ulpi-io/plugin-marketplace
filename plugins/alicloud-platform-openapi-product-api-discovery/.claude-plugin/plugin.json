@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-platform-openapi-product-api-discovery",
-  "version": "1.0.0",
-  "description": "alicloud-platform-openapi-product-api-discovery skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

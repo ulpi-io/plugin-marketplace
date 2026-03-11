@@ -1,0 +1,15 @@
+{
+  "name": "greedychipmunk",
+  "version": "1.0.0",
+  "description": "2 skills from greedychipmunk/agent-skills: roblox-game-development, roblox-game-development",
+  "author": {
+    "name": "greedychipmunk"
+  },
+  "repositories": [
+    "https://github.com/greedychipmunk/agent-skills"
+  ],
+  "skills": [
+    "roblox-game-development",
+    "roblox-game-development"
+  ]
+}

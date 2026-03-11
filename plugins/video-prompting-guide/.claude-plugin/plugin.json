@@ -1,9 +1,0 @@
-{
-  "name": "video-prompting-guide",
-  "version": "1.0.0",
-  "description": "video-prompting-guide skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

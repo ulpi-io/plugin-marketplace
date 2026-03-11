@@ -1,9 +1,0 @@
-{
-  "name": "m10-performance",
-  "version": "1.0.0",
-  "description": "m10-performance skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

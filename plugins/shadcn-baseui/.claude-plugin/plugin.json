@@ -1,9 +1,0 @@
-{
-  "name": "shadcn-baseui",
-  "version": "1.0.0",
-  "description": "shadcn-baseui skill from thunderboltdev/shadcn-baseui",
-  "author": {
-    "name": "thunderboltdev"
-  },
-  "repository": "https://github.com/thunderboltdev/shadcn-baseui"
-}

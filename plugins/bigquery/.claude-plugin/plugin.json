@@ -1,9 +1,0 @@
-{
-  "name": "bigquery",
-  "version": "1.0.0",
-  "description": "bigquery skill from i9wa4/dotfiles",
-  "author": {
-    "name": "i9wa4"
-  },
-  "repository": "https://github.com/i9wa4/dotfiles"
-}

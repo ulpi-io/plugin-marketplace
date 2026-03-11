@@ -1,9 +1,0 @@
-{
-  "name": "proxmox-admin",
-  "version": "1.0.0",
-  "description": "proxmox-admin skill from bastos/skills",
-  "author": {
-    "name": "bastos"
-  },
-  "repository": "https://github.com/bastos/skills"
-}

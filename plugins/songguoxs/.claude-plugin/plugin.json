@@ -1,0 +1,14 @@
+{
+  "name": "songguoxs",
+  "version": "1.0.0",
+  "description": "1 skills from songguoxs/seedance-prompt-skill: seedance",
+  "author": {
+    "name": "songguoxs"
+  },
+  "repositories": [
+    "https://github.com/songguoxs/seedance-prompt-skill"
+  ],
+  "skills": [
+    "seedance"
+  ]
+}

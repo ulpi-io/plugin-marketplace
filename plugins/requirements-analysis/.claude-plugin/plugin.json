@@ -1,9 +1,0 @@
-{
-  "name": "requirements-analysis",
-  "version": "1.0.0",
-  "description": "requirements-analysis skill from jwynia/agent-skills",
-  "author": {
-    "name": "jwynia"
-  },
-  "repository": "https://github.com/jwynia/agent-skills"
-}

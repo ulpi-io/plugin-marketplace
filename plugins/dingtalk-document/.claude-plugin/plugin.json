@@ -1,9 +1,0 @@
-{
-  "name": "dingtalk-document",
-  "version": "1.0.0",
-  "description": "dingtalk-document skill from breath57/dingtalk-skills",
-  "author": {
-    "name": "breath57"
-  },
-  "repository": "https://github.com/breath57/dingtalk-skills"
-}

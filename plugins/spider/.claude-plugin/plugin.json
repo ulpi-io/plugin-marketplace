@@ -1,9 +1,0 @@
-{
-  "name": "spider",
-  "version": "1.0.0",
-  "description": "spider skill from johnlindquist/claude",
-  "author": {
-    "name": "johnlindquist"
-  },
-  "repository": "https://github.com/johnlindquist/claude"
-}

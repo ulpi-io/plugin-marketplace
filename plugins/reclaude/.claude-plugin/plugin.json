@@ -1,9 +1,0 @@
-{
-  "name": "reclaude",
-  "version": "1.0.0",
-  "description": "reclaude skill from brianlovin/claude-config",
-  "author": {
-    "name": "brianlovin"
-  },
-  "repository": "https://github.com/brianlovin/claude-config"
-}

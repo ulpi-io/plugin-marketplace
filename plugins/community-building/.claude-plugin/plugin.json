@@ -1,9 +1,0 @@
-{
-  "name": "community-building",
-  "version": "1.0.0",
-  "description": "community-building skill from refoundai/lenny-skills",
-  "author": {
-    "name": "refoundai"
-  },
-  "repository": "https://github.com/refoundai/lenny-skills"
-}

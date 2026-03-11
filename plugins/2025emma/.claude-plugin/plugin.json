@@ -1,0 +1,26 @@
+{
+  "name": "2025emma",
+  "version": "1.0.0",
+  "description": "13 skills from 2025emma/vibe-coding-cn: polymarket, cryptofeed, ccxt, postgresql, telegram-dev, timescaledb, hummingbot, proxychains, coingecko, claude-skills, claude-code-guide, claude-cookbooks, snapdom",
+  "author": {
+    "name": "2025emma"
+  },
+  "repositories": [
+    "https://github.com/2025emma/vibe-coding-cn"
+  ],
+  "skills": [
+    "polymarket",
+    "cryptofeed",
+    "ccxt",
+    "postgresql",
+    "telegram-dev",
+    "timescaledb",
+    "hummingbot",
+    "proxychains",
+    "coingecko",
+    "claude-skills",
+    "claude-code-guide",
+    "claude-cookbooks",
+    "snapdom"
+  ]
+}

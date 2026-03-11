@@ -1,9 +1,0 @@
-{
-  "name": "vercel-sandbox",
-  "version": "1.0.0",
-  "description": "vercel-sandbox skill from vercel-labs/agent-browser",
-  "author": {
-    "name": "vercel-labs"
-  },
-  "repository": "https://github.com/vercel-labs/agent-browser"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "prompt-guard",
-  "version": "1.0.0",
-  "description": "prompt-guard skill from useai-pro/openclaw-skills-security",
-  "author": {
-    "name": "useai-pro"
-  },
-  "repository": "https://github.com/useai-pro/openclaw-skills-security"
-}

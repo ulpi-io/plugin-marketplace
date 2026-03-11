@@ -1,9 +1,0 @@
-{
-  "name": "ai-music-generation",
-  "version": "1.0.0",
-  "description": "ai-music-generation skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

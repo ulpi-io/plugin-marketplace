@@ -1,0 +1,14 @@
+{
+  "name": "smartchainark",
+  "version": "1.0.0",
+  "description": "1 skills from smartchainark/skill-security-audit: skill-security-audit",
+  "author": {
+    "name": "smartchainark"
+  },
+  "repositories": [
+    "https://github.com/smartchainark/skill-security-audit"
+  ],
+  "skills": [
+    "skill-security-audit"
+  ]
+}

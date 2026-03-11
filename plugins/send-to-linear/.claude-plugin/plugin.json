@@ -1,9 +1,0 @@
-{
-  "name": "send-to-linear",
-  "version": "1.0.0",
-  "description": "send-to-linear skill from casper-studios/casper-marketplace",
-  "author": {
-    "name": "casper-studios"
-  },
-  "repository": "https://github.com/casper-studios/casper-marketplace"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "develop-web-game",
-  "version": "1.0.0",
-  "description": "develop-web-game skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

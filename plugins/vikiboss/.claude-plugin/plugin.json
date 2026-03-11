@@ -1,0 +1,16 @@
+{
+  "name": "vikiboss",
+  "version": "1.0.0",
+  "description": "3 skills from vikiboss/60s-skills: hot-topics, weather-query, daily-news-60s",
+  "author": {
+    "name": "vikiboss"
+  },
+  "repositories": [
+    "https://github.com/vikiboss/60s-skills"
+  ],
+  "skills": [
+    "hot-topics",
+    "weather-query",
+    "daily-news-60s"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "op7418",
+  "version": "1.0.0",
+  "description": "5 skills from op7418/humanizer-zh, op7418/youtube-clipper-skill, op7418/claude-to-im-skill, op7418/document-illustrator-skill, op7418/video-wrapper-skills: humanizer-zh, youtube-clipper, claude-to-im, document-illustrator, video-wrapper",
+  "author": {
+    "name": "op7418"
+  },
+  "repositories": [
+    "https://github.com/op7418/humanizer-zh",
+    "https://github.com/op7418/youtube-clipper-skill",
+    "https://github.com/op7418/claude-to-im-skill",
+    "https://github.com/op7418/document-illustrator-skill",
+    "https://github.com/op7418/video-wrapper-skills"
+  ],
+  "skills": [
+    "humanizer-zh",
+    "youtube-clipper",
+    "claude-to-im",
+    "document-illustrator",
+    "video-wrapper"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "options-strategy-advisor",
-  "version": "1.0.0",
-  "description": "options-strategy-advisor skill from tradermonty/claude-trading-skills",
-  "author": {
-    "name": "tradermonty"
-  },
-  "repository": "https://github.com/tradermonty/claude-trading-skills"
-}

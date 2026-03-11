@@ -1,9 +1,0 @@
-{
-  "name": "ripgrep",
-  "version": "1.0.0",
-  "description": "ripgrep skill from ratacat/claude-skills",
-  "author": {
-    "name": "ratacat"
-  },
-  "repository": "https://github.com/ratacat/claude-skills"
-}

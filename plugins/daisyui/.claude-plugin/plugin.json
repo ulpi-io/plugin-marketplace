@@ -1,9 +1,0 @@
-{
-  "name": "daisyui",
-  "version": "1.0.0",
-  "description": "daisyui skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

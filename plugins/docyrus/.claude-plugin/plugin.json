@@ -1,0 +1,14 @@
+{
+  "name": "docyrus",
+  "version": "1.0.0",
+  "description": "1 skills from docyrus/agent-skills: docyrus-api-dev",
+  "author": {
+    "name": "docyrus"
+  },
+  "repositories": [
+    "https://github.com/docyrus/agent-skills"
+  ],
+  "skills": [
+    "docyrus-api-dev"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "aws-serverless-eda",
-  "version": "1.0.0",
-  "description": "aws-serverless-eda skill from zxkane/aws-skills",
-  "author": {
-    "name": "zxkane"
-  },
-  "repository": "https://github.com/zxkane/aws-skills"
-}

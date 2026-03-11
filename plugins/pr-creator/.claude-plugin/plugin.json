@@ -1,9 +1,0 @@
-{
-  "name": "pr-creator",
-  "version": "1.0.0",
-  "description": "pr-creator skill from google-gemini/gemini-cli",
-  "author": {
-    "name": "google-gemini"
-  },
-  "repository": "https://github.com/google-gemini/gemini-cli"
-}

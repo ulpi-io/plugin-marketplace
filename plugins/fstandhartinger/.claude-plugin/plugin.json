@@ -1,0 +1,14 @@
+{
+  "name": "fstandhartinger",
+  "version": "1.0.0",
+  "description": "1 skills from fstandhartinger/ralph-wiggum: ralph-wiggum",
+  "author": {
+    "name": "fstandhartinger"
+  },
+  "repositories": [
+    "https://github.com/fstandhartinger/ralph-wiggum"
+  ],
+  "skills": [
+    "ralph-wiggum"
+  ]
+}

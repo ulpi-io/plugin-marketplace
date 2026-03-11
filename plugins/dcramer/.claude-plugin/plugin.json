@@ -1,0 +1,17 @@
+{
+  "name": "dcramer",
+  "version": "1.0.0",
+  "description": "4 skills from dcramer/dex: dex, dex, dex-plan, dex-plan",
+  "author": {
+    "name": "dcramer"
+  },
+  "repositories": [
+    "https://github.com/dcramer/dex"
+  ],
+  "skills": [
+    "dex",
+    "dex",
+    "dex-plan",
+    "dex-plan"
+  ]
+}

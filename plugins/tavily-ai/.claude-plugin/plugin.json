@@ -1,0 +1,21 @@
+{
+  "name": "tavily-ai",
+  "version": "1.0.0",
+  "description": "7 skills from tavily-ai/skills, tavily-ai/tavily-plugins: search, research, extract, crawl, crawl, tavily-best-practices, research",
+  "author": {
+    "name": "tavily-ai"
+  },
+  "repositories": [
+    "https://github.com/tavily-ai/skills",
+    "https://github.com/tavily-ai/tavily-plugins"
+  ],
+  "skills": [
+    "search",
+    "research",
+    "extract",
+    "crawl",
+    "crawl",
+    "tavily-best-practices",
+    "research"
+  ]
+}

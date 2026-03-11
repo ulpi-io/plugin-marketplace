@@ -1,0 +1,14 @@
+{
+  "name": "laravel",
+  "version": "1.0.0",
+  "description": "1 skills from laravel/boost: tailwindcss-development",
+  "author": {
+    "name": "laravel"
+  },
+  "repositories": [
+    "https://github.com/laravel/boost"
+  ],
+  "skills": [
+    "tailwindcss-development"
+  ]
+}

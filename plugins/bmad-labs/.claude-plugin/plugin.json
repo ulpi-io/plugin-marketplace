@@ -1,0 +1,15 @@
+{
+  "name": "bmad-labs",
+  "version": "1.0.0",
+  "description": "2 skills from bmad-labs/skills: typescript-e2e-testing, typescript-unit-testing",
+  "author": {
+    "name": "bmad-labs"
+  },
+  "repositories": [
+    "https://github.com/bmad-labs/skills"
+  ],
+  "skills": [
+    "typescript-e2e-testing",
+    "typescript-unit-testing"
+  ]
+}

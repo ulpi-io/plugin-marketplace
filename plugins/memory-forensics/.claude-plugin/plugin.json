@@ -1,9 +1,0 @@
-{
-  "name": "memory-forensics",
-  "version": "1.0.0",
-  "description": "memory-forensics skill from wshobson/agents",
-  "author": {
-    "name": "wshobson"
-  },
-  "repository": "https://github.com/wshobson/agents"
-}

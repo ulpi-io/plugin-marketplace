@@ -1,9 +1,0 @@
-{
-  "name": "leaflet-mapping",
-  "version": "1.0.0",
-  "description": "leaflet-mapping skill from zenobi-us/dotfiles",
-  "author": {
-    "name": "zenobi-us"
-  },
-  "repository": "https://github.com/zenobi-us/dotfiles"
-}

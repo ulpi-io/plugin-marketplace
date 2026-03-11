@@ -1,9 +1,0 @@
-{
-  "name": "rank-local",
-  "version": "1.0.0",
-  "description": "rank-local skill from calm-north/seojuice-skills",
-  "author": {
-    "name": "calm-north"
-  },
-  "repository": "https://github.com/calm-north/seojuice-skills"
-}

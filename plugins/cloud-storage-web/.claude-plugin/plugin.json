@@ -1,9 +1,0 @@
-{
-  "name": "cloud-storage-web",
-  "version": "1.0.0",
-  "description": "cloud-storage-web skill from tencentcloudbase/skills",
-  "author": {
-    "name": "tencentcloudbase"
-  },
-  "repository": "https://github.com/tencentcloudbase/skills"
-}

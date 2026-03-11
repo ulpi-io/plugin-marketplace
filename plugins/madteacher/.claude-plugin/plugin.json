@@ -1,0 +1,26 @@
+{
+  "name": "madteacher",
+  "version": "1.0.0",
+  "description": "13 skills from madteacher/mad-agents-skills: flutter-animations, flutter-adaptive-ui, flutter-architecture, flutter-testing, flutter-testing, flutter-networking, flutter-navigation, flutter-navigation, flutter-internationalization, flutter-drift, dart-drift, agents-md-generator, flutter-duit-bdui",
+  "author": {
+    "name": "madteacher"
+  },
+  "repositories": [
+    "https://github.com/madteacher/mad-agents-skills"
+  ],
+  "skills": [
+    "flutter-animations",
+    "flutter-adaptive-ui",
+    "flutter-architecture",
+    "flutter-testing",
+    "flutter-testing",
+    "flutter-networking",
+    "flutter-navigation",
+    "flutter-navigation",
+    "flutter-internationalization",
+    "flutter-drift",
+    "dart-drift",
+    "agents-md-generator",
+    "flutter-duit-bdui"
+  ]
+}

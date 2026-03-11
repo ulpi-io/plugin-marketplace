@@ -1,0 +1,14 @@
+{
+  "name": "panniantong",
+  "version": "1.0.0",
+  "description": "1 skills from panniantong/agent-reach: agent-reach",
+  "author": {
+    "name": "panniantong"
+  },
+  "repositories": [
+    "https://github.com/panniantong/agent-reach"
+  ],
+  "skills": [
+    "agent-reach"
+  ]
+}

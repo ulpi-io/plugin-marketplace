@@ -1,0 +1,14 @@
+{
+  "name": "hugomrtz",
+  "version": "1.0.0",
+  "description": "1 skills from hugomrtz/skill-vetting-clawhub: clawhub-skill-vetting",
+  "author": {
+    "name": "hugomrtz"
+  },
+  "repositories": [
+    "https://github.com/hugomrtz/skill-vetting-clawhub"
+  ],
+  "skills": [
+    "clawhub-skill-vetting"
+  ]
+}

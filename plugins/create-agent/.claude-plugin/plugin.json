@@ -1,9 +1,0 @@
-{
-  "name": "create-agent",
-  "version": "1.0.0",
-  "description": "create-agent skill from openrouterteam/agent-skills",
-  "author": {
-    "name": "openrouterteam"
-  },
-  "repository": "https://github.com/openrouterteam/agent-skills"
-}

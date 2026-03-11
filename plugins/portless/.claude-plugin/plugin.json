@@ -1,9 +1,0 @@
-{
-  "name": "portless",
-  "version": "1.0.0",
-  "description": "portless skill from vercel-labs/portless",
-  "author": {
-    "name": "vercel-labs"
-  },
-  "repository": "https://github.com/vercel-labs/portless"
-}

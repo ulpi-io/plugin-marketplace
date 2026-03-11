@@ -1,9 +1,15 @@
 {
   "name": "antdv-next",
   "version": "1.0.0",
-  "description": "antdv-next skill from antdv-next/skills",
+  "description": "2 skills from antdv-next/skills: antdv-next, antdv-next",
   "author": {
     "name": "antdv-next"
   },
-  "repository": "https://github.com/antdv-next/skills"
+  "repositories": [
+    "https://github.com/antdv-next/skills"
+  ],
+  "skills": [
+    "antdv-next",
+    "antdv-next"
+  ]
 }

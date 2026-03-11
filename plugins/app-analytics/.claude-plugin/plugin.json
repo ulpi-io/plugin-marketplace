@@ -1,9 +1,0 @@
-{
-  "name": "app-analytics",
-  "version": "1.0.0",
-  "description": "app-analytics skill from eronred/aso-skills",
-  "author": {
-    "name": "eronred"
-  },
-  "repository": "https://github.com/eronred/aso-skills"
-}

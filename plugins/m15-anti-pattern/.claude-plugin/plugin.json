@@ -1,9 +1,0 @@
-{
-  "name": "m15-anti-pattern",
-  "version": "1.0.0",
-  "description": "m15-anti-pattern skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

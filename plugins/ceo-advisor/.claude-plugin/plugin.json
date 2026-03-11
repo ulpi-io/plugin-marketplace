@@ -1,9 +1,0 @@
-{
-  "name": "ceo-advisor",
-  "version": "1.0.0",
-  "description": "ceo-advisor skill from alirezarezvani/claude-skills",
-  "author": {
-    "name": "alirezarezvani"
-  },
-  "repository": "https://github.com/alirezarezvani/claude-skills"
-}

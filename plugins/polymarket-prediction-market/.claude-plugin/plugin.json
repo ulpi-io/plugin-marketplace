@@ -1,9 +1,0 @@
-{
-  "name": "polymarket-prediction-market",
-  "version": "1.0.0",
-  "description": "polymarket-prediction-market skill from axwelbrand-byte/arbibot",
-  "author": {
-    "name": "axwelbrand-byte"
-  },
-  "repository": "https://github.com/axwelbrand-byte/arbibot"
-}

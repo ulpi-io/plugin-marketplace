@@ -1,9 +1,0 @@
-{
-  "name": "shiki-code-blocks",
-  "version": "1.0.0",
-  "description": "shiki-code-blocks skill from andrelandgraf/fullstackrecipes",
-  "author": {
-    "name": "andrelandgraf"
-  },
-  "repository": "https://github.com/andrelandgraf/fullstackrecipes"
-}

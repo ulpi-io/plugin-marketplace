@@ -1,9 +1,0 @@
-{
-  "name": "firecrawl-scraper",
-  "version": "1.0.0",
-  "description": "firecrawl-scraper skill from benedictking/firecrawl-scraper",
-  "author": {
-    "name": "benedictking"
-  },
-  "repository": "https://github.com/benedictking/firecrawl-scraper"
-}

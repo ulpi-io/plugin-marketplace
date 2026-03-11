@@ -1,0 +1,14 @@
+{
+  "name": "wimolivier",
+  "version": "1.0.0",
+  "description": "1 skills from wimolivier/postgresql-best-practices: postgresql-best-practices",
+  "author": {
+    "name": "wimolivier"
+  },
+  "repositories": [
+    "https://github.com/wimolivier/postgresql-best-practices"
+  ],
+  "skills": [
+    "postgresql-best-practices"
+  ]
+}

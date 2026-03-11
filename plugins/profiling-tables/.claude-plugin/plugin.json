@@ -1,9 +1,0 @@
-{
-  "name": "profiling-tables",
-  "version": "1.0.0",
-  "description": "profiling-tables skill from astronomer/agents",
-  "author": {
-    "name": "astronomer"
-  },
-  "repository": "https://github.com/astronomer/agents"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "multi-search",
-  "version": "1.0.0",
-  "description": "multi-search skill from nex-zmh/agent-websearch-skill",
-  "author": {
-    "name": "nex-zmh"
-  },
-  "repository": "https://github.com/nex-zmh/agent-websearch-skill"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "typescript-strict-mode",
-  "version": "1.0.0",
-  "description": "typescript-strict-mode skill from fluid-tools/claude-skills",
-  "author": {
-    "name": "fluid-tools"
-  },
-  "repository": "https://github.com/fluid-tools/claude-skills"
-}

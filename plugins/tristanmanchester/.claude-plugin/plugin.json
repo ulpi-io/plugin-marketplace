@@ -1,0 +1,17 @@
+{
+  "name": "tristanmanchester",
+  "version": "1.0.0",
+  "description": "4 skills from tristanmanchester/agent-skills: designing-beautiful-websites, designing-beautiful-websites, reddit-readonly, styling-nativewind-v4-expo",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "repositories": [
+    "https://github.com/tristanmanchester/agent-skills"
+  ],
+  "skills": [
+    "designing-beautiful-websites",
+    "designing-beautiful-websites",
+    "reddit-readonly",
+    "styling-nativewind-v4-expo"
+  ]
+}

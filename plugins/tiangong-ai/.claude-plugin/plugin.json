@@ -1,0 +1,15 @@
+{
+  "name": "tiangong-ai",
+  "version": "1.0.0",
+  "description": "2 skills from tiangong-ai/skills: ai-tech-rss-fetch, email-imap-fetch",
+  "author": {
+    "name": "tiangong-ai"
+  },
+  "repositories": [
+    "https://github.com/tiangong-ai/skills"
+  ],
+  "skills": [
+    "ai-tech-rss-fetch",
+    "email-imap-fetch"
+  ]
+}

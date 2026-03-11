@@ -1,9 +1,0 @@
-{
-  "name": "reverse-engineer",
-  "version": "1.0.0",
-  "description": "reverse-engineer skill from jschulte/claude-plugins",
-  "author": {
-    "name": "jschulte"
-  },
-  "repository": "https://github.com/jschulte/claude-plugins"
-}

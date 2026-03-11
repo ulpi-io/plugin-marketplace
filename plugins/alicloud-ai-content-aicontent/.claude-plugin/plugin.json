@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-ai-content-aicontent",
-  "version": "1.0.0",
-  "description": "alicloud-ai-content-aicontent skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

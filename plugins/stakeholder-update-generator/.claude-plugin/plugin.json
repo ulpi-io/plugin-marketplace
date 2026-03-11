@@ -1,9 +1,0 @@
-{
-  "name": "stakeholder-update-generator",
-  "version": "1.0.0",
-  "description": "stakeholder-update-generator skill from pmprompt/claude-plugin-product-management",
-  "author": {
-    "name": "pmprompt"
-  },
-  "repository": "https://github.com/pmprompt/claude-plugin-product-management"
-}

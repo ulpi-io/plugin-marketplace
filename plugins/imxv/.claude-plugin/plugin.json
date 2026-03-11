@@ -1,0 +1,14 @@
+{
+  "name": "imxv",
+  "version": "1.0.0",
+  "description": "1 skills from imxv/pretty-mermaid-skills: pretty-mermaid",
+  "author": {
+    "name": "imxv"
+  },
+  "repositories": [
+    "https://github.com/imxv/pretty-mermaid-skills"
+  ],
+  "skills": [
+    "pretty-mermaid"
+  ]
+}

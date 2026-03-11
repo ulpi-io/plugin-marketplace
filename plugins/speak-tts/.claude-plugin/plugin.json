@@ -1,9 +1,0 @@
-{
-  "name": "speak-tts",
-  "version": "1.0.0",
-  "description": "speak-tts skill from emzod/speak",
-  "author": {
-    "name": "emzod"
-  },
-  "repository": "https://github.com/emzod/speak"
-}

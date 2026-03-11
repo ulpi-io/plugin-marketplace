@@ -1,0 +1,14 @@
+{
+  "name": "luoluoluo22",
+  "version": "1.0.0",
+  "description": "1 skills from luoluoluo22/jianying-editor-skill: jianying-editor",
+  "author": {
+    "name": "luoluoluo22"
+  },
+  "repositories": [
+    "https://github.com/luoluoluo22/jianying-editor-skill"
+  ],
+  "skills": [
+    "jianying-editor"
+  ]
+}

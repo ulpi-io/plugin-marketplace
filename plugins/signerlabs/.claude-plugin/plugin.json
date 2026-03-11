@@ -1,0 +1,17 @@
+{
+  "name": "signerlabs",
+  "version": "1.0.0",
+  "description": "4 skills from signerlabs/shipswift-skills: add-component, add-component, build-feature, explore-recipes",
+  "author": {
+    "name": "signerlabs"
+  },
+  "repositories": [
+    "https://github.com/signerlabs/shipswift-skills"
+  ],
+  "skills": [
+    "add-component",
+    "add-component",
+    "build-feature",
+    "explore-recipes"
+  ]
+}

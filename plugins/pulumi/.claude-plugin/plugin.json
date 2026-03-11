@@ -1,9 +1,23 @@
 {
   "name": "pulumi",
   "version": "1.0.0",
-  "description": "pulumi skill from pproenca/dot-skills",
+  "description": "10 skills from pulumi/agent-skills: pulumi-arm-to-pulumi, pulumi-best-practices, pulumi-esc, pulumi-component, pulumi-automation-api, pulumi-automation-api, pulumi-terraform-to-pulumi, pulumi-cdk-to-pulumi, pulumi-cdk-to-pulumi, cloudformation-to-pulumi",
   "author": {
-    "name": "pproenca"
+    "name": "pulumi"
   },
-  "repository": "https://github.com/pproenca/dot-skills"
+  "repositories": [
+    "https://github.com/pulumi/agent-skills"
+  ],
+  "skills": [
+    "pulumi-arm-to-pulumi",
+    "pulumi-best-practices",
+    "pulumi-esc",
+    "pulumi-component",
+    "pulumi-automation-api",
+    "pulumi-automation-api",
+    "pulumi-terraform-to-pulumi",
+    "pulumi-cdk-to-pulumi",
+    "pulumi-cdk-to-pulumi",
+    "cloudformation-to-pulumi"
+  ]
 }

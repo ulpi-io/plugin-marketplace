@@ -1,9 +1,0 @@
-{
-  "name": "swift-testing-expert",
-  "version": "1.0.0",
-  "description": "swift-testing-expert skill from avdlee/swift-testing-agent-skill",
-  "author": {
-    "name": "avdlee"
-  },
-  "repository": "https://github.com/avdlee/swift-testing-agent-skill"
-}

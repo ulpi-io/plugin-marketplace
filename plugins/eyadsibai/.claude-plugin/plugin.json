@@ -1,0 +1,17 @@
+{
+  "name": "eyadsibai",
+  "version": "1.0.0",
+  "description": "4 skills from eyadsibai/ltk: document-processing, document-processing, stripe-payments, file-organization",
+  "author": {
+    "name": "eyadsibai"
+  },
+  "repositories": [
+    "https://github.com/eyadsibai/ltk"
+  ],
+  "skills": [
+    "document-processing",
+    "document-processing",
+    "stripe-payments",
+    "file-organization"
+  ]
+}

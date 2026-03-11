@@ -1,9 +1,0 @@
-{
-  "name": "dotnet-devcert-trust",
-  "version": "1.0.0",
-  "description": "dotnet-devcert-trust skill from aaronontheweb/dotnet-skills",
-  "author": {
-    "name": "aaronontheweb"
-  },
-  "repository": "https://github.com/aaronontheweb/dotnet-skills"
-}

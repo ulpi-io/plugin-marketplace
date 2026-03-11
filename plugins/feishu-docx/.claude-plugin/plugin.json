@@ -1,9 +1,0 @@
-{
-  "name": "feishu-docx",
-  "version": "1.0.0",
-  "description": "feishu-docx skill from leemysw/feishu-docx",
-  "author": {
-    "name": "leemysw"
-  },
-  "repository": "https://github.com/leemysw/feishu-docx"
-}

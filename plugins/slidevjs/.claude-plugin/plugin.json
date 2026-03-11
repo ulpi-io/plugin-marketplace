@@ -1,0 +1,14 @@
+{
+  "name": "slidevjs",
+  "version": "1.0.0",
+  "description": "1 skills from slidevjs/slidev: slidev",
+  "author": {
+    "name": "slidevjs"
+  },
+  "repositories": [
+    "https://github.com/slidevjs/slidev"
+  ],
+  "skills": [
+    "slidev"
+  ]
+}

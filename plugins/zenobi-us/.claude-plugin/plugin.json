@@ -1,0 +1,14 @@
+{
+  "name": "zenobi-us",
+  "version": "1.0.0",
+  "description": "1 skills from zenobi-us/dotfiles: leaflet-mapping",
+  "author": {
+    "name": "zenobi-us"
+  },
+  "repositories": [
+    "https://github.com/zenobi-us/dotfiles"
+  ],
+  "skills": [
+    "leaflet-mapping"
+  ]
+}

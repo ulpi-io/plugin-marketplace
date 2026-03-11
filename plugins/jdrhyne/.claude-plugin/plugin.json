@@ -1,0 +1,16 @@
+{
+  "name": "jdrhyne",
+  "version": "1.0.0",
+  "description": "3 skills from jdrhyne/agent-skills: google-ads, gsc, ga4",
+  "author": {
+    "name": "jdrhyne"
+  },
+  "repositories": [
+    "https://github.com/jdrhyne/agent-skills"
+  ],
+  "skills": [
+    "google-ads",
+    "gsc",
+    "ga4"
+  ]
+}

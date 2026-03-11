@@ -1,0 +1,15 @@
+{
+  "name": "roundtable02",
+  "version": "1.0.0",
+  "description": "2 skills from roundtable02/tutor-skills: tutor, tutor-setup",
+  "author": {
+    "name": "roundtable02"
+  },
+  "repositories": [
+    "https://github.com/roundtable02/tutor-skills"
+  ],
+  "skills": [
+    "tutor",
+    "tutor-setup"
+  ]
+}

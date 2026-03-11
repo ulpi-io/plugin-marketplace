@@ -1,0 +1,14 @@
+{
+  "name": "bastos",
+  "version": "1.0.0",
+  "description": "1 skills from bastos/skills: proxmox-admin",
+  "author": {
+    "name": "bastos"
+  },
+  "repositories": [
+    "https://github.com/bastos/skills"
+  ],
+  "skills": [
+    "proxmox-admin"
+  ]
+}

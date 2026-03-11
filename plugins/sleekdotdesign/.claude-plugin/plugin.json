@@ -1,0 +1,14 @@
+{
+  "name": "sleekdotdesign",
+  "version": "1.0.0",
+  "description": "1 skills from sleekdotdesign/agent-skills: sleek-design-mobile-apps",
+  "author": {
+    "name": "sleekdotdesign"
+  },
+  "repositories": [
+    "https://github.com/sleekdotdesign/agent-skills"
+  ],
+  "skills": [
+    "sleek-design-mobile-apps"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "google-flights",
-  "version": "1.0.0",
-  "description": "google-flights skill from skillhq/flight-search",
-  "author": {
-    "name": "skillhq"
-  },
-  "repository": "https://github.com/skillhq/flight-search"
-}

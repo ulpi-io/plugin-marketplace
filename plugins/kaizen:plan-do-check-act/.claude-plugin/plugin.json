@@ -1,9 +1,0 @@
-{
-  "name": "kaizen:plan-do-check-act",
-  "version": "1.0.0",
-  "description": "kaizen:plan-do-check-act skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

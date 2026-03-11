@@ -1,9 +1,0 @@
-{
-  "name": "deploying-airflow",
-  "version": "1.0.0",
-  "description": "deploying-airflow skill from astronomer/agents",
-  "author": {
-    "name": "astronomer"
-  },
-  "repository": "https://github.com/astronomer/agents"
-}

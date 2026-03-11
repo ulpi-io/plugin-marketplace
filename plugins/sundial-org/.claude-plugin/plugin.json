@@ -1,0 +1,38 @@
+{
+  "name": "sundial-org",
+  "version": "1.0.0",
+  "description": "25 skills from sundial-org/awesome-openclaw-skills: exa-web-search-free, ontology, ontology, stock-market-pro, stock-market-pro, remind-me, finance-news, finance-news, email-management-expert, email-management-expert, jina-reader, jina-reader, ffmpeg-video-editor, ffmpeg-video-editor, proactive-agent, self-improvement, stock-info-explorer, clawdbot-backup, memory-setup, news-summary, clawddocs, topic-monitor, stock-analysis, twitter-search, skill-vetter",
+  "author": {
+    "name": "sundial-org"
+  },
+  "repositories": [
+    "https://github.com/sundial-org/awesome-openclaw-skills"
+  ],
+  "skills": [
+    "exa-web-search-free",
+    "ontology",
+    "ontology",
+    "stock-market-pro",
+    "stock-market-pro",
+    "remind-me",
+    "finance-news",
+    "finance-news",
+    "email-management-expert",
+    "email-management-expert",
+    "jina-reader",
+    "jina-reader",
+    "ffmpeg-video-editor",
+    "ffmpeg-video-editor",
+    "proactive-agent",
+    "self-improvement",
+    "stock-info-explorer",
+    "clawdbot-backup",
+    "memory-setup",
+    "news-summary",
+    "clawddocs",
+    "topic-monitor",
+    "stock-analysis",
+    "twitter-search",
+    "skill-vetter"
+  ]
+}

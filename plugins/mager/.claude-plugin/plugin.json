@@ -1,0 +1,14 @@
+{
+  "name": "mager",
+  "version": "1.0.0",
+  "description": "1 skills from mager/frontend-design: frontend-design",
+  "author": {
+    "name": "mager"
+  },
+  "repositories": [
+    "https://github.com/mager/frontend-design"
+  ],
+  "skills": [
+    "frontend-design"
+  ]
+}

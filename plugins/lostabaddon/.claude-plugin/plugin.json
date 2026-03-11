@@ -1,0 +1,14 @@
+{
+  "name": "lostabaddon",
+  "version": "1.0.0",
+  "description": "1 skills from lostabaddon/headlessknight: reminder",
+  "author": {
+    "name": "lostabaddon"
+  },
+  "repositories": [
+    "https://github.com/lostabaddon/headlessknight"
+  ],
+  "skills": [
+    "reminder"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "humanize",
-  "version": "1.0.0",
-  "description": "humanize skill from humanizerai/agent-skills",
-  "author": {
-    "name": "humanizerai"
-  },
-  "repository": "https://github.com/humanizerai/agent-skills"
-}

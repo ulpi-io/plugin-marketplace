@@ -1,9 +1,0 @@
-{
-  "name": "add-app-to-server",
-  "version": "1.0.0",
-  "description": "add-app-to-server skill from modelcontextprotocol/ext-apps",
-  "author": {
-    "name": "modelcontextprotocol"
-  },
-  "repository": "https://github.com/modelcontextprotocol/ext-apps"
-}

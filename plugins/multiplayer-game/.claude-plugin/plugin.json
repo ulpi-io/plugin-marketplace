@@ -1,9 +1,0 @@
-{
-  "name": "multiplayer-game",
-  "version": "1.0.0",
-  "description": "multiplayer-game skill from rivet-dev/skills",
-  "author": {
-    "name": "rivet-dev"
-  },
-  "repository": "https://github.com/rivet-dev/skills"
-}

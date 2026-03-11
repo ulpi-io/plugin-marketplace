@@ -1,9 +1,0 @@
-{
-  "name": "poster-design-generation",
-  "version": "1.0.0",
-  "description": "poster-design-generation skill from eachlabs/skills",
-  "author": {
-    "name": "eachlabs"
-  },
-  "repository": "https://github.com/eachlabs/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "obsidian-vault-management",
-  "version": "1.0.0",
-  "description": "obsidian-vault-management skill from julianobarbosa/claude-code-skills",
-  "author": {
-    "name": "julianobarbosa"
-  },
-  "repository": "https://github.com/julianobarbosa/claude-code-skills"
-}

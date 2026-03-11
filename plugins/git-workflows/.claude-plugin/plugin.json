@@ -1,9 +1,0 @@
-{
-  "name": "git-workflows",
-  "version": "1.0.0",
-  "description": "git-workflows skill from autumnsgrove/groveengine",
-  "author": {
-    "name": "autumnsgrove"
-  },
-  "repository": "https://github.com/autumnsgrove/groveengine"
-}

@@ -1,9 +1,24 @@
 {
   "name": "resend",
   "version": "1.0.0",
-  "description": "resend skill from resend/resend-skills",
+  "description": "8 skills from resend/email-best-practices, resend/resend-skills, resend/react-email, resend/design-skills: email-best-practices, email-best-practices, resend, react-email, send-email, send-email, resend-design-skills, resend-design-skills",
   "author": {
     "name": "resend"
   },
-  "repository": "https://github.com/resend/resend-skills"
+  "repositories": [
+    "https://github.com/resend/email-best-practices",
+    "https://github.com/resend/resend-skills",
+    "https://github.com/resend/react-email",
+    "https://github.com/resend/design-skills"
+  ],
+  "skills": [
+    "email-best-practices",
+    "email-best-practices",
+    "resend",
+    "react-email",
+    "send-email",
+    "send-email",
+    "resend-design-skills",
+    "resend-design-skills"
+  ]
 }

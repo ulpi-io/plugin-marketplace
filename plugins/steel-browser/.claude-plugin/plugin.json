@@ -1,9 +1,0 @@
-{
-  "name": "steel-browser",
-  "version": "1.0.0",
-  "description": "steel-browser skill from steel-dev/cli",
-  "author": {
-    "name": "steel-dev"
-  },
-  "repository": "https://github.com/steel-dev/cli"
-}

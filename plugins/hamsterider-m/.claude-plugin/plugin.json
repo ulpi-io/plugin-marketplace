@@ -1,0 +1,14 @@
+{
+  "name": "hamsterider-m",
+  "version": "1.0.0",
+  "description": "1 skills from hamsterider-m/bilibili-subtitle: bilibili-subtitle",
+  "author": {
+    "name": "hamsterider-m"
+  },
+  "repositories": [
+    "https://github.com/hamsterider-m/bilibili-subtitle"
+  ],
+  "skills": [
+    "bilibili-subtitle"
+  ]
+}

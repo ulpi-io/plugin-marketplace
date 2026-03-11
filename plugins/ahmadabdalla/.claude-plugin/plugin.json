@@ -1,0 +1,14 @@
+{
+  "name": "ahmadabdalla",
+  "version": "1.0.0",
+  "description": "1 skills from ahmadabdalla/azure-cost-calculator-skill: azure-cost-calculator",
+  "author": {
+    "name": "ahmadabdalla"
+  },
+  "repositories": [
+    "https://github.com/ahmadabdalla/azure-cost-calculator-skill"
+  ],
+  "skills": [
+    "azure-cost-calculator"
+  ]
+}

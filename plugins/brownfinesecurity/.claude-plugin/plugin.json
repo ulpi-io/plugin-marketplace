@@ -1,0 +1,15 @@
+{
+  "name": "brownfinesecurity",
+  "version": "1.0.0",
+  "description": "2 skills from brownfinesecurity/iothackbot: apktool, jadx",
+  "author": {
+    "name": "brownfinesecurity"
+  },
+  "repositories": [
+    "https://github.com/brownfinesecurity/iothackbot"
+  ],
+  "skills": [
+    "apktool",
+    "jadx"
+  ]
+}

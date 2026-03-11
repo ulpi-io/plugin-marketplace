@@ -1,0 +1,14 @@
+{
+  "name": "likaia",
+  "version": "1.0.0",
+  "description": "1 skills from likaia/nginxpulse: ui-ux-pro-max",
+  "author": {
+    "name": "likaia"
+  },
+  "repositories": [
+    "https://github.com/likaia/nginxpulse"
+  ],
+  "skills": [
+    "ui-ux-pro-max"
+  ]
+}

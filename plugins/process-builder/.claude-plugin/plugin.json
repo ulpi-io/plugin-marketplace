@@ -1,9 +1,0 @@
-{
-  "name": "process-builder",
-  "version": "1.0.0",
-  "description": "process-builder skill from a5c-ai/babysitter",
-  "author": {
-    "name": "a5c-ai"
-  },
-  "repository": "https://github.com/a5c-ai/babysitter"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "crypto-report",
-  "version": "1.0.0",
-  "description": "crypto-report skill from aahl/skills",
-  "author": {
-    "name": "aahl"
-  },
-  "repository": "https://github.com/aahl/skills"
-}

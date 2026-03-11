@@ -1,9 +1,0 @@
-{
-  "name": "whatsapp-messaging",
-  "version": "1.0.0",
-  "description": "whatsapp-messaging skill from gokapso/agent-skills",
-  "author": {
-    "name": "gokapso"
-  },
-  "repository": "https://github.com/gokapso/agent-skills"
-}

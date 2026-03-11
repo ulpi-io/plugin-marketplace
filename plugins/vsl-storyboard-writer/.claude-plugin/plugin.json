@@ -1,9 +1,0 @@
-{
-  "name": "vsl-storyboard-writer",
-  "version": "1.0.0",
-  "description": "vsl-storyboard-writer skill from ncklrs/startup-os-skills",
-  "author": {
-    "name": "ncklrs"
-  },
-  "repository": "https://github.com/ncklrs/startup-os-skills"
-}

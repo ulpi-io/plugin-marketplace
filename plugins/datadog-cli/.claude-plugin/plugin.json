@@ -1,9 +1,0 @@
-{
-  "name": "datadog-cli",
-  "version": "1.0.0",
-  "description": "datadog-cli skill from softaworks/agent-toolkit",
-  "author": {
-    "name": "softaworks"
-  },
-  "repository": "https://github.com/softaworks/agent-toolkit"
-}

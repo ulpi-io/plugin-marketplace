@@ -1,9 +1,0 @@
-{
-  "name": "spreadsheet",
-  "version": "1.0.0",
-  "description": "spreadsheet skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

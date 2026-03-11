@@ -1,0 +1,17 @@
+{
+  "name": "neondatabase",
+  "version": "1.0.0",
+  "description": "3 skills from neondatabase/agent-skills, neondatabase/ai-rules: neon-postgres, neon-drizzle, claimable-postgres",
+  "author": {
+    "name": "neondatabase"
+  },
+  "repositories": [
+    "https://github.com/neondatabase/agent-skills",
+    "https://github.com/neondatabase/ai-rules"
+  ],
+  "skills": [
+    "neon-postgres",
+    "neon-drizzle",
+    "claimable-postgres"
+  ]
+}

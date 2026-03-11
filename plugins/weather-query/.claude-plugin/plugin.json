@@ -1,9 +1,0 @@
-{
-  "name": "weather-query",
-  "version": "1.0.0",
-  "description": "weather-query skill from vikiboss/60s-skills",
-  "author": {
-    "name": "vikiboss"
-  },
-  "repository": "https://github.com/vikiboss/60s-skills"
-}

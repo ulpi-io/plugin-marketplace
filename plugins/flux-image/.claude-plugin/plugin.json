@@ -1,9 +1,0 @@
-{
-  "name": "flux-image",
-  "version": "1.0.0",
-  "description": "flux-image skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

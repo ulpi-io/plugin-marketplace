@@ -1,9 +1,0 @@
-{
-  "name": "pyrefly-type-coverage",
-  "version": "1.0.0",
-  "description": "pyrefly-type-coverage skill from pytorch/pytorch",
-  "author": {
-    "name": "pytorch"
-  },
-  "repository": "https://github.com/pytorch/pytorch"
-}

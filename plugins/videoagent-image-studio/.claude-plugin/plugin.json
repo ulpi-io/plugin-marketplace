@@ -1,9 +1,0 @@
-{
-  "name": "videoagent-image-studio",
-  "version": "1.0.0",
-  "description": "videoagent-image-studio skill from pexoai/pexo-skills",
-  "author": {
-    "name": "pexoai"
-  },
-  "repository": "https://github.com/pexoai/pexo-skills"
-}

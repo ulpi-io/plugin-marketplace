@@ -1,9 +1,0 @@
-{
-  "name": "microcopy",
-  "version": "1.0.0",
-  "description": "microcopy skill from lobehub/lobe-chat",
-  "author": {
-    "name": "lobehub"
-  },
-  "repository": "https://github.com/lobehub/lobe-chat"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "kernel-agent-browser",
-  "version": "1.0.0",
-  "description": "kernel-agent-browser skill from kernel/skills",
-  "author": {
-    "name": "kernel"
-  },
-  "repository": "https://github.com/kernel/skills"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "mae616",
+  "version": "1.0.0",
+  "description": "1 skills from mae616/design-skills: usability-psychologist",
+  "author": {
+    "name": "mae616"
+  },
+  "repositories": [
+    "https://github.com/mae616/design-skills"
+  ],
+  "skills": [
+    "usability-psychologist"
+  ]
+}

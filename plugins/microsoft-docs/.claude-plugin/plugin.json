@@ -1,9 +1,0 @@
-{
-  "name": "microsoft-docs",
-  "version": "1.0.0",
-  "description": "microsoft-docs skill from github/awesome-copilot",
-  "author": {
-    "name": "github"
-  },
-  "repository": "https://github.com/github/awesome-copilot"
-}

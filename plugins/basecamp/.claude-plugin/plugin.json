@@ -1,9 +1,16 @@
 {
   "name": "basecamp",
   "version": "1.0.0",
-  "description": "basecamp skill from basecamp/skills",
+  "description": "2 skills from basecamp/omarchy, basecamp/skills: omarchy, basecamp",
   "author": {
     "name": "basecamp"
   },
-  "repository": "https://github.com/basecamp/skills"
+  "repositories": [
+    "https://github.com/basecamp/omarchy",
+    "https://github.com/basecamp/skills"
+  ],
+  "skills": [
+    "omarchy",
+    "basecamp"
+  ]
 }

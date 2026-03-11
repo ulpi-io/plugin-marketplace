@@ -1,0 +1,14 @@
+{
+  "name": "badlogic",
+  "version": "1.0.0",
+  "description": "1 skills from badlogic/pi-skills: brave-search",
+  "author": {
+    "name": "badlogic"
+  },
+  "repositories": [
+    "https://github.com/badlogic/pi-skills"
+  ],
+  "skills": [
+    "brave-search"
+  ]
+}

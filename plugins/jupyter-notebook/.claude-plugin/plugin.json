@@ -1,9 +1,0 @@
-{
-  "name": "jupyter-notebook",
-  "version": "1.0.0",
-  "description": "jupyter-notebook skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "workflow-init",
-  "version": "1.0.0",
-  "description": "workflow-init skill from vercel/workflow",
-  "author": {
-    "name": "vercel"
-  },
-  "repository": "https://github.com/vercel/workflow"
-}

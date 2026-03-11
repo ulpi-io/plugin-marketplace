@@ -1,9 +1,0 @@
-{
-  "name": "newsletter-curation",
-  "version": "1.0.0",
-  "description": "newsletter-curation skill from inference-sh/skills",
-  "author": {
-    "name": "inference-sh"
-  },
-  "repository": "https://github.com/inference-sh/skills"
-}

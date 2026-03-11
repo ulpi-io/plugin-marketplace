@@ -1,9 +1,0 @@
-{
-  "name": "release-review",
-  "version": "1.0.0",
-  "description": "release-review skill from rshankras/claude-code-apple-skills",
-  "author": {
-    "name": "rshankras"
-  },
-  "repository": "https://github.com/rshankras/claude-code-apple-skills"
-}

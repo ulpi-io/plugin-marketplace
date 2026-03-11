@@ -1,9 +1,0 @@
-{
-  "name": "remember",
-  "version": "1.0.0",
-  "description": "remember skill from yonatangross/orchestkit",
-  "author": {
-    "name": "yonatangross"
-  },
-  "repository": "https://github.com/yonatangross/orchestkit"
-}

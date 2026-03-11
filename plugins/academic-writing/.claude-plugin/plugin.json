@@ -1,9 +1,0 @@
-{
-  "name": "academic-writing",
-  "version": "1.0.0",
-  "description": "academic-writing skill from jamditis/claude-skills-journalism",
-  "author": {
-    "name": "jamditis"
-  },
-  "repository": "https://github.com/jamditis/claude-skills-journalism"
-}

@@ -1,0 +1,19 @@
+{
+  "name": "terrylica",
+  "version": "1.0.0",
+  "description": "6 skills from terrylica/cc-skills: pandoc-pdf-generation, python-logging-best-practices, mql5-indicator-patterns, mise-tasks, semantic-release, ascii-diagram-validator",
+  "author": {
+    "name": "terrylica"
+  },
+  "repositories": [
+    "https://github.com/terrylica/cc-skills"
+  ],
+  "skills": [
+    "pandoc-pdf-generation",
+    "python-logging-best-practices",
+    "mql5-indicator-patterns",
+    "mise-tasks",
+    "semantic-release",
+    "ascii-diagram-validator"
+  ]
+}

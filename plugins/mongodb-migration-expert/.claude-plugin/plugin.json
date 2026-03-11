@@ -1,9 +1,0 @@
-{
-  "name": "mongodb-migration-expert",
-  "version": "1.0.0",
-  "description": "mongodb-migration-expert skill from shipshitdev/library",
-  "author": {
-    "name": "shipshitdev"
-  },
-  "repository": "https://github.com/shipshitdev/library"
-}

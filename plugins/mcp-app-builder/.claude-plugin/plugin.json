@@ -1,9 +1,0 @@
-{
-  "name": "mcp-app-builder",
-  "version": "1.0.0",
-  "description": "mcp-app-builder skill from alpic-ai/skybridge",
-  "author": {
-    "name": "alpic-ai"
-  },
-  "repository": "https://github.com/alpic-ai/skybridge"
-}

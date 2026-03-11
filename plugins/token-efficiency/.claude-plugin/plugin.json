@@ -1,9 +1,0 @@
-{
-  "name": "token-efficiency",
-  "version": "1.0.0",
-  "description": "token-efficiency skill from delphine-l/claude_global",
-  "author": {
-    "name": "delphine-l"
-  },
-  "repository": "https://github.com/delphine-l/claude_global"
-}

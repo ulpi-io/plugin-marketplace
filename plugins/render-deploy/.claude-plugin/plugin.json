@@ -1,9 +1,0 @@
-{
-  "name": "render-deploy",
-  "version": "1.0.0",
-  "description": "render-deploy skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

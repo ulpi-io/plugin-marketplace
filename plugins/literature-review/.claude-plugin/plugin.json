@@ -1,9 +1,0 @@
-{
-  "name": "literature-review",
-  "version": "1.0.0",
-  "description": "literature-review skill from collaborative-deep-research/agent-papers-cli",
-  "author": {
-    "name": "collaborative-deep-research"
-  },
-  "repository": "https://github.com/collaborative-deep-research/agent-papers-cli"
-}

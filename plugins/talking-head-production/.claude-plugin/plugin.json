@@ -1,9 +1,0 @@
-{
-  "name": "talking-head-production",
-  "version": "1.0.0",
-  "description": "talking-head-production skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

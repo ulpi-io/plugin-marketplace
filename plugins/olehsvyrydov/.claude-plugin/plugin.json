@@ -1,0 +1,14 @@
+{
+  "name": "olehsvyrydov",
+  "version": "1.0.0",
+  "description": "1 skills from olehsvyrydov/ai-development-team: legal-counsel",
+  "author": {
+    "name": "olehsvyrydov"
+  },
+  "repositories": [
+    "https://github.com/olehsvyrydov/ai-development-team"
+  ],
+  "skills": [
+    "legal-counsel"
+  ]
+}

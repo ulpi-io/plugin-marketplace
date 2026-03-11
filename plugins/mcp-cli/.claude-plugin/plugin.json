@@ -1,9 +1,0 @@
-{
-  "name": "mcp-cli",
-  "version": "1.0.0",
-  "description": "mcp-cli skill from obra/superpowers-lab",
-  "author": {
-    "name": "obra"
-  },
-  "repository": "https://github.com/obra/superpowers-lab"
-}

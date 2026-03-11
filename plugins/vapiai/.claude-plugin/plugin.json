@@ -1,0 +1,24 @@
+{
+  "name": "vapiai",
+  "version": "1.0.0",
+  "description": "11 skills from vapiai/skills: create-assistant, create-call, create-call, create-tool, create-tool, setup-webhook, setup-api-key, create-workflow, create-workflow, create-phone-number, create-squad",
+  "author": {
+    "name": "vapiai"
+  },
+  "repositories": [
+    "https://github.com/vapiai/skills"
+  ],
+  "skills": [
+    "create-assistant",
+    "create-call",
+    "create-call",
+    "create-tool",
+    "create-tool",
+    "setup-webhook",
+    "setup-api-key",
+    "create-workflow",
+    "create-workflow",
+    "create-phone-number",
+    "create-squad"
+  ]
+}

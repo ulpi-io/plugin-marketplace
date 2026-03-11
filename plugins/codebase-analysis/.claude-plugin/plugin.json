@@ -1,9 +1,0 @@
-{
-  "name": "codebase-analysis",
-  "version": "1.0.0",
-  "description": "codebase-analysis skill from solatis/claude-config",
-  "author": {
-    "name": "solatis"
-  },
-  "repository": "https://github.com/solatis/claude-config"
-}

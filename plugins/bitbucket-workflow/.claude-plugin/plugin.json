@@ -1,9 +1,0 @@
-{
-  "name": "bitbucket-workflow",
-  "version": "1.0.0",
-  "description": "bitbucket-workflow skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

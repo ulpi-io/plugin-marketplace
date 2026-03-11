@@ -1,0 +1,16 @@
+{
+  "name": "sliverp",
+  "version": "1.0.0",
+  "description": "3 skills from sliverp/qqbot: qqbot-cron, qqbot-cron, qqbot-media",
+  "author": {
+    "name": "sliverp"
+  },
+  "repositories": [
+    "https://github.com/sliverp/qqbot"
+  ],
+  "skills": [
+    "qqbot-cron",
+    "qqbot-cron",
+    "qqbot-media"
+  ]
+}

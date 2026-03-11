@@ -1,9 +1,0 @@
-{
-  "name": "dotnet-local-tools",
-  "version": "1.0.0",
-  "description": "dotnet-local-tools skill from aaronontheweb/dotnet-skills",
-  "author": {
-    "name": "aaronontheweb"
-  },
-  "repository": "https://github.com/aaronontheweb/dotnet-skills"
-}

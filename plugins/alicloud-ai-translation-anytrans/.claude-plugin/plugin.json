@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-ai-translation-anytrans",
-  "version": "1.0.0",
-  "description": "alicloud-ai-translation-anytrans skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "add-sfx",
-  "version": "1.0.0",
-  "description": "add-sfx skill from remotion-dev/remotion",
-  "author": {
-    "name": "remotion-dev"
-  },
-  "repository": "https://github.com/remotion-dev/remotion"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "224-industries",
+  "version": "1.0.0",
+  "description": "1 skills from 224-industries/webflow-skills: webflow-designer-api",
+  "author": {
+    "name": "224-industries"
+  },
+  "repositories": [
+    "https://github.com/224-industries/webflow-skills"
+  ],
+  "skills": [
+    "webflow-designer-api"
+  ]
+}

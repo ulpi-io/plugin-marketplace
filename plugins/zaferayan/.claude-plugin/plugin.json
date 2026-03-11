@@ -1,0 +1,15 @@
+{
+  "name": "zaferayan",
+  "version": "1.0.0",
+  "description": "2 skills from zaferayan/skills: zafer-skills, zafer-skills",
+  "author": {
+    "name": "zaferayan"
+  },
+  "repositories": [
+    "https://github.com/zaferayan/skills"
+  ],
+  "skills": [
+    "zafer-skills",
+    "zafer-skills"
+  ]
+}

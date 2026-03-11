@@ -1,9 +1,0 @@
-{
-  "name": "maestro",
-  "version": "1.0.0",
-  "description": "maestro skill from xenitv1/claude-code-maestro",
-  "author": {
-    "name": "xenitv1"
-  },
-  "repository": "https://github.com/xenitv1/claude-code-maestro"
-}

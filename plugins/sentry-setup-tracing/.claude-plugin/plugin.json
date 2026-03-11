@@ -1,9 +1,0 @@
-{
-  "name": "sentry-setup-tracing",
-  "version": "1.0.0",
-  "description": "sentry-setup-tracing skill from getsentry/sentry-agent-skills",
-  "author": {
-    "name": "getsentry"
-  },
-  "repository": "https://github.com/getsentry/sentry-agent-skills"
-}

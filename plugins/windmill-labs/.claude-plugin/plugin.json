@@ -1,0 +1,15 @@
+{
+  "name": "windmill-labs",
+  "version": "1.0.0",
+  "description": "2 skills from windmill-labs/windmill: rust-backend, svelte-frontend",
+  "author": {
+    "name": "windmill-labs"
+  },
+  "repositories": [
+    "https://github.com/windmill-labs/windmill"
+  ],
+  "skills": [
+    "rust-backend",
+    "svelte-frontend"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "cloudformation-to-pulumi",
-  "version": "1.0.0",
-  "description": "cloudformation-to-pulumi skill from pulumi/agent-skills",
-  "author": {
-    "name": "pulumi"
-  },
-  "repository": "https://github.com/pulumi/agent-skills"
-}

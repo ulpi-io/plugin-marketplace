@@ -1,9 +1,0 @@
-{
-  "name": "ga4",
-  "version": "1.0.0",
-  "description": "ga4 skill from jdrhyne/agent-skills",
-  "author": {
-    "name": "jdrhyne"
-  },
-  "repository": "https://github.com/jdrhyne/agent-skills"
-}

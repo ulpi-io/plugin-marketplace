@@ -1,9 +1,0 @@
-{
-  "name": "firecrawl-research",
-  "version": "1.0.0",
-  "description": "firecrawl-research skill from glebis/claude-skills",
-  "author": {
-    "name": "glebis"
-  },
-  "repository": "https://github.com/glebis/claude-skills"
-}

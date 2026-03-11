@@ -1,0 +1,38 @@
+{
+  "name": "jaganpro",
+  "version": "1.0.0",
+  "description": "25 skills from jaganpro/sf-skills: sf-apex, sf-apex, sf-lwc, sf-lwc, sf-metadata, sf-metadata, sf-debug, sf-debug, sf-flow, sf-soql, sf-soql, sf-deploy, sf-data, sf-testing, sf-testing, sf-permissions, sf-ai-agentscript, sf-integration, sf-diagram-mermaid, sf-connected-apps, sf-diagram-nanobananapro, sf-ai-agentforce-testing, sf-ai-agentforce, sf-ai-agentforce-observability, sf-ai-agentforce-conversationdesign",
+  "author": {
+    "name": "jaganpro"
+  },
+  "repositories": [
+    "https://github.com/jaganpro/sf-skills"
+  ],
+  "skills": [
+    "sf-apex",
+    "sf-apex",
+    "sf-lwc",
+    "sf-lwc",
+    "sf-metadata",
+    "sf-metadata",
+    "sf-debug",
+    "sf-debug",
+    "sf-flow",
+    "sf-soql",
+    "sf-soql",
+    "sf-deploy",
+    "sf-data",
+    "sf-testing",
+    "sf-testing",
+    "sf-permissions",
+    "sf-ai-agentscript",
+    "sf-integration",
+    "sf-diagram-mermaid",
+    "sf-connected-apps",
+    "sf-diagram-nanobananapro",
+    "sf-ai-agentforce-testing",
+    "sf-ai-agentforce",
+    "sf-ai-agentforce-observability",
+    "sf-ai-agentforce-conversationdesign"
+  ]
+}

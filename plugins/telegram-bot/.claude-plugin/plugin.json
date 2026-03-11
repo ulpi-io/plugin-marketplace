@@ -1,9 +1,0 @@
-{
-  "name": "telegram-bot",
-  "version": "1.0.0",
-  "description": "telegram-bot skill from openclaudia/openclaudia-skills",
-  "author": {
-    "name": "openclaudia"
-  },
-  "repository": "https://github.com/openclaudia/openclaudia-skills"
-}

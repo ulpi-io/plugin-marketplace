@@ -1,9 +1,0 @@
-{
-  "name": "blazor-expert",
-  "version": "1.0.0",
-  "description": "blazor-expert skill from markpitt/claude-skills",
-  "author": {
-    "name": "markpitt"
-  },
-  "repository": "https://github.com/markpitt/claude-skills"
-}

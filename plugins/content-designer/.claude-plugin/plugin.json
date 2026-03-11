@@ -1,0 +1,14 @@
+{
+  "name": "content-designer",
+  "version": "1.0.0",
+  "description": "1 skills from content-designer/ux-writing-skill: ux-writing",
+  "author": {
+    "name": "content-designer"
+  },
+  "repositories": [
+    "https://github.com/content-designer/ux-writing-skill"
+  ],
+  "skills": [
+    "ux-writing"
+  ]
+}

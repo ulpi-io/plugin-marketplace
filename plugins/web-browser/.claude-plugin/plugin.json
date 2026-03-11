@@ -1,9 +1,0 @@
-{
-  "name": "web-browser",
-  "version": "1.0.0",
-  "description": "web-browser skill from mitsuhiko/agent-stuff",
-  "author": {
-    "name": "mitsuhiko"
-  },
-  "repository": "https://github.com/mitsuhiko/agent-stuff"
-}

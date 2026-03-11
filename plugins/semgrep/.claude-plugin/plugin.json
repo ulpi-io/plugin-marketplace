@@ -1,9 +1,18 @@
 {
   "name": "semgrep",
   "version": "1.0.0",
-  "description": "semgrep skill from semgrep/skills",
+  "description": "5 skills from semgrep/skills: code-security, code-security, semgrep, semgrep, llm-security",
   "author": {
     "name": "semgrep"
   },
-  "repository": "https://github.com/semgrep/skills"
+  "repositories": [
+    "https://github.com/semgrep/skills"
+  ],
+  "skills": [
+    "code-security",
+    "code-security",
+    "semgrep",
+    "semgrep",
+    "llm-security"
+  ]
 }

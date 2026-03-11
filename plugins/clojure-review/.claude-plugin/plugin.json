@@ -1,9 +1,0 @@
-{
-  "name": "clojure-review",
-  "version": "1.0.0",
-  "description": "clojure-review skill from metabase/metabase",
-  "author": {
-    "name": "metabase"
-  },
-  "repository": "https://github.com/metabase/metabase"
-}

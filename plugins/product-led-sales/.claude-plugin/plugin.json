@@ -1,9 +1,0 @@
-{
-  "name": "product-led-sales",
-  "version": "1.0.0",
-  "description": "product-led-sales skill from refoundai/lenny-skills",
-  "author": {
-    "name": "refoundai"
-  },
-  "repository": "https://github.com/refoundai/lenny-skills"
-}

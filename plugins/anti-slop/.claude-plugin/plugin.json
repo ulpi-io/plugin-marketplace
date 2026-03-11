@@ -1,9 +1,0 @@
-{
-  "name": "anti-slop",
-  "version": "1.0.0",
-  "description": "anti-slop skill from rand/cc-polymath",
-  "author": {
-    "name": "rand"
-  },
-  "repository": "https://github.com/rand/cc-polymath"
-}

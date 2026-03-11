@@ -1,0 +1,22 @@
+{
+  "name": "raphaelsalaja",
+  "version": "1.0.0",
+  "description": "9 skills from raphaelsalaja/userinterface-wiki: 12-principles-of-animation, generating-sounds-with-ai, generating-sounds-with-ai, to-spring-or-not-to-spring, sounds-on-the-web, mastering-animate-presence, mastering-animate-presence, pseudo-elements, morphing-icons",
+  "author": {
+    "name": "raphaelsalaja"
+  },
+  "repositories": [
+    "https://github.com/raphaelsalaja/userinterface-wiki"
+  ],
+  "skills": [
+    "12-principles-of-animation",
+    "generating-sounds-with-ai",
+    "generating-sounds-with-ai",
+    "to-spring-or-not-to-spring",
+    "sounds-on-the-web",
+    "mastering-animate-presence",
+    "mastering-animate-presence",
+    "pseudo-elements",
+    "morphing-icons"
+  ]
+}

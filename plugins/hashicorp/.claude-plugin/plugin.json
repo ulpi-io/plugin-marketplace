@@ -1,0 +1,35 @@
+{
+  "name": "hashicorp",
+  "version": "1.0.0",
+  "description": "22 skills from hashicorp/agent-skills: terraform-style-guide, terraform-test, terraform-test, refactor-module, refactor-module, terraform-stacks, terraform-stacks, provider-resources, new-terraform-provider, new-terraform-provider, provider-actions, provider-actions, run-acceptance-tests, run-acceptance-tests, azure-verified-modules, aws-ami-builder, push-to-registry, push-to-registry, azure-image-builder, azure-image-builder, windows-builder, terraform-search-import",
+  "author": {
+    "name": "hashicorp"
+  },
+  "repositories": [
+    "https://github.com/hashicorp/agent-skills"
+  ],
+  "skills": [
+    "terraform-style-guide",
+    "terraform-test",
+    "terraform-test",
+    "refactor-module",
+    "refactor-module",
+    "terraform-stacks",
+    "terraform-stacks",
+    "provider-resources",
+    "new-terraform-provider",
+    "new-terraform-provider",
+    "provider-actions",
+    "provider-actions",
+    "run-acceptance-tests",
+    "run-acceptance-tests",
+    "azure-verified-modules",
+    "aws-ami-builder",
+    "push-to-registry",
+    "push-to-registry",
+    "azure-image-builder",
+    "azure-image-builder",
+    "windows-builder",
+    "terraform-search-import"
+  ]
+}

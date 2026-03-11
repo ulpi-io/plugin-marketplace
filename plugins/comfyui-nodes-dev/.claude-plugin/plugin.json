@@ -1,9 +1,0 @@
-{
-  "name": "comfyui-nodes-dev",
-  "version": "1.0.0",
-  "description": "comfyui-nodes-dev skill from jimlee2048/skills",
-  "author": {
-    "name": "jimlee2048"
-  },
-  "repository": "https://github.com/jimlee2048/skills"
-}

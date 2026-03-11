@@ -1,9 +1,0 @@
-{
-  "name": "legal-document-analyzer",
-  "version": "1.0.0",
-  "description": "legal-document-analyzer skill from qodex-ai/ai-agent-skills",
-  "author": {
-    "name": "qodex-ai"
-  },
-  "repository": "https://github.com/qodex-ai/ai-agent-skills"
-}

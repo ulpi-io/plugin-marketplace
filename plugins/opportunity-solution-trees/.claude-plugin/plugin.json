@@ -1,9 +1,0 @@
-{
-  "name": "opportunity-solution-trees",
-  "version": "1.0.0",
-  "description": "opportunity-solution-trees skill from pmprompt/claude-plugin-product-management",
-  "author": {
-    "name": "pmprompt"
-  },
-  "repository": "https://github.com/pmprompt/claude-plugin-product-management"
-}

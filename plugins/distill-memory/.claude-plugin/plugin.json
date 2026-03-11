@@ -1,9 +1,0 @@
-{
-  "name": "distill-memory",
-  "version": "1.0.0",
-  "description": "distill-memory skill from nowledge-co/community",
-  "author": {
-    "name": "nowledge-co"
-  },
-  "repository": "https://github.com/nowledge-co/community"
-}

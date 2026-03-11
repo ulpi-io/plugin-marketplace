@@ -1,9 +1,0 @@
-{
-  "name": "github-actions-templates",
-  "version": "1.0.0",
-  "description": "github-actions-templates skill from wshobson/agents",
-  "author": {
-    "name": "wshobson"
-  },
-  "repository": "https://github.com/wshobson/agents"
-}

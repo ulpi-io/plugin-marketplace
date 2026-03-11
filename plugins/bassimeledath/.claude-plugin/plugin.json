@@ -1,0 +1,14 @@
+{
+  "name": "bassimeledath",
+  "version": "1.0.0",
+  "description": "1 skills from bassimeledath/dispatch: dispatch",
+  "author": {
+    "name": "bassimeledath"
+  },
+  "repositories": [
+    "https://github.com/bassimeledath/dispatch"
+  ],
+  "skills": [
+    "dispatch"
+  ]
+}

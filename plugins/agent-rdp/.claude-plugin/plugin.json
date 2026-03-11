@@ -1,9 +1,0 @@
-{
-  "name": "agent-rdp",
-  "version": "1.0.0",
-  "description": "agent-rdp skill from thisnick/agent-rdp",
-  "author": {
-    "name": "thisnick"
-  },
-  "repository": "https://github.com/thisnick/agent-rdp"
-}

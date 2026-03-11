@@ -1,9 +1,14 @@
 {
   "name": "polymarket",
   "version": "1.0.0",
-  "description": "polymarket skill from machina-sports/sports-skills",
+  "description": "1 skills from polymarket/agent-skills: web3-polymarket",
   "author": {
-    "name": "machina-sports"
+    "name": "polymarket"
   },
-  "repository": "https://github.com/machina-sports/sports-skills"
+  "repositories": [
+    "https://github.com/polymarket/agent-skills"
+  ],
+  "skills": [
+    "web3-polymarket"
+  ]
 }

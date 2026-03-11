@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-ai-search-opensearch",
-  "version": "1.0.0",
-  "description": "alicloud-ai-search-opensearch skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

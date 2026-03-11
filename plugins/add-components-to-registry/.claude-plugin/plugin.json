@@ -1,9 +1,0 @@
-{
-  "name": "add-components-to-registry",
-  "version": "1.0.0",
-  "description": "add-components-to-registry skill from tambo-ai/tambo",
-  "author": {
-    "name": "tambo-ai"
-  },
-  "repository": "https://github.com/tambo-ai/tambo"
-}

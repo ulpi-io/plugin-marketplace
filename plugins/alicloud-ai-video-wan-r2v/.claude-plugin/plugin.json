@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-ai-video-wan-r2v",
-  "version": "1.0.0",
-  "description": "alicloud-ai-video-wan-r2v skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

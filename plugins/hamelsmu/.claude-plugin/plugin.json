@@ -1,0 +1,20 @@
+{
+  "name": "hamelsmu",
+  "version": "1.0.0",
+  "description": "7 skills from hamelsmu/evals-skills: eval-audit, error-analysis, build-review-interface, write-judge-prompt, evaluate-rag, generate-synthetic-data, validate-evaluator",
+  "author": {
+    "name": "hamelsmu"
+  },
+  "repositories": [
+    "https://github.com/hamelsmu/evals-skills"
+  ],
+  "skills": [
+    "eval-audit",
+    "error-analysis",
+    "build-review-interface",
+    "write-judge-prompt",
+    "evaluate-rag",
+    "generate-synthetic-data",
+    "validate-evaluator"
+  ]
+}

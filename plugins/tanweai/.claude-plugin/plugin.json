@@ -1,0 +1,14 @@
+{
+  "name": "tanweai",
+  "version": "1.0.0",
+  "description": "1 skills from tanweai/pua: pua-debugging",
+  "author": {
+    "name": "tanweai"
+  },
+  "repositories": [
+    "https://github.com/tanweai/pua"
+  ],
+  "skills": [
+    "pua-debugging"
+  ]
+}

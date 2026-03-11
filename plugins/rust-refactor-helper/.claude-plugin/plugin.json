@@ -1,9 +1,0 @@
-{
-  "name": "rust-refactor-helper",
-  "version": "1.0.0",
-  "description": "rust-refactor-helper skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

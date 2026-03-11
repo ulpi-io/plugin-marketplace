@@ -1,9 +1,0 @@
-{
-  "name": "icon-retrieval",
-  "version": "1.0.0",
-  "description": "icon-retrieval skill from antvis/chart-visualization-skills",
-  "author": {
-    "name": "antvis"
-  },
-  "repository": "https://github.com/antvis/chart-visualization-skills"
-}

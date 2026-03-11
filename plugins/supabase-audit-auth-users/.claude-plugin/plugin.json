@@ -1,9 +1,0 @@
-{
-  "name": "supabase-audit-auth-users",
-  "version": "1.0.0",
-  "description": "supabase-audit-auth-users skill from yoanbernabeu/supabase-pentest-skills",
-  "author": {
-    "name": "yoanbernabeu"
-  },
-  "repository": "https://github.com/yoanbernabeu/supabase-pentest-skills"
-}

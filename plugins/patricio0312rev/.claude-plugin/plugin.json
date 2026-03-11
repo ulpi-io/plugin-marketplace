@@ -1,0 +1,32 @@
+{
+  "name": "patricio0312rev",
+  "version": "1.0.0",
+  "description": "19 skills from patricio0312rev/skills: framer-motion-animator, eslint-prettier-config, dockerfile-optimizer, postman-collection-generator, api-docs-generator, explaining-code, nginx-config-optimizer, codebase-summarizer, jsdoc-typescript-docs, redis-patterns, animation-micro-interaction-pack, websocket-realtime-builder, conventional-commits, bruno-collection-generator, dark-mode-implementer, storybook-setup, mermaid-diagram-generator, oauth2-oidc-implementer, responsive-design-system",
+  "author": {
+    "name": "patricio0312rev"
+  },
+  "repositories": [
+    "https://github.com/patricio0312rev/skills"
+  ],
+  "skills": [
+    "framer-motion-animator",
+    "eslint-prettier-config",
+    "dockerfile-optimizer",
+    "postman-collection-generator",
+    "api-docs-generator",
+    "explaining-code",
+    "nginx-config-optimizer",
+    "codebase-summarizer",
+    "jsdoc-typescript-docs",
+    "redis-patterns",
+    "animation-micro-interaction-pack",
+    "websocket-realtime-builder",
+    "conventional-commits",
+    "bruno-collection-generator",
+    "dark-mode-implementer",
+    "storybook-setup",
+    "mermaid-diagram-generator",
+    "oauth2-oidc-implementer",
+    "responsive-design-system"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "opencode-bridge",
-  "version": "1.0.0",
-  "description": "opencode-bridge skill from different-ai/openwork",
-  "author": {
-    "name": "different-ai"
-  },
-  "repository": "https://github.com/different-ai/openwork"
-}

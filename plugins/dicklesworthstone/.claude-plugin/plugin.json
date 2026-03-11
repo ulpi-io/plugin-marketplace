@@ -1,0 +1,17 @@
+{
+  "name": "dicklesworthstone",
+  "version": "1.0.0",
+  "description": "4 skills from dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations: ssh, ui-ux-polish, gcloud, planning-workflow",
+  "author": {
+    "name": "dicklesworthstone"
+  },
+  "repositories": [
+    "https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations"
+  ],
+  "skills": [
+    "ssh",
+    "ui-ux-polish",
+    "gcloud",
+    "planning-workflow"
+  ]
+}

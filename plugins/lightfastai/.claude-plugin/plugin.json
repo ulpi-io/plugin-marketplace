@@ -1,0 +1,14 @@
+{
+  "name": "lightfastai",
+  "version": "1.0.0",
+  "description": "1 skills from lightfastai/lightfast: blog-writer",
+  "author": {
+    "name": "lightfastai"
+  },
+  "repositories": [
+    "https://github.com/lightfastai/lightfast"
+  ],
+  "skills": [
+    "blog-writer"
+  ]
+}

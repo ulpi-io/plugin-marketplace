@@ -1,9 +1,0 @@
-{
-  "name": "workers-best-practices",
-  "version": "1.0.0",
-  "description": "workers-best-practices skill from cloudflare/skills",
-  "author": {
-    "name": "cloudflare"
-  },
-  "repository": "https://github.com/cloudflare/skills"
-}

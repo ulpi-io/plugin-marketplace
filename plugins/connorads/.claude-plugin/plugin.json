@@ -1,0 +1,16 @@
+{
+  "name": "connorads",
+  "version": "1.0.0",
+  "description": "3 skills from connorads/dotfiles: payload-cms, web-animation-design, hetzner-server",
+  "author": {
+    "name": "connorads"
+  },
+  "repositories": [
+    "https://github.com/connorads/dotfiles"
+  ],
+  "skills": [
+    "payload-cms",
+    "web-animation-design",
+    "hetzner-server"
+  ]
+}

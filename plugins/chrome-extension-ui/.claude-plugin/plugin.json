@@ -1,9 +1,0 @@
-{
-  "name": "chrome-extension-ui",
-  "version": "1.0.0",
-  "description": "chrome-extension-ui skill from pproenca/dot-skills",
-  "author": {
-    "name": "pproenca"
-  },
-  "repository": "https://github.com/pproenca/dot-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "add-provider-doc",
-  "version": "1.0.0",
-  "description": "add-provider-doc skill from lobehub/lobe-chat",
-  "author": {
-    "name": "lobehub"
-  },
-  "repository": "https://github.com/lobehub/lobe-chat"
-}

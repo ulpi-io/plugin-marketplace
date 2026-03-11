@@ -1,0 +1,14 @@
+{
+  "name": "poteto",
+  "version": "1.0.0",
+  "description": "1 skills from poteto/noodle: adversarial-review",
+  "author": {
+    "name": "poteto"
+  },
+  "repositories": [
+    "https://github.com/poteto/noodle"
+  ],
+  "skills": [
+    "adversarial-review"
+  ]
+}

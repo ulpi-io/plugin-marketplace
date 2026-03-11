@@ -1,9 +1,0 @@
-{
-  "name": "okx-onchain-gateway",
-  "version": "1.0.0",
-  "description": "okx-onchain-gateway skill from okx/onchainos-skills",
-  "author": {
-    "name": "okx"
-  },
-  "repository": "https://github.com/okx/onchainos-skills"
-}

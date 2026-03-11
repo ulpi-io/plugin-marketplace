@@ -1,9 +1,0 @@
-{
-  "name": "seatbelt-sandboxer",
-  "version": "1.0.0",
-  "description": "seatbelt-sandboxer skill from trailofbits/skills",
-  "author": {
-    "name": "trailofbits"
-  },
-  "repository": "https://github.com/trailofbits/skills"
-}

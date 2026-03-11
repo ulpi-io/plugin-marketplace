@@ -1,0 +1,15 @@
+{
+  "name": "delineas",
+  "version": "1.0.0",
+  "description": "2 skills from delineas/astro-framework-agents: astro-framework, astro-framework",
+  "author": {
+    "name": "delineas"
+  },
+  "repositories": [
+    "https://github.com/delineas/astro-framework-agents"
+  ],
+  "skills": [
+    "astro-framework",
+    "astro-framework"
+  ]
+}

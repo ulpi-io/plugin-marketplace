@@ -1,9 +1,0 @@
-{
-  "name": "wix-cli-orchestrator",
-  "version": "1.0.0",
-  "description": "wix-cli-orchestrator skill from wix/skills",
-  "author": {
-    "name": "wix"
-  },
-  "repository": "https://github.com/wix/skills"
-}

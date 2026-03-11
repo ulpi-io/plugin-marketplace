@@ -1,9 +1,0 @@
-{
-  "name": "accessibility-review",
-  "version": "1.0.0",
-  "description": "accessibility-review skill from anthropics/knowledge-work-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/knowledge-work-plugins"
-}

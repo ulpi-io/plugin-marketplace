@@ -1,9 +1,0 @@
-{
-  "name": "video-downloader",
-  "version": "1.0.0",
-  "description": "video-downloader skill from skillcreatorai/ai-agent-skills",
-  "author": {
-    "name": "skillcreatorai"
-  },
-  "repository": "https://github.com/skillcreatorai/ai-agent-skills"
-}

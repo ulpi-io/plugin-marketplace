@@ -1,0 +1,14 @@
+{
+  "name": "bnb-chain",
+  "version": "1.0.0",
+  "description": "1 skills from bnb-chain/bnbchain-skills: bnbchain-mcp",
+  "author": {
+    "name": "bnb-chain"
+  },
+  "repositories": [
+    "https://github.com/bnb-chain/bnbchain-skills"
+  ],
+  "skills": [
+    "bnbchain-mcp"
+  ]
+}

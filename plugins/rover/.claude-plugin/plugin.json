@@ -1,9 +1,0 @@
-{
-  "name": "rover",
-  "version": "1.0.0",
-  "description": "rover skill from apollographql/skills",
-  "author": {
-    "name": "apollographql"
-  },
-  "repository": "https://github.com/apollographql/skills"
-}

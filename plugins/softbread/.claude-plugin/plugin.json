@@ -1,0 +1,14 @@
+{
+  "name": "softbread",
+  "version": "1.0.0",
+  "description": "1 skills from softbread/xiaohongshu-doctor: xiaohongshu-note-analyzer",
+  "author": {
+    "name": "softbread"
+  },
+  "repositories": [
+    "https://github.com/softbread/xiaohongshu-doctor"
+  ],
+  "skills": [
+    "xiaohongshu-note-analyzer"
+  ]
+}

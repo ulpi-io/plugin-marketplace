@@ -1,9 +1,0 @@
-{
-  "name": "recipe-find-free-time",
-  "version": "1.0.0",
-  "description": "recipe-find-free-time skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

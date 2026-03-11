@@ -1,9 +1,0 @@
-{
-  "name": "sora",
-  "version": "1.0.0",
-  "description": "sora skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

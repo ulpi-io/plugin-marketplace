@@ -1,0 +1,35 @@
+{
+  "name": "teachingai",
+  "version": "1.0.0",
+  "description": "22 skills from teachingai/full-stack-skills: electron, element-plus-vue3, uniapp-project, uniapp-project, vue3, mybatis-plus-generator, mybatis-plus-generator, vue2, drawio-flowchart, uniapp-uview, course-designer, ant-design-react, vant-vue3, spring-boot, drawio-architecture, ddd-clean-architecture, ant-design-vue, spring-ai, spring-cloud-alibaba, midjourney, cocos2d-x, dalle",
+  "author": {
+    "name": "teachingai"
+  },
+  "repositories": [
+    "https://github.com/teachingai/full-stack-skills"
+  ],
+  "skills": [
+    "electron",
+    "element-plus-vue3",
+    "uniapp-project",
+    "uniapp-project",
+    "vue3",
+    "mybatis-plus-generator",
+    "mybatis-plus-generator",
+    "vue2",
+    "drawio-flowchart",
+    "uniapp-uview",
+    "course-designer",
+    "ant-design-react",
+    "vant-vue3",
+    "spring-boot",
+    "drawio-architecture",
+    "ddd-clean-architecture",
+    "ant-design-vue",
+    "spring-ai",
+    "spring-cloud-alibaba",
+    "midjourney",
+    "cocos2d-x",
+    "dalle"
+  ]
+}

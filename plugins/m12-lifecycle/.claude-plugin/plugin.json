@@ -1,9 +1,0 @@
-{
-  "name": "m12-lifecycle",
-  "version": "1.0.0",
-  "description": "m12-lifecycle skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

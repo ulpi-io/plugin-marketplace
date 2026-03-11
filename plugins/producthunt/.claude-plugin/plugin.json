@@ -1,9 +1,0 @@
-{
-  "name": "producthunt",
-  "version": "1.0.0",
-  "description": "producthunt skill from resciencelab/opc-skills",
-  "author": {
-    "name": "resciencelab"
-  },
-  "repository": "https://github.com/resciencelab/opc-skills"
-}

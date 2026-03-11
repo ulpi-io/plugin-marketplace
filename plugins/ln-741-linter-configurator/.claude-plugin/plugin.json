@@ -1,9 +1,0 @@
-{
-  "name": "ln-741-linter-configurator",
-  "version": "1.0.0",
-  "description": "ln-741-linter-configurator skill from levnikolaevich/claude-code-skills",
-  "author": {
-    "name": "levnikolaevich"
-  },
-  "repository": "https://github.com/levnikolaevich/claude-code-skills"
-}

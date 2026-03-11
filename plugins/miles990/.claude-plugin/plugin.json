@@ -1,0 +1,17 @@
+{
+  "name": "miles990",
+  "version": "1.0.0",
+  "description": "4 skills from miles990/claude-software-skills: game-development, code-quality, saas-platforms, architecture-patterns",
+  "author": {
+    "name": "miles990"
+  },
+  "repositories": [
+    "https://github.com/miles990/claude-software-skills"
+  ],
+  "skills": [
+    "game-development",
+    "code-quality",
+    "saas-platforms",
+    "architecture-patterns"
+  ]
+}

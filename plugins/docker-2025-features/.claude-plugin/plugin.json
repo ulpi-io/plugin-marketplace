@@ -1,9 +1,0 @@
-{
-  "name": "docker-2025-features",
-  "version": "1.0.0",
-  "description": "docker-2025-features skill from josiahsiegel/claude-plugin-marketplace",
-  "author": {
-    "name": "josiahsiegel"
-  },
-  "repository": "https://github.com/josiahsiegel/claude-plugin-marketplace"
-}

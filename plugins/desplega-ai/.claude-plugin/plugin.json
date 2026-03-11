@@ -1,0 +1,14 @@
+{
+  "name": "desplega-ai",
+  "version": "1.0.0",
+  "description": "1 skills from desplega-ai/qa-use: qa-use",
+  "author": {
+    "name": "desplega-ai"
+  },
+  "repositories": [
+    "https://github.com/desplega-ai/qa-use"
+  ],
+  "skills": [
+    "qa-use"
+  ]
+}

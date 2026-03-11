@@ -1,0 +1,15 @@
+{
+  "name": "michalparkola",
+  "version": "1.0.0",
+  "description": "2 skills from michalparkola/tapestry-skills-for-claude-code: youtube-transcript, article-extractor",
+  "author": {
+    "name": "michalparkola"
+  },
+  "repositories": [
+    "https://github.com/michalparkola/tapestry-skills-for-claude-code"
+  ],
+  "skills": [
+    "youtube-transcript",
+    "article-extractor"
+  ]
+}

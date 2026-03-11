@@ -1,0 +1,15 @@
+{
+  "name": "chrisvoncsefalvay",
+  "version": "1.0.0",
+  "description": "2 skills from chrisvoncsefalvay/claude-d3js-skill: d3-viz, d3-viz",
+  "author": {
+    "name": "chrisvoncsefalvay"
+  },
+  "repositories": [
+    "https://github.com/chrisvoncsefalvay/claude-d3js-skill"
+  ],
+  "skills": [
+    "d3-viz",
+    "d3-viz"
+  ]
+}

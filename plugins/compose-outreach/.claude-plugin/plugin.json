@@ -1,9 +1,0 @@
-{
-  "name": "compose-outreach",
-  "version": "1.0.0",
-  "description": "compose-outreach skill from anthropics/knowledge-work-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/knowledge-work-plugins"
-}

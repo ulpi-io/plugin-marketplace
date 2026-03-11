@@ -1,0 +1,15 @@
+{
+  "name": "conorluddy",
+  "version": "1.0.0",
+  "description": "2 skills from conorluddy/ios-simulator-skill: ios-simulator-skill, ios-simulator-skill",
+  "author": {
+    "name": "conorluddy"
+  },
+  "repositories": [
+    "https://github.com/conorluddy/ios-simulator-skill"
+  ],
+  "skills": [
+    "ios-simulator-skill",
+    "ios-simulator-skill"
+  ]
+}

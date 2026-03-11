@@ -1,9 +1,0 @@
-{
-  "name": "product-taste-intuition",
-  "version": "1.0.0",
-  "description": "product-taste-intuition skill from refoundai/lenny-skills",
-  "author": {
-    "name": "refoundai"
-  },
-  "repository": "https://github.com/refoundai/lenny-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "bond-futures-basis",
-  "version": "1.0.0",
-  "description": "bond-futures-basis skill from anthropics/financial-services-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/financial-services-plugins"
-}

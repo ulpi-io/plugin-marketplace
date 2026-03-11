@@ -1,9 +1,14 @@
 {
   "name": "terminaluse",
   "version": "1.0.0",
-  "description": "terminaluse skill from terminaluse/agent-skills",
+  "description": "1 skills from terminaluse/agent-skills: terminaluse",
   "author": {
     "name": "terminaluse"
   },
-  "repository": "https://github.com/terminaluse/agent-skills"
+  "repositories": [
+    "https://github.com/terminaluse/agent-skills"
+  ],
+  "skills": [
+    "terminaluse"
+  ]
 }

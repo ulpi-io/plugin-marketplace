@@ -1,9 +1,0 @@
-{
-  "name": "wp-project-triage",
-  "version": "1.0.0",
-  "description": "wp-project-triage skill from automattic/agent-skills",
-  "author": {
-    "name": "automattic"
-  },
-  "repository": "https://github.com/automattic/agent-skills"
-}

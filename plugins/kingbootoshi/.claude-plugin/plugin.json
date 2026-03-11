@@ -1,0 +1,14 @@
+{
+  "name": "kingbootoshi",
+  "version": "1.0.0",
+  "description": "1 skills from kingbootoshi/nano-banana-2-skill: nano-banana",
+  "author": {
+    "name": "kingbootoshi"
+  },
+  "repositories": [
+    "https://github.com/kingbootoshi/nano-banana-2-skill"
+  ],
+  "skills": [
+    "nano-banana"
+  ]
+}

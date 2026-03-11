@@ -1,9 +1,0 @@
-{
-  "name": "font-pairing-suggester",
-  "version": "1.0.0",
-  "description": "font-pairing-suggester skill from onewave-ai/claude-skills",
-  "author": {
-    "name": "onewave-ai"
-  },
-  "repository": "https://github.com/onewave-ai/claude-skills"
-}

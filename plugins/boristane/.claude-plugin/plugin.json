@@ -1,0 +1,14 @@
+{
+  "name": "boristane",
+  "version": "1.0.0",
+  "description": "1 skills from boristane/agent-skills: logging-best-practices",
+  "author": {
+    "name": "boristane"
+  },
+  "repositories": [
+    "https://github.com/boristane/agent-skills"
+  ],
+  "skills": [
+    "logging-best-practices"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "nx-workspace",
-  "version": "1.0.0",
-  "description": "nx-workspace skill from nrwl/nx-ai-agents-config",
-  "author": {
-    "name": "nrwl"
-  },
-  "repository": "https://github.com/nrwl/nx-ai-agents-config"
-}

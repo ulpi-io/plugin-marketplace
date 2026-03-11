@@ -1,9 +1,0 @@
-{
-  "name": "gws-forms",
-  "version": "1.0.0",
-  "description": "gws-forms skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

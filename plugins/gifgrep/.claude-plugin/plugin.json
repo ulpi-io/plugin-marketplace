@@ -1,9 +1,0 @@
-{
-  "name": "gifgrep",
-  "version": "1.0.0",
-  "description": "gifgrep skill from steipete/clawdis",
-  "author": {
-    "name": "steipete"
-  },
-  "repository": "https://github.com/steipete/clawdis"
-}

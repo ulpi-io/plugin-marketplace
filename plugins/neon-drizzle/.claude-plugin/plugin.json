@@ -1,9 +1,0 @@
-{
-  "name": "neon-drizzle",
-  "version": "1.0.0",
-  "description": "neon-drizzle skill from neondatabase/ai-rules",
-  "author": {
-    "name": "neondatabase"
-  },
-  "repository": "https://github.com/neondatabase/ai-rules"
-}

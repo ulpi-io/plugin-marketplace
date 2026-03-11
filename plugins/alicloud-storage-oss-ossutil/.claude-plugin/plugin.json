@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-storage-oss-ossutil",
-  "version": "1.0.0",
-  "description": "alicloud-storage-oss-ossutil skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "write-docs",
-  "version": "1.0.0",
-  "description": "write-docs skill from tldraw/tldraw",
-  "author": {
-    "name": "tldraw"
-  },
-  "repository": "https://github.com/tldraw/tldraw"
-}

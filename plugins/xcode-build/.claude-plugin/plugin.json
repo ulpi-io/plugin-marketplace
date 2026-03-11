@@ -1,9 +1,0 @@
-{
-  "name": "xcode-build",
-  "version": "1.0.0",
-  "description": "xcode-build skill from pzep1/xcode-build-skill",
-  "author": {
-    "name": "pzep1"
-  },
-  "repository": "https://github.com/pzep1/xcode-build-skill"
-}

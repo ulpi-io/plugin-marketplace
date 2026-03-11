@@ -1,9 +1,0 @@
-{
-  "name": "secure-code-guardian",
-  "version": "1.0.0",
-  "description": "secure-code-guardian skill from jeffallan/claude-skills",
-  "author": {
-    "name": "jeffallan"
-  },
-  "repository": "https://github.com/jeffallan/claude-skills"
-}

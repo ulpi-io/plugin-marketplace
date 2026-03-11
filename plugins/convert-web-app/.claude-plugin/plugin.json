@@ -1,9 +1,0 @@
-{
-  "name": "convert-web-app",
-  "version": "1.0.0",
-  "description": "convert-web-app skill from modelcontextprotocol/ext-apps",
-  "author": {
-    "name": "modelcontextprotocol"
-  },
-  "repository": "https://github.com/modelcontextprotocol/ext-apps"
-}

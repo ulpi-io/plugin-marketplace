@@ -1,9 +1,0 @@
-{
-  "name": "mcp-integration",
-  "version": "1.0.0",
-  "description": "mcp-integration skill from aiskillstore/marketplace",
-  "author": {
-    "name": "aiskillstore"
-  },
-  "repository": "https://github.com/aiskillstore/marketplace"
-}

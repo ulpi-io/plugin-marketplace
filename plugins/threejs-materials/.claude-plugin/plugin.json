@@ -1,9 +1,0 @@
-{
-  "name": "threejs-materials",
-  "version": "1.0.0",
-  "description": "threejs-materials skill from cloudai-x/threejs-skills",
-  "author": {
-    "name": "cloudai-x"
-  },
-  "repository": "https://github.com/cloudai-x/threejs-skills"
-}

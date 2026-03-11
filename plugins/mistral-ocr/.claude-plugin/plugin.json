@@ -1,9 +1,0 @@
-{
-  "name": "mistral-ocr",
-  "version": "1.0.0",
-  "description": "mistral-ocr skill from parlamento-ai/parlamento-ai",
-  "author": {
-    "name": "parlamento-ai"
-  },
-  "repository": "https://github.com/parlamento-ai/parlamento-ai"
-}

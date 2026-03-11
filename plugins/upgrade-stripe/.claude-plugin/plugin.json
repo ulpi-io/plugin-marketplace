@@ -1,9 +1,0 @@
-{
-  "name": "upgrade-stripe",
-  "version": "1.0.0",
-  "description": "upgrade-stripe skill from stripe/ai",
-  "author": {
-    "name": "stripe"
-  },
-  "repository": "https://github.com/stripe/ai"
-}

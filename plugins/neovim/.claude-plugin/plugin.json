@@ -1,9 +1,0 @@
-{
-  "name": "neovim",
-  "version": "1.0.0",
-  "description": "neovim skill from julianobarbosa/claude-code-skills",
-  "author": {
-    "name": "julianobarbosa"
-  },
-  "repository": "https://github.com/julianobarbosa/claude-code-skills"
-}

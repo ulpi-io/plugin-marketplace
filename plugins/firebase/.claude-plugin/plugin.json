@@ -1,9 +1,32 @@
 {
   "name": "firebase",
   "version": "1.0.0",
-  "description": "firebase skill from sickn33/antigravity-awesome-skills",
+  "description": "18 skills from firebase/agent-skills, firebase/skills: firebase-firestore-basics, firebase-basics, firebase-auth-basics, firebase-auth-basics, firebase-ai-logic, firebase-hosting-basics, firebase-app-hosting-basics, firebase-app-hosting-basics, firebase-data-connect, firebase-firestore-basics, firebase-firestore-basics, firebase-auth-basics, firebase-basics, firebase-ai-logic, firebase-app-hosting-basics, firebase-app-hosting-basics, firebase-hosting-basics, firebase-data-connect",
   "author": {
-    "name": "sickn33"
+    "name": "firebase"
   },
-  "repository": "https://github.com/sickn33/antigravity-awesome-skills"
+  "repositories": [
+    "https://github.com/firebase/agent-skills",
+    "https://github.com/firebase/skills"
+  ],
+  "skills": [
+    "firebase-firestore-basics",
+    "firebase-basics",
+    "firebase-auth-basics",
+    "firebase-auth-basics",
+    "firebase-ai-logic",
+    "firebase-hosting-basics",
+    "firebase-app-hosting-basics",
+    "firebase-app-hosting-basics",
+    "firebase-data-connect",
+    "firebase-firestore-basics",
+    "firebase-firestore-basics",
+    "firebase-auth-basics",
+    "firebase-basics",
+    "firebase-ai-logic",
+    "firebase-app-hosting-basics",
+    "firebase-app-hosting-basics",
+    "firebase-hosting-basics",
+    "firebase-data-connect"
+  ]
 }

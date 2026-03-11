@@ -1,9 +1,0 @@
-{
-  "name": "mcp-developer",
-  "version": "1.0.0",
-  "description": "mcp-developer skill from jeffallan/claude-skills",
-  "author": {
-    "name": "jeffallan"
-  },
-  "repository": "https://github.com/jeffallan/claude-skills"
-}

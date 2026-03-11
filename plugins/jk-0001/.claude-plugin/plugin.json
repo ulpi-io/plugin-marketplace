@@ -1,0 +1,15 @@
+{
+  "name": "jk-0001",
+  "version": "1.0.0",
+  "description": "2 skills from jk-0001/skills: automation-workflows, automation-workflows",
+  "author": {
+    "name": "jk-0001"
+  },
+  "repositories": [
+    "https://github.com/jk-0001/skills"
+  ],
+  "skills": [
+    "automation-workflows",
+    "automation-workflows"
+  ]
+}

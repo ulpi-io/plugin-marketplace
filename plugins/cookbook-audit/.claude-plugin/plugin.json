@@ -1,9 +1,0 @@
-{
-  "name": "cookbook-audit",
-  "version": "1.0.0",
-  "description": "cookbook-audit skill from anthropics/claude-cookbooks",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/claude-cookbooks"
-}

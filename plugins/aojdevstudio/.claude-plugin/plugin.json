@@ -1,0 +1,14 @@
+{
+  "name": "aojdevstudio",
+  "version": "1.0.0",
+  "description": "1 skills from aojdevstudio/finance-guru: financereport",
+  "author": {
+    "name": "aojdevstudio"
+  },
+  "repositories": [
+    "https://github.com/aojdevstudio/finance-guru"
+  ],
+  "skills": [
+    "financereport"
+  ]
+}

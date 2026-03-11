@@ -1,0 +1,15 @@
+{
+  "name": "hieutrtr",
+  "version": "1.0.0",
+  "description": "2 skills from hieutrtr/ai1-skills: e2e-testing, code-review-security",
+  "author": {
+    "name": "hieutrtr"
+  },
+  "repositories": [
+    "https://github.com/hieutrtr/ai1-skills"
+  ],
+  "skills": [
+    "e2e-testing",
+    "code-review-security"
+  ]
+}

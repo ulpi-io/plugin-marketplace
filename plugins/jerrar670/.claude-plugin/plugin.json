@@ -1,0 +1,14 @@
+{
+  "name": "jerrar670",
+  "version": "1.0.0",
+  "description": "1 skills from jerrar670/surf-website: premium_web_design",
+  "author": {
+    "name": "jerrar670"
+  },
+  "repositories": [
+    "https://github.com/jerrar670/surf-website"
+  ],
+  "skills": [
+    "premium_web_design"
+  ]
+}

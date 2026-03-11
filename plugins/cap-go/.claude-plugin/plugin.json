@@ -1,0 +1,31 @@
+{
+  "name": "cap-go",
+  "version": "1.0.0",
+  "description": "17 skills from cap-go/capacitor-skills, cap-go/capgo-skills: capacitor-best-practices, ionic-design, capacitor-plugins, ios-android-logs, capacitor-security, capacitor-best-practices, capacitor-splash-screen, capacitor-app-store, capacitor-security, capacitor-performance, capacitor-push-notifications, debugging-capacitor, capacitor-keyboard, safe-area-handling, capacitor-plugins, capacitor-testing, capacitor-deep-linking",
+  "author": {
+    "name": "cap-go"
+  },
+  "repositories": [
+    "https://github.com/cap-go/capacitor-skills",
+    "https://github.com/cap-go/capgo-skills"
+  ],
+  "skills": [
+    "capacitor-best-practices",
+    "ionic-design",
+    "capacitor-plugins",
+    "ios-android-logs",
+    "capacitor-security",
+    "capacitor-best-practices",
+    "capacitor-splash-screen",
+    "capacitor-app-store",
+    "capacitor-security",
+    "capacitor-performance",
+    "capacitor-push-notifications",
+    "debugging-capacitor",
+    "capacitor-keyboard",
+    "safe-area-handling",
+    "capacitor-plugins",
+    "capacitor-testing",
+    "capacitor-deep-linking"
+  ]
+}

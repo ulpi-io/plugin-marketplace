@@ -1,9 +1,0 @@
-{
-  "name": "converting-minikit-to-farcaster",
-  "version": "1.0.0",
-  "description": "converting-minikit-to-farcaster skill from base/skills",
-  "author": {
-    "name": "base"
-  },
-  "repository": "https://github.com/base/skills"
-}

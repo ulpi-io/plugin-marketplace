@@ -1,0 +1,14 @@
+{
+  "name": "robdtaylor",
+  "version": "1.0.0",
+  "description": "1 skills from robdtaylor/personal-ai-infrastructure: businessstrategy",
+  "author": {
+    "name": "robdtaylor"
+  },
+  "repositories": [
+    "https://github.com/robdtaylor/personal-ai-infrastructure"
+  ],
+  "skills": [
+    "businessstrategy"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "pexoai",
+  "version": "1.0.0",
+  "description": "7 skills from pexoai/pexo-skills: videoagent-video-studio, videoagent-image-studio, videoagent-audio-studio, pexo-agent, seedance-2.0-prompter, seedance-2.0-prompter, seedance-prompter",
+  "author": {
+    "name": "pexoai"
+  },
+  "repositories": [
+    "https://github.com/pexoai/pexo-skills"
+  ],
+  "skills": [
+    "videoagent-video-studio",
+    "videoagent-image-studio",
+    "videoagent-audio-studio",
+    "pexo-agent",
+    "seedance-2.0-prompter",
+    "seedance-2.0-prompter",
+    "seedance-prompter"
+  ]
+}

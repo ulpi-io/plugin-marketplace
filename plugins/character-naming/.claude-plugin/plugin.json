@@ -1,9 +1,0 @@
-{
-  "name": "character-naming",
-  "version": "1.0.0",
-  "description": "character-naming skill from jwynia/agent-skills",
-  "author": {
-    "name": "jwynia"
-  },
-  "repository": "https://github.com/jwynia/agent-skills"
-}

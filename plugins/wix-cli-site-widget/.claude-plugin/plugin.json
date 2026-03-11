@@ -1,9 +1,0 @@
-{
-  "name": "wix-cli-site-widget",
-  "version": "1.0.0",
-  "description": "wix-cli-site-widget skill from wix/skills",
-  "author": {
-    "name": "wix"
-  },
-  "repository": "https://github.com/wix/skills"
-}

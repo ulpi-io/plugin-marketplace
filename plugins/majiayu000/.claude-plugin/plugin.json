@@ -1,0 +1,17 @@
+{
+  "name": "majiayu000",
+  "version": "1.0.0",
+  "description": "4 skills from majiayu000/claude-arsenal: product-discovery, app-ui-design, harmonyos-app, github-trending",
+  "author": {
+    "name": "majiayu000"
+  },
+  "repositories": [
+    "https://github.com/majiayu000/claude-arsenal"
+  ],
+  "skills": [
+    "product-discovery",
+    "app-ui-design",
+    "harmonyos-app",
+    "github-trending"
+  ]
+}

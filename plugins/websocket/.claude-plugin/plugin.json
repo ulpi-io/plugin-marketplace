@@ -1,9 +1,0 @@
-{
-  "name": "websocket",
-  "version": "1.0.0",
-  "description": "websocket skill from martinholovsky/claude-skills-generator",
-  "author": {
-    "name": "martinholovsky"
-  },
-  "repository": "https://github.com/martinholovsky/claude-skills-generator"
-}

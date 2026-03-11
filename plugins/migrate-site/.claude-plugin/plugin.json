@@ -1,9 +1,0 @@
-{
-  "name": "migrate-site",
-  "version": "1.0.0",
-  "description": "migrate-site skill from calm-north/seojuice-skills",
-  "author": {
-    "name": "calm-north"
-  },
-  "repository": "https://github.com/calm-north/seojuice-skills"
-}

@@ -1,0 +1,20 @@
+{
+  "name": "letta-ai",
+  "version": "1.0.0",
+  "description": "7 skills from letta-ai/skills: extracting-pdf-text, extracting-pdf-text, video-processing, google-workspace, portfolio-optimization, code-from-image, imessage",
+  "author": {
+    "name": "letta-ai"
+  },
+  "repositories": [
+    "https://github.com/letta-ai/skills"
+  ],
+  "skills": [
+    "extracting-pdf-text",
+    "extracting-pdf-text",
+    "video-processing",
+    "google-workspace",
+    "portfolio-optimization",
+    "code-from-image",
+    "imessage"
+  ]
+}

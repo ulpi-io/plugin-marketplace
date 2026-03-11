@@ -1,9 +1,0 @@
-{
-  "name": "openai-docs",
-  "version": "1.0.0",
-  "description": "openai-docs skill from openai/skills",
-  "author": {
-    "name": "openai"
-  },
-  "repository": "https://github.com/openai/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "product",
-  "version": "1.0.0",
-  "description": "product skill from boshu2/agentops",
-  "author": {
-    "name": "boshu2"
-  },
-  "repository": "https://github.com/boshu2/agentops"
-}

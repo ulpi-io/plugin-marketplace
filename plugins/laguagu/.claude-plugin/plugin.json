@@ -1,0 +1,16 @@
+{
+  "name": "laguagu",
+  "version": "1.0.0",
+  "description": "3 skills from laguagu/claude-code-nextjs-skills: nextjs-seo, nextjs-seo, nextjs-shadcn",
+  "author": {
+    "name": "laguagu"
+  },
+  "repositories": [
+    "https://github.com/laguagu/claude-code-nextjs-skills"
+  ],
+  "skills": [
+    "nextjs-seo",
+    "nextjs-seo",
+    "nextjs-shadcn"
+  ]
+}

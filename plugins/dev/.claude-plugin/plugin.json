@@ -1,9 +1,0 @@
-{
-  "name": "dev",
-  "version": "1.0.0",
-  "description": "dev skill from microsoft/playwright-cli",
-  "author": {
-    "name": "microsoft"
-  },
-  "repository": "https://github.com/microsoft/playwright-cli"
-}

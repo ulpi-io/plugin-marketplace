@@ -1,9 +1,0 @@
-{
-  "name": "seedance-2.0-prompter",
-  "version": "1.0.0",
-  "description": "seedance-2.0-prompter skill from pexoai/pexo-skills",
-  "author": {
-    "name": "pexoai"
-  },
-  "repository": "https://github.com/pexoai/pexo-skills"
-}

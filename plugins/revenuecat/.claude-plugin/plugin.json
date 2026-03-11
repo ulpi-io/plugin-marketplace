@@ -1,9 +1,14 @@
 {
   "name": "revenuecat",
   "version": "1.0.0",
-  "description": "revenuecat skill from revenuecat/revenuecat-skill",
+  "description": "1 skills from revenuecat/revenuecat-skill: revenuecat",
   "author": {
     "name": "revenuecat"
   },
-  "repository": "https://github.com/revenuecat/revenuecat-skill"
+  "repositories": [
+    "https://github.com/revenuecat/revenuecat-skill"
+  ],
+  "skills": [
+    "revenuecat"
+  ]
 }

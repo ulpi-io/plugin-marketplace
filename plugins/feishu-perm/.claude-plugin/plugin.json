@@ -1,9 +1,0 @@
-{
-  "name": "feishu-perm",
-  "version": "1.0.0",
-  "description": "feishu-perm skill from m1heng/clawdbot-feishu",
-  "author": {
-    "name": "m1heng"
-  },
-  "repository": "https://github.com/m1heng/clawdbot-feishu"
-}

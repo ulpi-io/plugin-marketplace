@@ -1,0 +1,15 @@
+{
+  "name": "coollabsio",
+  "version": "1.0.0",
+  "description": "2 skills from coollabsio/coolify: tailwindcss-development, tailwindcss-development",
+  "author": {
+    "name": "coollabsio"
+  },
+  "repositories": [
+    "https://github.com/coollabsio/coolify"
+  ],
+  "skills": [
+    "tailwindcss-development",
+    "tailwindcss-development"
+  ]
+}

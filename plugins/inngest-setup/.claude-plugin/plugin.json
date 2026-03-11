@@ -1,9 +1,0 @@
-{
-  "name": "inngest-setup",
-  "version": "1.0.0",
-  "description": "inngest-setup skill from inngest/inngest-skills",
-  "author": {
-    "name": "inngest"
-  },
-  "repository": "https://github.com/inngest/inngest-skills"
-}

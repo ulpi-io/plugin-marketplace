@@ -1,9 +1,0 @@
-{
-  "name": "nansen-search",
-  "version": "1.0.0",
-  "description": "nansen-search skill from nansen-ai/nansen-cli",
-  "author": {
-    "name": "nansen-ai"
-  },
-  "repository": "https://github.com/nansen-ai/nansen-cli"
-}

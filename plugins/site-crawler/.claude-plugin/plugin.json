@@ -1,9 +1,0 @@
-{
-  "name": "site-crawler",
-  "version": "1.0.0",
-  "description": "site-crawler skill from mindmorass/reflex",
-  "author": {
-    "name": "mindmorass"
-  },
-  "repository": "https://github.com/mindmorass/reflex"
-}

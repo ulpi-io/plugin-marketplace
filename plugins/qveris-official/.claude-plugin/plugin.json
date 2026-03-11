@@ -1,9 +1,0 @@
-{
-  "name": "qveris-official",
-  "version": "1.0.0",
-  "description": "qveris-official skill from qverisai/open-qveris-skills",
-  "author": {
-    "name": "qverisai"
-  },
-  "repository": "https://github.com/qverisai/open-qveris-skills"
-}

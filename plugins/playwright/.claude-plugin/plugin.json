@@ -1,9 +1,0 @@
-{
-  "name": "playwright",
-  "version": "1.0.0",
-  "description": "playwright skill from oakoss/agent-skills",
-  "author": {
-    "name": "oakoss"
-  },
-  "repository": "https://github.com/oakoss/agent-skills"
-}

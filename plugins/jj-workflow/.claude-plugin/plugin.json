@@ -1,9 +1,0 @@
-{
-  "name": "jj-workflow",
-  "version": "1.0.0",
-  "description": "jj-workflow skill from trevors/dot-claude",
-  "author": {
-    "name": "trevors"
-  },
-  "repository": "https://github.com/trevors/dot-claude"
-}

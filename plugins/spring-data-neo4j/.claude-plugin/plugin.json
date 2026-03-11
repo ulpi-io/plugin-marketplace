@@ -1,9 +1,0 @@
-{
-  "name": "spring-data-neo4j",
-  "version": "1.0.0",
-  "description": "spring-data-neo4j skill from giuseppe-trisciuoglio/developer-kit",
-  "author": {
-    "name": "giuseppe-trisciuoglio"
-  },
-  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
-}

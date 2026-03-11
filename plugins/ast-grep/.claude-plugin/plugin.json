@@ -1,9 +1,14 @@
 {
   "name": "ast-grep",
   "version": "1.0.0",
-  "description": "ast-grep skill from ast-grep/agent-skill",
+  "description": "1 skills from ast-grep/agent-skill: ast-grep",
   "author": {
     "name": "ast-grep"
   },
-  "repository": "https://github.com/ast-grep/agent-skill"
+  "repositories": [
+    "https://github.com/ast-grep/agent-skill"
+  ],
+  "skills": [
+    "ast-grep"
+  ]
 }

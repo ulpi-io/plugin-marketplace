@@ -1,9 +1,0 @@
-{
-  "name": "persona-sales-ops",
-  "version": "1.0.0",
-  "description": "persona-sales-ops skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

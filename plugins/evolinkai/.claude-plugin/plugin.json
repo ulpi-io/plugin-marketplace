@@ -1,0 +1,14 @@
+{
+  "name": "evolinkai",
+  "version": "1.0.0",
+  "description": "1 skills from evolinkai/image-generation-skill-for-openclaw: evolink-image",
+  "author": {
+    "name": "evolinkai"
+  },
+  "repositories": [
+    "https://github.com/evolinkai/image-generation-skill-for-openclaw"
+  ],
+  "skills": [
+    "evolink-image"
+  ]
+}

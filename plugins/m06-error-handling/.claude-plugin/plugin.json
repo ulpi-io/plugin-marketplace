@@ -1,9 +1,0 @@
-{
-  "name": "m06-error-handling",
-  "version": "1.0.0",
-  "description": "m06-error-handling skill from zhanghandong/rust-skills",
-  "author": {
-    "name": "zhanghandong"
-  },
-  "repository": "https://github.com/zhanghandong/rust-skills"
-}

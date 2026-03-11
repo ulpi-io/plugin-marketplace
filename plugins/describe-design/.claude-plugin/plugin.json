@@ -1,9 +1,0 @@
-{
-  "name": "describe-design",
-  "version": "1.0.0",
-  "description": "describe-design skill from posit-dev/skills",
-  "author": {
-    "name": "posit-dev"
-  },
-  "repository": "https://github.com/posit-dev/skills"
-}

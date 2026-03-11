@@ -1,9 +1,0 @@
-{
-  "name": "firecrawl-browser",
-  "version": "1.0.0",
-  "description": "firecrawl-browser skill from firecrawl/cli",
-  "author": {
-    "name": "firecrawl"
-  },
-  "repository": "https://github.com/firecrawl/cli"
-}

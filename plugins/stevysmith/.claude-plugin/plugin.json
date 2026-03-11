@@ -1,0 +1,14 @@
+{
+  "name": "stevysmith",
+  "version": "1.0.0",
+  "description": "1 skills from stevysmith/og-image-skill: og-image",
+  "author": {
+    "name": "stevysmith"
+  },
+  "repositories": [
+    "https://github.com/stevysmith/og-image-skill"
+  ],
+  "skills": [
+    "og-image"
+  ]
+}

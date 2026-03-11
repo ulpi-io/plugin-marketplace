@@ -1,9 +1,0 @@
-{
-  "name": "playwright-mcp-dev",
-  "version": "1.0.0",
-  "description": "playwright-mcp-dev skill from microsoft/playwright",
-  "author": {
-    "name": "microsoft"
-  },
-  "repository": "https://github.com/microsoft/playwright"
-}

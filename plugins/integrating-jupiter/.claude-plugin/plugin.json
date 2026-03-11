@@ -1,9 +1,0 @@
-{
-  "name": "integrating-jupiter",
-  "version": "1.0.0",
-  "description": "integrating-jupiter skill from jup-ag/agent-skills",
-  "author": {
-    "name": "jup-ag"
-  },
-  "repository": "https://github.com/jup-ag/agent-skills"
-}

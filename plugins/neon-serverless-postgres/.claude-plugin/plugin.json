@@ -1,9 +1,0 @@
-{
-  "name": "neon-serverless-postgres",
-  "version": "1.0.0",
-  "description": "neon-serverless-postgres skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

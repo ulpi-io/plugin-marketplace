@@ -1,0 +1,16 @@
+{
+  "name": "iamzhihuix",
+  "version": "1.0.0",
+  "description": "3 skills from iamzhihuix/happy-claude-skills: wechat-article-writer, browser, docx-format-replicator",
+  "author": {
+    "name": "iamzhihuix"
+  },
+  "repositories": [
+    "https://github.com/iamzhihuix/happy-claude-skills"
+  ],
+  "skills": [
+    "wechat-article-writer",
+    "browser",
+    "docx-format-replicator"
+  ]
+}

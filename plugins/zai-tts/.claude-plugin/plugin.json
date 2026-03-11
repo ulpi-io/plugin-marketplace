@@ -1,9 +1,0 @@
-{
-  "name": "zai-tts",
-  "version": "1.0.0",
-  "description": "zai-tts skill from aahl/skills",
-  "author": {
-    "name": "aahl"
-  },
-  "repository": "https://github.com/aahl/skills"
-}

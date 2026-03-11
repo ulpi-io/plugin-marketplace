@@ -1,0 +1,32 @@
+{
+  "name": "agricidaniel",
+  "version": "1.0.0",
+  "description": "18 skills from agricidaniel/claude-seo, agricidaniel/claude-ads: seo, seo-sitemap, seo-sitemap, seo-competitor-pages, seo-competitor-pages, seo-audit, seo-audit, seo-geo, seo-geo, seo-hreflang, seo-plan, seo-page, seo-programmatic, seo-content, seo-technical, seo-schema, seo-images, ads-tiktok",
+  "author": {
+    "name": "agricidaniel"
+  },
+  "repositories": [
+    "https://github.com/agricidaniel/claude-seo",
+    "https://github.com/agricidaniel/claude-ads"
+  ],
+  "skills": [
+    "seo",
+    "seo-sitemap",
+    "seo-sitemap",
+    "seo-competitor-pages",
+    "seo-competitor-pages",
+    "seo-audit",
+    "seo-audit",
+    "seo-geo",
+    "seo-geo",
+    "seo-hreflang",
+    "seo-plan",
+    "seo-page",
+    "seo-programmatic",
+    "seo-content",
+    "seo-technical",
+    "seo-schema",
+    "seo-images",
+    "ads-tiktok"
+  ]
+}

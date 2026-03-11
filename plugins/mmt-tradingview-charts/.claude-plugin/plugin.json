@@ -1,9 +1,0 @@
-{
-  "name": "mmt-tradingview-charts",
-  "version": "1.0.0",
-  "description": "mmt-tradingview-charts skill from emeraldls/mmt-agent-skills",
-  "author": {
-    "name": "emeraldls"
-  },
-  "repository": "https://github.com/emeraldls/mmt-agent-skills"
-}

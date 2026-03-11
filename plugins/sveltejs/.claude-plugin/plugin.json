@@ -1,0 +1,15 @@
+{
+  "name": "sveltejs",
+  "version": "1.0.0",
+  "description": "2 skills from sveltejs/mcp: svelte-code-writer, svelte-core-bestpractices",
+  "author": {
+    "name": "sveltejs"
+  },
+  "repositories": [
+    "https://github.com/sveltejs/mcp"
+  ],
+  "skills": [
+    "svelte-code-writer",
+    "svelte-core-bestpractices"
+  ]
+}

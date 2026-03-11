@@ -1,0 +1,16 @@
+{
+  "name": "ratacat",
+  "version": "1.0.0",
+  "description": "3 skills from ratacat/claude-skills: clean-code, clean-code, ripgrep",
+  "author": {
+    "name": "ratacat"
+  },
+  "repositories": [
+    "https://github.com/ratacat/claude-skills"
+  ],
+  "skills": [
+    "clean-code",
+    "clean-code",
+    "ripgrep"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "app-incubator-xyz",
+  "version": "1.0.0",
+  "description": "1 skills from app-incubator-xyz/skill-vetter: skill-vetter",
+  "author": {
+    "name": "app-incubator-xyz"
+  },
+  "repositories": [
+    "https://github.com/app-incubator-xyz/skill-vetter"
+  ],
+  "skills": [
+    "skill-vetter"
+  ]
+}

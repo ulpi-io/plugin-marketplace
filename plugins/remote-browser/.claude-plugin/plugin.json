@@ -1,9 +1,0 @@
-{
-  "name": "remote-browser",
-  "version": "1.0.0",
-  "description": "remote-browser skill from browser-use/browser-use",
-  "author": {
-    "name": "browser-use"
-  },
-  "repository": "https://github.com/browser-use/browser-use"
-}

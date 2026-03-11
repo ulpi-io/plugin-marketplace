@@ -1,0 +1,16 @@
+{
+  "name": "dagster-io",
+  "version": "1.0.0",
+  "description": "2 skills from dagster-io/skills, dagster-io/erk: dagster-integrations, dignified-code-simplifier",
+  "author": {
+    "name": "dagster-io"
+  },
+  "repositories": [
+    "https://github.com/dagster-io/skills",
+    "https://github.com/dagster-io/erk"
+  ],
+  "skills": [
+    "dagster-integrations",
+    "dignified-code-simplifier"
+  ]
+}

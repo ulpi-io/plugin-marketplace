@@ -1,9 +1,0 @@
-{
-  "name": "svelte5-runes-static",
-  "version": "1.0.0",
-  "description": "svelte5-runes-static skill from bobmatnyc/claude-mpm-skills",
-  "author": {
-    "name": "bobmatnyc"
-  },
-  "repository": "https://github.com/bobmatnyc/claude-mpm-skills"
-}

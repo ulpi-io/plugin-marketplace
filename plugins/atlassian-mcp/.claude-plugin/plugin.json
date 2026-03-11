@@ -1,9 +1,0 @@
-{
-  "name": "atlassian-mcp",
-  "version": "1.0.0",
-  "description": "atlassian-mcp skill from jeffallan/claude-skills",
-  "author": {
-    "name": "jeffallan"
-  },
-  "repository": "https://github.com/jeffallan/claude-skills"
-}

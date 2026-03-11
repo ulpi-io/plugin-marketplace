@@ -1,9 +1,21 @@
 {
   "name": "prisma",
   "version": "1.0.0",
-  "description": "prisma skill from mindrally/skills",
+  "description": "8 skills from prisma/skills: prisma-database-setup, prisma-client-api, prisma-cli, prisma-cli, prisma-postgres, prisma-upgrade-v7, prisma-driver-adapter-implementation, prisma-driver-adapter-implementation",
   "author": {
-    "name": "mindrally"
+    "name": "prisma"
   },
-  "repository": "https://github.com/mindrally/skills"
+  "repositories": [
+    "https://github.com/prisma/skills"
+  ],
+  "skills": [
+    "prisma-database-setup",
+    "prisma-client-api",
+    "prisma-cli",
+    "prisma-cli",
+    "prisma-postgres",
+    "prisma-upgrade-v7",
+    "prisma-driver-adapter-implementation",
+    "prisma-driver-adapter-implementation"
+  ]
 }

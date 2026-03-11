@@ -1,9 +1,0 @@
-{
-  "name": "example-skill",
-  "version": "1.0.0",
-  "description": "example-skill skill from anthropics/claude-plugins-official",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/claude-plugins-official"
-}

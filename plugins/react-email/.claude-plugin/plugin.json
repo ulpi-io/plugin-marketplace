@@ -1,9 +1,0 @@
-{
-  "name": "react-email",
-  "version": "1.0.0",
-  "description": "react-email skill from resend/react-email",
-  "author": {
-    "name": "resend"
-  },
-  "repository": "https://github.com/resend/react-email"
-}

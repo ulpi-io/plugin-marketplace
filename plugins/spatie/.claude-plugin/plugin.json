@@ -1,0 +1,17 @@
+{
+  "name": "spatie",
+  "version": "1.0.0",
+  "description": "3 skills from spatie/freek.dev, spatie/ray-skills: livewire-development, ray, pest-testing",
+  "author": {
+    "name": "spatie"
+  },
+  "repositories": [
+    "https://github.com/spatie/freek.dev",
+    "https://github.com/spatie/ray-skills"
+  ],
+  "skills": [
+    "livewire-development",
+    "ray",
+    "pest-testing"
+  ]
+}

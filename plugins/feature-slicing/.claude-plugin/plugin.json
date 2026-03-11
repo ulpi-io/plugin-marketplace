@@ -1,9 +1,0 @@
-{
-  "name": "feature-slicing",
-  "version": "1.0.0",
-  "description": "feature-slicing skill from ccheney/robust-skills",
-  "author": {
-    "name": "ccheney"
-  },
-  "repository": "https://github.com/ccheney/robust-skills"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "ceeon",
+  "version": "1.0.0",
+  "description": "1 skills from ceeon/best-minds: best-minds",
+  "author": {
+    "name": "ceeon"
+  },
+  "repositories": [
+    "https://github.com/ceeon/best-minds"
+  ],
+  "skills": [
+    "best-minds"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "simplify",
-  "version": "1.0.0",
-  "description": "simplify skill from brianlovin/claude-config",
-  "author": {
-    "name": "brianlovin"
-  },
-  "repository": "https://github.com/brianlovin/claude-config"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "parallel-data-enrichment",
-  "version": "1.0.0",
-  "description": "parallel-data-enrichment skill from parallel-web/parallel-agent-skills",
-  "author": {
-    "name": "parallel-web"
-  },
-  "repository": "https://github.com/parallel-web/parallel-agent-skills"
-}

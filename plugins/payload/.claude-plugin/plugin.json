@@ -1,9 +1,0 @@
-{
-  "name": "payload",
-  "version": "1.0.0",
-  "description": "payload skill from payloadcms/payload",
-  "author": {
-    "name": "payloadcms"
-  },
-  "repository": "https://github.com/payloadcms/payload"
-}

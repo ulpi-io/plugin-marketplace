@@ -1,9 +1,0 @@
-{
-  "name": "mastra-embedded-docs-look-up",
-  "version": "1.0.0",
-  "description": "mastra-embedded-docs-look-up skill from mastra-ai/skills",
-  "author": {
-    "name": "mastra-ai"
-  },
-  "repository": "https://github.com/mastra-ai/skills"
-}

@@ -1,0 +1,17 @@
+{
+  "name": "sbroenne",
+  "version": "1.0.0",
+  "description": "4 skills from sbroenne/mcp-server-excel: excel-mcp, excel-mcp, excel-cli, excel-cli",
+  "author": {
+    "name": "sbroenne"
+  },
+  "repositories": [
+    "https://github.com/sbroenne/mcp-server-excel"
+  ],
+  "skills": [
+    "excel-mcp",
+    "excel-mcp",
+    "excel-cli",
+    "excel-cli"
+  ]
+}

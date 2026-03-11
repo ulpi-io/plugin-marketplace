@@ -1,0 +1,16 @@
+{
+  "name": "chjm-ai",
+  "version": "1.0.0",
+  "description": "2 skills from chjm-ai/stock-monitor-skill, chjm-ai/stock-daily-analysis-skill: stock-monitor, stock-daily-analysis",
+  "author": {
+    "name": "chjm-ai"
+  },
+  "repositories": [
+    "https://github.com/chjm-ai/stock-monitor-skill",
+    "https://github.com/chjm-ai/stock-daily-analysis-skill"
+  ],
+  "skills": [
+    "stock-monitor",
+    "stock-daily-analysis"
+  ]
+}

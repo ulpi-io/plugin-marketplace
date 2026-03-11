@@ -1,9 +1,0 @@
-{
-  "name": "trigger-agents",
-  "version": "1.0.0",
-  "description": "trigger-agents skill from triggerdotdev/skills",
-  "author": {
-    "name": "triggerdotdev"
-  },
-  "repository": "https://github.com/triggerdotdev/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "dotnet-framework-4.8-expert",
-  "version": "1.0.0",
-  "description": "dotnet-framework-4.8-expert skill from 404kidwiz/claude-supercode-skills",
-  "author": {
-    "name": "404kidwiz"
-  },
-  "repository": "https://github.com/404kidwiz/claude-supercode-skills"
-}

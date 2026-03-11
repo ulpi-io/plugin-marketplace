@@ -1,9 +1,0 @@
-{
-  "name": "tdd:fix-tests",
-  "version": "1.0.0",
-  "description": "tdd:fix-tests skill from neolabhq/context-engineering-kit",
-  "author": {
-    "name": "neolabhq"
-  },
-  "repository": "https://github.com/neolabhq/context-engineering-kit"
-}

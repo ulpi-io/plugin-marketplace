@@ -1,9 +1,0 @@
-{
-  "name": "web-to-markdown",
-  "version": "1.0.0",
-  "description": "web-to-markdown skill from davila7/claude-code-templates",
-  "author": {
-    "name": "davila7"
-  },
-  "repository": "https://github.com/davila7/claude-code-templates"
-}

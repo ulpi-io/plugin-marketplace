@@ -1,0 +1,14 @@
+{
+  "name": "enderpuentes",
+  "version": "1.0.0",
+  "description": "1 skills from enderpuentes/ai-agent-skills: pagespeed-insights",
+  "author": {
+    "name": "enderpuentes"
+  },
+  "repositories": [
+    "https://github.com/enderpuentes/ai-agent-skills"
+  ],
+  "skills": [
+    "pagespeed-insights"
+  ]
+}

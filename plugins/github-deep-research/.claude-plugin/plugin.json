@@ -1,9 +1,0 @@
-{
-  "name": "github-deep-research",
-  "version": "1.0.0",
-  "description": "github-deep-research skill from bytedance/deer-flow",
-  "author": {
-    "name": "bytedance"
-  },
-  "repository": "https://github.com/bytedance/deer-flow"
-}

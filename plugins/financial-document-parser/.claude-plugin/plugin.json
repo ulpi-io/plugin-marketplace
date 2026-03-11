@@ -1,9 +1,0 @@
-{
-  "name": "financial-document-parser",
-  "version": "1.0.0",
-  "description": "financial-document-parser skill from onewave-ai/claude-skills",
-  "author": {
-    "name": "onewave-ai"
-  },
-  "repository": "https://github.com/onewave-ai/claude-skills"
-}

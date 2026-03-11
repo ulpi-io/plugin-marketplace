@@ -1,9 +1,0 @@
-{
-  "name": "wp-rest-api",
-  "version": "1.0.0",
-  "description": "wp-rest-api skill from wordpress/agent-skills",
-  "author": {
-    "name": "wordpress"
-  },
-  "repository": "https://github.com/wordpress/agent-skills"
-}

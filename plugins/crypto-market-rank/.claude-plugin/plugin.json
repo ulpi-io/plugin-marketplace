@@ -1,9 +1,0 @@
-{
-  "name": "crypto-market-rank",
-  "version": "1.0.0",
-  "description": "crypto-market-rank skill from binance/binance-skills-hub",
-  "author": {
-    "name": "binance"
-  },
-  "repository": "https://github.com/binance/binance-skills-hub"
-}

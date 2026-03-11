@@ -1,9 +1,0 @@
-{
-  "name": "symfony:rate-limiting",
-  "version": "1.0.0",
-  "description": "symfony:rate-limiting skill from makfly/superpowers-symfony",
-  "author": {
-    "name": "makfly"
-  },
-  "repository": "https://github.com/makfly/superpowers-symfony"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "recipe-copy-sheet-for-new-month",
-  "version": "1.0.0",
-  "description": "recipe-copy-sheet-for-new-month skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

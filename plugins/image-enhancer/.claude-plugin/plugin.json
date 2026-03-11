@@ -1,9 +1,0 @@
-{
-  "name": "image-enhancer",
-  "version": "1.0.0",
-  "description": "image-enhancer skill from skillcreatorai/ai-agent-skills",
-  "author": {
-    "name": "skillcreatorai"
-  },
-  "repository": "https://github.com/skillcreatorai/ai-agent-skills"
-}

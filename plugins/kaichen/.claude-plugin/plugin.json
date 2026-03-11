@@ -1,0 +1,14 @@
+{
+  "name": "kaichen",
+  "version": "1.0.0",
+  "description": "1 skills from kaichen/amap-skill: amap",
+  "author": {
+    "name": "kaichen"
+  },
+  "repositories": [
+    "https://github.com/kaichen/amap-skill"
+  ],
+  "skills": [
+    "amap"
+  ]
+}

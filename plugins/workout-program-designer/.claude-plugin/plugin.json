@@ -1,9 +1,0 @@
-{
-  "name": "workout-program-designer",
-  "version": "1.0.0",
-  "description": "workout-program-designer skill from onewave-ai/claude-skills",
-  "author": {
-    "name": "onewave-ai"
-  },
-  "repository": "https://github.com/onewave-ai/claude-skills"
-}

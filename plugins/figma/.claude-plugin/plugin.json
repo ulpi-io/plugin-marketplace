@@ -1,9 +1,16 @@
 {
   "name": "figma",
   "version": "1.0.0",
-  "description": "figma skill from hoodini/ai-agents-skills",
+  "description": "3 skills from figma/mcp-server-guide: implement-design, create-design-system-rules, code-connect-components",
   "author": {
-    "name": "hoodini"
+    "name": "figma"
   },
-  "repository": "https://github.com/hoodini/ai-agents-skills"
+  "repositories": [
+    "https://github.com/figma/mcp-server-guide"
+  ],
+  "skills": [
+    "implement-design",
+    "create-design-system-rules",
+    "code-connect-components"
+  ]
 }

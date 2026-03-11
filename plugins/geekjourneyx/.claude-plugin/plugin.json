@@ -1,0 +1,18 @@
+{
+  "name": "geekjourneyx",
+  "version": "1.0.0",
+  "description": "3 skills from geekjourneyx/mind-skills, geekjourneyx/md2wechat-skill, geekjourneyx/jina-cli: ai-daily, md2wechat, jina-cli",
+  "author": {
+    "name": "geekjourneyx"
+  },
+  "repositories": [
+    "https://github.com/geekjourneyx/mind-skills",
+    "https://github.com/geekjourneyx/md2wechat-skill",
+    "https://github.com/geekjourneyx/jina-cli"
+  ],
+  "skills": [
+    "ai-daily",
+    "md2wechat",
+    "jina-cli"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "openhands",
+  "version": "1.0.0",
+  "description": "3 skills from openhands/skills: ssh, ssh, codereview-roasted",
+  "author": {
+    "name": "openhands"
+  },
+  "repositories": [
+    "https://github.com/openhands/skills"
+  ],
+  "skills": [
+    "ssh",
+    "ssh",
+    "codereview-roasted"
+  ]
+}

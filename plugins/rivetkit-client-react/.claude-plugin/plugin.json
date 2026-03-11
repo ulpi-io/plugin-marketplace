@@ -1,9 +1,0 @@
-{
-  "name": "rivetkit-client-react",
-  "version": "1.0.0",
-  "description": "rivetkit-client-react skill from rivet-dev/skills",
-  "author": {
-    "name": "rivet-dev"
-  },
-  "repository": "https://github.com/rivet-dev/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "mgrep-code-search",
-  "version": "1.0.0",
-  "description": "mgrep-code-search skill from intellectronica/agent-skills",
-  "author": {
-    "name": "intellectronica"
-  },
-  "repository": "https://github.com/intellectronica/agent-skills"
-}

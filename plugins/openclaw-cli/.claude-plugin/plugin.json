@@ -1,9 +1,0 @@
-{
-  "name": "openclaw-cli",
-  "version": "1.0.0",
-  "description": "openclaw-cli skill from irangareddy/openclaw-essentials",
-  "author": {
-    "name": "irangareddy"
-  },
-  "repository": "https://github.com/irangareddy/openclaw-essentials"
-}

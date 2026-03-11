@@ -1,9 +1,0 @@
-{
-  "name": "simplify-and-harden",
-  "version": "1.0.0",
-  "description": "simplify-and-harden skill from pskoett/pskoett-ai-skills",
-  "author": {
-    "name": "pskoett"
-  },
-  "repository": "https://github.com/pskoett/pskoett-ai-skills"
-}

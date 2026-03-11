@@ -1,9 +1,0 @@
-{
-  "name": "interactive-dashboard-builder",
-  "version": "1.0.0",
-  "description": "interactive-dashboard-builder skill from anthropics/knowledge-work-plugins",
-  "author": {
-    "name": "anthropics"
-  },
-  "repository": "https://github.com/anthropics/knowledge-work-plugins"
-}

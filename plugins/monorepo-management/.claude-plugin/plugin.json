@@ -1,9 +1,0 @@
-{
-  "name": "monorepo-management",
-  "version": "1.0.0",
-  "description": "monorepo-management skill from wshobson/agents",
-  "author": {
-    "name": "wshobson"
-  },
-  "repository": "https://github.com/wshobson/agents"
-}

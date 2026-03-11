@@ -1,9 +1,0 @@
-{
-  "name": "debugging-wizard",
-  "version": "1.0.0",
-  "description": "debugging-wizard skill from jeffallan/claude-skills",
-  "author": {
-    "name": "jeffallan"
-  },
-  "repository": "https://github.com/jeffallan/claude-skills"
-}

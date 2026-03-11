@@ -1,0 +1,15 @@
+{
+  "name": "luwill",
+  "version": "1.0.0",
+  "description": "2 skills from luwill/research-skills: medical-imaging-review, research-proposal",
+  "author": {
+    "name": "luwill"
+  },
+  "repositories": [
+    "https://github.com/luwill/research-skills"
+  ],
+  "skills": [
+    "medical-imaging-review",
+    "research-proposal"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "architecture-designer",
-  "version": "1.0.0",
-  "description": "architecture-designer skill from jeffallan/claude-skills",
-  "author": {
-    "name": "jeffallan"
-  },
-  "repository": "https://github.com/jeffallan/claude-skills"
-}

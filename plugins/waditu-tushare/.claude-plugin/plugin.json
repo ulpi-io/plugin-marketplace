@@ -1,0 +1,14 @@
+{
+  "name": "waditu-tushare",
+  "version": "1.0.0",
+  "description": "1 skills from waditu-tushare/skills: tushare",
+  "author": {
+    "name": "waditu-tushare"
+  },
+  "repositories": [
+    "https://github.com/waditu-tushare/skills"
+  ],
+  "skills": [
+    "tushare"
+  ]
+}

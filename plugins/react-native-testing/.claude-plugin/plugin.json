@@ -1,9 +1,0 @@
-{
-  "name": "react-native-testing",
-  "version": "1.0.0",
-  "description": "react-native-testing skill from callstack/react-native-testing-library",
-  "author": {
-    "name": "callstack"
-  },
-  "repository": "https://github.com/callstack/react-native-testing-library"
-}

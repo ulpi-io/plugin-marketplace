@@ -1,9 +1,0 @@
-{
-  "name": "use-dom",
-  "version": "1.0.0",
-  "description": "use-dom skill from expo/skills",
-  "author": {
-    "name": "expo"
-  },
-  "repository": "https://github.com/expo/skills"
-}

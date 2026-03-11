@@ -1,9 +1,0 @@
-{
-  "name": "recipe-find-large-files",
-  "version": "1.0.0",
-  "description": "recipe-find-large-files skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

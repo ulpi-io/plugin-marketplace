@@ -1,9 +1,0 @@
-{
-  "name": "azure-cloud-migrate",
-  "version": "1.0.0",
-  "description": "azure-cloud-migrate skill from microsoft/github-copilot-for-azure",
-  "author": {
-    "name": "microsoft"
-  },
-  "repository": "https://github.com/microsoft/github-copilot-for-azure"
-}

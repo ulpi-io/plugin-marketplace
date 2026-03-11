@@ -1,9 +1,0 @@
-{
-  "name": "create-agent-with-sanity-context",
-  "version": "1.0.0",
-  "description": "create-agent-with-sanity-context skill from sanity-io/agent-context",
-  "author": {
-    "name": "sanity-io"
-  },
-  "repository": "https://github.com/sanity-io/agent-context"
-}

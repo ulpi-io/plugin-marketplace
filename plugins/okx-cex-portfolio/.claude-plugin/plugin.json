@@ -1,9 +1,0 @@
-{
-  "name": "okx-cex-portfolio",
-  "version": "1.0.0",
-  "description": "okx-cex-portfolio skill from okx/agent-skills",
-  "author": {
-    "name": "okx"
-  },
-  "repository": "https://github.com/okx/agent-skills"
-}

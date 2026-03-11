@@ -1,0 +1,14 @@
+{
+  "name": "joelhooks",
+  "version": "1.0.0",
+  "description": "1 skills from joelhooks/joelclaw: cli-design",
+  "author": {
+    "name": "joelhooks"
+  },
+  "repositories": [
+    "https://github.com/joelhooks/joelclaw"
+  ],
+  "skills": [
+    "cli-design"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "go-backend-microservices",
-  "version": "1.0.0",
-  "description": "go-backend-microservices skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

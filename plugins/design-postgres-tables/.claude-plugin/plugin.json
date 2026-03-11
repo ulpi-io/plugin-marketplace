@@ -1,9 +1,0 @@
-{
-  "name": "design-postgres-tables",
-  "version": "1.0.0",
-  "description": "design-postgres-tables skill from timescale/pg-aiguide",
-  "author": {
-    "name": "timescale"
-  },
-  "repository": "https://github.com/timescale/pg-aiguide"
-}

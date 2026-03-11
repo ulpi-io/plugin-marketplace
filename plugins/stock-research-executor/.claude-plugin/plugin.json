@@ -1,9 +1,0 @@
-{
-  "name": "stock-research-executor",
-  "version": "1.0.0",
-  "description": "stock-research-executor skill from liangdabiao/claude-code-stock-deep-research-agent",
-  "author": {
-    "name": "liangdabiao"
-  },
-  "repository": "https://github.com/liangdabiao/claude-code-stock-deep-research-agent"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "tangc",
+  "version": "1.0.0",
+  "description": "1 skills from tangc/tangzhan-skills: tangzhan-skill-opencodeinsights",
+  "author": {
+    "name": "tangc"
+  },
+  "repositories": [
+    "https://github.com/tangc/tangzhan-skills"
+  ],
+  "skills": [
+    "tangzhan-skill-opencodeinsights"
+  ]
+}

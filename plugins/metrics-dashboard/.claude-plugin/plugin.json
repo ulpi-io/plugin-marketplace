@@ -1,9 +1,0 @@
-{
-  "name": "metrics-dashboard",
-  "version": "1.0.0",
-  "description": "metrics-dashboard skill from phuryn/pm-skills",
-  "author": {
-    "name": "phuryn"
-  },
-  "repository": "https://github.com/phuryn/pm-skills"
-}

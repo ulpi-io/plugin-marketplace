@@ -1,9 +1,0 @@
-{
-  "name": "gpt-image-1-5",
-  "version": "1.0.0",
-  "description": "gpt-image-1-5 skill from intellectronica/agent-skills",
-  "author": {
-    "name": "intellectronica"
-  },
-  "repository": "https://github.com/intellectronica/agent-skills"
-}

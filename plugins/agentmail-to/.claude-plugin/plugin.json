@@ -1,0 +1,14 @@
+{
+  "name": "agentmail-to",
+  "version": "1.0.0",
+  "description": "1 skills from agentmail-to/agentmail-skills: agentmail",
+  "author": {
+    "name": "agentmail-to"
+  },
+  "repositories": [
+    "https://github.com/agentmail-to/agentmail-skills"
+  ],
+  "skills": [
+    "agentmail"
+  ]
+}

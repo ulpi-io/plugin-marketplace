@@ -1,9 +1,0 @@
-{
-  "name": "geospatial-postgis-patterns",
-  "version": "1.0.0",
-  "description": "geospatial-postgis-patterns skill from linehaul-ai/linehaulai-claude-marketplace",
-  "author": {
-    "name": "linehaul-ai"
-  },
-  "repository": "https://github.com/linehaul-ai/linehaulai-claude-marketplace"
-}

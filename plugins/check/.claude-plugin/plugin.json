@@ -1,9 +1,0 @@
-{
-  "name": "check",
-  "version": "1.0.0",
-  "description": "check skill from continuedev/skills",
-  "author": {
-    "name": "continuedev"
-  },
-  "repository": "https://github.com/continuedev/skills"
-}

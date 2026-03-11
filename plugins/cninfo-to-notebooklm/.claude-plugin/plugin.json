@@ -1,9 +1,0 @@
-{
-  "name": "cninfo-to-notebooklm",
-  "version": "1.0.0",
-  "description": "cninfo-to-notebooklm skill from jarodise/cninfo2notebookllm",
-  "author": {
-    "name": "jarodise"
-  },
-  "repository": "https://github.com/jarodise/cninfo2notebookllm"
-}

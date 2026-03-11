@@ -1,9 +1,0 @@
-{
-  "name": "whatsapp-flows",
-  "version": "1.0.0",
-  "description": "whatsapp-flows skill from gokapso/agent-skills",
-  "author": {
-    "name": "gokapso"
-  },
-  "repository": "https://github.com/gokapso/agent-skills"
-}

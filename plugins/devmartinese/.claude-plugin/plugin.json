@@ -1,0 +1,15 @@
+{
+  "name": "devmartinese",
+  "version": "1.0.0",
+  "description": "2 skills from devmartinese/awwwards-animations-skill: awwwards-animations, awwwards-animations",
+  "author": {
+    "name": "devmartinese"
+  },
+  "repositories": [
+    "https://github.com/devmartinese/awwwards-animations-skill"
+  ],
+  "skills": [
+    "awwwards-animations",
+    "awwwards-animations"
+  ]
+}

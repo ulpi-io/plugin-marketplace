@@ -1,0 +1,37 @@
+{
+  "name": "incept5",
+  "version": "1.0.0",
+  "description": "24 skills from incept5/eve-skillpacks: eve-web-ui-testing-agent-browser, eve-orchestration, eve-job-lifecycle, eve-new-project-setup, eve-auth-and-secrets, eve-skill-distillation, eve-local-dev-loop, eve-troubleshooting, eve-project-bootstrap, eve-deploy-debugging, eve-plan-implementation, eve-job-debugging, eve-cli-primitives, eve-read-eve-docs, eve-repo-upkeep, eve-manifest-authoring, eve-se-index, eve-pipelines-workflows, eve-bootstrap, sync-horizon, eve-agent-native-design, eve-agent-memory, eve-agentic-app-design, eve-fullstack-app-design",
+  "author": {
+    "name": "incept5"
+  },
+  "repositories": [
+    "https://github.com/incept5/eve-skillpacks"
+  ],
+  "skills": [
+    "eve-web-ui-testing-agent-browser",
+    "eve-orchestration",
+    "eve-job-lifecycle",
+    "eve-new-project-setup",
+    "eve-auth-and-secrets",
+    "eve-skill-distillation",
+    "eve-local-dev-loop",
+    "eve-troubleshooting",
+    "eve-project-bootstrap",
+    "eve-deploy-debugging",
+    "eve-plan-implementation",
+    "eve-job-debugging",
+    "eve-cli-primitives",
+    "eve-read-eve-docs",
+    "eve-repo-upkeep",
+    "eve-manifest-authoring",
+    "eve-se-index",
+    "eve-pipelines-workflows",
+    "eve-bootstrap",
+    "sync-horizon",
+    "eve-agent-native-design",
+    "eve-agent-memory",
+    "eve-agentic-app-design",
+    "eve-fullstack-app-design"
+  ]
+}

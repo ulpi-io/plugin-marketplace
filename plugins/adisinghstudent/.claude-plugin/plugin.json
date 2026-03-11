@@ -1,0 +1,15 @@
+{
+  "name": "adisinghstudent",
+  "version": "1.0.0",
+  "description": "2 skills from adisinghstudent/easyclaw: openclaw-config, openclaw-config",
+  "author": {
+    "name": "adisinghstudent"
+  },
+  "repositories": [
+    "https://github.com/adisinghstudent/easyclaw"
+  ],
+  "skills": [
+    "openclaw-config",
+    "openclaw-config"
+  ]
+}

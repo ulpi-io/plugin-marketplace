@@ -1,9 +1,0 @@
-{
-  "name": "default-workflow",
-  "version": "1.0.0",
-  "description": "default-workflow skill from rysweet/amplihack",
-  "author": {
-    "name": "rysweet"
-  },
-  "repository": "https://github.com/rysweet/amplihack"
-}

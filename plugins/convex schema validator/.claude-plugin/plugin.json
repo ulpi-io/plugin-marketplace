@@ -1,9 +1,0 @@
-{
-  "name": "convex schema validator",
-  "version": "1.0.0",
-  "description": "convex schema validator skill from waynesutton/convexskills",
-  "author": {
-    "name": "waynesutton"
-  },
-  "repository": "https://github.com/waynesutton/convexskills"
-}

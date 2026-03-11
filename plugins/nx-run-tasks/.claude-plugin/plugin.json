@@ -1,9 +1,0 @@
-{
-  "name": "nx-run-tasks",
-  "version": "1.0.0",
-  "description": "nx-run-tasks skill from nrwl/nx-ai-agents-config",
-  "author": {
-    "name": "nrwl"
-  },
-  "repository": "https://github.com/nrwl/nx-ai-agents-config"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "agentica-claude-proxy",
-  "version": "1.0.0",
-  "description": "agentica-claude-proxy skill from parcadei/continuous-claude-v3",
-  "author": {
-    "name": "parcadei"
-  },
-  "repository": "https://github.com/parcadei/continuous-claude-v3"
-}

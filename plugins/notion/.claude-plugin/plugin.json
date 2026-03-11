@@ -1,9 +1,0 @@
-{
-  "name": "notion",
-  "version": "1.0.0",
-  "description": "notion skill from steipete/clawdis",
-  "author": {
-    "name": "steipete"
-  },
-  "repository": "https://github.com/steipete/clawdis"
-}

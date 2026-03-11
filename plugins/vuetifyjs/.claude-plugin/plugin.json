@@ -1,0 +1,14 @@
+{
+  "name": "vuetifyjs",
+  "version": "1.0.0",
+  "description": "1 skills from vuetifyjs/0: vuetify0",
+  "author": {
+    "name": "vuetifyjs"
+  },
+  "repositories": [
+    "https://github.com/vuetifyjs/0"
+  ],
+  "skills": [
+    "vuetify0"
+  ]
+}

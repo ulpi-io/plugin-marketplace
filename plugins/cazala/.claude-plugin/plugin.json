@@ -1,0 +1,14 @@
+{
+  "name": "cazala",
+  "version": "1.0.0",
+  "description": "1 skills from cazala/webgpu-skill: webgpu",
+  "author": {
+    "name": "cazala"
+  },
+  "repositories": [
+    "https://github.com/cazala/webgpu-skill"
+  ],
+  "skills": [
+    "webgpu"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "implementing-agent-modes",
-  "version": "1.0.0",
-  "description": "implementing-agent-modes skill from posthog/posthog",
-  "author": {
-    "name": "posthog"
-  },
-  "repository": "https://github.com/posthog/posthog"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "ms365-tenant-manager",
-  "version": "1.0.0",
-  "description": "ms365-tenant-manager skill from alirezarezvani/claude-skills",
-  "author": {
-    "name": "alirezarezvani"
-  },
-  "repository": "https://github.com/alirezarezvani/claude-skills"
-}

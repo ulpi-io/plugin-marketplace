@@ -1,0 +1,23 @@
+{
+  "name": "prowler-cloud",
+  "version": "1.0.0",
+  "description": "10 skills from prowler-cloud/prowler: zod-4, zod-4, tailwind-4, react-19, zustand-5, django-drf, typescript, playwright, nextjs-15, skill-sync",
+  "author": {
+    "name": "prowler-cloud"
+  },
+  "repositories": [
+    "https://github.com/prowler-cloud/prowler"
+  ],
+  "skills": [
+    "zod-4",
+    "zod-4",
+    "tailwind-4",
+    "react-19",
+    "zustand-5",
+    "django-drf",
+    "typescript",
+    "playwright",
+    "nextjs-15",
+    "skill-sync"
+  ]
+}

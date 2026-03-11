@@ -1,9 +1,0 @@
-{
-  "name": "clerk-custom-ui",
-  "version": "1.0.0",
-  "description": "clerk-custom-ui skill from clerk/skills",
-  "author": {
-    "name": "clerk"
-  },
-  "repository": "https://github.com/clerk/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "dd-logs",
-  "version": "1.0.0",
-  "description": "dd-logs skill from datadog-labs/agent-skills",
-  "author": {
-    "name": "datadog-labs"
-  },
-  "repository": "https://github.com/datadog-labs/agent-skills"
-}

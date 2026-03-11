@@ -1,0 +1,25 @@
+{
+  "name": "automattic",
+  "version": "1.0.0",
+  "description": "12 skills from automattic/agent-skills: wp-plugin-development, wordpress-router, wp-block-themes, wp-block-development, wp-wpcli-and-ops, wp-performance, wp-phpstan, wp-project-triage, wp-abilities-api, wp-playground, wp-interactivity-api, wpds",
+  "author": {
+    "name": "automattic"
+  },
+  "repositories": [
+    "https://github.com/automattic/agent-skills"
+  ],
+  "skills": [
+    "wp-plugin-development",
+    "wordpress-router",
+    "wp-block-themes",
+    "wp-block-development",
+    "wp-wpcli-and-ops",
+    "wp-performance",
+    "wp-phpstan",
+    "wp-project-triage",
+    "wp-abilities-api",
+    "wp-playground",
+    "wp-interactivity-api",
+    "wpds"
+  ]
+}

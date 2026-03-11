@@ -1,0 +1,19 @@
+{
+  "name": "nansen-ai",
+  "version": "1.0.0",
+  "description": "6 skills from nansen-ai/nansen-cli: nansen-smart-money, nansen-search, nansen-token, nansen-profiler, nansen-wallet, nansen-trade",
+  "author": {
+    "name": "nansen-ai"
+  },
+  "repositories": [
+    "https://github.com/nansen-ai/nansen-cli"
+  ],
+  "skills": [
+    "nansen-smart-money",
+    "nansen-search",
+    "nansen-token",
+    "nansen-profiler",
+    "nansen-wallet",
+    "nansen-trade"
+  ]
+}

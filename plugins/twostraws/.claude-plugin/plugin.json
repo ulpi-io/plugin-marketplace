@@ -1,0 +1,15 @@
+{
+  "name": "twostraws",
+  "version": "1.0.0",
+  "description": "2 skills from twostraws/swiftui-agent-skill: swiftui-pro, swiftui-pro",
+  "author": {
+    "name": "twostraws"
+  },
+  "repositories": [
+    "https://github.com/twostraws/swiftui-agent-skill"
+  ],
+  "skills": [
+    "swiftui-pro",
+    "swiftui-pro"
+  ]
+}

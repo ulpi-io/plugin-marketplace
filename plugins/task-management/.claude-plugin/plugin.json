@@ -1,9 +1,0 @@
-{
-  "name": "task-management",
-  "version": "1.0.0",
-  "description": "task-management skill from jwilger/agent-skills",
-  "author": {
-    "name": "jwilger"
-  },
-  "repository": "https://github.com/jwilger/agent-skills"
-}

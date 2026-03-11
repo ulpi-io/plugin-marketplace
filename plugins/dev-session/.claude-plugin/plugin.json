@@ -1,9 +1,0 @@
-{
-  "name": "dev-session",
-  "version": "1.0.0",
-  "description": "dev-session skill from jezweb/claude-skills",
-  "author": {
-    "name": "jezweb"
-  },
-  "repository": "https://github.com/jezweb/claude-skills"
-}

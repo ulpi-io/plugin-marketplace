@@ -1,9 +1,0 @@
-{
-  "name": "web-payments",
-  "version": "1.0.0",
-  "description": "web-payments skill from alinaqi/claude-bootstrap",
-  "author": {
-    "name": "alinaqi"
-  },
-  "repository": "https://github.com/alinaqi/claude-bootstrap"
-}

@@ -1,0 +1,14 @@
+{
+  "name": "mohitmishra786",
+  "version": "1.0.0",
+  "description": "1 skills from mohitmishra786/low-level-dev-skills: cmake",
+  "author": {
+    "name": "mohitmishra786"
+  },
+  "repositories": [
+    "https://github.com/mohitmishra786/low-level-dev-skills"
+  ],
+  "skills": [
+    "cmake"
+  ]
+}

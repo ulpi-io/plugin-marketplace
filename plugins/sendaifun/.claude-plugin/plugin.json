@@ -1,0 +1,16 @@
+{
+  "name": "sendaifun",
+  "version": "1.0.0",
+  "description": "3 skills from sendaifun/skills: solana-kit, helius, pumpfun",
+  "author": {
+    "name": "sendaifun"
+  },
+  "repositories": [
+    "https://github.com/sendaifun/skills"
+  ],
+  "skills": [
+    "solana-kit",
+    "helius",
+    "pumpfun"
+  ]
+}

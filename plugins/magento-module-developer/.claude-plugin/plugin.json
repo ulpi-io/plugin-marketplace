@@ -1,9 +1,0 @@
-{
-  "name": "magento-module-developer",
-  "version": "1.0.0",
-  "description": "magento-module-developer skill from maxnorm/magento2-agent-skills",
-  "author": {
-    "name": "maxnorm"
-  },
-  "repository": "https://github.com/maxnorm/magento2-agent-skills"
-}

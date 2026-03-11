@@ -1,0 +1,15 @@
+{
+  "name": "chongdashu",
+  "version": "1.0.0",
+  "description": "2 skills from chongdashu/phaserjs-tinyswords: phaser-gamedev, phaser-gamedev",
+  "author": {
+    "name": "chongdashu"
+  },
+  "repositories": [
+    "https://github.com/chongdashu/phaserjs-tinyswords"
+  ],
+  "skills": [
+    "phaser-gamedev",
+    "phaser-gamedev"
+  ]
+}

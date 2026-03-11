@@ -1,0 +1,14 @@
+{
+  "name": "trsoliu",
+  "version": "1.0.0",
+  "description": "1 skills from trsoliu/mini-wiki: mini-wiki",
+  "author": {
+    "name": "trsoliu"
+  },
+  "repositories": [
+    "https://github.com/trsoliu/mini-wiki"
+  ],
+  "skills": [
+    "mini-wiki"
+  ]
+}

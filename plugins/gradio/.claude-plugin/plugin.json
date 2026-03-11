@@ -1,9 +1,0 @@
-{
-  "name": "gradio",
-  "version": "1.0.0",
-  "description": "gradio skill from huggingface/skills",
-  "author": {
-    "name": "huggingface"
-  },
-  "repository": "https://github.com/huggingface/skills"
-}

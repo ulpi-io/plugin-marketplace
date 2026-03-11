@@ -1,9 +1,0 @@
-{
-  "name": "csv-excel-merger",
-  "version": "1.0.0",
-  "description": "csv-excel-merger skill from onewave-ai/claude-skills",
-  "author": {
-    "name": "onewave-ai"
-  },
-  "repository": "https://github.com/onewave-ai/claude-skills"
-}

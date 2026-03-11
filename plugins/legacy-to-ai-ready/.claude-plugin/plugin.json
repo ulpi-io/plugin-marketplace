@@ -1,9 +1,0 @@
-{
-  "name": "legacy-to-ai-ready",
-  "version": "1.0.0",
-  "description": "legacy-to-ai-ready skill from nicepkg/ai-workflow",
-  "author": {
-    "name": "nicepkg"
-  },
-  "repository": "https://github.com/nicepkg/ai-workflow"
-}

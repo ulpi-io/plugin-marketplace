@@ -1,9 +1,0 @@
-{
-  "name": "backtest",
-  "version": "1.0.0",
-  "description": "backtest skill from marketcalls/vectorbt-backtesting-skills",
-  "author": {
-    "name": "marketcalls"
-  },
-  "repository": "https://github.com/marketcalls/vectorbt-backtesting-skills"
-}

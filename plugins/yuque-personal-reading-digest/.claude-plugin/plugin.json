@@ -1,9 +1,0 @@
-{
-  "name": "yuque-personal-reading-digest",
-  "version": "1.0.0",
-  "description": "yuque-personal-reading-digest skill from yuque/yuque-plugin",
-  "author": {
-    "name": "yuque"
-  },
-  "repository": "https://github.com/yuque/yuque-plugin"
-}

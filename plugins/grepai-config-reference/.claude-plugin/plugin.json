@@ -1,9 +1,0 @@
-{
-  "name": "grepai-config-reference",
-  "version": "1.0.0",
-  "description": "grepai-config-reference skill from yoanbernabeu/grepai-skills",
-  "author": {
-    "name": "yoanbernabeu"
-  },
-  "repository": "https://github.com/yoanbernabeu/grepai-skills"
-}

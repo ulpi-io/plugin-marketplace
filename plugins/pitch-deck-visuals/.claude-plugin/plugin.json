@@ -1,9 +1,0 @@
-{
-  "name": "pitch-deck-visuals",
-  "version": "1.0.0",
-  "description": "pitch-deck-visuals skill from inference-sh/skills",
-  "author": {
-    "name": "inference-sh"
-  },
-  "repository": "https://github.com/inference-sh/skills"
-}

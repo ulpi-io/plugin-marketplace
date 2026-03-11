@@ -1,9 +1,0 @@
-{
-  "name": "gdpr-ccpa-privacy-auditor",
-  "version": "1.0.0",
-  "description": "gdpr-ccpa-privacy-auditor skill from jorgealves/agent_skills",
-  "author": {
-    "name": "jorgealves"
-  },
-  "repository": "https://github.com/jorgealves/agent_skills"
-}

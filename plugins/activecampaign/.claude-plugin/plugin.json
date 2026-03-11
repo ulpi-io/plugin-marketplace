@@ -1,0 +1,15 @@
+{
+  "name": "activecampaign",
+  "version": "1.0.0",
+  "description": "2 skills from activecampaign/postmark-skills: postmark, postmark",
+  "author": {
+    "name": "activecampaign"
+  },
+  "repositories": [
+    "https://github.com/activecampaign/postmark-skills"
+  ],
+  "skills": [
+    "postmark",
+    "postmark"
+  ]
+}

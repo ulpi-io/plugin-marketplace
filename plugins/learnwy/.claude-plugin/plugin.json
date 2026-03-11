@@ -1,0 +1,15 @@
+{
+  "name": "learnwy",
+  "version": "1.0.0",
+  "description": "2 skills from learnwy/skills: memory-manager, english-learner",
+  "author": {
+    "name": "learnwy"
+  },
+  "repositories": [
+    "https://github.com/learnwy/skills"
+  ],
+  "skills": [
+    "memory-manager",
+    "english-learner"
+  ]
+}

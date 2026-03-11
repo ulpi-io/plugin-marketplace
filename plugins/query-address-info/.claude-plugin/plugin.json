@@ -1,9 +1,0 @@
-{
-  "name": "query-address-info",
-  "version": "1.0.0",
-  "description": "query-address-info skill from binance/binance-skills-hub",
-  "author": {
-    "name": "binance"
-  },
-  "repository": "https://github.com/binance/binance-skills-hub"
-}

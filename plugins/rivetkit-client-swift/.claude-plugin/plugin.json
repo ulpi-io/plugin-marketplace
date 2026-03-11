@@ -1,9 +1,0 @@
-{
-  "name": "rivetkit-client-swift",
-  "version": "1.0.0",
-  "description": "rivetkit-client-swift skill from rivet-dev/skills",
-  "author": {
-    "name": "rivet-dev"
-  },
-  "repository": "https://github.com/rivet-dev/skills"
-}

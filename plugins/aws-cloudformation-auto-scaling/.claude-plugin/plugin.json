@@ -1,9 +1,0 @@
-{
-  "name": "aws-cloudformation-auto-scaling",
-  "version": "1.0.0",
-  "description": "aws-cloudformation-auto-scaling skill from giuseppe-trisciuoglio/developer-kit",
-  "author": {
-    "name": "giuseppe-trisciuoglio"
-  },
-  "repository": "https://github.com/giuseppe-trisciuoglio/developer-kit"
-}

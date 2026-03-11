@@ -1,9 +1,0 @@
-{
-  "name": "supabase-python",
-  "version": "1.0.0",
-  "description": "supabase-python skill from alinaqi/claude-bootstrap",
-  "author": {
-    "name": "alinaqi"
-  },
-  "repository": "https://github.com/alinaqi/claude-bootstrap"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "quick-stats",
-  "version": "1.0.0",
-  "description": "quick-stats skill from marketcalls/vectorbt-backtesting-skills",
-  "author": {
-    "name": "marketcalls"
-  },
-  "repository": "https://github.com/marketcalls/vectorbt-backtesting-skills"
-}

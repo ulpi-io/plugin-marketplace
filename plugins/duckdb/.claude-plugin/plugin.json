@@ -1,9 +1,0 @@
-{
-  "name": "duckdb",
-  "version": "1.0.0",
-  "description": "duckdb skill from silvainfm/claude-skills",
-  "author": {
-    "name": "silvainfm"
-  },
-  "repository": "https://github.com/silvainfm/claude-skills"
-}

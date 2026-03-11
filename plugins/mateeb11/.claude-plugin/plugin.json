@@ -1,0 +1,14 @@
+{
+  "name": "mateeb11",
+  "version": "1.0.0",
+  "description": "1 skills from mateeb11/weather-forecast: weather-skill",
+  "author": {
+    "name": "mateeb11"
+  },
+  "repositories": [
+    "https://github.com/mateeb11/weather-forecast"
+  ],
+  "skills": [
+    "weather-skill"
+  ]
+}

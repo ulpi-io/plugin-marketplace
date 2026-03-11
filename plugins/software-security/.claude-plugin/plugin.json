@@ -1,9 +1,0 @@
-{
-  "name": "software-security",
-  "version": "1.0.0",
-  "description": "software-security skill from cosai-oasis/project-codeguard",
-  "author": {
-    "name": "cosai-oasis"
-  },
-  "repository": "https://github.com/cosai-oasis/project-codeguard"
-}

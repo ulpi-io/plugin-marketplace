@@ -1,9 +1,0 @@
-{
-  "name": "s3",
-  "version": "1.0.0",
-  "description": "s3 skill from itsmostafa/aws-agent-skills",
-  "author": {
-    "name": "itsmostafa"
-  },
-  "repository": "https://github.com/itsmostafa/aws-agent-skills"
-}

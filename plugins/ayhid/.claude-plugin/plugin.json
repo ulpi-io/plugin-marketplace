@@ -1,0 +1,14 @@
+{
+  "name": "ayhid",
+  "version": "1.0.0",
+  "description": "1 skills from ayhid/claude-skill-strapi-expert: strapi-expert",
+  "author": {
+    "name": "ayhid"
+  },
+  "repositories": [
+    "https://github.com/ayhid/claude-skill-strapi-expert"
+  ],
+  "skills": [
+    "strapi-expert"
+  ]
+}

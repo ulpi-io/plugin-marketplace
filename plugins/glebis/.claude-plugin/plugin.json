@@ -1,0 +1,17 @@
+{
+  "name": "glebis",
+  "version": "1.0.0",
+  "description": "4 skills from glebis/claude-skills: google-image-search, firecrawl-research, elevenlabs-tts, presentation-generator",
+  "author": {
+    "name": "glebis"
+  },
+  "repositories": [
+    "https://github.com/glebis/claude-skills"
+  ],
+  "skills": [
+    "google-image-search",
+    "firecrawl-research",
+    "elevenlabs-tts",
+    "presentation-generator"
+  ]
+}

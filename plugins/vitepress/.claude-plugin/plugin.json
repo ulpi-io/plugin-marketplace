@@ -1,9 +1,0 @@
-{
-  "name": "vitepress",
-  "version": "1.0.0",
-  "description": "vitepress skill from antfu/skills",
-  "author": {
-    "name": "antfu"
-  },
-  "repository": "https://github.com/antfu/skills"
-}

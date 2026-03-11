@@ -1,0 +1,17 @@
+{
+  "name": "travisjneuman",
+  "version": "1.0.0",
+  "description": "4 skills from travisjneuman/.claude: document-skills, brand-identity, macos-native, generic-react-ux-designer",
+  "author": {
+    "name": "travisjneuman"
+  },
+  "repositories": [
+    "https://github.com/travisjneuman/.claude"
+  ],
+  "skills": [
+    "document-skills",
+    "brand-identity",
+    "macos-native",
+    "generic-react-ux-designer"
+  ]
+}

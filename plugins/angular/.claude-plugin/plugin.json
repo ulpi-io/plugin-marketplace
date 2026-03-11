@@ -1,9 +1,17 @@
 {
   "name": "angular",
   "version": "1.0.0",
-  "description": "angular skill from sickn33/antigravity-awesome-skills",
+  "description": "4 skills from angular/angular: reference-core, reference-signal-forms, reference-compiler-cli, adev-writing-guide",
   "author": {
-    "name": "sickn33"
+    "name": "angular"
   },
-  "repository": "https://github.com/sickn33/antigravity-awesome-skills"
+  "repositories": [
+    "https://github.com/angular/angular"
+  ],
+  "skills": [
+    "reference-core",
+    "reference-signal-forms",
+    "reference-compiler-cli",
+    "adev-writing-guide"
+  ]
 }

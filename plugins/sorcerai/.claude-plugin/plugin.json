@@ -1,0 +1,14 @@
+{
+  "name": "sorcerai",
+  "version": "1.0.0",
+  "description": "1 skills from sorcerai/moltbook-skill: moltbook",
+  "author": {
+    "name": "sorcerai"
+  },
+  "repositories": [
+    "https://github.com/sorcerai/moltbook-skill"
+  ],
+  "skills": [
+    "moltbook"
+  ]
+}

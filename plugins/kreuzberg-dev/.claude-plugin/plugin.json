@@ -1,0 +1,14 @@
+{
+  "name": "kreuzberg-dev",
+  "version": "1.0.0",
+  "description": "1 skills from kreuzberg-dev/kreuzberg: kreuzberg",
+  "author": {
+    "name": "kreuzberg-dev"
+  },
+  "repositories": [
+    "https://github.com/kreuzberg-dev/kreuzberg"
+  ],
+  "skills": [
+    "kreuzberg"
+  ]
+}

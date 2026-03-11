@@ -1,9 +1,0 @@
-{
-  "name": "ai-content-pipeline",
-  "version": "1.0.0",
-  "description": "ai-content-pipeline skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

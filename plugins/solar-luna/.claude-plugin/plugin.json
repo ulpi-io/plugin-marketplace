@@ -1,0 +1,14 @@
+{
+  "name": "solar-luna",
+  "version": "1.0.0",
+  "description": "1 skills from solar-luna/fully-automatic-article-generation-skill: xiaohongshu-publisher",
+  "author": {
+    "name": "solar-luna"
+  },
+  "repositories": [
+    "https://github.com/solar-luna/fully-automatic-article-generation-skill"
+  ],
+  "skills": [
+    "xiaohongshu-publisher"
+  ]
+}

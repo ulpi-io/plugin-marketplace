@@ -1,9 +1,0 @@
-{
-  "name": "authoring-skills",
-  "version": "1.0.0",
-  "description": "authoring-skills skill from vercel/next.js",
-  "author": {
-    "name": "vercel"
-  },
-  "repository": "https://github.com/vercel/next.js"
-}

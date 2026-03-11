@@ -1,9 +1,0 @@
-{
-  "name": "shipping-products",
-  "version": "1.0.0",
-  "description": "shipping-products skill from refoundai/lenny-skills",
-  "author": {
-    "name": "refoundai"
-  },
-  "repository": "https://github.com/refoundai/lenny-skills"
-}

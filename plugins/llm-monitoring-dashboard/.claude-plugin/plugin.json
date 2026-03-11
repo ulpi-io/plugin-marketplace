@@ -1,9 +1,0 @@
-{
-  "name": "llm-monitoring-dashboard",
-  "version": "1.0.0",
-  "description": "llm-monitoring-dashboard skill from supercent-io/skills-template",
-  "author": {
-    "name": "supercent-io"
-  },
-  "repository": "https://github.com/supercent-io/skills-template"
-}

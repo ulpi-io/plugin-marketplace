@@ -1,9 +1,0 @@
-{
-  "name": "api-resource-patterns",
-  "version": "1.0.0",
-  "description": "api-resource-patterns skill from iserter/laravel-claude-agents",
-  "author": {
-    "name": "iserter"
-  },
-  "repository": "https://github.com/iserter/laravel-claude-agents"
-}

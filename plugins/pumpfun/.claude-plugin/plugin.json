@@ -1,9 +1,0 @@
-{
-  "name": "pumpfun",
-  "version": "1.0.0",
-  "description": "pumpfun skill from sendaifun/skills",
-  "author": {
-    "name": "sendaifun"
-  },
-  "repository": "https://github.com/sendaifun/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "auth-tool-cloudbase",
-  "version": "1.0.0",
-  "description": "auth-tool-cloudbase skill from tencentcloudbase/skills",
-  "author": {
-    "name": "tencentcloudbase"
-  },
-  "repository": "https://github.com/tencentcloudbase/skills"
-}

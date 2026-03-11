@@ -1,9 +1,0 @@
-{
-  "name": "brave-search",
-  "version": "1.0.0",
-  "description": "brave-search skill from badlogic/pi-skills",
-  "author": {
-    "name": "badlogic"
-  },
-  "repository": "https://github.com/badlogic/pi-skills"
-}

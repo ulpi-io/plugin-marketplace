@@ -1,9 +1,0 @@
-{
-  "name": "stock-question-refiner",
-  "version": "1.0.0",
-  "description": "stock-question-refiner skill from liangdabiao/claude-code-stock-deep-research-agent",
-  "author": {
-    "name": "liangdabiao"
-  },
-  "repository": "https://github.com/liangdabiao/claude-code-stock-deep-research-agent"
-}

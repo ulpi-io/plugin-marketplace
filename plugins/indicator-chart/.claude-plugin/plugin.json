@@ -1,9 +1,0 @@
-{
-  "name": "indicator-chart",
-  "version": "1.0.0",
-  "description": "indicator-chart skill from marketcalls/openalgo-indicator-skills",
-  "author": {
-    "name": "marketcalls"
-  },
-  "repository": "https://github.com/marketcalls/openalgo-indicator-skills"
-}

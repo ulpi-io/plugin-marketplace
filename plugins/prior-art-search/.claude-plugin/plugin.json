@@ -1,9 +1,0 @@
-{
-  "name": "prior-art-search",
-  "version": "1.0.0",
-  "description": "prior-art-search skill from robthepcguy/claude-patent-creator",
-  "author": {
-    "name": "robthepcguy"
-  },
-  "repository": "https://github.com/robthepcguy/claude-patent-creator"
-}

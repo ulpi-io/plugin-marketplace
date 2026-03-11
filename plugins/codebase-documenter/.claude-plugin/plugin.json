@@ -1,9 +1,0 @@
-{
-  "name": "codebase-documenter",
-  "version": "1.0.0",
-  "description": "codebase-documenter skill from mhattingpete/claude-skills-marketplace",
-  "author": {
-    "name": "mhattingpete"
-  },
-  "repository": "https://github.com/mhattingpete/claude-skills-marketplace"
-}

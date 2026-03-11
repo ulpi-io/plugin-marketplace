@@ -1,9 +1,0 @@
-{
-  "name": "nestjs-queue-architect",
-  "version": "1.0.0",
-  "description": "nestjs-queue-architect skill from shipshitdev/library",
-  "author": {
-    "name": "shipshitdev"
-  },
-  "repository": "https://github.com/shipshitdev/library"
-}

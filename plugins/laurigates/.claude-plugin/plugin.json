@@ -1,0 +1,19 @@
+{
+  "name": "laurigates",
+  "version": "1.0.0",
+  "description": "6 skills from laurigates/claude-plugins: python-code-quality, python-code-quality, ruff-linting, imagemagick-conversion, python-development, jq-json-processing",
+  "author": {
+    "name": "laurigates"
+  },
+  "repositories": [
+    "https://github.com/laurigates/claude-plugins"
+  ],
+  "skills": [
+    "python-code-quality",
+    "python-code-quality",
+    "ruff-linting",
+    "imagemagick-conversion",
+    "python-development",
+    "jq-json-processing"
+  ]
+}

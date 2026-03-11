@@ -1,9 +1,0 @@
-{
-  "name": "mermaid-tools",
-  "version": "1.0.0",
-  "description": "mermaid-tools skill from daymade/claude-code-skills",
-  "author": {
-    "name": "daymade"
-  },
-  "repository": "https://github.com/daymade/claude-code-skills"
-}

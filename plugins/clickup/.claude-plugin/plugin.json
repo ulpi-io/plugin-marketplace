@@ -1,9 +1,0 @@
-{
-  "name": "clickup",
-  "version": "1.0.0",
-  "description": "clickup skill from civitai/civitai",
-  "author": {
-    "name": "civitai"
-  },
-  "repository": "https://github.com/civitai/civitai"
-}

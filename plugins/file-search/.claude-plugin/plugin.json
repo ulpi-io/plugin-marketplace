@@ -1,9 +1,0 @@
-{
-  "name": "file-search",
-  "version": "1.0.0",
-  "description": "file-search skill from 0xdarkmatter/claude-mods",
-  "author": {
-    "name": "0xdarkmatter"
-  },
-  "repository": "https://github.com/0xdarkmatter/claude-mods"
-}

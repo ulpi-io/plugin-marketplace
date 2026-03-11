@@ -1,0 +1,33 @@
+{
+  "name": "vm0-ai",
+  "version": "1.0.0",
+  "description": "20 skills from vm0-ai/vm0-skills: google-sheets, google-sheets, apify, apify, serpapi, hackernews, lark, minimax, instagram, firecrawl, discord-webhook, cloudinary, browserless, deepseek, minio, bitrix, cloudflare-tunnel, scrapeninja, discord, pdf4me",
+  "author": {
+    "name": "vm0-ai"
+  },
+  "repositories": [
+    "https://github.com/vm0-ai/vm0-skills"
+  ],
+  "skills": [
+    "google-sheets",
+    "google-sheets",
+    "apify",
+    "apify",
+    "serpapi",
+    "hackernews",
+    "lark",
+    "minimax",
+    "instagram",
+    "firecrawl",
+    "discord-webhook",
+    "cloudinary",
+    "browserless",
+    "deepseek",
+    "minio",
+    "bitrix",
+    "cloudflare-tunnel",
+    "scrapeninja",
+    "discord",
+    "pdf4me"
+  ]
+}

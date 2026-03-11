@@ -1,9 +1,0 @@
-{
-  "name": "ln-770-crosscutting-setup",
-  "version": "1.0.0",
-  "description": "ln-770-crosscutting-setup skill from levnikolaevich/claude-code-skills",
-  "author": {
-    "name": "levnikolaevich"
-  },
-  "repository": "https://github.com/levnikolaevich/claude-code-skills"
-}

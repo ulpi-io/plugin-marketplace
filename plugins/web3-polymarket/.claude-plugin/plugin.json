@@ -1,9 +1,0 @@
-{
-  "name": "web3-polymarket",
-  "version": "1.0.0",
-  "description": "web3-polymarket skill from polymarket/agent-skills",
-  "author": {
-    "name": "polymarket"
-  },
-  "repository": "https://github.com/polymarket/agent-skills"
-}

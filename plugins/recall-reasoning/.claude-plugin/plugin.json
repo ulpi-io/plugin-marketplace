@@ -1,9 +1,0 @@
-{
-  "name": "recall-reasoning",
-  "version": "1.0.0",
-  "description": "recall-reasoning skill from parcadei/continuous-claude-v3",
-  "author": {
-    "name": "parcadei"
-  },
-  "repository": "https://github.com/parcadei/continuous-claude-v3"
-}

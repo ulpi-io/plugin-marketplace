@@ -1,0 +1,14 @@
+{
+  "name": "quiknode-labs",
+  "version": "1.0.0",
+  "description": "1 skills from quiknode-labs/solana-anchor-claude-skill: solana-anchor-claude-skill",
+  "author": {
+    "name": "quiknode-labs"
+  },
+  "repositories": [
+    "https://github.com/quiknode-labs/solana-anchor-claude-skill"
+  ],
+  "skills": [
+    "solana-anchor-claude-skill"
+  ]
+}

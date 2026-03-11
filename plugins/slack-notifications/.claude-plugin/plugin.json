@@ -1,9 +1,0 @@
-{
-  "name": "slack-notifications",
-  "version": "1.0.0",
-  "description": "slack-notifications skill from oimiragieo/agent-studio",
-  "author": {
-    "name": "oimiragieo"
-  },
-  "repository": "https://github.com/oimiragieo/agent-studio"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "pulumi-cdk-to-pulumi",
-  "version": "1.0.0",
-  "description": "pulumi-cdk-to-pulumi skill from pulumi/agent-skills",
-  "author": {
-    "name": "pulumi"
-  },
-  "repository": "https://github.com/pulumi/agent-skills"
-}

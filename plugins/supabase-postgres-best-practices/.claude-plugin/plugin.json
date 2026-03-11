@@ -1,9 +1,0 @@
-{
-  "name": "supabase-postgres-best-practices",
-  "version": "1.0.0",
-  "description": "supabase-postgres-best-practices skill from supabase/agent-skills",
-  "author": {
-    "name": "supabase"
-  },
-  "repository": "https://github.com/supabase/agent-skills"
-}

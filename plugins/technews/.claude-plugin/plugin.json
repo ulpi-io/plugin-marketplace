@@ -1,9 +1,0 @@
-{
-  "name": "technews",
-  "version": "1.0.0",
-  "description": "technews skill from kesslerio/technews-openclaw-skill",
-  "author": {
-    "name": "kesslerio"
-  },
-  "repository": "https://github.com/kesslerio/technews-openclaw-skill"
-}

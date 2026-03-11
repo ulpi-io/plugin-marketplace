@@ -1,9 +1,0 @@
-{
-  "name": "excalidraw",
-  "version": "1.0.0",
-  "description": "excalidraw skill from softaworks/agent-toolkit",
-  "author": {
-    "name": "softaworks"
-  },
-  "repository": "https://github.com/softaworks/agent-toolkit"
-}

@@ -1,0 +1,17 @@
+{
+  "name": "ahmedasmar",
+  "version": "1.0.0",
+  "description": "4 skills from ahmedasmar/devops-claude-skills: monitoring-observability, monitoring-observability, ci-cd, aws-cost-finops",
+  "author": {
+    "name": "ahmedasmar"
+  },
+  "repositories": [
+    "https://github.com/ahmedasmar/devops-claude-skills"
+  ],
+  "skills": [
+    "monitoring-observability",
+    "monitoring-observability",
+    "ci-cd",
+    "aws-cost-finops"
+  ]
+}

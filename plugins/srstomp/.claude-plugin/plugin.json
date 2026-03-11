@@ -1,0 +1,15 @@
+{
+  "name": "srstomp",
+  "version": "1.0.0",
+  "description": "2 skills from srstomp/pokayokay: architecture-review, figma-plugin",
+  "author": {
+    "name": "srstomp"
+  },
+  "repositories": [
+    "https://github.com/srstomp/pokayokay"
+  ],
+  "skills": [
+    "architecture-review",
+    "figma-plugin"
+  ]
+}

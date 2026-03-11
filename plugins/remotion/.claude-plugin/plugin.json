@@ -1,9 +1,0 @@
-{
-  "name": "remotion",
-  "version": "1.0.0",
-  "description": "remotion skill from google-labs-code/stitch-skills",
-  "author": {
-    "name": "google-labs-code"
-  },
-  "repository": "https://github.com/google-labs-code/stitch-skills"
-}

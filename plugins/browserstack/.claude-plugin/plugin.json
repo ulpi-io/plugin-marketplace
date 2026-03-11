@@ -1,9 +1,0 @@
-{
-  "name": "browserstack",
-  "version": "1.0.0",
-  "description": "browserstack skill from alirezarezvani/claude-skills",
-  "author": {
-    "name": "alirezarezvani"
-  },
-  "repository": "https://github.com/alirezarezvani/claude-skills"
-}

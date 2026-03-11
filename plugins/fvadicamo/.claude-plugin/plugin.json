@@ -1,0 +1,19 @@
+{
+  "name": "fvadicamo",
+  "version": "1.0.0",
+  "description": "6 skills from fvadicamo/dev-agent-skills: github-pr-review, github-pr-review, git-commit, github-pr-merge, github-pr-creation, creating-skills",
+  "author": {
+    "name": "fvadicamo"
+  },
+  "repositories": [
+    "https://github.com/fvadicamo/dev-agent-skills"
+  ],
+  "skills": [
+    "github-pr-review",
+    "github-pr-review",
+    "git-commit",
+    "github-pr-merge",
+    "github-pr-creation",
+    "creating-skills"
+  ]
+}

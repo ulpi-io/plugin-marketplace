@@ -1,9 +1,0 @@
-{
-  "name": "skill-create",
-  "version": "1.0.0",
-  "description": "skill-create skill from skillscatalog/registry",
-  "author": {
-    "name": "skillscatalog"
-  },
-  "repository": "https://github.com/skillscatalog/registry"
-}

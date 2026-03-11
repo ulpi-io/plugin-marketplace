@@ -1,0 +1,14 @@
+{
+  "name": "drillan",
+  "version": "1.0.0",
+  "description": "1 skills from drillan/speckit-gates: progress-report",
+  "author": {
+    "name": "drillan"
+  },
+  "repositories": [
+    "https://github.com/drillan/speckit-gates"
+  ],
+  "skills": [
+    "progress-report"
+  ]
+}

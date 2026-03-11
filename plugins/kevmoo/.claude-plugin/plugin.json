@@ -1,0 +1,15 @@
+{
+  "name": "kevmoo",
+  "version": "1.0.0",
+  "description": "2 skills from kevmoo/dash_skills: dart-best-practices, dart-test-fundamentals",
+  "author": {
+    "name": "kevmoo"
+  },
+  "repositories": [
+    "https://github.com/kevmoo/dash_skills"
+  ],
+  "skills": [
+    "dart-best-practices",
+    "dart-test-fundamentals"
+  ]
+}

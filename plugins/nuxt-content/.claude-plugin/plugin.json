@@ -1,9 +1,17 @@
 {
   "name": "nuxt-content",
   "version": "1.0.0",
-  "description": "nuxt-content skill from nuxt-content/nuxt-studio",
+  "description": "3 skills from nuxt-content/docus, nuxt-content/nuxt-studio: create-docs, create-docs, nuxt-content",
   "author": {
     "name": "nuxt-content"
   },
-  "repository": "https://github.com/nuxt-content/nuxt-studio"
+  "repositories": [
+    "https://github.com/nuxt-content/docus",
+    "https://github.com/nuxt-content/nuxt-studio"
+  ],
+  "skills": [
+    "create-docs",
+    "create-docs",
+    "nuxt-content"
+  ]
 }

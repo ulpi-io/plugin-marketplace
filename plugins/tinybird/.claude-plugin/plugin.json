@@ -1,9 +1,0 @@
-{
-  "name": "tinybird",
-  "version": "1.0.0",
-  "description": "tinybird skill from tinybirdco/tinybird-agent-skills",
-  "author": {
-    "name": "tinybirdco"
-  },
-  "repository": "https://github.com/tinybirdco/tinybird-agent-skills"
-}

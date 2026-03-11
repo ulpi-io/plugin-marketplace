@@ -1,9 +1,0 @@
-{
-  "name": "chat-with-anyone",
-  "version": "1.0.0",
-  "description": "chat-with-anyone skill from noizai/skills",
-  "author": {
-    "name": "noizai"
-  },
-  "repository": "https://github.com/noizai/skills"
-}

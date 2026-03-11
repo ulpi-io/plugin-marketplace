@@ -1,0 +1,15 @@
+{
+  "name": "2ykwang",
+  "version": "1.0.0",
+  "description": "2 skills from 2ykwang/agent-skills: html-visual, write-pr",
+  "author": {
+    "name": "2ykwang"
+  },
+  "repositories": [
+    "https://github.com/2ykwang/agent-skills"
+  ],
+  "skills": [
+    "html-visual",
+    "write-pr"
+  ]
+}

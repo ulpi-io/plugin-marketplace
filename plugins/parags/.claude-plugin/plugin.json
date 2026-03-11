@@ -1,0 +1,14 @@
+{
+  "name": "parags",
+  "version": "1.0.0",
+  "description": "1 skills from parags/deep-research-pro: deep-research-pro",
+  "author": {
+    "name": "parags"
+  },
+  "repositories": [
+    "https://github.com/parags/deep-research-pro"
+  ],
+  "skills": [
+    "deep-research-pro"
+  ]
+}

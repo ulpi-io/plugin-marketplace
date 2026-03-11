@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-backup-hbr",
-  "version": "1.0.0",
-  "description": "alicloud-backup-hbr skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

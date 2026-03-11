@@ -1,9 +1,0 @@
-{
-  "name": "flyctl",
-  "version": "1.0.0",
-  "description": "flyctl skill from sebastiaanwouters/dotagents",
-  "author": {
-    "name": "sebastiaanwouters"
-  },
-  "repository": "https://github.com/sebastiaanwouters/dotagents"
-}

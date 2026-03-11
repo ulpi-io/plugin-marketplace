@@ -1,9 +1,0 @@
-{
-  "name": "create-auth-skill",
-  "version": "1.0.0",
-  "description": "create-auth-skill skill from better-auth/skills",
-  "author": {
-    "name": "better-auth"
-  },
-  "repository": "https://github.com/better-auth/skills"
-}

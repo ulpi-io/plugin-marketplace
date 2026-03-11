@@ -1,0 +1,15 @@
+{
+  "name": "rhavekost",
+  "version": "1.0.0",
+  "description": "2 skills from rhavekost/author-toolkit: fiction-workshop, fiction-workshop",
+  "author": {
+    "name": "rhavekost"
+  },
+  "repositories": [
+    "https://github.com/rhavekost/author-toolkit"
+  ],
+  "skills": [
+    "fiction-workshop",
+    "fiction-workshop"
+  ]
+}

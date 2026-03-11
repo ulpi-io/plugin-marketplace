@@ -1,9 +1,0 @@
-{
-  "name": "adk-scaffold",
-  "version": "1.0.0",
-  "description": "adk-scaffold skill from google/adk-docs",
-  "author": {
-    "name": "google"
-  },
-  "repository": "https://github.com/google/adk-docs"
-}

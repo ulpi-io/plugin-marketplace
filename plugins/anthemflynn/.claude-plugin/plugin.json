@@ -1,0 +1,15 @@
+{
+  "name": "anthemflynn",
+  "version": "1.0.0",
+  "description": "2 skills from anthemflynn/ccmp: react-three-fiber, react-three-fiber",
+  "author": {
+    "name": "anthemflynn"
+  },
+  "repositories": [
+    "https://github.com/anthemflynn/ccmp"
+  ],
+  "skills": [
+    "react-three-fiber",
+    "react-three-fiber"
+  ]
+}

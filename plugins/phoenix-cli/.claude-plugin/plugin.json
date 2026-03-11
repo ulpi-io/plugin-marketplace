@@ -1,9 +1,0 @@
-{
-  "name": "phoenix-cli",
-  "version": "1.0.0",
-  "description": "phoenix-cli skill from arize-ai/phoenix",
-  "author": {
-    "name": "arize-ai"
-  },
-  "repository": "https://github.com/arize-ai/phoenix"
-}

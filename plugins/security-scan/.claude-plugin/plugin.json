@@ -1,9 +1,0 @@
-{
-  "name": "security-scan",
-  "version": "1.0.0",
-  "description": "security-scan skill from affaan-m/everything-claude-code",
-  "author": {
-    "name": "affaan-m"
-  },
-  "repository": "https://github.com/affaan-m/everything-claude-code"
-}

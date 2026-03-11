@@ -1,0 +1,16 @@
+{
+  "name": "eddiebe147",
+  "version": "1.0.0",
+  "description": "3 skills from eddiebe147/claude-settings: supabase-expert, copywriter, performance-optimization",
+  "author": {
+    "name": "eddiebe147"
+  },
+  "repositories": [
+    "https://github.com/eddiebe147/claude-settings"
+  ],
+  "skills": [
+    "supabase-expert",
+    "copywriter",
+    "performance-optimization"
+  ]
+}

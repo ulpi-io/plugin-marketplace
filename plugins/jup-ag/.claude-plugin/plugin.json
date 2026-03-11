@@ -1,0 +1,14 @@
+{
+  "name": "jup-ag",
+  "version": "1.0.0",
+  "description": "1 skills from jup-ag/agent-skills: integrating-jupiter",
+  "author": {
+    "name": "jup-ag"
+  },
+  "repositories": [
+    "https://github.com/jup-ag/agent-skills"
+  ],
+  "skills": [
+    "integrating-jupiter"
+  ]
+}

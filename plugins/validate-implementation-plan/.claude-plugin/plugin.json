@@ -1,9 +1,0 @@
-{
-  "name": "validate-implementation-plan",
-  "version": "1.0.0",
-  "description": "validate-implementation-plan skill from b-mendoza/agent-skills",
-  "author": {
-    "name": "b-mendoza"
-  },
-  "repository": "https://github.com/b-mendoza/agent-skills"
-}

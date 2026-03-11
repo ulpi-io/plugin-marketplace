@@ -1,9 +1,0 @@
-{
-  "name": "tavily-web",
-  "version": "1.0.0",
-  "description": "tavily-web skill from benedictking/tavily-web",
-  "author": {
-    "name": "benedictking"
-  },
-  "repository": "https://github.com/benedictking/tavily-web"
-}

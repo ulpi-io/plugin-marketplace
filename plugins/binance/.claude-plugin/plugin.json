@@ -1,0 +1,24 @@
+{
+  "name": "binance",
+  "version": "1.0.0",
+  "description": "11 skills from binance/binance-skills-hub: crypto-market-rank, trading-signal, trading-signal, query-token-info, query-token-info, spot, meme-rush, meme-rush, query-address-info, query-token-audit, square-post",
+  "author": {
+    "name": "binance"
+  },
+  "repositories": [
+    "https://github.com/binance/binance-skills-hub"
+  ],
+  "skills": [
+    "crypto-market-rank",
+    "trading-signal",
+    "trading-signal",
+    "query-token-info",
+    "query-token-info",
+    "spot",
+    "meme-rush",
+    "meme-rush",
+    "query-address-info",
+    "query-token-audit",
+    "square-post"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "belumume",
+  "version": "1.0.0",
+  "description": "1 skills from belumume/claude-skills: ralph-loop",
+  "author": {
+    "name": "belumume"
+  },
+  "repositories": [
+    "https://github.com/belumume/claude-skills"
+  ],
+  "skills": [
+    "ralph-loop"
+  ]
+}

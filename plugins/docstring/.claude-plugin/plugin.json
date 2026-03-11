@@ -1,9 +1,0 @@
-{
-  "name": "docstring",
-  "version": "1.0.0",
-  "description": "docstring skill from pytorch/pytorch",
-  "author": {
-    "name": "pytorch"
-  },
-  "repository": "https://github.com/pytorch/pytorch"
-}

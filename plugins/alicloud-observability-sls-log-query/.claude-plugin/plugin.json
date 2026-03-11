@@ -1,9 +1,0 @@
-{
-  "name": "alicloud-observability-sls-log-query",
-  "version": "1.0.0",
-  "description": "alicloud-observability-sls-log-query skill from cinience/alicloud-skills",
-  "author": {
-    "name": "cinience"
-  },
-  "repository": "https://github.com/cinience/alicloud-skills"
-}

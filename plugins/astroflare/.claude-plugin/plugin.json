@@ -1,9 +1,0 @@
-{
-  "name": "astroflare",
-  "version": "1.0.0",
-  "description": "astroflare skill from siviter-xyz/dot-agent",
-  "author": {
-    "name": "siviter-xyz"
-  },
-  "repository": "https://github.com/siviter-xyz/dot-agent"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "explore-recipes",
-  "version": "1.0.0",
-  "description": "explore-recipes skill from signerlabs/shipswift-skills",
-  "author": {
-    "name": "signerlabs"
-  },
-  "repository": "https://github.com/signerlabs/shipswift-skills"
-}

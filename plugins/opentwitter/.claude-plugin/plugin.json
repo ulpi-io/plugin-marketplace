@@ -1,9 +1,0 @@
-{
-  "name": "opentwitter",
-  "version": "1.0.0",
-  "description": "opentwitter skill from 6551team/opentwitter-mcp",
-  "author": {
-    "name": "6551team"
-  },
-  "repository": "https://github.com/6551team/opentwitter-mcp"
-}

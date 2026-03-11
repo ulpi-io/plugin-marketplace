@@ -1,9 +1,0 @@
-{
-  "name": "elevenlabs-tts",
-  "version": "1.0.0",
-  "description": "elevenlabs-tts skill from glebis/claude-skills",
-  "author": {
-    "name": "glebis"
-  },
-  "repository": "https://github.com/glebis/claude-skills"
-}

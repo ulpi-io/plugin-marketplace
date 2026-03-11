@@ -1,0 +1,14 @@
+{
+  "name": "bear2u",
+  "version": "1.0.0",
+  "description": "1 skills from bear2u/my-skills: landing-page-guide-v2",
+  "author": {
+    "name": "bear2u"
+  },
+  "repositories": [
+    "https://github.com/bear2u/my-skills"
+  ],
+  "skills": [
+    "landing-page-guide-v2"
+  ]
+}

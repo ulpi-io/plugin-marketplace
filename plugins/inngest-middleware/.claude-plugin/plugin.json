@@ -1,9 +1,0 @@
-{
-  "name": "inngest-middleware",
-  "version": "1.0.0",
-  "description": "inngest-middleware skill from inngest/inngest-skills",
-  "author": {
-    "name": "inngest"
-  },
-  "repository": "https://github.com/inngest/inngest-skills"
-}

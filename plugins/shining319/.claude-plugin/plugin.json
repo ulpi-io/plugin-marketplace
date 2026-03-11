@@ -1,0 +1,14 @@
+{
+  "name": "shining319",
+  "version": "1.0.0",
+  "description": "1 skills from shining319/claude-code-single-person-workflow: academic-writing-style",
+  "author": {
+    "name": "shining319"
+  },
+  "repositories": [
+    "https://github.com/shining319/claude-code-single-person-workflow"
+  ],
+  "skills": [
+    "academic-writing-style"
+  ]
+}

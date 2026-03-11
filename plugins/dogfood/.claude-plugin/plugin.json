@@ -1,9 +1,0 @@
-{
-  "name": "dogfood",
-  "version": "1.0.0",
-  "description": "dogfood skill from vercel-labs/agent-browser",
-  "author": {
-    "name": "vercel-labs"
-  },
-  "repository": "https://github.com/vercel-labs/agent-browser"
-}

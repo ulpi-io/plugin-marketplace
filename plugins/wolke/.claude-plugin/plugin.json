@@ -1,0 +1,16 @@
+{
+  "name": "wolke",
+  "version": "1.0.0",
+  "description": "2 skills from wolke/bazi-mingli, wolke/ziwei-doushu: bazi-mingli, ziwei-doushu",
+  "author": {
+    "name": "wolke"
+  },
+  "repositories": [
+    "https://github.com/wolke/bazi-mingli",
+    "https://github.com/wolke/ziwei-doushu"
+  ],
+  "skills": [
+    "bazi-mingli",
+    "ziwei-doushu"
+  ]
+}

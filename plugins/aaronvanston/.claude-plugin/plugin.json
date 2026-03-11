@@ -1,0 +1,15 @@
+{
+  "name": "aaronvanston",
+  "version": "1.0.0",
+  "description": "2 skills from aaronvanston/skills-presentations: presentation-content, presentation-design",
+  "author": {
+    "name": "aaronvanston"
+  },
+  "repositories": [
+    "https://github.com/aaronvanston/skills-presentations"
+  ],
+  "skills": [
+    "presentation-content",
+    "presentation-design"
+  ]
+}

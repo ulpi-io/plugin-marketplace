@@ -1,9 +1,0 @@
-{
-  "name": "nuxt-ui",
-  "version": "1.0.0",
-  "description": "nuxt-ui skill from nuxt/ui",
-  "author": {
-    "name": "nuxt"
-  },
-  "repository": "https://github.com/nuxt/ui"
-}

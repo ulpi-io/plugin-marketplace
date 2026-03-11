@@ -1,9 +1,0 @@
-{
-  "name": "workos-authkit-nextjs",
-  "version": "1.0.0",
-  "description": "workos-authkit-nextjs skill from workos/skills",
-  "author": {
-    "name": "workos"
-  },
-  "repository": "https://github.com/workos/skills"
-}

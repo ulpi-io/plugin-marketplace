@@ -1,9 +1,0 @@
-{
-  "name": "og-image-design",
-  "version": "1.0.0",
-  "description": "og-image-design skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

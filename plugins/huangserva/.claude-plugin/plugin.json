@@ -1,0 +1,16 @@
+{
+  "name": "huangserva",
+  "version": "1.0.0",
+  "description": "3 skills from huangserva/skill-prompt-generator: intelligent-prompt-generator, universal-learner, prompt-analyzer",
+  "author": {
+    "name": "huangserva"
+  },
+  "repositories": [
+    "https://github.com/huangserva/skill-prompt-generator"
+  ],
+  "skills": [
+    "intelligent-prompt-generator",
+    "universal-learner",
+    "prompt-analyzer"
+  ]
+}

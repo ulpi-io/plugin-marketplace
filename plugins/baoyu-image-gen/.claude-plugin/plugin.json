@@ -1,9 +1,0 @@
-{
-  "name": "baoyu-image-gen",
-  "version": "1.0.0",
-  "description": "baoyu-image-gen skill from jimliu/baoyu-skills",
-  "author": {
-    "name": "jimliu"
-  },
-  "repository": "https://github.com/jimliu/baoyu-skills"
-}

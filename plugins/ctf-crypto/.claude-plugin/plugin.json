@@ -1,9 +1,0 @@
-{
-  "name": "ctf-crypto",
-  "version": "1.0.0",
-  "description": "ctf-crypto skill from cyberkaida/reverse-engineering-assistant",
-  "author": {
-    "name": "cyberkaida"
-  },
-  "repository": "https://github.com/cyberkaida/reverse-engineering-assistant"
-}

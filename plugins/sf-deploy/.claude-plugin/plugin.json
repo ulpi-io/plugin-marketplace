@@ -1,9 +1,0 @@
-{
-  "name": "sf-deploy",
-  "version": "1.0.0",
-  "description": "sf-deploy skill from jaganpro/sf-skills",
-  "author": {
-    "name": "jaganpro"
-  },
-  "repository": "https://github.com/jaganpro/sf-skills"
-}

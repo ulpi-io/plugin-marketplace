@@ -1,0 +1,17 @@
+{
+  "name": "timelessco",
+  "version": "1.0.0",
+  "description": "4 skills from timelessco/recollect: postgresql-psql, nextjs, supabase-expert, tailwindcss",
+  "author": {
+    "name": "timelessco"
+  },
+  "repositories": [
+    "https://github.com/timelessco/recollect"
+  ],
+  "skills": [
+    "postgresql-psql",
+    "nextjs",
+    "supabase-expert",
+    "tailwindcss"
+  ]
+}

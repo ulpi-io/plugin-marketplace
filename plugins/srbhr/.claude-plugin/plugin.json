@@ -1,0 +1,21 @@
+{
+  "name": "srbhr",
+  "version": "1.0.0",
+  "description": "8 skills from srbhr/resume-matcher: nextjs15-performance, fastapi, fastapi, tailwind-patterns, design-principles, navigator, react-patterns, receiving-code-review",
+  "author": {
+    "name": "srbhr"
+  },
+  "repositories": [
+    "https://github.com/srbhr/resume-matcher"
+  ],
+  "skills": [
+    "nextjs15-performance",
+    "fastapi",
+    "fastapi",
+    "tailwind-patterns",
+    "design-principles",
+    "navigator",
+    "react-patterns",
+    "receiving-code-review"
+  ]
+}

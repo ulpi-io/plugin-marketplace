@@ -1,9 +1,0 @@
-{
-  "name": "flags-sdk",
-  "version": "1.0.0",
-  "description": "flags-sdk skill from vercel/flags",
-  "author": {
-    "name": "vercel"
-  },
-  "repository": "https://github.com/vercel/flags"
-}

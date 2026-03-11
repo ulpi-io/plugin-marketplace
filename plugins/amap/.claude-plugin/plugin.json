@@ -1,9 +1,0 @@
-{
-  "name": "amap",
-  "version": "1.0.0",
-  "description": "amap skill from kaichen/amap-skill",
-  "author": {
-    "name": "kaichen"
-  },
-  "repository": "https://github.com/kaichen/amap-skill"
-}

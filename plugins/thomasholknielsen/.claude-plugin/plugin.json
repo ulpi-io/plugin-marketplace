@@ -1,0 +1,14 @@
+{
+  "name": "thomasholknielsen",
+  "version": "1.0.0",
+  "description": "1 skills from thomasholknielsen/claude-code-config: websearch-deep",
+  "author": {
+    "name": "thomasholknielsen"
+  },
+  "repositories": [
+    "https://github.com/thomasholknielsen/claude-code-config"
+  ],
+  "skills": [
+    "websearch-deep"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "setup-pre-commit",
-  "version": "1.0.0",
-  "description": "setup-pre-commit skill from mattpocock/skills",
-  "author": {
-    "name": "mattpocock"
-  },
-  "repository": "https://github.com/mattpocock/skills"
-}

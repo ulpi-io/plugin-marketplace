@@ -1,9 +1,0 @@
-{
-  "name": "neon-drizzle-setup",
-  "version": "1.0.0",
-  "description": "neon-drizzle-setup skill from andrelandgraf/fullstackrecipes",
-  "author": {
-    "name": "andrelandgraf"
-  },
-  "repository": "https://github.com/andrelandgraf/fullstackrecipes"
-}

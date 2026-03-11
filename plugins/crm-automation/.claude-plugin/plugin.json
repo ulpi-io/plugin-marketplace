@@ -1,9 +1,0 @@
-{
-  "name": "crm-automation",
-  "version": "1.0.0",
-  "description": "crm-automation skill from claude-office-skills/skills",
-  "author": {
-    "name": "claude-office-skills"
-  },
-  "repository": "https://github.com/claude-office-skills/skills"
-}

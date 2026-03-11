@@ -1,9 +1,0 @@
-{
-  "name": "websh",
-  "version": "1.0.0",
-  "description": "websh skill from openprose/prose",
-  "author": {
-    "name": "openprose"
-  },
-  "repository": "https://github.com/openprose/prose"
-}

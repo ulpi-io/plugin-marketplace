@@ -1,9 +1,0 @@
-{
-  "name": "xiaohongshu-search-summarizer",
-  "version": "1.0.0",
-  "description": "xiaohongshu-search-summarizer skill from piekill/xiaohongshu-summarizer-skill",
-  "author": {
-    "name": "piekill"
-  },
-  "repository": "https://github.com/piekill/xiaohongshu-summarizer-skill"
-}

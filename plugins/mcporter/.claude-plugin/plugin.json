@@ -1,9 +1,0 @@
-{
-  "name": "mcporter",
-  "version": "1.0.0",
-  "description": "mcporter skill from steipete/clawdis",
-  "author": {
-    "name": "steipete"
-  },
-  "repository": "https://github.com/steipete/clawdis"
-}

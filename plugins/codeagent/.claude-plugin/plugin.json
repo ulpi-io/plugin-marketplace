@@ -1,9 +1,0 @@
-{
-  "name": "codeagent",
-  "version": "1.0.0",
-  "description": "codeagent skill from cexll/myclaude",
-  "author": {
-    "name": "cexll"
-  },
-  "repository": "https://github.com/cexll/myclaude"
-}

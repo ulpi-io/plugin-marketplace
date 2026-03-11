@@ -1,0 +1,17 @@
+{
+  "name": "lotosbin",
+  "version": "1.0.0",
+  "description": "4 skills from lotosbin/claude-skills: ui-ux-designer, legal-advisor, legal-advisor, product-manager",
+  "author": {
+    "name": "lotosbin"
+  },
+  "repositories": [
+    "https://github.com/lotosbin/claude-skills"
+  ],
+  "skills": [
+    "ui-ux-designer",
+    "legal-advisor",
+    "legal-advisor",
+    "product-manager"
+  ]
+}

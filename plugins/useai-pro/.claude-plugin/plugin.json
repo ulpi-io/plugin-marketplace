@@ -1,0 +1,20 @@
+{
+  "name": "useai-pro",
+  "version": "1.0.0",
+  "description": "7 skills from useai-pro/openclaw-skills-security: skill-vetter, skill-vetter, skill-auditor, prompt-guard, config-hardener, skill-guard, sandbox-guard",
+  "author": {
+    "name": "useai-pro"
+  },
+  "repositories": [
+    "https://github.com/useai-pro/openclaw-skills-security"
+  ],
+  "skills": [
+    "skill-vetter",
+    "skill-vetter",
+    "skill-auditor",
+    "prompt-guard",
+    "config-hardener",
+    "skill-guard",
+    "sandbox-guard"
+  ]
+}

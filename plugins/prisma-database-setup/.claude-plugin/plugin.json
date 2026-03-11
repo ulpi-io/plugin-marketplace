@@ -1,9 +1,0 @@
-{
-  "name": "prisma-database-setup",
-  "version": "1.0.0",
-  "description": "prisma-database-setup skill from prisma/skills",
-  "author": {
-    "name": "prisma"
-  },
-  "repository": "https://github.com/prisma/skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "gsc",
-  "version": "1.0.0",
-  "description": "gsc skill from jdrhyne/agent-skills",
-  "author": {
-    "name": "jdrhyne"
-  },
-  "repository": "https://github.com/jdrhyne/agent-skills"
-}

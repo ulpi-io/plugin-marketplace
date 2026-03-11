@@ -1,9 +1,0 @@
-{
-  "name": "stock-analyzer",
-  "version": "1.0.0",
-  "description": "stock-analyzer skill from feiyuggg/openclaw-stock-analyzer",
-  "author": {
-    "name": "feiyuggg"
-  },
-  "repository": "https://github.com/feiyuggg/openclaw-stock-analyzer"
-}

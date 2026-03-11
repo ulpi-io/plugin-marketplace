@@ -1,9 +1,0 @@
-{
-  "name": "n8n-conventions",
-  "version": "1.0.0",
-  "description": "n8n-conventions skill from n8n-io/n8n",
-  "author": {
-    "name": "n8n-io"
-  },
-  "repository": "https://github.com/n8n-io/n8n"
-}

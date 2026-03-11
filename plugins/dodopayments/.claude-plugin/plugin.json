@@ -1,0 +1,23 @@
+{
+  "name": "dodopayments",
+  "version": "1.0.0",
+  "description": "10 skills from dodopayments/skills: webhook-integration, dodo-best-practices, dodo-best-practices, checkout-integration, subscription-integration, subscription-integration, billing-sdk, billing-sdk, usage-based-billing, license-keys",
+  "author": {
+    "name": "dodopayments"
+  },
+  "repositories": [
+    "https://github.com/dodopayments/skills"
+  ],
+  "skills": [
+    "webhook-integration",
+    "dodo-best-practices",
+    "dodo-best-practices",
+    "checkout-integration",
+    "subscription-integration",
+    "subscription-integration",
+    "billing-sdk",
+    "billing-sdk",
+    "usage-based-billing",
+    "license-keys"
+  ]
+}

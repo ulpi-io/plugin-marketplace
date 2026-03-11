@@ -1,0 +1,15 @@
+{
+  "name": "boise-state-development",
+  "version": "1.0.0",
+  "description": "2 skills from boise-state-development/agentcore-public-stack: angular-best-practices, angular-best-practices",
+  "author": {
+    "name": "boise-state-development"
+  },
+  "repositories": [
+    "https://github.com/boise-state-development/agentcore-public-stack"
+  ],
+  "skills": [
+    "angular-best-practices",
+    "angular-best-practices"
+  ]
+}

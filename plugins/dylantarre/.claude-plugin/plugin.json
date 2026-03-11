@@ -1,0 +1,31 @@
+{
+  "name": "dylantarre",
+  "version": "1.0.0",
+  "description": "18 skills from dylantarre/animation-principles: mobile-touch, motion-designer, motion-designer, video-motion-graphics, video-motion-graphics, micro-interactions, micro-interactions, game-designer, anime-js, gsap-greensock, framer-motion, scroll-animations, fitness-wellness, lottie-bodymovin, saas-productivity, css-native, after-effects, e-commerce-retail",
+  "author": {
+    "name": "dylantarre"
+  },
+  "repositories": [
+    "https://github.com/dylantarre/animation-principles"
+  ],
+  "skills": [
+    "mobile-touch",
+    "motion-designer",
+    "motion-designer",
+    "video-motion-graphics",
+    "video-motion-graphics",
+    "micro-interactions",
+    "micro-interactions",
+    "game-designer",
+    "anime-js",
+    "gsap-greensock",
+    "framer-motion",
+    "scroll-animations",
+    "fitness-wellness",
+    "lottie-bodymovin",
+    "saas-productivity",
+    "css-native",
+    "after-effects",
+    "e-commerce-retail"
+  ]
+}

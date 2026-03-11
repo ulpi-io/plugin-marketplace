@@ -1,9 +1,0 @@
-{
-  "name": "recipe-create-presentation",
-  "version": "1.0.0",
-  "description": "recipe-create-presentation skill from googleworkspace/cli",
-  "author": {
-    "name": "googleworkspace"
-  },
-  "repository": "https://github.com/googleworkspace/cli"
-}

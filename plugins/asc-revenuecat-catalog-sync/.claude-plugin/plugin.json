@@ -1,9 +1,0 @@
-{
-  "name": "asc-revenuecat-catalog-sync",
-  "version": "1.0.0",
-  "description": "asc-revenuecat-catalog-sync skill from rudrankriyam/app-store-connect-cli-skills",
-  "author": {
-    "name": "rudrankriyam"
-  },
-  "repository": "https://github.com/rudrankriyam/app-store-connect-cli-skills"
-}

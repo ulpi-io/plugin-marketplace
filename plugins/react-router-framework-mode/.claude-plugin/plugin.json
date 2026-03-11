@@ -1,9 +1,0 @@
-{
-  "name": "react-router-framework-mode",
-  "version": "1.0.0",
-  "description": "react-router-framework-mode skill from remix-run/agent-skills",
-  "author": {
-    "name": "remix-run"
-  },
-  "repository": "https://github.com/remix-run/agent-skills"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "fpga",
-  "version": "1.0.0",
-  "description": "fpga skill from mindrally/skills",
-  "author": {
-    "name": "mindrally"
-  },
-  "repository": "https://github.com/mindrally/skills"
-}

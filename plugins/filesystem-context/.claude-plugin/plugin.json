@@ -1,9 +1,0 @@
-{
-  "name": "filesystem-context",
-  "version": "1.0.0",
-  "description": "filesystem-context skill from guanyang/antigravity-skills",
-  "author": {
-    "name": "guanyang"
-  },
-  "repository": "https://github.com/guanyang/antigravity-skills"
-}

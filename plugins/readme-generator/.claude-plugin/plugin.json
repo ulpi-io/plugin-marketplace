@@ -1,9 +1,0 @@
-{
-  "name": "readme-generator",
-  "version": "1.0.0",
-  "description": "readme-generator skill from dmccreary/claude-skills",
-  "author": {
-    "name": "dmccreary"
-  },
-  "repository": "https://github.com/dmccreary/claude-skills"
-}

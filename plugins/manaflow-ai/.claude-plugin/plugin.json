@@ -1,0 +1,17 @@
+{
+  "name": "manaflow-ai",
+  "version": "1.0.0",
+  "description": "4 skills from manaflow-ai/cmux: cmux, cmux-browser, cmux-browser, cmux-markdown",
+  "author": {
+    "name": "manaflow-ai"
+  },
+  "repositories": [
+    "https://github.com/manaflow-ai/cmux"
+  ],
+  "skills": [
+    "cmux",
+    "cmux-browser",
+    "cmux-browser",
+    "cmux-markdown"
+  ]
+}

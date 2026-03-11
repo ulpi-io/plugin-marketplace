@@ -1,9 +1,0 @@
-{
-  "name": "telegram-reminders",
-  "version": "1.0.0",
-  "description": "telegram-reminders skill from alexskuznetsov/claude-skill-telegram",
-  "author": {
-    "name": "alexskuznetsov"
-  },
-  "repository": "https://github.com/alexskuznetsov/claude-skill-telegram"
-}

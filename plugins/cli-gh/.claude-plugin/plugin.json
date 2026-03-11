@@ -1,9 +1,0 @@
-{
-  "name": "cli-gh",
-  "version": "1.0.0",
-  "description": "cli-gh skill from paulrberg/agent-skills",
-  "author": {
-    "name": "paulrberg"
-  },
-  "repository": "https://github.com/paulrberg/agent-skills"
-}

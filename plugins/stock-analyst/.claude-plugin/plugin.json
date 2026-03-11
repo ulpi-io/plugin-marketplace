@@ -1,9 +1,0 @@
-{
-  "name": "stock-analyst",
-  "version": "1.0.0",
-  "description": "stock-analyst skill from chengzuopeng/stock-sdk-mcp",
-  "author": {
-    "name": "chengzuopeng"
-  },
-  "repository": "https://github.com/chengzuopeng/stock-sdk-mcp"
-}

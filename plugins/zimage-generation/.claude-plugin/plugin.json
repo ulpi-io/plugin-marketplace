@@ -1,9 +1,0 @@
-{
-  "name": "zimage-generation",
-  "version": "1.0.0",
-  "description": "zimage-generation skill from toolsai/free-zimage-skills",
-  "author": {
-    "name": "toolsai"
-  },
-  "repository": "https://github.com/toolsai/free-zimage-skills"
-}

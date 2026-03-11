@@ -1,9 +1,0 @@
-{
-  "name": "railway",
-  "version": "1.0.0",
-  "description": "railway skill from mshumer/claude-skill-railway",
-  "author": {
-    "name": "mshumer"
-  },
-  "repository": "https://github.com/mshumer/claude-skill-railway"
-}

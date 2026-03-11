@@ -1,9 +1,0 @@
-{
-  "name": "patent-application-creator",
-  "version": "1.0.0",
-  "description": "patent-application-creator skill from robthepcguy/claude-patent-creator",
-  "author": {
-    "name": "robthepcguy"
-  },
-  "repository": "https://github.com/robthepcguy/claude-patent-creator"
-}

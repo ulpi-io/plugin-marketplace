@@ -1,9 +1,0 @@
-{
-  "name": "mot",
-  "version": "1.0.0",
-  "description": "mot skill from parcadei/continuous-claude-v3",
-  "author": {
-    "name": "parcadei"
-  },
-  "repository": "https://github.com/parcadei/continuous-claude-v3"
-}

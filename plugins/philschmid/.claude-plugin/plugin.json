@@ -1,0 +1,15 @@
+{
+  "name": "philschmid",
+  "version": "1.0.0",
+  "description": "2 skills from philschmid/self-learning-skill: self-learning, self-learning",
+  "author": {
+    "name": "philschmid"
+  },
+  "repositories": [
+    "https://github.com/philschmid/self-learning-skill"
+  ],
+  "skills": [
+    "self-learning",
+    "self-learning"
+  ]
+}

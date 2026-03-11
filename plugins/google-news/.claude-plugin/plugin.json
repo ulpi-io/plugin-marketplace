@@ -1,9 +1,0 @@
-{
-  "name": "google-news",
-  "version": "1.0.0",
-  "description": "google-news skill from outsharp/shipp-skills",
-  "author": {
-    "name": "outsharp"
-  },
-  "repository": "https://github.com/outsharp/shipp-skills"
-}

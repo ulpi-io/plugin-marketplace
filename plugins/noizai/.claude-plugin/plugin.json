@@ -1,0 +1,22 @@
+{
+  "name": "noizai",
+  "version": "1.0.0",
+  "description": "9 skills from noizai/skills: characteristic-voice, characteristic-voice, tts, chat-with-anyone, video-translation, template-skill, template-skill, daily-news-caster, daily-news-caster",
+  "author": {
+    "name": "noizai"
+  },
+  "repositories": [
+    "https://github.com/noizai/skills"
+  ],
+  "skills": [
+    "characteristic-voice",
+    "characteristic-voice",
+    "tts",
+    "chat-with-anyone",
+    "video-translation",
+    "template-skill",
+    "template-skill",
+    "daily-news-caster",
+    "daily-news-caster"
+  ]
+}

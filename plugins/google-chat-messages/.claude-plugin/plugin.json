@@ -1,9 +1,0 @@
-{
-  "name": "google-chat-messages",
-  "version": "1.0.0",
-  "description": "google-chat-messages skill from jezweb/claude-skills",
-  "author": {
-    "name": "jezweb"
-  },
-  "repository": "https://github.com/jezweb/claude-skills"
-}

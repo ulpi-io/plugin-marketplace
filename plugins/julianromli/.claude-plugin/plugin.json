@@ -1,0 +1,15 @@
+{
+  "name": "julianromli",
+  "version": "1.0.0",
+  "description": "2 skills from julianromli/ai-skills: clone-website, frontend-ui-animator",
+  "author": {
+    "name": "julianromli"
+  },
+  "repositories": [
+    "https://github.com/julianromli/ai-skills"
+  ],
+  "skills": [
+    "clone-website",
+    "frontend-ui-animator"
+  ]
+}

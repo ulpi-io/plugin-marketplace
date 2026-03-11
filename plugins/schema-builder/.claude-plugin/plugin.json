@@ -1,9 +1,0 @@
-{
-  "name": "schema-builder",
-  "version": "1.0.0",
-  "description": "schema-builder skill from get-convex/convex-agent-plugins",
-  "author": {
-    "name": "get-convex"
-  },
-  "repository": "https://github.com/get-convex/convex-agent-plugins"
-}

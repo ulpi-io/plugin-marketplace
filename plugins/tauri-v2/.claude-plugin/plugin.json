@@ -1,9 +1,0 @@
-{
-  "name": "tauri-v2",
-  "version": "1.0.0",
-  "description": "tauri-v2 skill from nodnarbnitram/claude-code-extensions",
-  "author": {
-    "name": "nodnarbnitram"
-  },
-  "repository": "https://github.com/nodnarbnitram/claude-code-extensions"
-}

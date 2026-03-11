@@ -1,9 +1,0 @@
-{
-  "name": "slack-automation",
-  "version": "1.0.0",
-  "description": "slack-automation skill from casper-studios/casper-marketplace",
-  "author": {
-    "name": "casper-studios"
-  },
-  "repository": "https://github.com/casper-studios/casper-marketplace"
-}

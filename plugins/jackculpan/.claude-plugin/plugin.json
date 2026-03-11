@@ -1,0 +1,14 @@
+{
+  "name": "jackculpan",
+  "version": "1.0.0",
+  "description": "1 skills from jackculpan/flightclaw: flightclaw",
+  "author": {
+    "name": "jackculpan"
+  },
+  "repositories": [
+    "https://github.com/jackculpan/flightclaw"
+  ],
+  "skills": [
+    "flightclaw"
+  ]
+}

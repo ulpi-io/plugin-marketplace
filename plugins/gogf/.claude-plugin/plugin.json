@@ -1,0 +1,15 @@
+{
+  "name": "gogf",
+  "version": "1.0.0",
+  "description": "2 skills from gogf/skills: goframe-v2, goframe-v2",
+  "author": {
+    "name": "gogf"
+  },
+  "repositories": [
+    "https://github.com/gogf/skills"
+  ],
+  "skills": [
+    "goframe-v2",
+    "goframe-v2"
+  ]
+}

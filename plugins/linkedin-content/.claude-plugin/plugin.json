@@ -1,9 +1,0 @@
-{
-  "name": "linkedin-content",
-  "version": "1.0.0",
-  "description": "linkedin-content skill from inference-shell/skills",
-  "author": {
-    "name": "inference-shell"
-  },
-  "repository": "https://github.com/inference-shell/skills"
-}

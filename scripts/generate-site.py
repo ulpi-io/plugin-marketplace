@@ -2,8 +2,8 @@
 """
 Generate docs/data.json for the GitHub Pages site.
 
-Reads skills-tracked.md and plugin metadata to produce a JSON file
-that the static site loads at runtime.
+Reads plugin metadata from plugins/ directory and cross-references
+skills-tracked.md for install counts.
 
 Usage:
     python3 generate-site.py
@@ -32,55 +32,90 @@ def parse_installs(s):
         return 0
 
 
-def load_tracked():
-    """Parse skills-tracked.md."""
-    skills = []
+def load_install_counts():
+    """Parse skills-tracked.md and return {name: installs_str} mapping."""
+    counts = {}
+    if not TRACKED_FILE.exists():
+        return counts
     with open(TRACKED_FILE) as f:
         for line in f:
             line = line.strip()
             if not line or line.startswith("#") or line.startswith("---") or line.startswith("Rank"):
                 continue
             parts = [p.strip() for p in line.split("|")]
-            if len(parts) != 4:
-                continue
-            try:
-                rank = int(parts[0])
-            except ValueError:
-                continue
-            skills.append({
-                "rank": rank,
-                "name": parts[1],
-                "repo": parts[2],
-                "installs": parts[3],
-                "installs_num": parse_installs(parts[3]),
-            })
-    return skills
+            if len(parts) == 4:
+                counts[parts[1]] = parts[3]
+    return counts
 
 
-def enrich_with_descriptions(skills):
-    """Add descriptions from plugin.json where available."""
-    for s in skills:
-        pj = PLUGINS_DIR / s["name"] / ".claude-plugin" / "plugin.json"
-        if pj.exists():
-            try:
-                with open(pj) as f:
-                    meta = json.load(f)
-                desc = meta.get("description", "")
-                # Clean up auto-generated descriptions
-                desc = re.sub(r"\s*skill from \S+$", "", desc)
-                s["description"] = desc
-                s["synced"] = True
-            except (json.JSONDecodeError, OSError):
-                s["description"] = ""
-                s["synced"] = False
+def load_plugins():
+    """Load all plugin metadata from plugins/ directory, expanding individual skills."""
+    install_counts = load_install_counts()
+    skills = []
+
+    for d in sorted(PLUGINS_DIR.iterdir()):
+        if not d.is_dir():
+            continue
+        pj = d / ".claude-plugin" / "plugin.json"
+        if not pj.exists():
+            continue
+        try:
+            with open(pj) as f:
+                meta = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            continue
+
+        plugin_name = meta.get("name", d.name)
+        desc = meta.get("description", "")
+
+        # Parse "N skills from user/repo1, user/repo2: skill1, skill2, ..."
+        m = re.match(r"(\d+) skills? from ([^:]+):\s*(.*)", desc)
+        if m:
+            repos_str = m.group(2).strip()
+            skills_str = m.group(3).strip()
+            # Use first repo as the canonical repo
+            repos = [r.strip() for r in repos_str.split(",")]
+            first_repo = repos[0] if repos else plugin_name
+            skill_names = [s.strip() for s in skills_str.split(",") if s.strip()]
+
+            # Deduplicate skill names while preserving order
+            seen = set()
+            unique_skills = []
+            for s in skill_names:
+                if s not in seen:
+                    seen.add(s)
+                    unique_skills.append(s)
+
+            for skill_name in unique_skills:
+                installs = install_counts.get(skill_name, "")
+                skills.append({
+                    "name": skill_name,
+                    "repo": first_repo,
+                    "installs": installs,
+                    "installs_num": parse_installs(installs) if installs else 0,
+                    "description": "",
+                    "plugin": plugin_name,
+                })
         else:
-            s["description"] = ""
-            s["synced"] = False
+            # Non-standard description (e.g. hello-world)
+            installs = install_counts.get(plugin_name, "")
+            skills.append({
+                "name": plugin_name,
+                "repo": plugin_name,
+                "installs": installs,
+                "installs_num": parse_installs(installs) if installs else 0,
+                "description": desc,
+                "plugin": plugin_name,
+            })
+
+    # Sort by installs descending
+    skills.sort(key=lambda s: -s["installs_num"])
+
     return skills
 
 
 def build_stats(skills):
-    publishers = set(s["repo"] for s in skills)
+    publishers = set(s["plugin"] for s in skills)
     total_installs = sum(s["installs_num"] for s in skills)
     if total_installs >= 1_000_000:
         total_str = f"{total_installs / 1_000_000:.1f}M"
@@ -96,29 +131,20 @@ def build_stats(skills):
 
 
 def main():
-    skills = load_tracked()
-    skills = enrich_with_descriptions(skills)
+    skills = load_plugins()
     stats = build_stats(skills)
-
-    # Build plugin lookup: publisher -> True if plugin dir exists
-    available_plugins = set()
-    if PLUGINS_DIR.exists():
-        for d in PLUGINS_DIR.iterdir():
-            if d.is_dir() and (d / ".claude-plugin" / "plugin.json").exists():
-                available_plugins.add(d.name)
 
     # Remove installs_num from output (only used for sorting)
     output_skills = []
-    for s in skills:
-        publisher = s["repo"].split("/")[0]
+    for i, s in enumerate(skills):
         output_skills.append({
-            "rank": s["rank"],
+            "rank": i + 1,
             "name": s["name"],
             "repo": s["repo"],
             "installs": s["installs"],
             "description": s["description"],
-            "synced": s["synced"],
-            "plugin": publisher if publisher in available_plugins else None,
+            "synced": True,
+            "plugin": s["plugin"],
         })
 
     data = {

@@ -2,8 +2,8 @@
 """
 Generate README.md with a full table of contents grouped by publisher.
 
-Reads each plugin's .claude-plugin/plugin.json, groups by publisher,
-and writes a complete README.md.
+Reads each plugin's .claude-plugin/plugin.json, extracts individual skills,
+and cross-references skills-tracked.md for install counts.
 
 Usage:
     python3 generate-toc.py          # regenerate README.md
@@ -51,9 +51,15 @@ def parse_installs(s):
 
 
 def load_plugins():
-    """Load all plugin metadata from plugins/ directory."""
+    """Load all plugin metadata from plugins/ directory.
+
+    Each plugin directory is a publisher. Returns a list of publisher dicts,
+    each containing the plugin name, source repos, and expanded skills with
+    install counts.
+    """
     install_counts = load_install_counts()
-    plugins = []
+    publishers = []
+
     for d in sorted(PLUGINS_DIR.iterdir()):
         if not d.is_dir():
             continue
@@ -66,39 +72,64 @@ def load_plugins():
         except (json.JSONDecodeError, OSError):
             continue
 
-        repo_url = meta.get("repository", "")
-        repo = ""
-        if "github.com/" in repo_url:
-            repo = repo_url.split("github.com/")[-1].rstrip("/")
+        plugin_name = meta.get("name", d.name)
+        desc = meta.get("description", "")
 
-        name = meta.get("name", d.name)
-        installs = install_counts.get(name, "")
+        # Parse "N skills from user/repo1, user/repo2: skill1, skill2, ..."
+        m = re.match(r"(\d+) skills? from ([^:]+):\s*(.*)", desc)
+        if m:
+            repos_str = m.group(2).strip()
+            skills_str = m.group(3).strip()
+            repos = [r.strip() for r in repos_str.split(",")]
+            skill_names = [s.strip() for s in skills_str.split(",") if s.strip()]
 
-        plugins.append({
-            "name": name,
-            "author": meta.get("author", {}).get("name", "unknown"),
-            "repo": repo,
-            "description": meta.get("description", ""),
-            "installs": installs,
-            "installs_num": parse_installs(installs) if installs else 0,
-        })
-    return plugins
+            # Deduplicate skill names while preserving order
+            seen = set()
+            unique_skills = []
+            for s in skill_names:
+                if s not in seen:
+                    seen.add(s)
+                    unique_skills.append(s)
+
+            skills = []
+            for skill_name in unique_skills:
+                installs = install_counts.get(skill_name, "")
+                skills.append({
+                    "name": skill_name,
+                    "installs": installs,
+                    "installs_num": parse_installs(installs) if installs else 0,
+                })
+
+            total_installs = sum(s["installs_num"] for s in skills)
+            publishers.append({
+                "plugin": plugin_name,
+                "repos": repos,
+                "skills": skills,
+                "total_installs": total_installs,
+            })
+        else:
+            # Non-standard description (e.g. hello-world)
+            installs = install_counts.get(plugin_name, "")
+            publishers.append({
+                "plugin": plugin_name,
+                "repos": [],
+                "skills": [{
+                    "name": plugin_name,
+                    "installs": installs,
+                    "installs_num": parse_installs(installs) if installs else 0,
+                }],
+                "total_installs": parse_installs(installs) if installs else 0,
+                "description": desc,
+            })
+
+    # Sort by total installs descending, then alphabetically
+    publishers.sort(key=lambda p: (-p["total_installs"], p["plugin"]))
+    return publishers
 
 
-def group_by_publisher(plugins):
-    """Group plugins by repo, sorted by total downloads descending."""
-    groups = {}
-    for p in plugins:
-        key = p["repo"] or p["author"]
-        groups.setdefault(key, []).append(p)
-    # Sort groups by total downloads descending, then alphabetically
-    return sorted(groups.items(),
-                  key=lambda x: (-sum(p["installs_num"] for p in x[1]), x[0]))
-
-
-def generate_readme(plugins):
+def generate_readme(publishers):
     """Generate the full README.md content."""
-    groups = group_by_publisher(plugins)
+    total_skills = sum(len(p["skills"]) for p in publishers)
 
     lines = []
     lines.append('<p align="center">')
@@ -109,7 +140,7 @@ def generate_readme(plugins):
     lines.append("")
     lines.append("# Plugin Marketplace")
     lines.append("")
-    lines.append(f"A curated collection of {len(plugins)}+ agent skills, packaged as plugins for easy installation in the Claude Desktop app.")
+    lines.append(f"A curated collection of {total_skills}+ agent skills, packaged as plugins for easy installation in the Claude Desktop app.")
     lines.append("")
     lines.append("All skills are sourced from [skills.sh](https://skills.sh) — the open agent skills ecosystem. This marketplace re-packages them so Claude Desktop users can install them with a single command.")
     lines.append("")
@@ -143,24 +174,32 @@ def generate_readme(plugins):
     lines.append("")
 
     # TOC by publisher
-    lines.append(f"## Plugins by Publisher ({len(plugins)} plugins from {len(groups)} publishers)")
+    lines.append(f"## Plugins by Publisher ({total_skills} skills from {len(publishers)} publishers)")
     lines.append("")
 
-    for repo, group in groups:
-        if "/" in repo:
-            lines.append(f"### [{repo}](https://github.com/{repo}) ({len(group)} plugins)")
+    for pub in publishers:
+        plugin = pub["plugin"]
+        repos = pub["repos"]
+        skills = pub["skills"]
+
+        if repos:
+            # Link to first repo
+            first_repo = repos[0]
+            if len(repos) > 1:
+                lines.append(f"### [{first_repo}](https://github.com/{first_repo}) + {len(repos) - 1} more ({len(skills)} skills)")
+            else:
+                lines.append(f"### [{first_repo}](https://github.com/{first_repo}) ({len(skills)} skills)")
         else:
-            lines.append(f"### {repo} ({len(group)} plugins)")
+            lines.append(f"### {plugin} ({len(skills)} skills)")
+
         lines.append("")
-        lines.append("| Plugin | Installs | Description |")
-        lines.append("|--------|----------|-------------|")
-        for p in sorted(group, key=lambda x: -x["installs_num"]):
-            desc = p["description"]
-            desc = re.sub(r"\s*skill from \S+$", "", desc)
-            if not desc:
-                desc = p["name"]
-            installs = p["installs"] or "-"
-            lines.append(f"| {p['name']} | {installs} | {desc} |")
+        lines.append(f"Install: `claude plugin install {plugin}@ulpi-marketplace`")
+        lines.append("")
+        lines.append("| Skill | Installs |")
+        lines.append("|-------|----------|")
+        for s in sorted(skills, key=lambda x: -x["installs_num"]):
+            installs = s["installs"] or "-"
+            lines.append(f"| {s['name']} | {installs} |")
         lines.append("")
 
     # Credits
@@ -199,15 +238,16 @@ def main():
                         help="Print to stdout instead of writing README.md")
     args = parser.parse_args()
 
-    plugins = load_plugins()
+    publishers = load_plugins()
+    readme = generate_readme(publishers)
 
-    readme = generate_readme(plugins)
+    total_skills = sum(len(p["skills"]) for p in publishers)
 
     if args.dry_run:
         print(readme)
     else:
         README_FILE.write_text(readme)
-        print(f"Written README.md ({len(plugins)} plugins, {len(group_by_publisher(plugins))} publishers)")
+        print(f"Written README.md ({total_skills} skills, {len(publishers)} publishers)")
 
 
 if __name__ == "__main__":
